@@ -35,7 +35,7 @@ In 2014, I was living in Chișinău, Moldova — but I was born in Krasnoyarsk, 
 
 I was angry. At 4 AM I wrote in a Google Doc — in raw, ugly, honest language — that the system was broken. That "idiots elect idiots." That productive people were slaves to a majority that only knew how to take. That democracy had become a machine for redistributing wealth from those who create it to those who vote for more redistribution.
 
-I wasn't polite about it. I talked about "быдло" — a Russian slur for people who are blindly submissive, consume everything built by others, and don't even realize it. About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
+I wasn't polite about it. I talked about "быдло" — a Russian slur far worse than "redneck." It means people who are blindly submissive, consume everything built by others, don't even realize it — and mock the very people who created it all, because those people were "stupid enough" to hand it over to people even dumber than themselves. About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
 
 Then I wrote one sentence that changed everything:
 
