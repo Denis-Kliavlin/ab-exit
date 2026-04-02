@@ -16,12 +16,14 @@
 | 1 | 31 марта 2026 | Стресс-тест YUNO: Начало (Claude Opus 20+ раундов) | [2026-03-31-17-17-27-yuno-mechanism200-full-debate_PROTOCOL.md](2026-03-31-17-17-27-yuno-mechanism200-full-debate_PROTOCOL.md) |
 | 2 | 1 апреля 2026 | Стресс-тест YUNO: Продолжение (Claude + Grok + Qwen + юридический анализ) | [2026-04-01-11-31-18-yuno-mechanism200-full-debate_PROTOCOL.md](2026-04-01-11-31-18-yuno-mechanism200-full-debate_PROTOCOL.md) |
 | 3 | 2 апреля 2026 | AB-EXIT: Полная разработка проекта (план, экономика, DAO, название, юридическая оборона) | [2026-04-02-08-56-35-abexit-mechanism200-full-project_PROTOCOL.md](2026-04-02-08-56-35-abexit-mechanism200-full-project_PROTOCOL.md) |
+| 4 | Март-Апрель 2026 | Стресс-тест с Qwen (Alibaba Cloud): 2 раунда атаки + двойной аудит + маркетинг + безопасность | [qwen-stress-test_PROTOCOL.md](qwen-stress-test_PROTOCOL.md) |
 
 
 ---
 
-*Примечание: Транскрипты содержат переписку только с Claude (Anthropic).*
-*Переписки с Gemini (Google), Grok (xAI) и Qwen (Alibaba) хранятся на соответствующих платформах*
+*Примечание: Сессии 1-3 содержат переписку с Claude (Anthropic) с серверными метками времени.*
+*Сессия 4 содержит полную переписку с Qwen (Alibaba Cloud) без серверных меток (платформа не предоставляет).*
+*Переписки с Gemini (Google) и Grok (xAI) хранятся на соответствующих платформах*
 *и могут быть запрошены автором или судом при необходимости.*
 
 *Автор: Денис Клявлин, Кишинёв, Молдова*
