@@ -11,6 +11,24 @@ Before every election, every citizen gets two buttons:
 
 ---
 
+## How It Works
+
+**1. Floating Rate.** Compensation = small % of national median income. Self-calibrating: economy grows → amount grows but citizens get richer faster → incentive weakens. Formula locked by referendum.
+
+**2. Vote Weighting.** Every citizen who takes the money shrinks the electorate. If 50% exit → each remaining vote counts double. Refusing the payment gives you mathematically doubled influence.
+
+**3. Full Autonomy.** Payments are automatic from an independent trust fund. Sitting government cannot control, set, or change the amount. Changes require a new referendum.
+
+**4. Anti-Coercion.** Any attempt by parties, employers, or third parties to pressure a citizen's choice is a criminal offense.
+
+**5. Full Rights.** Citizens who take the money keep all other rights: protest, courts, free speech, petitions.
+
+**6. Cyclicity.** Choice resets every 4 years. Unhappy with the government? Come back and vote them out. Politicians know this from day one.
+
+**7. Democratic Legitimacy.** The mechanism is introduced by the highest act of democracy — a direct referendum (80% voted YES in the model). Can only be repealed by another referendum.
+
+---
+
 ## The $10,000 Question
 
 Six AI systems attempted to disprove this concept across **449+ rounds** of adversarial debate. None succeeded.
@@ -90,6 +108,34 @@ All AI debates are preserved in court-protocol format with full argumentation ch
 - **ChatGPT** (OpenAI) — 1 session, 101 messages + formal test
 
 See **[transcripts/INDEX.md](transcripts/INDEX.md)** for the complete index.
+
+---
+
+## Why I Built This
+
+In 2014, I was a Moldovan citizen who had seen enough. A country where politicians buy votes with buckwheat, pensioners elect whoever promises to raise their payments, and the people who actually build the economy have the same political weight as those who consume it.
+
+I was angry. At 4 AM I wrote in a Google Doc — in raw, ugly, honest language — that the system was broken. That "idiots elect idiots." That productive people were slaves to a majority that only knew how to take. That democracy had become a machine for redistributing wealth from those who create it to those who vote for more redistribution.
+
+I wasn't polite about it. I talked about "быдло" (cattle). About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
+
+Then I wrote one sentence that changed everything:
+
+*"A vote can be sold. Or more precisely, annulled for money."*
+
+And I forgot about it for twelve years.
+
+In 2026, I came back to that idea — older, calmer, but still angry at the same problem. I fed it to six AI systems and said: break this. Find the logical flaw. $10,000 if you can.
+
+449+ rounds later, none of them could.
+
+But something else happened along the way. The idea evolved. The raw anger became a protocol. "Remove the poor from elections" became "give every citizen a voluntary, compensated exit — and let their choice reveal who they are." The insult became a mechanism. The scream became math.
+
+**My goal hasn't changed in twelve years. The language has.**
+
+I still believe that a system where those who produce nothing decide how to spend what others produce is eating itself alive. But I no longer believe the answer is to take anyone's rights away. The answer is to add a right — the right to exit — and let people sort themselves.
+
+**AB-EXIT should stand or fall on observable outcomes, not opinions. One state. One referendum. One pilot. If it works — it spreads. If it fails — the data is open, and someone smarter will fix what I got wrong.**
 
 ---
 
