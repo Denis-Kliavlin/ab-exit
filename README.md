@@ -35,7 +35,7 @@ In 2014, I was living in Chișinău, Moldova — but I was born in Krasnoyarsk, 
 
 I was angry. At 4 AM I wrote in a Google Doc — in raw, ugly, honest language — that the system was broken. That "idiots elect idiots." That productive people were slaves to a majority that only knew how to take. That democracy had become a machine for redistributing wealth from those who create it to those who vote for more redistribution.
 
-I wasn't polite about it. I talked about "быдло" (cattle). About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
+I wasn't polite about it. I talked about "быдло" — a Russian slur for people who are blindly submissive, consume everything built by others, and don't even realize it. About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
 
 Then I wrote one sentence that changed everything:
 
@@ -136,34 +136,6 @@ All AI debates are preserved in court-protocol format with full argumentation ch
 - **ChatGPT** (OpenAI) — 1 session, 101 messages + formal test
 
 See **[transcripts/INDEX.md](transcripts/INDEX.md)** for the complete index.
-
----
-
-## Why I Built This
-
-In 2014, I was a Moldovan citizen who had seen enough. A country where politicians buy votes with buckwheat, pensioners elect whoever promises to raise their payments, and the people who actually build the economy have the same political weight as those who consume it.
-
-I was angry. At 4 AM I wrote in a Google Doc — in raw, ugly, honest language — that the system was broken. That "idiots elect idiots." That productive people were slaves to a majority that only knew how to take. That democracy had become a machine for redistributing wealth from those who create it to those who vote for more redistribution.
-
-I wasn't polite about it. I talked about "быдло" (cattle). About how a homeless addict has the same vote as someone who built a company and pays for everything. About Lisbon in 2013 looking post-apocalyptic because populism drove everyone out.
-
-Then I wrote one sentence that changed everything:
-
-*"A vote can be sold. Or more precisely, annulled for money."*
-
-And I forgot about it for twelve years.
-
-In 2026, I came back to that idea — older, calmer, but still angry at the same problem. I fed it to six AI systems and said: break this. Find the logical flaw. $10,000 if you can.
-
-449+ rounds later, none of them could.
-
-But something else happened along the way. The idea evolved. The raw anger became a protocol. "Remove the poor from elections" became "give every citizen a voluntary, compensated exit — and let their choice reveal who they are." The insult became a mechanism. The scream became math.
-
-**My goal hasn't changed in twelve years. The language has.**
-
-I still believe that a system where those who produce nothing decide how to spend what others produce is eating itself alive. But I no longer believe the answer is to take anyone's rights away. The answer is to add a right — the right to exit — and let people sort themselves.
-
-**AB-EXIT should stand or fall on observable outcomes, not opinions. One state. One referendum. One pilot. If it works — it spreads. If it fails — the data is open, and someone smarter will fix what I got wrong.**
 
 ---
 
