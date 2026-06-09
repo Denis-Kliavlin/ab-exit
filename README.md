@@ -1,5 +1,7 @@
 # AB-EXIT™
 
+**English** | [Русский](ru/README.md)
+
 **A — I vote. B — I take the money. One exit.**
 
 Before every election, every citizen gets two buttons:
@@ -65,7 +67,7 @@ Six AI systems attempted to disprove this concept across **449+ rounds** of adve
 
 > *"If 48% already don't vote — for free — and the state already pays parties for votes they receive, why is it a crime to pay a citizen for honestly saying 'I don't want to participate' — when all their other rights remain intact?"*
 
-Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](docs/ABEXIT_Question_v4.3.md)**
+Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](en/docs/ABEXIT_Question_v4.3.md)**
 
 ---
 
@@ -86,14 +88,14 @@ Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](docs/ABE
 **Six AI architectures (Claude, Gemini incl. Pro, Grok, Qwen, DeepSeek, ChatGPT). Three top-tier paid subscriptions + two free at max settings + one Plus. 449+ rounds across 10 sessions. Zero logical contradictions.**
 
 > *"Within the defined assumptions of the model, no internal logical contradiction was identified that would collapse the mechanism on its own terms."*
-> — ChatGPT, after formal stress-test ([full foreword](docs/ABEXIT_White_Paper_Foreword.md))
+> — ChatGPT, after formal stress-test ([full foreword](en/docs/ABEXIT_White_Paper_Foreword.md))
 
 ---
 
 ## How to Verify
 
 1. Open any AI (ChatGPT, Claude, Gemini, Grok, DeepSeek, Qwen).
-2. Paste the question from **[ABEXIT_Question_v4.3.md](docs/ABEXIT_Question_v4.3.md)**.
+2. Paste the question from **[ABEXIT_Question_v4.3.md](en/docs/ABEXIT_Question_v4.3.md)**.
 3. Try to find a logically consistent answer that passes all 10 filters.
 4. You won't. Nobody has. **$10,000 awaits.**
 
@@ -103,15 +105,15 @@ Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](docs/ABE
 
 | Document | Description |
 |----------|-------------|
-| [The $10K Question v4.3](docs/ABEXIT_Question_v4.3.md) | 10 filters. 6 AI stress-tests. Zero answers. |
-| [White Paper Foreword](docs/ABEXIT_White_Paper_Foreword.md) | Written by ChatGPT after formal stress-test |
-| [AB-EXIT Analysis v6.55](docs/AB-EXIT_Analysis/README.md) | **Full analytical document**, organized into 9 thematic files for reading, citation, and independent translation (formula and technical, historical and philosophical, electoral dynamics, case studies, strategic positioning, legal and launch, comparative and opposition, academic foundations, meta-critique and strategic positioning). Navigation README inside includes reading paths for different audiences (academics, politicians, donors, journalists, citizens, lawyers, AB-EXIT critics). |
-| [Legal Analysis (USA)](legal/ABEXIT_Legal_USA.md) | 14th Amendment, §597, state-level firewall, SCOTUS strategy |
-| [Short Manifesto](manifesto/ABEXIT_Short_Manifesto.md) | 1.5 smartphone screens. For passive voters. |
-| [Full Manifesto](manifesto/ABEXIT_Full_Manifesto.md) | Seven consequences. From question to action. |
-| [Transcript Index](transcripts/INDEX.md) | All 10 sessions across 6 AI architectures — full court-protocol format |
-| [Gemini Pro Followup Session](transcripts/gemini-pro-followup/README.md) | May 2026 followup session with Gemini Pro. 4 preparatory legal review documents + full transcript with two public capitulation points. |
-| [Origin Document (2014)](archive/ABEXIT_Origin_2014.md) | The original idea. Google Doc. July 14, 2014, 04:11. |
+| [The $10K Question v4.3](en/docs/ABEXIT_Question_v4.3.md) | 10 filters. 6 AI stress-tests. Zero answers. |
+| [White Paper Foreword](en/docs/ABEXIT_White_Paper_Foreword.md) | Written by ChatGPT after formal stress-test |
+| [AB-EXIT Analysis v6.55](en/docs/AB-EXIT_Analysis/README.md) | **Full analytical document**, organized into 9 thematic files for reading, citation, and independent translation (formula and technical, historical and philosophical, electoral dynamics, case studies, strategic positioning, legal and launch, comparative and opposition, academic foundations, meta-critique and strategic positioning). Navigation README inside includes reading paths for different audiences (academics, politicians, donors, journalists, citizens, lawyers, AB-EXIT critics). |
+| [Legal Analysis (USA)](en/legal/ABEXIT_Legal_USA.md) | 14th Amendment, §597, state-level firewall, SCOTUS strategy |
+| [Short Manifesto](en/manifesto/ABEXIT_Short_Manifesto.md) | 1.5 smartphone screens. For passive voters. |
+| [Full Manifesto](en/manifesto/ABEXIT_Full_Manifesto.md) | Seven consequences. From question to action. |
+| [Transcript Index](en/transcripts/INDEX.md) | All 10 sessions across 6 AI architectures — full court-protocol format |
+| [Gemini Pro Followup Session](en/transcripts/gemini-pro-followup/README.md) | May 2026 followup session with Gemini Pro. 4 preparatory legal review documents + full transcript with two public capitulation points. |
+| [Origin Document (2014)](en/archive/ABEXIT_Origin_2014.md) | The original idea. Google Doc. July 14, 2014, 04:11. |
 
 ---
 
@@ -139,7 +141,7 @@ All AI debates are preserved in court-protocol format with full argumentation ch
 - **DeepSeek** — 1 session, 11 rounds (strongest opponent)
 - **ChatGPT** (OpenAI) — 1 session, 101 messages + formal test
 
-See **[transcripts/INDEX.md](transcripts/INDEX.md)** for the complete index, and **[transcripts/gemini-pro-followup/README.md](transcripts/gemini-pro-followup/README.md)** for the May 2026 followup session details.
+See **[transcripts/INDEX.md](en/transcripts/INDEX.md)** for the complete index, and **[transcripts/gemini-pro-followup/README.md](en/transcripts/gemini-pro-followup/README.md)** for the May 2026 followup session details.
 
 ---
 
