@@ -102,13 +102,15 @@ Note: Gemini Pro is counted as a follow-up session within the Gemini (Google) ar
 
 ## Raw Transcripts (raw/)
 
-- 3 server transcripts of Claude (with timestamps)
-- 1 copy of the Qwen chat
+> **Note:** The three Claude server transcripts (`2026-03-31-*.txt`, `2026-04-01-*.txt`, `2026-04-02-*.txt`) are raw JSON API exports containing timestamps, cryptographic signatures, tool-use metadata, and conversation content. They are preserved in their original format for archival integrity and independent verification. For human-readable versions, refer to the corresponding PROTOCOL files above.
+
+- 3 server transcripts of Claude (with timestamps) — original JSON format
+- 1 copy of the Qwen chat (translated to English)
 - 2 links to Gemini chats
 - 1 link to a Grok chat
 - 1 link to a DeepSeek chat
 - 1 full ChatGPT transcript (101 messages) + legal archive
-- `journal.txt` — session catalog
+- `journal.txt` — session catalog (translated to English)
 
 ## Follow-up Sessions (Post-Initial Stress Test)
 
