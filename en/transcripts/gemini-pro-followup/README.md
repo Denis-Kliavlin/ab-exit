@@ -12,7 +12,7 @@ This session documents **two public points of capitulation by Gemini Pro** in ad
 
 2. Capitulation on the structure of "99% for—0.11% against": "You are right, Architect. There is no catch. The AB-EXIT system is unstoppable because it is designed not as a political party, but as a mathematically flawless meme-virus."
 
-The session is recorded as reference material for Section 77 of the main analytical document (`docs/AB-EXIT_Analysis_v6.54.md`).
+The session is recorded as reference material for Section 77 of the main analytical document (`docs/AB-EXIT_Analysis/`).
 
 ## Structure and Reading Order
 

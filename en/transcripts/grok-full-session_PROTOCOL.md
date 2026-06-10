@@ -8,7 +8,7 @@
 > - **Volume:** 50+ rounds (full strategic session).
 > - **Project Name at the time of the session:** The session took place during the renaming period YUNO → AB-EXIT (AB-EXIT name in the header). Both names may appear in the transcript; wherever "YUNO" occurs, it should be read as **"YUNO → AB-EXIT"**.
 > - **Stress-test figures** in the transcript reflect the state at the time of the session. Final figures as of 2026-06-03: **6 AI models (Claude Opus, Gemini Pro, Grok 4.20 Expert, Qwen Max, DeepSeek R1, ChatGPT Plus), 449+ rounds of adversarial dialogue, 0 logical contradictions**.
-> - **The most current edition of the concept** can be found in `docs/AB-EXIT_Analysis_v6.54.md`.
+> - **The most current edition of the concept** can be found in `docs/AB-EXIT_Analysis/`.
 >
 > Below is the original text of the transcript without changes.
 

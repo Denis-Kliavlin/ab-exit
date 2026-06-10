@@ -87,7 +87,7 @@
 
 **Contents:** Route B: launch via parliamentary scandal and private referendum, comparative analysis of 10 similar ideas from the last 20 years, structural objection to Dalio using his own weapons, observation on the naming of major reforms (historical pattern), structural analysis of AB-EXIT opponents, media strategy and correct framing of the AI role, viral launch campaign ($676 Challenge as an operational strategy).
 
-**Full document:** the monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document by thematic groups for ease of reading and citation. The content is identical.
+**Full document:** the monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** see [the README of this folder](README.md).
 

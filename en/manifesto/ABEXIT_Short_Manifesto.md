@@ -6,7 +6,7 @@
 >
 > - At the time of writing, the project was named **YUNO** (renamed to **AB-EXIT** in April 2026). Wherever "YUNO" appears in the text, it should be read as **"YUNO → AB-EXIT"**.
 > - The stress-testing figures reflect the state at the time of writing ("Four AIs failed to answer"). Final figures as of 2026-06-03: **6 AI models (Claude Opus, Gemini Pro, Grok, Qwen, DeepSeek, ChatGPT), 449+ rounds, 0 logical contradictions**.
-> - The most current edition of the concept can be found in `docs/AB-EXIT_Analysis_v6.54.md`.
+> - The most current edition of the concept can be found in `docs/AB-EXIT_Analysis/`.
 >
 > Below is the original text of the manifesto, unchanged.
 

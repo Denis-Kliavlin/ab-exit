@@ -78,7 +78,7 @@
 
 **Content:** Layered calculation of the price of poor management, Chichvarkin as the stung voter, the field of democracy reform ideas, AB-EXIT as a consensus topic, the hypocrisy of sacredness and selective protection, the fate of radical outsiders over 10 years, AB-EXIT is stronger than UBI (an idea without losers), Thatcher before the wall, and the void of centrists.
 
-**Full Document:** The monolithic version containing all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document into thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** The monolithic version containing all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See [the README of this folder](README.md).
 

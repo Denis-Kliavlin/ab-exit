@@ -170,7 +170,7 @@
 
 **Content:** Unstoppability through ballot initiatives and 75% support, who will be the first to say "AB-EXIT", age economy of the vote, inversion of the age pyramid, the political center triangle, the crowd effect, the spiral of deterioration, three layers of corruption, Church Street (1,400 signatures in a weekend), presidential elections with an AB-EXIT candidate, the populist stress test, the breath of democracy, city council from crooks to experts, the pizzeria vs. city metaphor, deceiving the deceiver, counterculture, and the $1.5 trillion shout.
 
-**Full Document:** A monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document by thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** A monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README of this folder](README.md).
 

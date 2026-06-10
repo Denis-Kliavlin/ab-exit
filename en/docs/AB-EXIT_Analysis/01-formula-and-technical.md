@@ -64,7 +64,7 @@
 
 **Content:** Core formula D = M × 1.5 × 1%, W-2 data source via SSA, protection against manipulation, calculations, SMS to citizens, star ratings, legal text for the charter, rejected alternatives with justification.
 
-**Full Document:** A monolithic version containing all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document into thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** A monolithic version containing all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README of this folder](README.md).
 

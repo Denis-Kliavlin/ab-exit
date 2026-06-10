@@ -118,7 +118,7 @@
 
 **Content:** Georgia and Saakashvili, personality split and broken democracy, AB-EXIT as a unique idea in comparison, City Manager David, the dictator's patience paradox, censorship without an audience, Danville Virginia and saving cities from factory death, Huntington and the institutionalization of apathy, the death of gerontocracy, Toffler and the Third Wave, the planning horizon, the vanishing class of working men, the Korean miracle without Park Chung-hee, irreversibility as the main victory.
 
-**Full Document:** A monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document by thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** A monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README of this folder](README.md).
 

@@ -65,7 +65,7 @@
 
 **Content:** AB-EXIT in the Jheringian tradition (doctrinal basis for Continental Europe), structural property as a paradigm shift (impossibility of criticism through old theories), honest politicians as key beneficiaries (PNAS 2020 empirical base), AB-EXIT as a structural defense against election interference methods, AB-EXIT in game theory (Downs 1957, Buchanan-Tullock 1962, mechanism design, Gibbard-Satterthwaite, Vote Buying Theory, Quadratic Voting, Shapley Value).
 
-**Full Document:** A monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document by thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** A monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README of this folder](README.md).
 

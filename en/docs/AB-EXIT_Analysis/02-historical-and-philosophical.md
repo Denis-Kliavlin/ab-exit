@@ -86,7 +86,7 @@
 
 **Content:** 2,500 years of a single problem (from Plato to Mill), compatibility with world religions, liquid democracy through the dividend, strategic reforms and long-term investments, the $26 billion industry, the Say-Do Gap as a mechanism for revealed preference, a vaccine against tyranny (10 dictators in 100 years).
 
-**Full Document:** The monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document into thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** The monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README of this folder](README.md).
 

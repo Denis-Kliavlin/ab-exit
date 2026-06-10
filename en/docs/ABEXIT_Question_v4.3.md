@@ -6,7 +6,7 @@
 >
 > - The term "YUNO" appears in the text (Filter 5: "In YUNO, a trigger is built-in..."). As of April 2026, the project has been renamed **AB-EXIT**. Everywhere it should be read as **"YUNO → AB-EXIT"**.
 > - The document is marked as "verified by: Claude Opus, Gemini, Grok, Qwen, DeepSeek, ChatGPT." These are six AI models; the final number of rounds of adversarial dialogue is **449+**, with no logical contradictions found.
-> - The most current edition of the concept can be found in `docs/AB-EXIT_Analysis_v6.54.md`.
+> - The most current edition of the concept can be found in `docs/AB-EXIT_Analysis/`.
 >
 > Below is the original text of the question formulation without changes.
 

@@ -143,7 +143,7 @@
 
 **Content:** Legal framework for U.S. launch (Gemini round three), four attacks and the structural failure of each, portrait of the right carrier, one-page pitch (RU + EN), electoral mechanics after AB-EXIT (Gemini Pro), protection against the "poison pill," the underdog getting a chance, philosophical manifesto (fair, voluntary, reversible market census), three answers to the academic critic, double capitulation of Gemini Pro, technical architecture (blockchain as formula protection), the state as corporation — selectively, pizzeria metaphor, paradigmatic shift from a 2500-year tradition, from push-logic to pull-logic.
 
-**Full Document:** The monolithic version with all 95 sections is available in `docs/AB-EXIT_Analysis_v6.54.md`. This folder `docs/AB-EXIT_Analysis/` is a structured breakdown of the same document by thematic groups for ease of reading and citation. The content is identical.
+**Full Document:** The monolithic version with all 95 sections has been split into this folder `docs/AB-EXIT_Analysis/` — a structured breakdown by thematic groups for ease of reading and citation. See `INDEX.md` for the full table of contents.
 
 **Navigation:** See the [README in this folder](README.md).
 
