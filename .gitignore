@@ -1,0 +1,26 @@
+# Build output
+site/
+
+# Drive tokens (sensitive)
+drive_token*.json
+
+# Temp/working files
+snapshot_v6.57.0/
+*.b64.txt
+part1_b64.txt
+part2_b64.txt
+part3_b64.txt
+nav_generated.txt
+__pycache__/
+
+# Phase scripts (one-time use)
+phase1_parse_and_map.py
+phase2_drive_snapshot.py
+phase2_drive_v2.py
+phase3_setup_repo.py
+download_task.py
+drive_auth_full.py
+CLAUDE_CODE_TASK_v3.md
+
+# Backup
+docs_backup/
