@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view:*)",
+      "Bash(gh api:*)",
+      "Bash(gh release list:*)",
+      "Bash(dir:*)",
+      "WebFetch(domain:ab-exit.com)",
+      "Bash(curl:*)",
+      "Bash(nslookup:*)",
+      "Bash(scp:*)"
+    ]
+  }
+}
