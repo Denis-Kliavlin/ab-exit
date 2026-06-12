@@ -1,168 +1,132 @@
-# AB-EXIT v6.56 — INDEX (карта всех разделов)
+# AB-EXIT
 
-**Назначение:** полный список всех разделов с их статусом, источником и именами файлов. Используется и Claude в чате, и Claude Code как точка навигации.
+## Пятый класс институциональных отношений между государством и гражданином
 
----
+**Полный аналитический документ · Версия 6.57 · 2026**
 
-## Условные обозначения статуса
-
-- ✅ **Done** — файл существует, контент полный, не требует доработки
-- 📝 **Restored** — Claude в чате восстановил из памяти, полный текст есть в RESTORED_SECTIONS файлах в Drive
-- ⏳ **From v6.53** — требует переноса полного текста из v6.53 PDF (Claude Code)
-- 🆕 **Todo** — раздел нужно написать с нуля
-- ❌ **Missing** — раздел отсутствует, требует решения
+Автор протокола: **Денис Клявлин** · Кишинёв
+Стресс-тест: 6 AI-моделей · 449+ раундов · 0 структурных противоречий
+Исходники и история версий: [GitHub](https://github.com/Denis-Kliavlin/ab-exit) · [ab-exit.com](https://ab-exit.com/ru/)
 
 ---
 
-## ЧАСТЬ I — Универсальная архитектура
+## Как читать эту книгу
 
-### Глава 01 — Введение и базовая формула
+Документ построен от универсального к частному. **Части I–III** применимы к любой стране: формула, философия, теория, электоральная динамика, ответы на критику. **Часть IV** — детальная имплементация для США. **Часть V** — адаптации для других стран.
 
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 1 | Основная формула D = M × 1.5% | `01_001_formula_v1.md` | ⏳ From v6.53 | v6.53 §1 |
-| 2 | Защита от манипуляций | `01_002_protection_v1.md` | ⏳ From v6.53 | v6.53 §4-5 |
-| 3 | Отвергнутые варианты формулы | `01_003_rejected_variants_v1.md` | ⏳ From v6.53 | v6.53 §6-7 |
-| 4 | Базовые принципы AB-EXIT | `01_004_basic_principles_v1.md` | ⏳ From v6.53 | v6.53 §8-9 |
-| 5 | Пятый класс институциональных отношений | `01_005_fifth_class_v1.md` | 📝 Restored | RESTORED_SECTIONS_5_17_24_47 |
+Каждый раздел самодостаточен — можно читать подряд как книгу (кнопки «вперёд/назад» внизу каждой страницы) или открывать нужное через оглавление ниже.
 
-### Глава 02 — История, философия и парадигмальный сдвиг
+**Быстрые маршруты по ролям:**
 
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 6 | 2500 лет одной проблемы | `02_006_2500_years_v1.md` | ⏳ From v6.53 | v6.53 §15-16 |
-| 7 | Совместимость с религиями | `02_007_religions_v1.md` | ⏳ From v6.53 | v6.53 §17-18 |
-| 8 | Say-Do Gap | `02_008_say_do_gap_v1.md` | ⏳ From v6.53 | v6.53 §19 |
-| 9 | Вакцина против 10 типов тиранов | `02_009_vaccine_tyrants_v1.md` | ⏳ From v6.53 | v6.53 §20-22 |
-| 10 | Парадигмальный сдвиг | `02_010_paradigm_shift_v1.md` | ⏳ From v6.53 | v6.53 §92 |
-| 11 | AB-EXIT как смена парадигмы — от обязанности к выбору | `02_011_paradigm_choice_v1.md` | 📝 Restored | SECTIONS_96_97_98 |
-
-### Глава 03 — Теоретические основания
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 12 | Иерингианская традиция | `03_012_jhering_v1.md` | ⏳ From v6.53 | v6.53 §91 |
-| 13 | Теория игр AB-EXIT (Downs, Buchanan-Tullock, Shapley, Nash, mechanism design) | `03_013_game_theory_v1.md` | 📝 Restored | RESTORED_SECTIONS_13_AND_14 |
-| 14 | Поведенческая экономика и Alaska PFD | `03_014_alaska_pfd_v1.md` | 📝 Restored | RESTORED_SECTIONS_13_AND_14 |
-| 15 | Honest Politicians Thesis (PNAS 2020) | `03_015_honest_politicians_v1.md` | ⏳ From v6.53 | v6.53 §93 |
-
-### Глава 04 — Электоральная динамика и стратегия
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 16 | Возрастная экономика и треугольник центра | `04_016_age_economics_v1.md` | ⏳ From v6.53 | v6.53 §23-26 |
-| 17 | Прагматики vs Идеологи | `04_017_pragmatics_ideologues_v1.md` | 📝 Restored | RESTORED_SECTIONS_5_17_24_47 |
-| 18 | Три эпохи демократии | `04_018_three_epochs_v1.md` | ⏳ From v6.53 | v6.53 §31-44 |
-| 19 | Цена плохого управления / Чичваркин | `04_019_bad_governance_cost_v1.md` | ⏳ From v6.53 | v6.53 §59-61 |
-| 20 | AB-EXIT сильнее UBI | `04_020_stronger_than_ubi_v1.md` | ⏳ From v6.53 | v6.53 §62 |
-| 21 | Пустота центристов | `04_021_centrist_void_v1.md` | ⏳ From v6.53 | v6.53 §63-66 |
-| 22 | Консенсусная тема | `04_022_consensus_theme_v1.md` | ⏳ From v6.53 | v6.53 §67 |
-
-### Глава 05 — Эмпирическая база и кейсы стран
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 23 | Сравнительная эффективность: единицы vs десятки процентов | `05_023_quantitative_comparison_v1.md` | 📝 Restored | SECTIONS_96_97_98 (§97.5) |
-| 24 | Норвегия как естественный эксперимент | `05_024_norway_v1.md` | 📝 Restored | RESTORED_SECTIONS_5_17_24_47 |
-| 25 | Грузия и Саакашвили | `05_025_georgia_v1.md` | ⏳ From v6.53 | v6.53 §45 |
-| 26 | Хантингтон и Тоффлер | `05_026_huntington_toffler_v1.md` | ⏳ From v6.53 | v6.53 §47-48 |
-| 27 | Исчезающий класс работающих мужчин | `05_027_disappearing_men_v1.md` | ⏳ From v6.53 | v6.53 §49-50 |
-| 28 | Корейское чудо без Пак Чон Хи | `05_028_korea_miracle_v1.md` | ⏳ From v6.53 | v6.53 §51-58 |
-
-### Глава 06 — Структурное лицемерие и арсенал элит
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 29 | Структурное лицемерие академической критики | `06_029_hypocrisy_v1.md` | 📝 Restored | SECTIONS_96_97_98 (§96) |
-| 30 | Арсенал разумных элит против популизма | `06_030_elites_arsenal_v1.md` | 📝 Restored | SECTIONS_96_97_98 (§97.1-97.4, 97.6-97.8) |
-| 31 | Раскол элит: Класс А / Б1 / Б2 | `06_031_elites_split_v1.md` | 📝 Restored | SECTIONS_96_97_98 (§97.9) |
-| 32 | Фрагментация tech-элиты как мобилизационный потенциал | `06_032_tech_fragmentation_v1.md` | 📝 Restored | SECTIONS_96_97_98 (§97.10) |
+- **Скептик / критик** → начни с [29. Структурное лицемерие критики](06-critique-arsenal/029-hypocrisy.md), затем [23. Сравнительная эффективность](05-empirical-base/023-quantitative-comparison.md)
+- **Академик** → [13. Теория игр](03-theory/013-game-theory.md) → [12. Иерингианская традиция](03-theory/012-jhering.md) → [15. Honest Politicians (PNAS 2020)](03-theory/015-honest-politicians.md)
+- **Гражданин** → [1. Основная формула](01-introduction/001-formula.md) → [11. От обязанности к выбору](02-history/011-paradigm-choice.md)
+- **Политик / советник** → [23. Сравнительная эффективность](05-empirical-base/023-quantitative-comparison.md) → [21. Пустота центристов](04-electoral-dynamics/021-centrist-void.md)
+- **Инвестор / tech** → [23. Сравнительная эффективность](05-empirical-base/023-quantitative-comparison.md) → [31. Раскол элит](06-critique-arsenal/031-elites-split.md) → [32. Фрагментация tech-элиты](06-critique-arsenal/032-tech-fragmentation.md)
 
 ---
 
-## ЧАСТЬ II — Социальная архитектура
+# Оглавление
 
-### Глава 07 — Манифест, стратегия, медиа
+## Часть I — Универсальная архитектура
 
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 33 | Философский манифест | `07_033_manifesto_v1.md` | ⏳ From v6.53 | v6.53 §77-79 |
-| 34 | Государство как корпорация | `07_034_state_as_corporation_v1.md` | ⏳ From v6.53 | v6.53 §80-83 |
-| 35 | Маршрут B | `07_035_route_b_v1.md` | ⏳ From v6.53 | v6.53 §84 |
-| 36 | Сравнение с 10 другими идеями | `07_036_comparison_10_ideas_v1.md` | ⏳ From v6.53 | v6.53 §85 |
-| 37 | Возражение Далио | `07_037_dalio_objection_v1.md` | ⏳ From v6.53 | v6.53 §86 |
-| 38 | Наименования реформ | `07_038_naming_reforms_v1.md` | ⏳ From v6.53 | v6.53 §87 |
-| 39 | Противники | `07_039_opponents_v1.md` | ⏳ From v6.53 | v6.53 §88 |
-| 40 | Медиа-стратегия | `07_040_media_strategy_v1.md` | ⏳ From v6.53 | v6.53 §89 |
+### Глава 1. Введение и базовая формула
+
+1. [Основная формула D = M × 1.5%](01-introduction/001-formula.md)
+2. [Защита от манипуляций](01-introduction/002-protection.md)
+3. [Отвергнутые варианты формулы](01-introduction/003-rejected-variants.md)
+4. [Базовые принципы AB-EXIT](01-introduction/004-basic-principles.md)
+5. [Структурная новизна — пятый класс институциональных отношений](01-introduction/005-fifth-class.md)
+
+### Глава 2. История, философия и парадигмальный сдвиг
+
+6. [2500 лет одной проблемы](02-history/006-2500-years.md)
+7. [Совместимость с религиями](02-history/007-religions.md)
+8. [Say-Do Gap](02-history/008-say-do-gap.md)
+9. [Вакцина против 10 типов тиранов](02-history/009-vaccine-tyrants.md)
+10. [Парадигмальный сдвиг](02-history/010-paradigm-shift.md)
+11. [⭐ AB-EXIT как смена парадигмы — от обязанности к выбору](02-history/011-paradigm-choice.md)
+
+### Глава 3. Теоретические основания
+
+12. [Иерингианская традиция](03-theory/012-jhering.md)
+13. [Теория игр: Downs, Buchanan-Tullock, Shapley, Nash, mechanism design](03-theory/013-game-theory.md)
+14. [Поведенческая экономика и Alaska Permanent Fund Dividend](03-theory/014-alaska-pfd.md)
+15. [Honest Politicians Thesis (PNAS 2020)](03-theory/015-honest-politicians.md)
+
+### Глава 4. Электоральная динамика и стратегия
+
+16. [Возрастная экономика и треугольник центра](04-electoral-dynamics/016-age-economics.md)
+17. [Прагматики vs Идеологи — новый электорат](04-electoral-dynamics/017-pragmatics-ideologues.md)
+18. [Три эпохи демократии](04-electoral-dynamics/018-three-epochs.md)
+19. [Цена плохого управления](04-electoral-dynamics/019-bad-governance-cost.md)
+20. [AB-EXIT сильнее UBI](04-electoral-dynamics/020-stronger-than-ubi.md)
+21. [Пустота центристов — первая эмоциональная речь](04-electoral-dynamics/021-centrist-void.md)
+22. [Консенсусная тема — объединяет три лагеря](04-electoral-dynamics/022-consensus-theme.md)
+
+### Глава 5. Эмпирическая база и кейсы стран
+
+23. [⭐ Сравнительная эффективность: единицы vs десятки процентов](05-empirical-base/023-quantitative-comparison.md)
+24. [Норвегия как естественный эксперимент](05-empirical-base/024-norway.md)
+25. [Грузия и Саакашвили](05-empirical-base/025-georgia.md)
+26. [Хантингтон и Тоффлер](05-empirical-base/026-huntington-toffler.md)
+27. [Исчезающий класс работающих мужчин](05-empirical-base/027-disappearing-men.md)
+28. [Корейское чудо без Пак Чон Хи](05-empirical-base/028-korea-miracle.md)
+
+### Глава 6. Структурное лицемерие и арсенал элит
+
+29. [Структурное лицемерие академической критики](06-critique-arsenal/029-hypocrisy.md)
+30. [Арсенал разумных элит против популизма](06-critique-arsenal/030-elites-arsenal.md)
+31. [Раскол элит: Класс А / Б1 / Б2](06-critique-arsenal/031-elites-split.md)
+32. [Фрагментация tech-элиты как мобилизационный потенциал](06-critique-arsenal/032-tech-fragmentation.md)
+
+## Часть II — Социальная архитектура
+
+### Глава 7. Манифест, стратегия, медиа
+
+33. [Философский манифест](07-manifesto/033-manifesto.md)
+34. [Государство как корпорация](07-manifesto/034-state-as-corporation.md)
+35. [Маршрут B — путь имплементации](07-manifesto/035-route-b.md)
+36. [Сравнение с 10 другими идеями](07-manifesto/036-comparison-10-ideas.md)
+37. [Возражение Далио](07-manifesto/037-dalio-objection.md)
+38. [Наименования реформ](07-manifesto/038-naming-reforms.md)
+39. [Противники](07-manifesto/039-opponents.md)
+40. [Медиа-стратегия](07-manifesto/040-media-strategy.md)
+
+## Часть III — Имплементация: общие принципы
+
+### Глава 8. Универсальные принципы запуска
+
+41. [Портрет носителя](08-implementation/041-carrier-portrait.md)
+42. [Защита от «ядовитой пилюли»](08-implementation/042-poison-pill.md)
+43. [Двойная капитуляция Gemini Pro](08-implementation/043-gemini-capitulation.md)
+44. [Защита от election interference](08-implementation/044-election-interference.md)
+
+## Часть IV — 🇺🇸 США
+
+### Глава 9. США-специфическая имплементация
+
+45. [Правовая база США](09-usa/045-us-legal-base.md)
+46. [Citizen-initiated statute — Орегон](09-usa/046-oregon-initiative.md)
+47. [State-by-state анализ](09-usa/047-state-by-state.md)
+48. [W-2 как источник данных](09-usa/048-w2-data-source.md)
+49. [Юридический устав](09-usa/049-legal-statute.md)
+50. [Кейс Danville (VA)](09-usa/050-danville-case.md)
+51. [Church Street vs город](09-usa/051-church-street.md)
+52. [$676 Challenge](09-usa/052-676-challenge.md)
+
+## Часть V — 🌍 Другие страны
+
+### Глава 10. Адаптация для других стран
+
+53. [🇲🇩 Молдова *(готовится)*](10-other-countries/053-moldova-placeholder.md)
+54. [🇨🇭 Швейцария *(готовится)*](10-other-countries/054-switzerland-placeholder.md)
+55. [🇪🇺 ЕС-страны *(готовится)*](10-other-countries/055-eu-countries-placeholder.md)
+56. [🇷🇺 Россия *(готовится)*](10-other-countries/056-russia-placeholder.md)
+57. [Дополнительные страны *(готовится)*](10-other-countries/057-additional-placeholder.md)
 
 ---
 
-## ЧАСТЬ III — Имплементация: общие принципы
+[История изменений (Changelog)](changelog.md)
 
-### Глава 08 — Универсальные принципы запуска
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 41 | Портрет носителя | `08_041_carrier_portrait_v1.md` | ⏳ From v6.53 | v6.53 §71-72 |
-| 42 | Защита от «ядовитой пилюли» | `08_042_poison_pill_v1.md` | ⏳ From v6.53 | v6.53 §73-74 |
-| 43 | Двойная капитуляция Gemini Pro | `08_043_gemini_capitulation_v1.md` | ⏳ From v6.53 | v6.53 §75-76 |
-| 44 | Защита от election interference | `08_044_election_interference_v1.md` | ⏳ From v6.53 | v6.53 §94 |
-
----
-
-## ЧАСТЬ IV — 🇺🇸 США-специфическая имплементация
-
-### Глава 09 — США
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 45 | Правовая база США (Foster v. Clark, U.S. Term Limits) | `09_045_us_legal_base_v1.md` | ⏳ From v6.53 | v6.53 §68-69 |
-| 46 | Citizen-initiated statute — Орегон | `09_046_oregon_initiative_v1.md` | ⏳ From v6.53 | v6.53 §70 (часть 1) |
-| 47 | State-by-state анализ США | `09_047_state_by_state_v1.md` | 📝 Restored | RESTORED_SECTIONS_5_17_24_47 |
-| 48 | W-2 как источник данных | `09_048_w2_data_source_v1.md` | ⏳ From v6.53 | v6.53 §2-3 |
-| 49 | Юридический устав | `09_049_legal_statute_v1.md` | ⏳ From v6.53 | v6.53 §10-14 |
-| 50 | Кейс Дэнвил (Danville, VA) | `09_050_danville_case_v1.md` | ⏳ From v6.53 | v6.53 §46 |
-| 51 | Church Street vs город | `09_051_church_street_v1.md` | ⏳ From v6.53 | v6.53 §27-30 |
-| 52 | $676 Challenge | `09_052_676_challenge_v1.md` | ⏳ From v6.53 | v6.53 §90 |
-
----
-
-## ЧАСТЬ V — 🌍 Другие страны
-
-### Глава 10 — Адаптация для других стран
-
-| # | Раздел | Файл | Статус | Источник |
-|---|--------|------|--------|----------|
-| 53 | 🇲🇩 Молдова: возможности | `10_053_moldova_v1.md` | 🆕 Todo | новый раздел |
-| 54 | 🇨🇭 Швейцария: естественный кандидат | `10_054_switzerland_v1.md` | 🆕 Todo | новый раздел |
-| 55 | 🇪🇺 ЕС-страны с прямой демократией | `10_055_eu_countries_v1.md` | 🆕 Todo | новый раздел |
-| 56 | 🇷🇺 Россия (постпутинский сценарий) | `10_056_russia_v1.md` | 🆕 Todo | новый раздел |
-| 57+ | Дополнительные страны (Польша, Чехия, Тайвань и др.) | `10_057_additional_v1.md` | 🆕 Todo | новый раздел |
-
----
-
-## Сводная статистика
-
-- **Всего разделов:** 57 (включая 53-57 страновые)
-- **📝 Restored (полный текст у Claude в чате):** 12 разделов
-- **⏳ From v6.53 (требуется перенос Claude Code):** 41 раздел
-- **🆕 Todo (новые, требуют написания):** 5 разделов
-
----
-
-## Карта связанных артефактов в Drive
-
-| Артефакт | ID | Назначение |
-|----------|-----|-----------|
-| v6.53 источник | `1KBFOE4cuNum06dT3AxopFYerhxXXM3FF5OoOYaoz9L4` | оригинал 94 разделов |
-| Master Plan | `1iMRmABt6zBeSv0DQJmOTnA1lLC3i6VmMGjtXkSLJz60` | mapping старая→новая |
-| SECTIONS_96_97_98 | `1EOf7hsd8rbieP9AJIJpzqxcu08ur3gEhk9gliraI-x0` | полные тексты 96, 97, 98 |
-| RESTORED_13_14 | `1uQmxaEPGTfeTkmdtmqf8x-yozYrtYBx3lhaOzI-gG-c` | разделы 13, 14 |
-| RESTORED_5_17_24_47 | `1pCyiFsooeVnPmNJXGAa6hEI7w1syMnplOxyzKIGGib4` | разделы 5, 17, 24, 47 |
-| **Этот репо v6.56_clean** | `1_LbMGDFMTkmAoOSiaKSXTJ6ncb3n8bEb` | **финальное место хранения** |
-
----
-
-*Файл обновляется при добавлении или обновлении любого раздела. Если создаётся `02_011_paradigm_choice_v2.md` (обновление) — INDEX обновляется чтобы указывать на v2.*
-
-*Создан 10 июня 2026 в чате claude.ai (сессия 32).*
+*© 2026 Денис Клявлин · AB-EXIT™ · CC BY-NC-SA 4.0 · denis.klyavlin@gmail.com*

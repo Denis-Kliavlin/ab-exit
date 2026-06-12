@@ -1,5 +1,5 @@
 site_name: AB-EXIT
-site_url: https://ab-exit.org/docs/
+site_url: https://docs.ab-exit.com/
 site_description: AB-EXIT — пятый класс институциональных отношений между государством и гражданином
 repo_url: https://github.com/Denis-Kliavlin/ab-exit
 repo_name: Denis-Kliavlin/ab-exit
@@ -9,35 +9,37 @@ theme:
   name: material
   language: ru
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # КНИЖНЫЙ РЕЖИМ:
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - navigation.top
     - navigation.tracking
     - search.suggest
     - search.highlight
-    - content.code.copy
-    - content.action.edit
     - toc.follow
+    - content.action.edit
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: "Тёмная тема"
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: "Светлая тема"
   font:
     text: Inter
     code: JetBrains Mono
+
+extra_css:
+  - assets/stylesheets/ab-exit-theme.css
 
 plugins:
   - search:
@@ -64,86 +66,83 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - "Главная": index.md
-  - "1. Введение":
-    - "1. Введение": 01-introduction/index.md
-    - "1. Основная формула": 01-introduction/001-formula.md
-    - "2. Защита от манипуляций": 01-introduction/002-protection.md
-    - "3. Отвергнутые варианты": 01-introduction/003-rejected-variants.md
-    - "4. Базовые принципы": 01-introduction/004-basic-principles.md
-    - "5. Пятый класс отношений": 01-introduction/005-fifth-class.md
-  - "2. История и парадигма":
-    - "2. История и парадигма": 02-history/index.md
-    - "6. 2500 лет проблемы": 02-history/006-2500-years.md
-    - "7. Совместимость с религиями": 02-history/007-religions.md
-    - "8. Say-Do Gap": 02-history/008-say-do-gap.md
-    - "9. Вакцина против тиранов": 02-history/009-vaccine-tyrants.md
-    - "10. Парадигмальный сдвиг": 02-history/010-paradigm-shift.md
-    - "11. От обязанности к выбору": 02-history/011-paradigm-choice.md
-  - "3. Теория":
-    - "3. Теория": 03-theory/index.md
-    - "12. Иеринг": 03-theory/012-jhering.md
-    - "13. Теория игр": 03-theory/013-game-theory.md
-    - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
-    - "15. Честные политики": 03-theory/015-honest-politicians.md
-  - "4. Электоральная динамика":
-    - "4. Электоральная динамика": 04-electoral-dynamics/index.md
-    - "16. Возрастная экономика": 04-electoral-dynamics/016-age-economics.md
-    - "17. Прагматики vs идеологи": 04-electoral-dynamics/017-pragmatics-ideologues.md
-    - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
-    - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
-    - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
-    - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
-    - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
-  - "5. Эмпирика и кейсы":
-    - "5. Эмпирика и кейсы": 05-empirical-base/index.md
-    - "23. Количественное сравнение": 05-empirical-base/023-quantitative-comparison.md
-    - "24. Норвегия": 05-empirical-base/024-norway.md
-    - "25. Грузия": 05-empirical-base/025-georgia.md
-    - "26. Хантингтон и Тоффлер": 05-empirical-base/026-huntington-toffler.md
-    - "27. Исчезающий класс": 05-empirical-base/027-disappearing-men.md
-    - "28. Корейское чудо": 05-empirical-base/028-korea-miracle.md
-  - "6. Критика и арсенал":
-    - "6. Критика и арсенал": 06-critique-arsenal/index.md
-    - "29. Структурное лицемерие": 06-critique-arsenal/029-hypocrisy.md
-    - "30. Арсенал элит": 06-critique-arsenal/030-elites-arsenal.md
-    - "31. Раскол элит": 06-critique-arsenal/031-elites-split.md
-    - "32. Фрагментация tech-элиты": 06-critique-arsenal/032-tech-fragmentation.md
-  - "7. Манифест":
-    - "7. Манифест": 07-manifesto/index.md
-    - "33. Манифест": 07-manifesto/033-manifesto.md
-    - "34. Государство как корпорация": 07-manifesto/034-state-as-corporation.md
-    - "35. Маршрут B": 07-manifesto/035-route-b.md
-    - "36. Сравнение с 10 идеями": 07-manifesto/036-comparison-10-ideas.md
-    - "37. Возражение Далио": 07-manifesto/037-dalio-objection.md
-    - "38. Наименования реформ": 07-manifesto/038-naming-reforms.md
-    - "39. Противники": 07-manifesto/039-opponents.md
-    - "40. Медиа-стратегия": 07-manifesto/040-media-strategy.md
-  - "8. Имплементация":
-    - "8. Имплементация": 08-implementation/index.md
-    - "41. Портрет носителя": 08-implementation/041-carrier-portrait.md
-    - "42. Ядовитая пилюля": 08-implementation/042-poison-pill.md
-    - "43. Капитуляция Gemini": 08-implementation/043-gemini-capitulation.md
-    - "44. Election interference": 08-implementation/044-election-interference.md
-  - "9. США":
-    - "9. США": 09-usa/index.md
-    - "45. Правовая база США": 09-usa/045-us-legal-base.md
-    - "46. Oregon initiative": 09-usa/046-oregon-initiative.md
-    - "47. State-by-state": 09-usa/047-state-by-state.md
-    - "48. W-2 источник данных": 09-usa/048-w2-data-source.md
-    - "49. Юридический устав": 09-usa/049-legal-statute.md
-    - "50. Кейс Danville": 09-usa/050-danville-case.md
-    - "51. Church Street": 09-usa/051-church-street.md
-    - "52. $676 Challenge": 09-usa/052-676-challenge.md
-  - "10. Другие страны":
-    - "10. Другие страны": 10-other-countries/index.md
-    - "53. Молдова": 10-other-countries/053-moldova-placeholder.md
-    - "54. Швейцария": 10-other-countries/054-switzerland-placeholder.md
-    - "55. ЕС-страны": 10-other-countries/055-eu-countries-placeholder.md
-    - "56. Россия": 10-other-countries/056-russia-placeholder.md
-    - "57. Дополнительные страны": 10-other-countries/057-additional-placeholder.md
+  - "Титульная страница": index.md
+  - "I. Универсальная архитектура":
+    - "Глава 1. Введение и базовая формула":
+      - "1. Основная формула": 01-introduction/001-formula.md
+      - "2. Защита от манипуляций": 01-introduction/002-protection.md
+      - "3. Отвергнутые варианты": 01-introduction/003-rejected-variants.md
+      - "4. Базовые принципы": 01-introduction/004-basic-principles.md
+      - "5. Пятый класс отношений": 01-introduction/005-fifth-class.md
+    - "Глава 2. История и парадигмальный сдвиг":
+      - "6. 2500 лет проблемы": 02-history/006-2500-years.md
+      - "7. Совместимость с религиями": 02-history/007-religions.md
+      - "8. Say-Do Gap": 02-history/008-say-do-gap.md
+      - "9. Вакцина против тиранов": 02-history/009-vaccine-tyrants.md
+      - "10. Парадигмальный сдвиг": 02-history/010-paradigm-shift.md
+      - "11. От обязанности к выбору": 02-history/011-paradigm-choice.md
+    - "Глава 3. Теоретические основания":
+      - "12. Иерингианская традиция": 03-theory/012-jhering.md
+      - "13. Теория игр": 03-theory/013-game-theory.md
+      - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
+      - "15. Honest Politicians": 03-theory/015-honest-politicians.md
+    - "Глава 4. Электоральная динамика":
+      - "16. Возрастная экономика": 04-electoral-dynamics/016-age-economics.md
+      - "17. Прагматики vs идеологи": 04-electoral-dynamics/017-pragmatics-ideologues.md
+      - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
+      - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
+      - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
+      - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
+      - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
+    - "Глава 5. Эмпирическая база":
+      - "23. Количественное сравнение": 05-empirical-base/023-quantitative-comparison.md
+      - "24. Норвегия": 05-empirical-base/024-norway.md
+      - "25. Грузия": 05-empirical-base/025-georgia.md
+      - "26. Хантингтон и Тоффлер": 05-empirical-base/026-huntington-toffler.md
+      - "27. Исчезающий класс": 05-empirical-base/027-disappearing-men.md
+      - "28. Корейское чудо": 05-empirical-base/028-korea-miracle.md
+    - "Глава 6. Критика и арсенал элит":
+      - "29. Структурное лицемерие": 06-critique-arsenal/029-hypocrisy.md
+      - "30. Арсенал элит": 06-critique-arsenal/030-elites-arsenal.md
+      - "31. Раскол элит": 06-critique-arsenal/031-elites-split.md
+      - "32. Фрагментация tech-элиты": 06-critique-arsenal/032-tech-fragmentation.md
+  - "II. Социальная архитектура":
+    - "Глава 7. Манифест и стратегия":
+      - "33. Философский манифест": 07-manifesto/033-manifesto.md
+      - "34. Государство как корпорация": 07-manifesto/034-state-as-corporation.md
+      - "35. Маршрут B": 07-manifesto/035-route-b.md
+      - "36. Сравнение с 10 идеями": 07-manifesto/036-comparison-10-ideas.md
+      - "37. Возражение Далио": 07-manifesto/037-dalio-objection.md
+      - "38. Наименования реформ": 07-manifesto/038-naming-reforms.md
+      - "39. Противники": 07-manifesto/039-opponents.md
+      - "40. Медиа-стратегия": 07-manifesto/040-media-strategy.md
+  - "III. Имплементация":
+    - "Глава 8. Универсальные принципы запуска":
+      - "41. Портрет носителя": 08-implementation/041-carrier-portrait.md
+      - "42. Ядовитая пилюля": 08-implementation/042-poison-pill.md
+      - "43. Капитуляция Gemini": 08-implementation/043-gemini-capitulation.md
+      - "44. Election interference": 08-implementation/044-election-interference.md
+  - "IV. США":
+    - "Глава 9. США-специфическая имплементация":
+      - "45. Правовая база США": 09-usa/045-us-legal-base.md
+      - "46. Oregon initiative": 09-usa/046-oregon-initiative.md
+      - "47. State-by-state": 09-usa/047-state-by-state.md
+      - "48. W-2 источник данных": 09-usa/048-w2-data-source.md
+      - "49. Юридический устав": 09-usa/049-legal-statute.md
+      - "50. Кейс Danville": 09-usa/050-danville-case.md
+      - "51. Church Street": 09-usa/051-church-street.md
+      - "52. $676 Challenge": 09-usa/052-676-challenge.md
+  - "V. Другие страны":
+    - "Глава 10. Адаптация для других стран":
+      - "53. Молдова": 10-other-countries/053-moldova-placeholder.md
+      - "54. Швейцария": 10-other-countries/054-switzerland-placeholder.md
+      - "55. ЕС-страны": 10-other-countries/055-eu-countries-placeholder.md
+      - "56. Россия": 10-other-countries/056-russia-placeholder.md
+      - "57. Дополнительные страны": 10-other-countries/057-additional-placeholder.md
+  - "Changelog": changelog.md
 
 extra:
+  version: v6.57.0
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Denis-Kliavlin/ab-exit

@@ -1,0 +1,61 @@
+/* AB-EXIT — MkDocs Material theme override
+   Palette: US party colors (Democrat blue, Republican red, black background) */
+
+:root {
+    --md-primary-fg-color: #3080F0; /* Democrat blue */
+    --md-primary-fg-color--light: #4090f5;
+    --md-primary-fg-color--dark: #1a60c0;
+    --md-accent-fg-color: #E04040; /* Republican red */
+    --md-accent-fg-color--transparent: rgba(224, 64, 64, 0.1);
+}
+
+/* Header */
+.md-header {
+    background-color: #000;
+    color: #fff;
+}
+.md-tabs {
+    background-color: #0a0a0a;
+}
+.md-tabs__item--active .md-tabs__link {
+    border-bottom: 2px solid #E04040;
+}
+
+/* Logo text */
+.md-header__title::before {
+    content: "AB-EXIT";
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+/* Dark mode overrides */
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #3080F0;
+    --md-default-bg-color: #000;
+    --md-default-fg-color: #fff;
+}
+
+/* Buttons */
+.md-button--primary {
+    background: #3080F0;
+    border-color: #3080F0;
+}
+.md-button--primary:hover {
+    background: #4090f5;
+}
+
+/* Admonition boxes */
+.md-typeset .admonition.warning {
+    border-left-color: #E04040;
+}
+.md-typeset .admonition.info {
+    border-left-color: #3080F0;
+}
+
+/* Footer */
+.md-footer {
+    background-color: #000;
+}
+.md-footer-meta {
+    background-color: #0a0a0a;
+}
