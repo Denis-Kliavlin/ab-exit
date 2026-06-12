@@ -20,13 +20,6 @@ theme:
     - toc.follow
     - content.action.edit
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: "Тёмная тема"
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
@@ -34,9 +27,18 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: "Светлая тема"
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: "Тёмная тема"
   font:
-    text: Inter
+    text: PT Sans
     code: JetBrains Mono
+  icon:
+    logo: material/book-open-variant
 
 extra_css:
   - assets/stylesheets/ab-exit-theme.css

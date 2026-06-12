@@ -129,4 +129,4 @@
 
 [История изменений (Changelog)](changelog.md)
 
-*© 2026 Денис Клявлин · AB-EXIT™ · CC BY-NC-SA 4.0 · denis.klyavlin@gmail.com*
+*© 2026 Денис Клявлин · AB-EXIT™ · CC BY-NC-SA 4.0 · denis@ab-exit.com*

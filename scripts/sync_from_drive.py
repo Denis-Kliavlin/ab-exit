@@ -218,7 +218,10 @@ def download_md(service, file_id, max_retries=5):
             done = False
             while not done:
                 _, done = downloader.next_chunk()
-            return fh.getvalue().decode('utf-8')
+            content = fh.getvalue().decode('utf-8')
+            # Normalize email: always use denis@ab-exit.com
+            content = content.replace('denis.klyavlin@gmail.com', 'denis@ab-exit.com')
+            return content
         except Exception as e:
             if 'rateLimitExceeded' in str(e) or 'Quota exceeded' in str(e):
                 wait = 2 ** attempt * 5  # 5, 10, 20, 40, 80 seconds

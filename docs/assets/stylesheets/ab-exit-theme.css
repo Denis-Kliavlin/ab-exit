@@ -1,61 +1,111 @@
 /* AB-EXIT — MkDocs Material theme override
-   Palette: US party colors (Democrat blue, Republican red, black background) */
+   Unified palette: matches ab-exit.com main site
+   Dark bg #0a0a0a, Vote blue #2563eb, Money red #dc2626
+   Fonts: Playfair Display (headings), PT Sans (body), JetBrains Mono (code) */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=PT+Sans:wght@400;700&display=swap&subset=cyrillic,cyrillic-ext,latin,latin-ext');
 
 :root {
-    --md-primary-fg-color: #3080F0; /* Democrat blue */
-    --md-primary-fg-color--light: #4090f5;
-    --md-primary-fg-color--dark: #1a60c0;
-    --md-accent-fg-color: #E04040; /* Republican red */
-    --md-accent-fg-color--transparent: rgba(224, 64, 64, 0.1);
+    --md-primary-fg-color: #2563eb;
+    --md-primary-fg-color--light: #3b82f6;
+    --md-primary-fg-color--dark: #1d4ed8;
+    --md-accent-fg-color: #dc2626;
+    --md-accent-fg-color--transparent: rgba(220, 38, 38, 0.1);
 }
 
-/* Header */
+/* Header — matches main site nav */
 .md-header {
-    background-color: #000;
-    color: #fff;
-}
-.md-tabs {
-    background-color: #0a0a0a;
-}
-.md-tabs__item--active .md-tabs__link {
-    border-bottom: 2px solid #E04040;
+    background: rgba(10, 10, 10, 0.95);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid #2a2a2a;
 }
 
-/* Logo text */
-.md-header__title::before {
-    content: "AB-EXIT";
-    font-weight: 900;
-    letter-spacing: 1px;
+/* Header title — A|B EXIT style */
+.md-header__topic .md-ellipsis {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    letter-spacing: 0.08em;
 }
 
-/* Dark mode overrides */
+/* Slate (dark) scheme — main site colors */
 [data-md-color-scheme="slate"] {
-    --md-primary-fg-color: #3080F0;
-    --md-default-bg-color: #000;
-    --md-default-fg-color: #fff;
+    --md-default-bg-color: #0a0a0a;
+    --md-default-fg-color: #f0f0f0;
+    --md-default-fg-color--light: #cccccc;
+    --md-default-fg-color--lightest: #888888;
+    --md-primary-fg-color: #2563eb;
+    --md-accent-fg-color: #dc2626;
+    --md-typeset-a-color: #3b82f6;
+    --md-code-bg-color: #141414;
+    --md-footer-bg-color: #0a0a0a;
+    --md-footer-bg-color--dark: #050505;
+}
+
+/* Sidebar */
+[data-md-color-scheme="slate"] .md-sidebar {
+    border-right: 1px solid #2a2a2a;
+}
+
+/* Nav footer (prev/next) */
+.md-footer {
+    background-color: #0a0a0a;
+    border-top: 1px solid #2a2a2a;
+}
+.md-footer-meta {
+    background-color: #050505;
+}
+
+/* Headings — Playfair Display like main site */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+}
+.md-typeset h1 {
+    letter-spacing: -0.01em;
+}
+
+/* Body text — PT Sans like main site */
+.md-typeset {
+    font-family: 'PT Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Links */
+.md-typeset a {
+    color: #3b82f6;
+}
+.md-typeset a:hover {
+    color: #60a5fa;
 }
 
 /* Buttons */
 .md-button--primary {
-    background: #3080F0;
-    border-color: #3080F0;
+    background: #2563eb;
+    border-color: #2563eb;
 }
 .md-button--primary:hover {
-    background: #4090f5;
+    background: #3b82f6;
 }
 
-/* Admonition boxes */
-.md-typeset .admonition.warning {
-    border-left-color: #E04040;
+/* Admonitions */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+    border-left-color: #dc2626;
 }
-.md-typeset .admonition.info {
-    border-left-color: #3080F0;
+.md-typeset .admonition.info,
+.md-typeset details.info {
+    border-left-color: #2563eb;
 }
 
-/* Footer */
-.md-footer {
-    background-color: #000;
+/* Selection — blue accent like main site */
+::selection {
+    background: #2563eb;
+    color: #f0f0f0;
 }
-.md-footer-meta {
-    background-color: #0a0a0a;
+
+/* Search bar */
+[data-md-color-scheme="slate"] .md-search__input {
+    background-color: #141414;
 }
