@@ -1,0 +1,252 @@
+{
+  "profileVersion": "1.0.0",
+  "scenario": "alaska-governor-2022-strong-activation-hypothesis",
+  "title": "Alaska Governor 2022",
+  "electionDate": "2022-11-08",
+  "registeredVoters": 601161,
+  "ballotsCast": 266943,
+  "undervotesAndInvalid": 3191,
+  "reference": {
+    "payment": 2000,
+    "medianHouseholdIncome": 90000,
+    "activeVoters": 296558,
+    "voteWeight": 2.0271279142697214,
+    "walkerShare": 0.5436733024409945,
+    "targetWalkerVotes": 161215
+  },
+  "sources": {
+    "officialResults": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf",
+    "rcvRules": "https://www.elections.alaska.gov/doc/mp/2022/2022GeneralMediaPacket.pdf",
+    "officialResultsLabel": "Alaska Division of Elections — 2022 General Election Summary Report",
+    "rcvRulesLabel": "Alaska Division of Elections — 2022 General Election Media Packet"
+  },
+  "rules": {
+    "majorityShare": 0.5,
+    "description": "A candidate with more than 50% wins. Otherwise the lowest candidate is eliminated and ballots transfer to the next ranked continuing candidate."
+  },
+  "candidates": [
+    {
+      "id": "dunleavy",
+      "name": "Mike Dunleavy",
+      "party": "Republican",
+      "observedVotes": 132632,
+      "observedShare": 0.5029,
+      "evidence": "observed"
+    },
+    {
+      "id": "gara",
+      "name": "Les Gara",
+      "party": "Democratic",
+      "observedVotes": 63851,
+      "observedShare": 0.2421,
+      "evidence": "observed"
+    },
+    {
+      "id": "walker",
+      "name": "Bill Walker",
+      "party": "Independent",
+      "observedVotes": 54668,
+      "observedShare": 0.2073,
+      "evidence": "observed"
+    },
+    {
+      "id": "pierce",
+      "name": "Charlie Pierce",
+      "party": "Republican",
+      "observedVotes": 11817,
+      "observedShare": 0.0448,
+      "evidence": "observed"
+    }
+  ],
+  "observedOtherVotes": 784,
+  "behavior": {
+    "minimumProbability": 0.002,
+    "influenceElasticity": 1,
+    "lowPaymentReference": 2000,
+    "variants": {
+      "conservative": {
+        "latentVoteLogitShift": -0.55,
+        "latentWalkerLogitShift": -0.45,
+        "weakWalkerLogitShift": -0.25
+      },
+      "central": {
+        "latentVoteLogitShift": 0,
+        "latentWalkerLogitShift": 0,
+        "weakWalkerLogitShift": 0
+      },
+      "strong": {
+        "latentVoteLogitShift": 0.4,
+        "latentWalkerLogitShift": 0.25,
+        "weakWalkerLogitShift": 0.15
+      }
+    }
+  },
+  "rcvTransfers": {
+    "dunleavy": { "gara": 0.16, "walker": 0.34, "pierce": 0.02, "exhausted": 0.48 },
+    "gara": { "dunleavy": 0.16, "walker": 0.7, "pierce": 0.02, "exhausted": 0.12 },
+    "walker": { "dunleavy": 0.25, "gara": 0.45, "pierce": 0.02, "exhausted": 0.28 },
+    "pierce": { "dunleavy": 0.68, "gara": 0.05, "walker": 0.22, "exhausted": 0.05 }
+  },
+  "segments": [
+    {
+      "id": "dunleavy-committed",
+      "label": "Committed Dunleavy voters",
+      "count": 65000,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": false,
+      "annualIncome": 100000,
+      "baseVoteProbability": 0.75,
+      "cashSensitivity": 0.75,
+      "influenceSensitivity": 1.25,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.12,
+      "preferences": { "dunleavy": 0.96, "gara": 0.01, "walker": 0.02, "pierce": 0.01 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "dunleavy-pragmatic",
+      "label": "Weak/pragmatic Dunleavy voters",
+      "count": 67632,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": true,
+      "annualIncome": 70000,
+      "baseVoteProbability": 0.35,
+      "cashSensitivity": 1.55,
+      "influenceSensitivity": 0.85,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.9,
+      "preferences": { "dunleavy": 0.55, "gara": 0.04, "walker": 0.4, "pierce": 0.01 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "gara-committed",
+      "label": "Committed Gara voters",
+      "count": 28000,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": false,
+      "annualIncome": 90000,
+      "baseVoteProbability": 0.8,
+      "cashSensitivity": 0.7,
+      "influenceSensitivity": 1.35,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.16,
+      "preferences": { "dunleavy": 0.01, "gara": 0.94, "walker": 0.04, "pierce": 0.01 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "gara-pragmatic",
+      "label": "Weak/pragmatic Gara voters",
+      "count": 35851,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": true,
+      "annualIncome": 70000,
+      "baseVoteProbability": 0.4,
+      "cashSensitivity": 1.4,
+      "influenceSensitivity": 0.95,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.95,
+      "preferences": { "dunleavy": 0.03, "gara": 0.48, "walker": 0.48, "pierce": 0.01 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "walker-observed",
+      "label": "Observed Walker voters",
+      "count": 54668,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": false,
+      "annualIncome": 100000,
+      "baseVoteProbability": 0.9,
+      "cashSensitivity": 0.55,
+      "influenceSensitivity": 1.7,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.05,
+      "preferences": { "dunleavy": 0.01, "gara": 0.0084, "walker": 0.9816, "pierce": 0 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "pierce-voters",
+      "label": "Pierce voters",
+      "count": 11817,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": true,
+      "annualIncome": 65000,
+      "baseVoteProbability": 0.35,
+      "cashSensitivity": 1.6,
+      "influenceSensitivity": 0.75,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.65,
+      "preferences": { "dunleavy": 0.25, "gara": 0.02, "walker": 0.18, "pierce": 0.55 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "uncommitted-ballots",
+      "label": "Write-in, blank, or invalid ballots",
+      "count": 3975,
+      "historicalVoter": true,
+      "latent": false,
+      "weakPartisan": true,
+      "annualIncome": 50000,
+      "baseVoteProbability": 0.25,
+      "cashSensitivity": 1.7,
+      "influenceSensitivity": 0.55,
+      "lowSalienceSensitivity": 0,
+      "coordinationSensitivity": 0.8,
+      "preferences": { "dunleavy": 0.3, "gara": 0.25, "walker": 0.35, "pierce": 0.1 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "exhausted-capable-nonvoters",
+      "label": "Exhausted capable non-voters",
+      "count": 150000,
+      "historicalVoter": false,
+      "latent": true,
+      "weakPartisan": false,
+      "annualIncome": 110000,
+      "baseVoteProbability": 0.7,
+      "cashSensitivity": 1.05,
+      "influenceSensitivity": 1.75,
+      "lowSalienceSensitivity": 3.3,
+      "coordinationSensitivity": 1.25,
+      "preferences": { "dunleavy": 0.14, "gara": 0.1, "walker": 0.75, "pierce": 0.01 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "survival-nonvoters",
+      "label": "Survival-constrained non-voters",
+      "count": 80000,
+      "historicalVoter": false,
+      "latent": true,
+      "weakPartisan": false,
+      "annualIncome": 25000,
+      "baseVoteProbability": 0.15,
+      "cashSensitivity": 2.7,
+      "influenceSensitivity": 0.65,
+      "lowSalienceSensitivity": 2.5,
+      "coordinationSensitivity": 0.7,
+      "preferences": { "dunleavy": 0.3, "gara": 0.18, "walker": 0.49, "pierce": 0.03 },
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "disengaged-nonvoters",
+      "label": "Other historically disengaged non-voters",
+      "count": 104218,
+      "historicalVoter": false,
+      "latent": true,
+      "weakPartisan": false,
+      "annualIncome": 55000,
+      "baseVoteProbability": 0.15,
+      "cashSensitivity": 2,
+      "influenceSensitivity": 0.8,
+      "lowSalienceSensitivity": 2.8,
+      "coordinationSensitivity": 0.9,
+      "preferences": { "dunleavy": 0.25, "gara": 0.16, "walker": 0.56, "pierce": 0.03 },
+      "evidence": "hypothesis"
+    }
+  ]
+}

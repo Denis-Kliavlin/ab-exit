@@ -1,0 +1,53 @@
+/* MacBook/Safari compatibility and compact-laptop layout */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body { -webkit-font-smoothing: antialiased; }
+button, input, output { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 28px;
+  margin: 0;
+  background: transparent;
+}
+input[type="range"]::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--ab, #a873ff), var(--soft, #303a51));
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: -7px;
+  border: 3px solid var(--surface, #fff);
+  border-radius: 50%;
+  background: var(--ab, #a873ff);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
+}
+input[type="range"]:focus-visible::-webkit-slider-thumb {
+  outline: 3px solid rgba(139, 92, 246, .35);
+  outline-offset: 2px;
+}
+
+/* Fallbacks for Safari versions predating color-mix(). */
+@supports not (color: color-mix(in srgb, black, white)) {
+  .status--pass { background: #e8f7f0; }
+  .status--fail { background: #fbeceb; }
+  .slice--yes { background: #5fc994; }
+  .slice--no { background: #db7770; }
+  .core-slice { background: rgba(20, 24, 33, .42); }
+  .source-reactivated { background: #9c86aa; }
+}
+
+@media (min-width: 761px) and (max-width: 1100px) {
+  .shell { width: min(100% - 36px, 1040px); }
+  .steps { gap: 8px; }
+  .step { padding: 13px; }
+  .control-panel, .result-panel, .chart-panel { padding: 22px; }
+}
+
+@media (hover: none) {
+  .has-tooltip { cursor: pointer; }
+}

@@ -1,0 +1,186 @@
+{
+  "profileVersion": "1.0.0",
+  "scenario": "synthetic-10k-v1",
+  "populationSize": 10000,
+  "budgetPerCapita": 20000,
+  "minimumGroupTail": 0.002,
+  "referendum": {
+    "approvalThreshold": 0.5,
+    "quorum": 0.4,
+    "abExitBaselineLogit": -0.2,
+    "evidence": "hypothesis"
+  },
+  "influenceElasticity": { "value": 1.15, "evidence": "hypothesis" },
+  "coreActivation": {
+    "ceiling": 0.7,
+    "intercept": -1.6,
+    "voteValueCoefficient": 1.8,
+    "roiCoefficient": 0.45,
+    "evidence": "hypothesis"
+  },
+  "cycleTransition": {
+    "voteToVote": 0.82,
+    "voteToExit": 0.18,
+    "exitToVote": 0.22,
+    "exitToExit": 0.78,
+    "evidence": "hypothesis"
+  },
+  "informationDiffusion": {
+    "reproductionNumber": 1.35,
+    "capacity": 0.94,
+    "forgettingRate": 0.03,
+    "evidence": "hypothesis"
+  },
+  "attackBackfire": {
+    "awarenessDelta": 0.16,
+    "supportLogitDelta": 0.01,
+    "evidence": "hypothesis"
+  },
+  "paymentTrust": {
+    "reliability": 0.92,
+    "institutionalIndependence": 0.9,
+    "delayDays": 30,
+    "annualDelayDiscount": 0.25,
+    "evidence": "hypothesis"
+  },
+  "hysteresis": {
+    "promiseOnlyLogitLift": 0,
+    "verifiedLogitLift": 0.08,
+    "failedLogitLift": -0.22,
+    "evidence": "hypothesis"
+  },
+  "politicalRoi": {
+    "incomeExposureRate": 0.004,
+    "assetExposureRate": 0.008,
+    "hourlyTimeCostRate": 0.002,
+    "timeHours": 80,
+    "personalRiskRate": 0.001,
+    "evidence": "hypothesis"
+  },
+  "captureRisk": {
+    "warningThreshold": 0.18,
+    "supportPenalty": 1.2,
+    "evidence": "hypothesis"
+  },
+  "segments": [
+    {
+      "id": "survival-constrained",
+      "count": 1200,
+      "incomeMultiple": 0.2,
+      "liquidityStress": 2.8,
+      "baselineTurnout": 0.43,
+      "civicUtility": -0.2,
+      "institutionalSkepticism": 0.42,
+      "influenceSensitivity": 0.65,
+      "coreShare": 0.04,
+      "activationEligibleShare": 0.15,
+      "assetExposureMultiple": 0.05,
+      "legacyWeight": 0.7,
+      "coordinationPotential": 0.2,
+      "bloc": "survival",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "low-income-deliberative",
+      "count": 1600,
+      "incomeMultiple": 0.45,
+      "liquidityStress": 1.7,
+      "baselineTurnout": 0.58,
+      "civicUtility": 0.35,
+      "institutionalSkepticism": 0.28,
+      "influenceSensitivity": 1.05,
+      "coreShare": 0.18,
+      "activationEligibleShare": 0.32,
+      "assetExposureMultiple": 0.2,
+      "legacyWeight": 0.9,
+      "coordinationPotential": 0.35,
+      "bloc": "working",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "median-households",
+      "count": 2600,
+      "incomeMultiple": 1,
+      "liquidityStress": 0.85,
+      "baselineTurnout": 0.66,
+      "civicUtility": 0.48,
+      "institutionalSkepticism": 0.24,
+      "influenceSensitivity": 1.12,
+      "coreShare": 0.44,
+      "activationEligibleShare": 0.25,
+      "assetExposureMultiple": 0.8,
+      "legacyWeight": 1.1,
+      "coordinationPotential": 0.42,
+      "bloc": "working",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "high-income-households",
+      "count": 1100,
+      "incomeMultiple": 2.4,
+      "liquidityStress": 0.25,
+      "baselineTurnout": 0.79,
+      "civicUtility": 0.68,
+      "institutionalSkepticism": 0.22,
+      "influenceSensitivity": 1.3,
+      "coreShare": 0.76,
+      "activationEligibleShare": 0.18,
+      "assetExposureMultiple": 3.2,
+      "legacyWeight": 1.3,
+      "coordinationPotential": 0.55,
+      "bloc": "capital",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "ideological-voters",
+      "count": 1200,
+      "incomeMultiple": 0.9,
+      "liquidityStress": 0.7,
+      "baselineTurnout": 0.88,
+      "civicUtility": 1.25,
+      "institutionalSkepticism": 0.36,
+      "influenceSensitivity": 1.55,
+      "coreShare": 0.3,
+      "activationEligibleShare": 0.06,
+      "assetExposureMultiple": 0.7,
+      "legacyWeight": 1.5,
+      "coordinationPotential": 0.7,
+      "bloc": "ideological",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "exhausted-capable-nonvoters",
+      "count": 1500,
+      "incomeMultiple": 1.15,
+      "liquidityStress": 0.65,
+      "baselineTurnout": 0.24,
+      "civicUtility": 0.55,
+      "institutionalSkepticism": 0.44,
+      "influenceSensitivity": 1.5,
+      "coreShare": 0.58,
+      "activationEligibleShare": 0.85,
+      "assetExposureMultiple": 1.35,
+      "legacyWeight": 0.5,
+      "coordinationPotential": 0.5,
+      "bloc": "independent",
+      "evidence": "hypothesis"
+    },
+    {
+      "id": "marginal-noise",
+      "count": 800,
+      "incomeMultiple": 0.55,
+      "liquidityStress": 1.3,
+      "baselineTurnout": 0.31,
+      "civicUtility": -0.35,
+      "institutionalSkepticism": 0.62,
+      "influenceSensitivity": 0.35,
+      "coreShare": 0.06,
+      "activationEligibleShare": 0.18,
+      "assetExposureMultiple": 0.15,
+      "legacyWeight": 0.4,
+      "coordinationPotential": 0.12,
+      "bloc": "unaffiliated",
+      "evidence": "hypothesis"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AB-EXIT Civic Simulation Lab: four connected browser games that let anyone test a proposed electoral mechanism against a synthetic electorate and a real 2022 election. A working research prototype, not a deployed electoral system.">
+  <title>About the AB-EXIT Civic Simulation Lab</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --page: #f2f4ef;
+      --surface: #fff;
+      --ink: #17221d;
+      --muted: #63706a;
+      --line: #d4ddd6;
+      --brand: #1a7255;
+      --soft: #e8eee9;
+      --shadow: 0 20px 58px rgba(25, 45, 36, .09);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { color-scheme: dark; --page: #101713; --surface: #19221e; --ink: #edf5f0; --muted: #abb8b1; --line: #35433d; --brand: #68cda8; --soft: #232e29; --shadow: none; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--page); color: var(--ink); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.55; }
+    .shell { width: min(920px, calc(100% - 28px)); margin: 0 auto; padding: 52px 0 76px; }
+    h1, h2, h3, p, ul, ol, table { margin-top: 0; }
+    .eyebrow { margin-bottom: 9px; color: var(--brand); font-size: .78rem; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
+    h1 { margin-bottom: 14px; font-size: clamp(2.1rem, 5.4vw, 3.6rem); line-height: 1.02; letter-spacing: -.05em; }
+    h2 { margin: 40px 0 13px; font-size: clamp(1.35rem, 3vw, 1.7rem); letter-spacing: -.02em; }
+    h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    .lede { max-width: 760px; margin-bottom: 22px; color: var(--muted); font-size: 1.08rem; }
+    a { color: var(--brand); }
+    .back { display: inline-flex; margin-bottom: 26px; color: var(--muted); font-size: .9rem; text-decoration: none; }
+    .back:hover { color: var(--brand); }
+    .cta { display: inline-flex; padding: 11px 17px; border-radius: 11px; background: var(--ink); color: var(--page); font-weight: 730; text-decoration: none; }
+    .card { padding: 18px 20px; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 8px; }
+    .grid p { margin-bottom: 0; color: var(--muted); font-size: .93rem; }
+    .callout { margin: 22px 0; padding: 16px 19px; border-left: 4px solid var(--brand); border-radius: 0 12px 12px 0; background: color-mix(in srgb, var(--brand) 10%, var(--surface)); }
+    .callout p:last-child { margin-bottom: 0; }
+    .table-wrap { overflow-x: auto; margin-bottom: 10px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
+    table { width: 100%; border-collapse: collapse; font-size: .94rem; }
+    th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
+    tr:last-child td { border-bottom: 0; }
+    td code { font-variant-numeric: tabular-nums; }
+    code { padding: 1px 5px; border-radius: 5px; background: var(--soft); font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, monospace; font-size: .88em; }
+    ul, ol { padding-left: 21px; margin-bottom: 14px; }
+    li { margin-bottom: 7px; }
+    li strong { color: var(--ink); }
+    .muted { color: var(--muted); }
+    footer { margin-top: 44px; padding-top: 22px; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
+    @media (max-width: 620px) { .shell { padding-top: 30px; } .grid { grid-template-columns: 1fr; } }
+  </style>
+  <link rel="stylesheet" href="../shared/safari.css">
+  <link rel="icon" href="../../assets/images/favicon.png">
+</head>
+<body>
+  <main class="shell">
+    <a class="back" href="../index.html">← Back to the Judge Journey</a>
+
+    <header>
+      <p class="eyebrow">AB-EXIT · Project description</p>
+      <h1>The AB-EXIT Civic Simulation Lab</h1>
+      <p class="lede">Four connected browser games that let anyone test a proposed electoral mechanism — first against a synthetic electorate, then against the officially recorded result of a real 2022 election.</p>
+      <p><a class="cta" href="../index.html">Open the simulation →</a></p>
+    </header>
+
+    <h2>What this is</h2>
+    <p>AB-EXIT proposes adding one voluntary choice to existing elections. Before each election cycle a citizen chooses <strong>A</strong> — keep the vote — or <strong>B</strong> — receive a transparent public payment and abstain for that cycle only. Voting rights return automatically at the next election. The intended effect is on incentives: candidates must compete for a smaller, more deliberate electorate, while every citizen retains a meaningful option.</p>
+    <p>The simulation lab exists because a claim like that should not be accepted on description alone. Instead of asserting that the mechanism works, the four games expose the arithmetic, the assumptions, and the points at which the mechanism fails. The model can and does return outcomes unfavourable to the proposal.</p>
+
+    <h2>The four games</h2>
+    <p>They form one ordered path. Each answers a different question, and no single game is meant to settle the mechanism on its own.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>#</th><th>Game</th><th>Question it answers</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td><strong>Referendum Lab</strong></td><td>Would a synthetic electorate actually adopt AB-EXIT, and how does it compare with a one-time universal payment of the same face value? This is also where the payment for the whole journey is chosen.</td></tr>
+          <tr><td>2</td><td><strong>Equal Budget Lab</strong></td><td>Held to exactly the same total public cost, how does AB-EXIT compare with a genuine monthly universal basic income spread across all citizens over 48 months?</td></tr>
+          <tr><td>3</td><td><strong>Awareness Lab</strong></td><td>Today, absence from an election carries no recorded meaning. How does the same cohort separate into explicit A, B, and residual Ø decisions, and does conscious engagement differ from raw turnout?</td></tr>
+          <tr><td>4</td><td><strong>Underdog Election Lab</strong></td><td>Applied to Alaska's 2022 gubernatorial election, with candidates, electorate, and official results held fixed, can third-placed independent Bill Walker win once participation incentives change?</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>How to play</h2>
+    <ol>
+      <li><strong>Start with Referendum Lab.</strong> Set the proposed payment and the median household income, then run the referendum. Adoption is not guaranteed — depending on the values, AB-EXIT can pass, be rejected, or fail to reach quorum.</li>
+      <li><strong>Only an adopted scenario continues.</strong> If the referendum fails, that is a real result of the model, not an error to be tuned away.</li>
+      <li><strong>The payment is then carried forward</strong> to the remaining three games, which display it read-only.</li>
+      <li><strong>Work through games 2, 3 and 4 in order.</strong> Each shows its assumptions and lets you inspect which inputs are observed data and which are modelled hypotheses.</li>
+      <li><strong>Finish at the summary page,</strong> which records that all four tests were run against one payment.</li>
+    </ol>
+    <p class="muted">Progress is kept in the browser's local storage. Nothing is transmitted to a server, and there is no account, tracking, or analytics.</p>
+
+    <h2>The single payment, and why it matters</h2>
+    <div class="callout">
+      <p><strong>Referendum Lab is the only game that can set the payment. The other three can only read it.</strong></p>
+      <p>Without this rule, each game could be given whatever payment made its own result look best — a different figure for popularity, another for cost, another for the election counterfactual. Cherry-picking of exactly that kind is the most obvious way to make a proposal like this appear stronger than it is.</p>
+      <p>Locking one value across all four tests means the same number has to survive every question in turn: it must be popular enough to be adopted, affordable at equal budget, coherent in how it separates engagement, and consequential in a real election. A payment that flatters one game will often expose the mechanism in another — and that trade-off is the point.</p>
+    </div>
+    <p>Technically the value is held under a single shared key in browser storage, written by Referendum Lab and read by the rest. It can also be passed explicitly in the URL as <code>?payment=</code>, which makes any run reproducible and lets a reviewer verify a specific figure directly.</p>
+
+    <h2>Adjustable parameters</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Parameter</th><th>Range</th><th>Default</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Payment per B choice</td><td><code>$500 – $3,400</code>, step <code>$100</code></td><td><code>$2,000</code></td><td>Set only in Referendum Lab; carried to all later games</td></tr>
+          <tr><td>Median household income</td><td><code>$30,000 – $180,000</code>, step <code>$5,000</code></td><td><code>$90,000</code></td><td>Used by the two referendum games</td></tr>
+          <tr><td>Fiscal-exposure guardrail</td><td>fixed at <code>5%</code></td><td><code>5%</code></td><td>Dynamically lowers the available maximum payment for the selected income</td></tr>
+          <tr><td>Synthetic electorate</td><td><code>10,000</code> citizens</td><td><code>10,000</code></td><td>Versioned profile <code>synthetic-10k-v1</code></td></tr>
+          <tr><td>Referendum rule</td><td>approval <code>50%</code>, quorum <code>40%</code></td><td>—</td><td>Both reported separately, so a proposal can pass on support yet fail on quorum</td></tr>
+          <tr><td>UBI comparison window</td><td><code>48</code> months</td><td><code>48</code></td><td>Same total cycle budget as the AB-EXIT branch</td></tr>
+          <tr><td>Alaska counterfactual</td><td>conservative / central / strong</td><td>central</td><td>Official 2022 totals stay fixed and inspectable</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Who it is for</h2>
+    <div class="grid">
+      <div class="card"><h3>Policy researchers and economists</h3><p>A concrete, inspectable model rather than a manifesto — every coefficient is visible and labelled by evidence status.</p></div>
+      <div class="card"><h3>Election administrators and legal analysts</h3><p>A way to reason about quorum, turnout, vote weighting, and the legal boundary between compensated abstention and vote buying.</p></div>
+      <div class="card"><h3>Journalists and civic educators</h3><p>An interactive way to explain electoral incentives without requiring statistical background.</p></div>
+      <div class="card"><h3>Students and the general public</h3><p>Anyone can change one number and watch a democratic mechanism succeed or fail, on a phone or a laptop.</p></div>
+      <div class="card"><h3>Critics of the proposal</h3><p>The falsification paths are deliberately reachable: the lab is built to be argued with, and the source is open.</p></div>
+      <div class="card"><h3>Hackathon and grant reviewers</h3><p>One ordered journey, one shared payment, automated tests, and an explicit boundary between fact and hypothesis.</p></div>
+    </div>
+
+    <h2>Technology</h2>
+    <ul>
+      <li><strong>Plain browser JavaScript</strong> — ES modules, no framework and no third-party runtime dependencies.</li>
+      <li><strong>Dependency-free calculation layer</strong> — each game separates its model from its interface, so the models run in Node.js as well as in the browser.</li>
+      <li><strong>Versioned data profiles in JSON</strong> — the synthetic electorate and the official Alaska 2022 figures are data files, not values buried in code.</li>
+      <li><strong>Browser local storage</strong> for the shared payment and journey progress; no backend, no database, no account.</li>
+      <li><strong>53 automated tests</strong> run with the built-in Node.js test runner, covering the models, the shared payment policy, and the income policy.</li>
+      <li><strong>Static publishing</strong> — MkDocs Material builds the documentation site, which is deployed on Cloudflare Pages from the public repository.</li>
+      <li><strong>Built with Codex using GPT-5.6</strong>, which implemented the models, interfaces, shared state, and tests. During development it also identified and corrected a referendum formula that had inadvertently guaranteed majority support.</li>
+    </ul>
+
+    <h2>Current limitations of the model</h2>
+    <ul>
+      <li><strong>Behavioural coefficients are hypotheses, not measurements.</strong> They are explicitly tagged as such in the data profiles and are not derived from observed AB-EXIT behaviour, because none exists.</li>
+      <li><strong>The electorate in games 1–3 is synthetic.</strong> Ten thousand modelled citizens are not a sample of any real population.</li>
+      <li><strong>The Alaska counterfactual is a counterfactual.</strong> Official results, candidates, original preferences, and campaign spending are held fixed; every behavioural change on top of them is a labelled assumption, not a historical fact.</li>
+      <li><strong>Second-order effects are out of scope.</strong> Party strategy, media response, turnout cascades across several cycles, migration, and labour-market effects are not modelled.</li>
+      <li><strong>No legal or constitutional validation.</strong> The lab models arithmetic and incentives; whether such a mechanism is lawful in any given jurisdiction is a separate question it does not attempt to answer.</li>
+      <li><strong>One currency and one institutional frame.</strong> Figures are in US dollars against a US-style electoral structure; other systems would require recalibration.</li>
+      <li><strong>Outputs are conditional projections.</strong> They state what follows from the stated assumptions, not what would happen.</li>
+    </ul>
+
+    <div class="callout">
+      <p><strong>An honest statement of status.</strong> This is a working digital research prototype. It is not an electoral system that has been adopted, piloted, or implemented by any state, and it has never been used in a real election.</p>
+      <p>No government, election commission, or public authority has endorsed it. Nothing here should be read as evidence that AB-EXIT would produce the outcomes it proposes. What the lab offers is a transparent, testable, falsifiable model — one whose assumptions can be inspected and disputed, and whose failure modes are reachable by design.</p>
+    </div>
+
+    <h2>Documentation and source</h2>
+    <ul>
+      <li><strong>Project documentation:</strong> <a href="https://docs.ab-exit.com/">docs.ab-exit.com</a></li>
+      <li><strong>Source repository:</strong> <a href="https://github.com/Denis-Kliavlin/ab-exit">github.com/Denis-Kliavlin/ab-exit</a></li>
+      <li><strong>The simulation itself:</strong> <a href="https://docs.ab-exit.com/hackathon/">docs.ab-exit.com/hackathon/</a></li>
+    </ul>
+    <p>AB-EXIT is a non-commercial public project. Anyone may study, test, adapt, or reuse the idea; the author seeks no monopoly over the mechanism, only serious examination of it.</p>
+
+    <footer>
+      <p>Author: <strong>Denis Kliavlin</strong> · Chișinău, Moldova<br>
+      AB-EXIT Civic Simulation Lab — built for OpenAI Build Week 2026 with Codex and GPT-5.6.</p>
+    </footer>
+  </main>
+</body>
+</html>
