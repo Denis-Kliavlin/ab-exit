@@ -8,7 +8,7 @@ const currentId = document.body.dataset.journeyStep;
 const currentIndex = steps.findIndex((step) => step.id === currentId);
 
 if (currentIndex >= 0) {
-  const visitedKey = "ab-exit.judge-journey.visited.v1";
+  const visitedKey = "ab-exit.simulation-journey.visited.v1";
   let visited = [];
   try {
     visited = JSON.parse(localStorage.getItem(visitedKey) ?? "[]");
@@ -41,11 +41,11 @@ if (currentIndex >= 0) {
 
   const nav = document.createElement("nav");
   nav.className = "abj-nav";
-  nav.setAttribute("aria-label", "AB-EXIT judge journey");
+  nav.setAttribute("aria-label", "AB-EXIT simulation journey");
   const next = steps[currentIndex + 1];
   nav.innerHTML = `
     <div class="abj-inner">
-      <a class="abj-home" href="../index.html">AB-EXIT · Judge Journey</a>
+      <a class="abj-home" href="../index.html">AB-EXIT · Simulation Lab</a>
       <ol class="abj-steps">
         ${steps.map((step, index) => `
           <li><a class="abj-step" href="${step.href}" data-number="${index + 1}" data-visited="${visited.includes(step.id)}" ${step.id === currentId ? 'aria-current="step"' : ""}><span>${step.label}</span></a></li>

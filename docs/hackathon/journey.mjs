@@ -14,7 +14,7 @@ document.getElementById("incomeValue").textContent = currency.format(income);
 const order = ["referendum", "equal-budget", "awareness", "underdog"];
 let visited = [];
 try {
-  visited = JSON.parse(localStorage.getItem("ab-exit.judge-journey.visited.v1") ?? "[]");
+  visited = JSON.parse(localStorage.getItem("ab-exit.simulation-journey.visited.v1") ?? "[]");
   if (!Array.isArray(visited)) visited = [];
   visited = visited.filter((id) => order.includes(id));
 } catch {
