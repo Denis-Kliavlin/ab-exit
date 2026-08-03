@@ -60,7 +60,7 @@ test("downstream displays inherit payment without becoming writers", () => {
   connection.disconnect();
 });
 
-test("query value overrides the stored cross-game value", () => {
+test("query value overrides the stored cross-module value", () => {
   const storage = memoryStorage({ [SHARED_PAYMENT_POLICY.storageKey]: "1700" });
   assert.equal(readSharedPayment({ search: "?payment=2300", storage }), 2300);
   assert.equal(readSharedPayment({ search: "", storage }), 1700);
@@ -68,7 +68,7 @@ test("query value overrides the stored cross-game value", () => {
   assert.equal(readSharedPayment({ search: "", storage }), 2600);
 });
 
-test("connected controls persist changes and receive cross-game storage updates", () => {
+test("connected controls persist changes and receive cross-module storage updates", () => {
   const storage = memoryStorage();
   const eventTarget = new EventTarget();
   const input = new EventTarget();

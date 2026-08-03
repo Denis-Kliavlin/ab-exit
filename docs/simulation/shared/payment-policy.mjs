@@ -30,7 +30,7 @@ function safelyWriteStorage(storage, key, value) {
   try {
     storage?.setItem(key, String(value));
   } catch {
-    // Storage is optional; the current game still uses the normalized value.
+    // Storage is optional; the current module still uses the normalized value.
   }
 }
 

@@ -22,7 +22,7 @@ test("income is stepped and bounded", () => {
   assert.equal(normalizeSharedIncome(999999), 180000);
 });
 
-test("first-game control writes the shared income", () => {
+test("first-module control writes the shared income", () => {
   const storage = memoryStorage();
   const input = new EventTarget();
   input.value = "";

@@ -123,8 +123,8 @@ function render() {
   const adopted = result.abExit.passed;
   elements.referendumNextStep.dataset.adopted = String(adopted);
   elements.referendumNextTitle.textContent = adopted
-    ? "AB-EXIT is adopted—now the game can continue"
-    : "AB-EXIT is not adopted—the game ends here";
+    ? "AB-EXIT is adopted—the simulation can continue"
+    : "AB-EXIT is not adopted—the simulation ends here";
   elements.referendumNextCopy.textContent = adopted
     ? "The remaining tests now have a purpose: they examine the consequences of introducing AB-EXIT while holding the comparison conditions constant."
     : "Without adoption, the electoral rules remain unchanged. Adjust the payment or income assumptions to test whether an adopted AB-EXIT scenario becomes possible.";

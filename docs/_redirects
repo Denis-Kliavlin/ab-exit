@@ -1,0 +1,4 @@
+# Permanent move: the simulation system was first published under /hackathon/.
+# Cloudflare Pages serves these rules; :splat carries the rest of the path.
+/hackathon/*  /simulation/:splat  301
+/hackathon    /simulation/        301

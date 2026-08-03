@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="AB-EXIT is a proposed patch for representative democracy: a new citizen choice designed to improve electoral incentives and the quality of executive government.">
-  <title>AB-EXIT Civic Simulation Lab</title>
+  <title>AB-EXIT Interactive Electoral Simulation System</title>
   <style>
     :root {
       color-scheme: light;
@@ -63,7 +63,7 @@
 <body>
   <main class="shell">
     <header>
-      <p class="eyebrow">AB-EXIT · Civic Simulation Lab</p>
+      <p class="eyebrow">AB-EXIT · Electoral Simulation System</p>
       <h1>A patch for democracy.</h1>
       <p class="plain-definition"><strong>AB-EXIT is designed to improve the quality of executive government by changing electoral incentives—not by replacing democracy.</strong> It adds one voluntary choice to existing elections, so politicians must compete for a smaller, more engaged electorate while every citizen receives a meaningful option.</p>
       <div class="choice-summary" aria-label="The two AB-EXIT choices">
@@ -75,25 +75,25 @@
     </header>
 
     <section class="shared-state" aria-label="Shared scenario settings">
-      <div class="state"><span>One payment set in the first game</span><strong id="paymentValue">$2,000</strong><small>the next games cannot change it</small></div>
-      <div class="state"><span>Synthetic scenario median income</span><strong id="incomeValue">$90,000</strong><small>used by both referendum games</small></div>
+      <div class="state"><span>One payment set in the first module</span><strong id="paymentValue">$2,000</strong><small>the later modules cannot change it</small></div>
+      <div class="state"><span>Synthetic scenario median income</span><strong id="incomeValue">$90,000</strong><small>used by both referendum modules</small></div>
     </section>
 
-    <p class="complete" id="completeMessage" hidden><strong>Journey complete.</strong> You tested the mechanism, equal-budget comparison, engagement, and a real-election counterfactual with the same payment.</p>
+    <p class="complete" id="completeMessage" hidden><strong>Simulation sequence complete.</strong> You tested the mechanism, equal-budget comparison, engagement, and a real-election counterfactual with the same payment.</p>
 
-    <section class="steps" aria-label="Journey games">
+    <section class="steps" aria-label="Simulation modules">
       <a class="step" data-step="referendum" href="./referendum-lab/index.html"><span class="number">1</span><h2>Referendum Lab</h2><p>Set the payment and compare AB-EXIT with a one-time universal payment of the same face value.</p><strong>Test the mechanism →</strong></a>
       <a class="step" data-step="equal-budget" href="./equal-budget-lab/index.html"><span class="number">2</span><h2>Equal Budget Lab</h2><p>Hold total spending constant and compare AB-EXIT with a genuine monthly UBI.</p><strong>Match the cost →</strong></a>
       <a class="step" data-step="awareness" href="./awareness-lab/index.html"><span class="number">3</span><h2>Awareness Lab</h2><p>Separate unknown non-participation from explicit A and B decisions.</p><strong>Measure engagement →</strong></a>
       <a class="step" data-step="underdog" href="./underdog-election-lab/index.html"><span class="number">4</span><h2>Underdog Lab</h2><p>Apply the same mechanism to Alaska's 2022 gubernatorial election.</p><strong>Replay a real election →</strong></a>
     </section>
 
-    <section class="logic" aria-label="Journey logic">
-      <div><strong>One shared input</strong><br><span>The payment is never tuned to obtain a preferred result in each game.</span></div>
+    <section class="logic" aria-label="Simulation sequence logic">
+      <div><strong>One shared input</strong><br><span>The payment is never tuned to obtain a preferred result in each module.</span></div>
       <div><strong>Four distinct tests</strong><br><span>Popularity, cost, engagement, and election outcomes remain separate questions.</span></div>
       <div><strong>One evidence boundary</strong><br><span>Exact arithmetic is separated from synthetic behavioral hypotheses.</span></div>
     </section>
   </main>
-  <script type="module" src="./journey.mjs"></script>
+  <script type="module" src="./main.mjs"></script>
 </body>
 </html>
