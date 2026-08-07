@@ -48,6 +48,93 @@ plugins:
       lang:
         - ru
         - en
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            "Титульная страница": "Title Page"
+            "I. Универсальная архитектура": "I. Universal Architecture"
+            "Глава 1. Введение и базовая формула": "Chapter 1. Introduction and Core Formula"
+            "1. Основная формула": "1. Core Formula"
+            "2. Защита от манипуляций": "2. Protection Against Manipulation"
+            "3. Отвергнутые варианты": "3. Rejected Variants"
+            "4. Базовые принципы": "4. Basic Principles"
+            "5. Пятый класс отношений": "5. The Fifth Class of Relations"
+            "Глава 2. История и парадигмальный сдвиг": "Chapter 2. History and the Paradigm Shift"
+            "6. 2500 лет проблемы": "6. 2,500 Years of One Problem"
+            "7. Совместимость с религиями": "7. Compatibility with Religions"
+            "8. Say-Do Gap": "8. Say-Do Gap"
+            "9. Вакцина против тиранов": "9. A Vaccine Against Tyrants"
+            "10. Парадигмальный сдвиг": "10. The Paradigm Shift"
+            "11. От обязанности к выбору": "11. From Duty to Choice"
+            "Глава 3. Теоретические основания": "Chapter 3. Theoretical Foundations"
+            "12. Иерингианская традиция": "12. The Jheringian Tradition"
+            "13. Теория игр": "13. Game Theory"
+            "14. Alaska PFD": "14. Alaska PFD"
+            "15. Honest Politicians": "15. Honest Politicians"
+            "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
+            "16. Возрастная экономика": "16. Age Economics"
+            "17. Прагматики vs идеологи": "17. Pragmatists vs Ideologues"
+            "18. Три эпохи демократии": "18. Three Epochs of Democracy"
+            "19. Цена плохого управления": "19. The Cost of Bad Governance"
+            "20. AB-EXIT сильнее UBI": "20. AB-EXIT Is Stronger Than UBI"
+            "21. Пустота центристов": "21. The Centrist Void"
+            "22. Консенсусная тема": "22. The Consensus Theme"
+            "Глава 5. Эмпирическая база": "Chapter 5. Empirical Base"
+            "23. Количественное сравнение": "23. Quantitative Comparison"
+            "24. Норвегия": "24. Norway"
+            "25. Грузия": "25. Georgia"
+            "26. Хантингтон и Тоффлер": "26. Huntington and Toffler"
+            "27. Исчезающий класс": "27. The Disappearing Class"
+            "28. Корейское чудо": "28. The Korean Miracle"
+            "Глава 6. Критика и арсенал элит": "Chapter 6. Critique and the Elites' Arsenal"
+            "29. Структурное лицемерие": "29. Structural Hypocrisy"
+            "30. Арсенал элит": "30. The Elites' Arsenal"
+            "31. Раскол элит": "31. The Elite Split"
+            "32. Фрагментация tech-элиты": "32. Tech-Elite Fragmentation"
+            "II. Социальная архитектура": "II. Social Architecture"
+            "Глава 7. Манифест и стратегия": "Chapter 7. Manifesto and Strategy"
+            "33. Философский манифест": "33. Philosophical Manifesto"
+            "34. Государство как корпорация": "34. The State as a Corporation"
+            "35. Маршрут B": "35. Route B"
+            "36. Сравнение с 10 идеями": "36. Comparison with 10 Ideas"
+            "37. Возражение Далио": "37. The Dalio Objection"
+            "38. Наименования реформ": "38. Naming the Reforms"
+            "39. Противники": "39. Opponents"
+            "40. Медиа-стратегия": "40. Media Strategy"
+            "III. Имплементация": "III. Implementation"
+            "Глава 8. Универсальные принципы запуска": "Chapter 8. Universal Launch Principles"
+            "41. Портрет носителя": "41. Carrier Portrait"
+            "42. Ядовитая пилюля": "42. The Poison Pill"
+            "43. Капитуляция Gemini": "43. The Gemini Capitulation"
+            "44. Election interference": "44. Election Interference"
+            "IV. США": "IV. United States"
+            "Глава 9. США-специфическая имплементация": "Chapter 9. US-Specific Implementation"
+            "45. Правовая база США": "45. US Legal Base"
+            "46. Oregon initiative": "46. Oregon Initiative"
+            "47. State-by-state": "47. State-by-State"
+            "48. W-2 источник данных": "48. W-2 Data Source"
+            "49. Юридический устав": "49. Legal Statute"
+            "50. Кейс Danville": "50. The Danville Case"
+            "51. Church Street": "51. Church Street"
+            "52. $676 Challenge": "52. The $676 Challenge"
+            "V. Другие страны": "V. Other Countries"
+            "Глава 10. Адаптация для других стран": "Chapter 10. Adaptation for Other Countries"
+            "53. Молдова": "53. Moldova"
+            "54. Швейцария": "54. Switzerland"
+            "55. ЕС-страны": "55. EU Countries"
+            "56. Россия": "56. Russia"
+            "57. Дополнительные страны": "57. Additional Countries"
 
 markdown_extensions:
   - admonition
