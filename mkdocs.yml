@@ -66,9 +66,10 @@ plugins:
             "I. Универсальная архитектура": "I. Universal Architecture"
             "Глава 1. Введение и базовая формула": "Chapter 1. Introduction and Core Formula"
             "1. Основная формула": "1. Core Formula"
-            "2. Защита от манипуляций": "2. Protection Against Manipulation"
-            "3. Отвергнутые варианты": "3. Rejected Variants"
-            "4. Базовые принципы": "4. Basic Principles"
+            "1b. AB-EXIT в одной главе": "1b. AB-EXIT in One Chapter"
+            "2. Требования к источнику данных": "2. Requirements for the Data Source"
+            "3. Таймлайн данных": "3. The Data Timeline"
+            "4. Публичный счётчик": "4. The Public Counter"
             "5. Пятый класс отношений": "5. The Fifth Class of Relations"
             "Глава 2. История и парадигмальный сдвиг": "Chapter 2. History and the Paradigm Shift"
             "6. 2500 лет проблемы": "6. 2,500 Years of One Problem"
@@ -77,9 +78,12 @@ plugins:
             "9. Вакцина против тиранов": "9. A Vaccine Against Tyrants"
             "10. Парадигмальный сдвиг": "10. The Paradigm Shift"
             "11. От обязанности к выбору": "11. From Duty to Choice"
+            "11b. Терапия выученной беспомощности": "11b. Learned Helplessness Therapy"
             "Глава 3. Теоретические основания": "Chapter 3. Theoretical Foundations"
             "12. Иерингианская традиция": "12. The Jheringian Tradition"
             "13. Теория игр": "13. Game Theory"
+            "13b. Контринтуитивная теория игр": "13b. Counterintuitive Game Theory"
+            "13c. Референдум до запуска как игра": "13c. The Pre-Launch Referendum as a Game"
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
             "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
@@ -87,6 +91,7 @@ plugins:
             "17. Прагматики vs идеологи": "17. Pragmatists vs Ideologues"
             "18. Три эпохи демократии": "18. Three Epochs of Democracy"
             "19. Цена плохого управления": "19. The Cost of Bad Governance"
+            "19b. Бедный — самый дорогой избиратель": "19b. The Poor as the Most Expensive Voter"
             "20. AB-EXIT сильнее UBI": "20. AB-EXIT Is Stronger Than UBI"
             "21. Пустота центристов": "21. The Centrist Void"
             "22. Консенсусная тема": "22. The Consensus Theme"
@@ -102,9 +107,21 @@ plugins:
             "30. Арсенал элит": "30. The Elites' Arsenal"
             "31. Раскол элит": "31. The Elite Split"
             "32. Фрагментация tech-элиты": "32. Tech-Elite Fragmentation"
+            "33. Генри Джордж и проблема ренты": "33. Henry George and the Rent Problem"
+            "34. Френкель и захват институтов": "34. Ernst Fraenkel and Institutional Capture"
+            "35. Три скептика": "35. Three Skeptics"
+            "36. Десять нобелевских лауреатов": "36. Ten Nobel Laureates"
+            "36b. Нобелевский второй круг": "36b. Nobel: The Second Circle"
+            "36c. Нобелевский третий круг": "36c. Nobel: The Third Circle"
+            "37. Седьмой AI": "37. The Seventh AI"
+            "37b. Grok, второй раунд": "37b. Grok, Round Two"
+            "38. Гаазе: социология оператора": "38. Gaaze: Sociology of the Operator"
+            "39. Левитски и Зиблатт: привратники": "39. Levitsky-Ziblatt: Gatekeepers"
+            "40. Восьмой AI: вердикт Grok": "40. The Eighth AI: Grok's Verdict"
             "II. Социальная архитектура": "II. Social Architecture"
             "Глава 7. Манифест и стратегия": "Chapter 7. Manifesto and Strategy"
             "33. Философский манифест": "33. Philosophical Manifesto"
+            "33b. Короткий манифест": "33b. Short Manifesto"
             "34. Государство как корпорация": "34. The State as a Corporation"
             "35. Маршрут B": "35. Route B"
             "36. Сравнение с 10 идеями": "36. Comparison with 10 Ideas"
@@ -118,23 +135,66 @@ plugins:
             "42. Ядовитая пилюля": "42. The Poison Pill"
             "43. Капитуляция Gemini": "43. The Gemini Capitulation"
             "44. Election interference": "44. Election Interference"
-            "IV. США": "IV. United States"
-            "Глава 9. США-специфическая имплементация": "Chapter 9. US-Specific Implementation"
+            "45. Экономика кампании": "45. Campaign Economics"
+            "46. Детонаторы: Великобритания": "46. Detonators: UK"
+            "47. Цугцванг носителей": "47. Zugzwang of Carriers"
+            "48. Топология неизбежности": "48. Topology of Inevitability"
+            "48b. Экономика оглупления": "48b. Economics of Dumbing-Down"
+            "48c. Наука национального самоубийства": "48c. Science of National Suicide"
+            "IV. Страновые имплементации": "IV. Country Implementations"
+            "Глава 9. Кейсы: другие страны": "Chapter 9. Country Cases"
+            "Глава 10. Кейс: США": "Chapter 10. Country Case: United States"
             "45. Правовая база США": "45. US Legal Base"
             "46. Oregon initiative": "46. Oregon Initiative"
             "47. State-by-state": "47. State-by-State"
             "48. W-2 источник данных": "48. W-2 Data Source"
+            "48b. W-2 через SSA: детали источника": "48b. W-2 via SSA: Source Detail"
+            "48c. Таймлайн данных и модернизация IRS": "48c. Data Timeline and IRS Modernisation"
             "49. Юридический устав": "49. Legal Statute"
             "50. Кейс Danville": "50. The Danville Case"
             "51. Church Street": "51. Church Street"
             "52. $676 Challenge": "52. The $676 Challenge"
-            "V. Другие страны": "V. Other Countries"
-            "Глава 10. Адаптация для других стран": "Chapter 10. Adaptation for Other Countries"
+            "58. Кризис аффордабилити 2026": "58. The 2026 Affordability Crisis"
             "53. Молдова": "53. Moldova"
             "54. Швейцария": "54. Switzerland"
             "55. ЕС-страны": "55. EU Countries"
             "56. Россия": "56. Russia"
             "57. Дополнительные страны": "57. Additional Countries"
+            "15b. Спираль катарсиса": "15b. The Catharsis Spiral"
+            "15c. Смена знака, а не +5 %": "15c. A Change of Sign, Not +5 %"
+            "36d. Нобелевский четвёртый круг": "36d. Nobel: The Fourth Circle"
+            "38b. Гаазе: биополитика и стоп-лосс": "38b. Gaaze: Biopolitics and the Stop-Loss"
+            "40b. Хэнсон и футархия": "40b. Hanson and Futarchy"
+            "40c. Сапольски и Нэш": "40c. Sapolsky and Nash"
+            "40d. Бреннан и каталог фильтров": "40d. Brennan and the Catalogue of Filters"
+            "40e. Айн Рэнд: «Атлант»": "40e. Ayn Rand: Atlas"
+            "40f. Аджемоглу: три раунда": "40f. Acemoglu: Three Rounds"
+            "40g. Русская мысль о власти и народе": "40g. Russian Thought on Power and People"
+            "40h. Просвещение: Робеспьер, Беккариа, Бентам": "40h. Enlightenment: Robespierre, Beccaria, Bentham"
+            "40i. Линц и Шульман": "40i. Linz and Shulman"
+            "33c. Язык протокола": "33c. The Language of the Protocol"
+            "34b. Корпоративные аналогии": "34b. Corporate Analogies"
+            "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
+            "40b. Табло: масса как аудитор": "40b. The Scoreboard: Mass as Auditor"
+            "40c. Как убивают простоту": "40c. How Simplicity Gets Killed"
+            "48d. Переход при автократии: силовики": "48d. Transition Under Autocracy: The Forces"
+            "48e. Экспорт правды": "48e. Export of Truth"
+            "48f. Двойная запись вместо наблюдателей": "48f. Double Entry Instead of Observers"
+            "48g. Откат после запуска": "48g. Rollback after Launch"
+            "55b. Франция": "55b. France"
+            "55c. Германия": "55c. Germany"
+            "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
+            "56d. Россия: тупик оппозиции": "56d. Russia: The Opposition Deadlock"
+            "56e. Россия: контрактники": "56e. Russia: Contract Soldiers"
+            "57b. Беларусь": "57b. Belarus"
+            "57c. Иран": "57c. Iran"
+            "57d. Венесуэла": "57d. Venezuela"
+            "59. Аватары и инженеры": "59. Avatars and Engineers"
+            "59b. Маск, Милей, DOGE": "59b. Musk, Milei, DOGE"
+            "59c. Трамп $5000 и критики": "59c. Trump's $5,000 and the Critics"
+            "59d. Андердоги, Портер, либертарианцы": "59d. Underdogs, Porter, Libertarians"
+            "59e. Кампания андердога": "59e. The Underdog Campaign"
+            "59f. Пратт, Чикаго-2027, 14 дней Трампа": "59f. Pratt, Chicago 2027, Trump's 14 Days"
 
 markdown_extensions:
   - admonition
@@ -159,9 +219,10 @@ nav:
   - "I. Универсальная архитектура":
     - "Глава 1. Введение и базовая формула":
       - "1. Основная формула": 01-introduction/001-formula.md
-      - "2. Защита от манипуляций": 01-introduction/002-protection.md
-      - "3. Отвергнутые варианты": 01-introduction/003-rejected-variants.md
-      - "4. Базовые принципы": 01-introduction/004-basic-principles.md
+      - "1b. AB-EXIT в одной главе": 01-introduction/001b-essence.md
+      - "2. Требования к источнику данных": 01-introduction/002-protection.md
+      - "3. Таймлайн данных": 01-introduction/003-rejected-variants.md
+      - "4. Публичный счётчик": 01-introduction/004-basic-principles.md
       - "5. Пятый класс отношений": 01-introduction/005-fifth-class.md
     - "Глава 2. История и парадигмальный сдвиг":
       - "6. 2500 лет проблемы": 02-history/006-2500-years.md
@@ -170,16 +231,22 @@ nav:
       - "9. Вакцина против тиранов": 02-history/009-vaccine-tyrants.md
       - "10. Парадигмальный сдвиг": 02-history/010-paradigm-shift.md
       - "11. От обязанности к выбору": 02-history/011-paradigm-choice.md
+      - "11b. Терапия выученной беспомощности": 02-history/011b-learned-helplessness.md
     - "Глава 3. Теоретические основания":
       - "12. Иерингианская традиция": 03-theory/012-jhering.md
       - "13. Теория игр": 03-theory/013-game-theory.md
+      - "13b. Контринтуитивная теория игр": 03-theory/013b-counterintuitive.md
+      - "13c. Референдум до запуска как игра": 03-theory/013c-referendum-game.md
       - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
       - "15. Honest Politicians": 03-theory/015-honest-politicians.md
+      - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
+      - "15c. Смена знака, а не +5 %": 03-theory/015c-sign-change.md
     - "Глава 4. Электоральная динамика":
       - "16. Возрастная экономика": 04-electoral-dynamics/016-age-economics.md
       - "17. Прагматики vs идеологи": 04-electoral-dynamics/017-pragmatics-ideologues.md
       - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
       - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
+      - "19b. Бедный — самый дорогой избиратель": 04-electoral-dynamics/019b-poor-voter-price.md
       - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
       - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
       - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
@@ -195,39 +262,103 @@ nav:
       - "30. Арсенал элит": 06-critique-arsenal/030-elites-arsenal.md
       - "31. Раскол элит": 06-critique-arsenal/031-elites-split.md
       - "32. Фрагментация tech-элиты": 06-critique-arsenal/032-tech-fragmentation.md
+      - "33. Генри Джордж и проблема ренты": 06-critique-arsenal/033-henry-george.md
+      - "34. Френкель и захват институтов": 06-critique-arsenal/034-fraenkel.md
+      - "35. Три скептика": 06-critique-arsenal/035-three-skeptics.md
+      - "36. Десять нобелевских лауреатов": 06-critique-arsenal/036-nobel-laureates.md
+      - "36b. Нобелевский второй круг": 06-critique-arsenal/036b-nobel-second-circle.md
+      - "36c. Нобелевский третий круг": 06-critique-arsenal/036c-nobel-third-circle.md
+      - "36d. Нобелевский четвёртый круг": 06-critique-arsenal/036d-nobel-fourth-circle.md
+      - "37. Седьмой AI": 06-critique-arsenal/037-seventh-ai.md
+      - "37b. Grok, второй раунд": 06-critique-arsenal/037b-grok-round-two.md
+      - "38. Гаазе: социология оператора": 06-critique-arsenal/038-gaaze-operator.md
+      - "38b. Гаазе: биополитика и стоп-лосс": 06-critique-arsenal/038b-gaaze-supplement.md
+      - "39. Левитски и Зиблатт: привратники": 06-critique-arsenal/039-levitsky-ziblatt.md
+      - "40. Восьмой AI: вердикт Grok": 06-critique-arsenal/040-eighth-ai-grok.md
+      - "40b. Хэнсон и футархия": 06-critique-arsenal/040b-hanson-futarchy.md
+      - "40c. Сапольски и Нэш": 06-critique-arsenal/040c-sapolsky-nash.md
+      - "40d. Бреннан и каталог фильтров": 06-critique-arsenal/040d-brennan-filters.md
+      - "40e. Айн Рэнд: «Атлант»": 06-critique-arsenal/040e-rand-atlas.md
+      - "40f. Аджемоглу: три раунда": 06-critique-arsenal/040f-acemoglu-three-rounds.md
+      - "40g. Русская мысль о власти и народе": 06-critique-arsenal/040g-russian-thinkers.md
+      - "40h. Просвещение: Робеспьер, Беккариа, Бентам": 06-critique-arsenal/040h-enlightenment.md
+      - "40i. Линц и Шульман": 06-critique-arsenal/040i-linz-shulman.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Философский манифест": 07-manifesto/033-manifesto.md
+      - "33b. Короткий манифест": 07-manifesto/033b-short-manifesto.md
+      - "33c. Язык протокола": 07-manifesto/033c-protocol-language.md
       - "34. Государство как корпорация": 07-manifesto/034-state-as-corporation.md
+      - "34b. Корпоративные аналогии": 07-manifesto/034b-corporate-analogies.md
       - "35. Маршрут B": 07-manifesto/035-route-b.md
       - "36. Сравнение с 10 идеями": 07-manifesto/036-comparison-10-ideas.md
       - "37. Возражение Далио": 07-manifesto/037-dalio-objection.md
       - "38. Наименования реформ": 07-manifesto/038-naming-reforms.md
       - "39. Противники": 07-manifesto/039-opponents.md
+      - "39b. Идеалисты и цикл популизма": 07-manifesto/039b-idealists-and-populist-cycle.md
       - "40. Медиа-стратегия": 07-manifesto/040-media-strategy.md
+      - "40b. Табло: масса как аудитор": 07-manifesto/040b-scoreboard-mass-audit.md
+      - "40c. Как убивают простоту": 07-manifesto/040c-killing-simplicity.md
   - "III. Имплементация":
     - "Глава 8. Универсальные принципы запуска":
       - "41. Портрет носителя": 08-implementation/041-carrier-portrait.md
       - "42. Ядовитая пилюля": 08-implementation/042-poison-pill.md
       - "43. Капитуляция Gemini": 08-implementation/043-gemini-capitulation.md
       - "44. Election interference": 08-implementation/044-election-interference.md
-  - "IV. США":
-    - "Глава 9. США-специфическая имплементация":
-      - "45. Правовая база США": 09-usa/045-us-legal-base.md
-      - "46. Oregon initiative": 09-usa/046-oregon-initiative.md
-      - "47. State-by-state": 09-usa/047-state-by-state.md
-      - "48. W-2 источник данных": 09-usa/048-w2-data-source.md
-      - "49. Юридический устав": 09-usa/049-legal-statute.md
-      - "50. Кейс Danville": 09-usa/050-danville-case.md
-      - "51. Church Street": 09-usa/051-church-street.md
-      - "52. $676 Challenge": 09-usa/052-676-challenge.md
-  - "V. Другие страны":
-    - "Глава 10. Адаптация для других стран":
-      - "53. Молдова": 10-other-countries/053-moldova-placeholder.md
-      - "54. Швейцария": 10-other-countries/054-switzerland-placeholder.md
-      - "55. ЕС-страны": 10-other-countries/055-eu-countries-placeholder.md
-      - "56. Россия": 10-other-countries/056-russia-placeholder.md
-      - "57. Дополнительные страны": 10-other-countries/057-additional-placeholder.md
+      - "45. Экономика кампании": 08-implementation/045-campaign-economics.md
+      - "46. Детонаторы: Великобритания": 08-implementation/046-detonators-uk.md
+      - "47. Цугцванг носителей": 08-implementation/047-zugzwang-carriers.md
+      - "48. Топология неизбежности": 08-implementation/048-inevitability-topology.md
+      - "48b. Экономика оглупления": 08-implementation/048b-stupidity-economics.md
+      - "48c. Наука национального самоубийства": 08-implementation/048c-science-national-suicide.md
+      - "48d. Переход при автократии: силовики": 08-implementation/048d-forces-transition.md
+      - "48e. Экспорт правды": 08-implementation/048e-export-of-truth.md
+      - "48f. Двойная запись вместо наблюдателей": 08-implementation/048f-double-entry-elections.md
+      - "48g. Откат после запуска": 08-implementation/048g-rollback.md
+  - "IV. Страновые имплементации":
+    - "Глава 9. Кейсы: другие страны":
+      - "53. Молдова": 09-other-countries/053-moldova.md
+      - "54. Швейцария": 09-other-countries/054-switzerland-placeholder.md
+      - "55. ЕС-страны": 09-other-countries/055-eu-countries-placeholder.md
+      - "55b. Франция": 09-other-countries/055b-france.md
+      - "55c. Германия": 09-other-countries/055c-germany.md
+      - "55d. Великобритания: Брексит": 09-other-countries/055d-uk-brexit.md
+      - "56. Россия": 09-other-countries/056-russia.md
+      - "56d. Россия: тупик оппозиции": 09-other-countries/056d-russia-opposition-deadlock.md
+      - "56e. Россия: контрактники": 09-other-countries/056e-russia-contract-soldiers.md
+      - "57. Дополнительные страны": 09-other-countries/057-additional-placeholder.md
+      - "57b. Беларусь": 09-other-countries/057b-belarus.md
+      - "57c. Иран": 09-other-countries/057c-iran.md
+      - "57d. Венесуэла": 09-other-countries/057d-venezuela.md
+    - "Глава 10. Кейс: США":
+      - "45. Правовая база США": 10-usa/045-us-legal-base.md
+      - "46. Oregon initiative": 10-usa/046-oregon-initiative.md
+      - "47. State-by-state": 10-usa/047-state-by-state.md
+      - "48. W-2 источник данных": 10-usa/048-w2-data-source.md
+      - "48b. W-2 через SSA: детали источника": 10-usa/048b-w2-source-detail.md
+      - "48c. Таймлайн данных и модернизация IRS": 10-usa/048c-data-timeline-us.md
+      - "49. Юридический устав": 10-usa/049-legal-statute.md
+      - "50. Кейс Danville": 10-usa/050-danville-case.md
+      - "51. Church Street": 10-usa/051-church-street.md
+      - "52. $676 Challenge": 10-usa/052-676-challenge.md
+      - "58. Кризис аффордабилити 2026": 10-usa/058-affordability-2026.md
+      - "59. Аватары и инженеры": 10-usa/059-presidents-avatars-engineers.md
+      - "59b. Маск, Милей, DOGE": 10-usa/059b-musk-milei-doge.md
+      - "59c. Трамп $5000 и критики": 10-usa/059c-trump-5000-and-critics.md
+      - "59d. Андердоги, Портер, либертарианцы": 10-usa/059d-candidates-porter-libertarians-web3.md
+      - "59e. Кампания андердога": 10-usa/059e-underdog-campaign.md
+      - "59f. Пратт, Чикаго-2027, 14 дней Трампа": 10-usa/059f-pratt-chicago-trump.md
+  - "Вопросы и ответы":
+    - "О базе Q&A": qa/index.md
+    - "Право и конституция": qa/legal.md
+    - "Экономика и финансирование": qa/economics.md
+    - "Электоральная динамика": qa/electoral.md
+    - "Теория игр и математика": qa/game-theory.md
+    - "Этика и философия": qa/ethics.md
+    - "Социология и справедливость": qa/society.md
+    - "Имплементация и технологии": qa/implementation.md
+    - "Геополитика и страны": qa/geopolitics.md
+    - "Мета-вопросы": qa/meta.md
   - "Changelog": changelog.md
 
 extra:

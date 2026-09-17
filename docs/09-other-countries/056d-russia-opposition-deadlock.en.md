@@ -1,0 +1,73 @@
+# Russia: the Opposition's Deadlock and the Zugzwang of the Core Electorate
+
+**Chapter:** 09 — Cases: Other Countries
+**File:** 09_056d · v1 · 15 September 2026 (Gemini dialogue, session 15-09-26)
+**Source:** analysis of the public positions of A. Galliamov and M. Katz (videos 2026), a reconstruction of the reaction of M. Khodorkovsky's team, a legal analysis of Art. 9 of the Russian Constitution and the Law "On Subsoil". Supplements 056 (adoption scenario under the current regime) and 040d.5 (political children). A country case; the universal logic is moved to 048d (the forces) and 033c (language of the protocol).
+
+---
+
+## 1. "It's winter, you can't grow strawberries": the capitulation of classical political science
+
+Galliamov admits in plain words: within the current rules intelligent, independent, opposition-minded people have not a single chance of winning through the ballot box — the system controls candidate access, the count and the administrative resource. What does he propose instead? Nothing: wait for a "black swan" — a mutiny, a collapse, a February 1917. The political scientist's three standard pieces of advice inside rules written by a card sharp — all losing:
+
+- vote for systemic spoilers — legitimise the consensus and give your vote to those who will vote as told;
+- boycott — dry up the turnout and let the dependent electorate formalise a victory with minimal effort;
+- spoil the ballot — morally pleasant, mathematically meaningless (the percentage is counted from valid ballots).
+
+AB-EXIT does not try to "grow strawberries in winter" — it changes the climate: it moves the struggle from the plane of moral choice into the plane of asset balance. "Galliamov looks at the board and says: the game is lost, we wait for an earthquake. The architect says: if chess cannot be won, we convert the board into an exchange where the dictator is automatically bankrupt."
+
+The protocol's four moves against "winter": (1) apathy stops being free for the regime — for a protest or wavering voter to stay home, the budget has to pay; (2) even a public-sector employee, given the alternative, takes the dividend and does not go, while the ideological 15–20 % of the opposition, by refusing, get x3 — a handful of the principled at half-empty polling stations overturns the remainder of the administrative resource; (3) the absence of independent candidates stops being a catastrophe: the voter does not humiliate himself with the "lesser evil" but declares a strike through the contract — he does not sell his vote at the offered price, accumulates x3 and blocks re-election, provoking a crisis of legitimacy; (4) removing a candidate becomes expensive: a million of his voters press "give me the money" — falsification hits the treasury directly.
+
+## 2. Katz and the 54 students: a micro-district model
+
+Katz criticises Yabloko for its plan to spoil ballots and calls for voting for the "smallest cannibal" (any systemic party); his own poll of students: every second opponent of the regime boycotts. Katz is angry — "the votes burn". The architect corrects: the students are rational — they know the administrative steamroller will herd in millions of the coerced, and they refuse to play at P ≈ 0. Under AB-EXIT the opposite separation occurs.
+
+**A micro-district of 100 voters** (Katz's 54 students + the administrative resource):
+
+| Group | Composition | Current rules | AB-EXIT: choice | Weight (x3) | Share |
+|---|---|---|---|---|---|
+| 1. Radical opposition | 26 (23 boycott, 3 spoil) | 0 valid → 0 % | see an empty field, 100 % refuse the money | 78 | **57.8 %** |
+| 2. Systemic opposition | 28 (New People 16, CPRF 11, LDPR 1) | 28 → 37.8 % | half take the money, 14 stay | 42 | 31.1 % |
+| 3. Administrative resource | 46 (public-sector workers, security forces, pensioners) | 46 → **62.2 %** | 90 % (41) take the dividend, 5 ideological stay | 15 | 11.1 % |
+
+The system flips not because the opposition persuaded 46 supporters of the regime but because their participation was bought out at the budget's expense. The boycotters — marginals under the old rules — become the controlling majority; the party of power falls from 62 % to 11 %.
+
+**Why Katz sees no way out** (not stupidity — paradigmatic blindness): (a) the religion of the "sacred vote" — proposing to monetise apathy is, for a classical liberal, "like coming to church with a calculator; morality blocks access to mathematics"; (b) the enlightener's business model — a career built on "persuading and teaching", and the protocol makes that labour unnecessary; (c) the illusion of a chess game by the Presidential Administration's rules.
+
+**The taboo Katz skirts** (from his own video on hidden mobilisation): he describes adults who believe threats, sign a contract without reading it, cannot say "no" to the recruiting officer — and simultaneously, in his election videos, addresses the same people as wise citizens. The question "why are these children admitted to elections when real children of the same intelligence are not" cannot be asked publicly — it destroys the dogma. The protocol's universal answer — 040d.5. (A clarification on the video "Mobilisation after the elections", ~5:12: the block on "the most vulnerable category" is about whom quiet post-election mobilisation will catch first, not about "adults as children"; the frame "why were they admitted" belongs to the general logic and the comments, not to the video itself. Where the "child voters" go after the protocol: not deprivation of a right but a fork — take the money, stay with a dearer vote, or return after a cycle; their status becomes clearer than the age fiction "turned 18 — a full arbiter of the country".)
+
+## 3. The party of power's core electorate: the fork
+
+The core is public-sector workers (teachers, doctors, low-level officials), pensioners, state corporations; the motive is fear of losing stability and dependence on the cash desk; retention is administrative mobilisation under threat to the bonus. For the party of power the protocol is a one-click verdict: given the legal option of taking ~70,000 roubles and not going, 80 % of the base disappears, and at the polling stations remain angry entrepreneurs and young people with x3.
+
+**Three playbooks** that will explain to the core that AB-EXIT is evil: "buying up the Motherland by oligarchs/foreign agents" (a blow to the poor man's pride: "sell the Motherland for 70,000?"); "a threat to stability" (the director at the staff meeting: "refuseniks won't be kept on the promotion lists" — fear of being listed as disloyal); "an inflationary dud and a caste society" (class hatred: invert Hirschman's logic and present the dividend as a conspiracy of the rich).
+
+**The fork.** Propaganda works exactly until payday. *Forbid taking it* — the teacher watches the neighbour from the car repair shop press the button, get the money and drive to the dacha, while she is herded to vote for free under threat: the authorities become the ones who literally take away live money; the core goes to the polling station to take revenge. *Allow it* — the core takes the money and does not go; there is no turnout. Leviathan chooses between two kinds of suicide: death from loss of turnout or from the revolt of its own serfs. No Solovyov will convince a person to give up a month's wage for a free tick beside a deputy he does not know. (Pivovarov on this — 040g.1: "institutional judo".)
+
+## 4. The price of coercion: why the boss's blackmail breaks
+
+"A boss cannot accuse a worker of being opposition for taking money he is entitled to — yet the same boss demands, for the same wage, good work every day." The difference is the price of coercion. Today obeying the order "go and vote" costs the worker 30 minutes on a Sunday — the cheapest and safest action. Under AB-EXIT the order "don't take the 75,000 roubles" costs him 75,000 roubles from the family budget — the boss climbs into his pocket. Three consequences: an explosion of hatred on the ground (a factory director of 1,000 people forces the workforce to give up 75 million roubles — a pre-strike situation at every enterprise); the need to compensate ("pay a bonus equal to the dividend" — the administrative resource goes bankrupt); sabotage (say "yes", secretly press the button, go on sick leave).
+
+**Anonymity is not necessary** — publicity is even more advantageous; it turns blackmail into farce: "Ivan Ivanovich, I took my lawful money under the Constitution; if you need my tick — compensate me from the factory's till plus a loyalty bonus. Can't? I chose my family." Desacralisation of betrayal: not going when ordered is fronde; taking the money is simply capitalism. "What, are you against Putin?" — "No, I'm for, I just need the 75,000 more." Responsibility for poverty shifts to the boss: "if you paid 300,000 I'd refuse the dividend and go." The universal version — 033c.4.
+
+## 5. The autocrat loves the poor voter — and that is his weak link
+
+Dictatorships deliberately preserve poverty: low public-sector wages, dependence on payments — the poor public-sector employee is considered the ideal obedient voter. Financial judo: because of artificial poverty the marginal utility of live money for him is colossal; the dividend works best precisely on those whom the regime considered its property (to a Moscow hipster 75,000 roubles makes no difference — he will refuse; for a nurse in a district hospital the sum changes everything). The more successfully the autocrat robbed the electorate, the cheaper it is to buy it out. The only way to stop the process is to make people richer so the dividend becomes insignificant, but the rich and independent stop being afraid and vote against (the middle-class effect). Keep them poor — they take the dividend and leave; make them rich — they refuse it and vote for democracy. See 040f.6 and the zugzwang in 047.
+
+## 6. The three fears of Khodorkovsky's team and the "economic glue"
+
+A reconstruction of the pitch to the intellectual circle of the opposition in exile (the addressees are economists and political scientists of the Guriev/Pastukhov level, not MBK himself). Three fears the protocol closes: (1) **disintegration of the country** — a dividend from common resources into the personal account of every citizen from Chechnya to Yakutia makes separatism unprofitable: nobody gives up the payment for a dubious independence; (2) **return of the security-service dictatorship** — a parliament also gets corrupted, but AB-EXIT takes the distribution of most of the budget away from officials: no trough — no new dictators, nothing for the security services to guard and steal; (3) **the people's distrust** ("they'll come and steal too, like in the 90s") — for the first time the opposition says "don't believe us, don't believe the authorities, believe mathematics: we install an algorithm that starts paying you from the budget". The opposition critically lacks a positive programme — everyone knows what they are against, few explain to the deep people what they are for. A party with a 1 % rating gets 50 % in a month because it sells not itself but the key to a safe with other people's money.
+
+## 7. Who owns the subsoil: de jure and de facto
+
+Art. 9 part 1 of the Russian Constitution: natural resources are "the basis of the life and activity of the peoples"; part 2: they may be in any form of ownership; the Law "On Subsoil" Art. 1.2: the subsoil is state property. The legal trick: "the basis of the life of the peoples" is a declaration, not a right of shared ownership; the subsoil belongs to the State, and state institutions and the citizen are different subjects. De facto the rent is divided between the apparatus (extraction tax, duties → security forces, army, construction, payments presented as "care"), the top management of state corporations (bonuses, procurement from "their own", offshore dividends) and the private oligarchy. The citizen gets "crumbs from the table" in indirect form — from the position "say thank you". The protocol does not rewrite the Constitution — it makes it work for the first time: "you yourselves wrote that we are the beneficiaries? here is the cash register, ring up the receipt". To forbid it, the authorities would have to admit: "the Constitution is a fairy tale for plebeians". (Universally: the constitution is a whitepaper, AB-EXIT a payment gateway to it; see 033c.)
+
+The logic with which the authorities will try to silence the people — paternalism ("you'll drink it all away"), inflation ("bread will cost a million"), the besieged fortress ("no time for dividends") — shatters on hypocrisy: when the same billions are withdrawn for state procurement from friends there is no inflation; "put army expenditure into the algorithm — we'll see what defence costs, and divide the remainder among us". Only force and censorship remain: the word is declared extremist, the sites are blocked, people are jailed for calling for transparent distribution "for encroaching on the constitutional order". That is the confirmation — against a direct dividend there is no counter-move.
+
+## 8. Weak point of the case
+
+The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. 🟡
+
+---
+
+**Related:** 056 (Russia: adoption scenario) · 056e (contract soldiers and the separating equilibrium) · 048d (army, police, security services) · 040d.5 (political children) · 040g (Russian thought) · 040f.6 (why would the winners steal) · 047 (zugzwang) · 033c (language of the protocol) · 057b (Belarus)

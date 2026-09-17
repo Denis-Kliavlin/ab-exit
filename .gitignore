@@ -24,3 +24,8 @@ CLAUDE_CODE_TASK_v3.md
 
 # Backup
 docs_backup/
+
+# Локальные заметки и доступы (не для публикации)
+_local/
+build.log
+_drive_inbox/
