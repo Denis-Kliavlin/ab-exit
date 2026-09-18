@@ -47,9 +47,33 @@ If voters considered the vote sacred and an offer of money an insult, the oppone
 
 Summary: jurisprudence (Hasen, Tribe) — no fact of buying the right vote, a waiver is formalised; macroeconomics (Summers, MacGuineas) — the costs are covered by x10; institutionalism (Zakaria, Klein) — demobilisation of the extras, power to the conscious core; the party elite (Newsom, Romney) — the cartel loses its monopoly on mobilisation by fear. The establishment attacks Trump for hacking the system with primitive bribery within the old rules; the protocol does not break the rules — it moves the system onto a new engine where the critics' objections turn into proofs of workability.
 
-## 5. Weak point of the case
+## 5. Polls after the promise: demand exists, trust does not, the condition is condemned
 
-Hasen and Tribe "accept" the protocol in the reconstruction — but precisely they, as real election-law experts, would be the first to point to 52 U.S.C. § 10307(c) (payment for non-participation) and to one person, one vote for x3 (059b.8). Their agreement here is the most optimistic of possible reconstructions; the honest one is "a doctrinal turn will be required, and it is not guaranteed". Krugman is the only one who remains against in the reconstruction; that is plausible, and his argument (the inverted filter) is closed only by the structure of wealth and reversibility (040b.5), not by the mechanism. 🟡
+The promise was made on 9 September 2026 at the convention in Dallas. Two polls of 11–14 September measured the reaction, and they diverge exactly where the border between the "Trump dividend" and the protocol runs.
+
+| Question | Result | Source |
+|---|---|---|
+| Send $5,000 to every adult citizen | 48 % favour, 40 % oppose (registered voters) | Economist/YouGov, 1,461 people |
+| The same by party | Republicans 61 to 29 in favour; Democrats 39 to 48 against; independents 41 to 44 | Economist/YouGov |
+| The same, ages 18–29 | 61 % in favour | Economist/YouGov |
+| Is it a good or a bad idea | Bad 45 %, good 38 % | Economist/YouGov |
+| Will Trump follow through | No 57 % (of whom "definitely not" 41 %), yes 21 %; among likely voters no 61 %, yes 22 % | Economist/YouGov |
+| Is it appropriate to promise a payment conditional on a party's victory | Inappropriate 63 %, appropriate 17 %; inappropriate say 89 % of Democrats, 61 % of independents and 37 % of Republicans | Reuters/Ipsos, 1,143 people |
+
+What follows for the protocol — and what does not.
+
+1. **People separate the money from the condition.** Half want the payment, almost two thirds find it inappropriate to tie it to a party's victory — and these are largely the same people. What is condemned is not money near an election but a partisan bribe. The protocol is the same payment with exactly the condemned part removed: no condition "if my party wins", no candidate receives the vote (the table in §1). This is stronger than the thesis "biology beat morality": morality is alive, and it is on the side of the unconditional construction.
+2. **The bottleneck is trust, not demand.** One in five believes a politician's personal promise. This is the main lesson for the estimate "don't believe the mechanism — 3–6 %" in 013c.5: for a promise that depends on a person's will, distrust is not 3–6 % but about 60 %. The protocol's answer is not better rhetoric but construction: a sum by a public formula, automatic crediting, the first tranche within a day (055b.8), the budget identity (048f). Until that exists in practice, distrust is the first opponent, not "the machines".
+3. **The reaction is partisan, not principled.** The same transfer is approved by 61 % of Republicans and 39 % of Democrats: people judge not the idea but who proposes it. This is data for §2 and for 029 (structural hypocrisy): the competitor is criticised, not the payment.
+4. **"I would take it" ≠ "it is good policy".** 48 % in favour of receiving and only 38 % call the idea good — a ten-point gap between stated and revealed preference, measured directly (059e.2: the say-do gap; 055d.8).
+5. **What the poll does not prove.** It does not measure support for the protocol. Trump's deal costs the voter nothing — money *and* the vote; the protocol requires giving up the vote for a cycle. The poll shows demand for free money, not the price at which a person hands over the vote. The extrapolation "48 % for a dirty deal → 70–80 % for a clean one" does not follow from these data. The youth's 61 % is explained by poverty and debt no worse than by "the vote as a token" (019b).
+6. **A free rehearsal of the court case.** Lawyers immediately named three statutes: 52 U.S.C. § 10307(c), 18 U.S.C. § 597 and 18 U.S.C. § 600. The third (promising a benefit for supporting a party) does not apply to the protocol — there is no party support. The second explicitly covers payment for a person to withhold a vote, and that is the same wall as in 059b.8. The public dispute over the legality of Trump's promise is a free preview of the litigation awaiting the protocol; the sides' arguments are worth following now.
+
+Separately, on the moral reaction. In Russian-language liberal commentary the promise was called a legitimisation of shamelessness, with the question whether Americans will agree that they can be bought (by paraphrase; the broadcast could not be verified). The Reuters/Ipsos data show that Americans in their majority answered exactly as the moralist hoped: inappropriate. Therefore a pitch in the register "people can be bought, and there is nothing vulgar in that" walks straight into the opponent's strongest frame (040c.2); the working register is the protocol's language: "they sell, we do not buy", "forgone gain, not confiscation", "the poor are not stupid" (033c.1, 033c.3, 040d.4).
+
+## 6. Weak point of the case
+
+Hasen and Tribe "accept" the protocol in the reconstruction — but precisely they, as real election-law experts, would be the first to point to 52 U.S.C. § 10307(c) (payment for non-participation) and to one person, one vote for x3 (059b.8). Their agreement here is the most optimistic of possible reconstructions; the honest one is "a doctrinal turn will be required, and it is not guaranteed". Krugman is the only one who remains against in the reconstruction; that is plausible, and his argument (the inverted filter) is closed only by the structure of wealth and reversibility (040b.5), not by the mechanism. On §5: both polls were taken in the first week after the promise, before the sides campaigned; the figures will move, and the comparison should be made against a post-election measurement. 🟡
 
 ---
 

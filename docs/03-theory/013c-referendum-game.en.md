@@ -100,7 +100,7 @@ Two different claims: "it benefits people" — may be true; "therefore it will b
 
 ## 8. Weak point of the section
 
-Equilibrium C is not removed by incentive mathematics — it is removed only by organising turnout, and in the dialogue the model under pressure stopped mentioning it; here it is preserved deliberately. All percentages are projections from incentive logic in the absence of a before/after baseline; their role is to set orders of magnitude and structure, not to predict a result. And the parallels of §7 concern the *adoption* of ideas with mass benefit, but none of them paid the citizen for exiting participation; the analogy is by payoff structure, not by mechanism. 🟡
+Equilibrium C is not removed by incentive mathematics — it is removed only by organising turnout, and in the dialogue the model under pressure stopped mentioning it; here it is preserved deliberately. All percentages are projections from incentive logic in the absence of a before/after baseline; their role is to set orders of magnitude and structure, not to predict a result. The estimate "don't believe the mechanism — 3–6 %" in §5 refers to a working automatic payment; for a promise that depends on a politician's will, measured distrust is an order of magnitude higher — about 60 % (059c.5), and until the first real tranche the protocol is closer to the second case. And the parallels of §7 concern the *adoption* of ideas with mass benefit, but none of them paid the citizen for exiting participation; the analogy is by payoff structure, not by mechanism. 🟡
 
 ---
 
