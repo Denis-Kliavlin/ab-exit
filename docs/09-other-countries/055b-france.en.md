@@ -76,7 +76,7 @@ The pitch to the right (Lisnard): not "handing out money" (associated with the l
 
 ## 10. Weak point of the case
 
-The percentages in §7 are intuitive estimates on top of current polls, not a model; the assumption "half of Le Pen's electorate goes to the technocrat" contradicts the empirical loyalty of RN voters and needs testing. Article 11 applies to "the organisation of public authority" — the Constitutional Council may dispute assigning payments to that category; no legal analysis has been done. 🟡
+The percentages in §7 are intuitive estimates on top of current polls, not a model; the assumption "half of Le Pen's electorate goes to the technocrat" contradicts the empirical loyalty of RN voters and needs testing. Article 11 applies to "the organisation of public authority" — the Constitutional Council may dispute assigning payments to that category; no legal analysis has been done. The sum "1,500 euros" in the text illustrates the order; by the formula at K = 1 % it is about 390–480 euros (033c.9c). 🟡
 
 ---
 

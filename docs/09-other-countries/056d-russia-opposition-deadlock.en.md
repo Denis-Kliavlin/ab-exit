@@ -66,7 +66,7 @@ The logic with which the authorities will try to silence the people — paternal
 
 ## 8. Weak point of the case
 
-The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. 🟡
+The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
 
 ---
 

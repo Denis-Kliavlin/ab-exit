@@ -50,7 +50,7 @@ Hiding a working protocol in a world with the internet is impossible, and the co
 
 ## 8. Weak point of the section
 
-The whole section is built on the existence of a *first* working country; this is circular: the export of truth begins after a success that does not yet exist. And "doubling in five years" is not a forecast but a condition ("if") — in 045 and 048b the estimates of the economic effect are more cautious (+2–5 % of GDP). The table in §7 is a typology, not a ranking; no country has been assessed against concrete infrastructure criteria. 🟡
+The whole section is built on the existence of a *first* working country; this is circular: the export of truth begins after a success that does not yet exist. And "doubling in five years" is not a forecast but a condition ("if") — in 045 and 048b the estimates of the economic effect are more cautious (+2–5 % of GDP). The table in §7 is a typology, not a ranking; no country has been assessed against concrete infrastructure criteria. The sums "1,000–1,500 euros" illustrate the order; by the formula at K = 1 % the figure for France is about 390–480 euros (033c.9c). 🟡
 
 ---
 

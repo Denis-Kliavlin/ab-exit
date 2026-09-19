@@ -54,6 +54,25 @@ The architect's clarification: "it is an approximate calculation based on curren
 
 Two consequences. First: a legal multiplier would be meaningless — an identical coefficient for all who vote changes not a single share or result (in the table of 056d.2 the shares are the same with and without multiplication by three). Second: the objection "one person, one vote" addresses a norm the protocol does not contain: every ballot counts as one, and the weight changes exactly as it changes today under any abstention — at 50 % turnout each person who came already weighs twice as much as under full turnout, and nobody calls that a violation (013b.3, Q-LEG-005). What remains is the philosophical version of the objection (034, strike 3: equality becomes activatable), but it is not about the count.
 
+## 9c. Sums are an order of magnitude, not a parameter
+
+The architect's clarification: "the sums matter as an example. Obviously different cities will have different sums, but in discussion one needs to grasp the order of the figures: this is not 10,000 and not 100." The formula D = M × 1.5 × K is primary; a number in a slogan or a dialogue illustrates the order. Any sum in the repository not derived from the formula is to be read that way.
+
+A useful invariant: at K = 1 % the dividend equals 1.5 % of the annual median wage, that is, roughly four working days of median pay — in any country. The order by the formula (medians approximate):
+
+| Country | Annual median wage | D by the formula at K = 1 % |
+|---|---|---|
+| USA | ~$52 thousand | ~$780 |
+| Germany | ~€45 thousand | ~€680 |
+| United Kingdom | ~£31 thousand | ~£465 |
+| France | ~€26–32 thousand | ~€390–480 |
+| Russia | ~700 thousand roubles | ~11 thousand roubles |
+| Moldova | ~130–170 thousand lei | ~2–2.5 thousand lei |
+
+For rich countries the examples in the texts ("$1,000", "$1,500") lie in the same order as the formula. For France ("1,000–1,500 euros" in 055b and 048e) the gap is already three to four times, and for Russia ("70–75 thousand roubles, a month's wage" in 056d) — six to seven times: that is not "four working days" but "a month", and corresponds to K of about 6–7 %, not 1 %. These places are marked as illustrations. The coefficient K is a parameter set by the referendum of a specific territory; but arguments built on "a month's wage" must, at K = 1 %, be read as arguments about four days' pay.
+
+What depends on this. The forecasts of the exit share and of referendum support were made for illustrative sums; the sensitivity of exit to the size of D has not been measured, and that is the first question for a pilot: at what sum a person with a short horizon (040c.1.5) takes the money. The budget estimate "1–2 % of the budget" (045, 055b.8) is computed from the formula, not from the illustrations. 🟡
+
 ## 10. Weak point of the vocabulary
 
 Minted formulas work in a pitch and break in court: "market census" is a gift to an opponent who will quote it in a discrimination suit; "they sell" — in jurisdictions where selling a vote is criminal — requires the construction "revocable lease/deposit", not "sale" (§45, 049). The vocabulary for the people and the vocabulary for the statute are two different documents. 🟡
