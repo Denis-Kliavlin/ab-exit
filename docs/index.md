@@ -155,6 +155,7 @@
 - [48f. Двойная запись вместо наблюдателей](08-implementation/048f-double-entry-elections.md)
 - [48g. Откат после запуска: вероятности, четыре пути, кто за отмену](08-implementation/048g-rollback.md)
 - [48h. Тайна, проверяемость и цена принуждения: немецкий суд и зеркальная атака](08-implementation/048h-secrecy-verifiability-coercion.md)
+- [48i. Три канала и параллельный подсчёт: деньги, открытый голос, тайный бюллетень](08-implementation/048i-three-channels-parallel-count.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 
