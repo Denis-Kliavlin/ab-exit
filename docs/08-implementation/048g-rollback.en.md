@@ -55,6 +55,20 @@ So the honest answer to "how would they roll it back" is: not through the sum, b
 | Make the choice difficult | Payment only on personal appearance, a short window, a complicated form; or making the return to voting difficult | The deadline and method of filing in the statute; one and the same channel for both buttons |
 | Do not hold the election | A state of emergency, a postponement: no election, no payment | The payment is tied to the calendar of the cycle, not to the fact of voting |
 
+Who exactly would go through the gaps. The architect's question about the table above: "and who, in your account, would be trying to roll it back?" The table is written in the impersonal, and that is its flaw. The answer splits in two. At a referendum to "repeal", it is the groups of §4 that vote, and they are 7–12 %: the machines and their core, principled opponents, status losers. A rollback does not pass that way, and that is exactly why nobody serious will choose it. Others go through the gaps — those who need no referendum because they have access to the text of the law and the regulations:
+
+| Who | Motive | Which gap is open to them |
+|---|---|---|
+| The ministry of finance under any government | In a hard year D is a large line one is tempted to "optimise" | Count D as income for benefits; pay in something other than money; shift the date |
+| Recipients of the levies that have begun to be repealed (019c) | The owners of the gates lose income and are the best organised of all | Narrow the circle, make the choice difficult — anything that brings the indifferent back to the polls |
+| A parliamentary majority facing defeat | To get cheap votes back by the next election | "Technical amendments" to filing procedure and deadlines |
+| The agency that computes the median | Pressure from above, not its own interest | The methodology and the data source |
+| A government in crisis | To hold on | A state of emergency and postponement of the election |
+
+What they have in common is that none of them would win an open vote, and all of them know it; so the attempt will look not like a rollback but like a clarification, an optimisation or a temporary measure. Georgia's excise of 2026 looked the same — not "repeal of the reform" but "an environmental measure against old cars".
+
+Georgia's place on the scale of §5. The law of durability stated there — reforms are rolled back easily when the benefit is abstract, elite and procedural, and almost never when it is personal, regular, mass and understandable — gets in Georgia a tested example for its first half: a constitutional lock on taxes belongs to the row "procedural reforms" with a rollback chance of 20–40 %, and it lived more than ten years until the first successful gap. By the same law the protocol stands in a different row, but only in the part where the sum serves as watchman; gaps that do not touch the sum remain at the level of a procedural reform, and they must be closed by the text of the statute, not by hope in the watchman.
+
 The general rule, which Georgia demonstrated at the cost of its own reform: do not write a closed list of exceptions at all. Every "except" in the statute is a future door for a rollback, and that is the door they will go through. And second: the first row of the table differs from the rest in that it does not touch the sum itself, so the watchman may not notice it. This is the main place where a personal sum does not defend itself. 🟡
 
 ## 4. Who would vote for rollback and why
