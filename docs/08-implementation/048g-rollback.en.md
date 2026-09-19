@@ -71,6 +71,25 @@ Georgia's place on the scale of §5. The law of durability stated there — refo
 
 The general rule, which Georgia demonstrated at the cost of its own reform: do not write a closed list of exceptions at all. Every "except" in the statute is a future door for a rollback, and that is the door they will go through. And second: the first row of the table differs from the rest in that it does not touch the sum itself, so the watchman may not notice it. This is the main place where a personal sum does not defend itself. 🟡
 
+## 3c. Two watchmen: why spoiling gets caught
+
+The architect's objection to the table "who would go through the gaps" (§3b): "so the very government, most of which came to power only thanks to AB-EXIT, will start burying it while the people watch passively? Or perhaps at the next election the people, without changing AB-EXIT, will choose a new government. And the old one will know for certain that it will be caught — by those who did not take the money."
+
+The objection is accepted, and it points to the same error as before: the table of §3b describes the actors as they behave *today* — a ministry nobody questions and a majority answerable to an indifferent voter. After the protocol these are different people in a different position. The parliamentary majority was elected by those who stayed and rests on them; bringing the indifferent back to the polls means devaluing its own voter's vote. The finance minister is appointed by that majority and answers to it. The mechanism would have to be spoiled by those it brought to power, before the eyes of those who elected them.
+
+Hence a correction to §3b: there are two watchmen, not one.
+
+| Watchman | What he guards | Which gaps he notices |
+|---|---|---|
+| Those who took the money | The sum: its size, date, circle of recipients | Payment in something other than money, narrowing of the circle, spoiling of the median, delay; and counting D against benefits — a person notices a cut heating subsidy just as personally as a cut dividend |
+| Those who stayed to vote | The weight of their vote: that the indifferent are not brought back to the polls for free | Making choice B difficult, "technical amendments" to deadlines and procedure, any measure that restores cheap turnout |
+
+The first version of §3b called counting D against benefits the place where "the watchman may not notice". That is inexact: the loss is noticed; what is unclear is only whom to blame for it. But assigning blame is the opposition's job, and after the protocol it has better conditions for it than ever: the voter who stayed counts money and listens to figures (040b.2b), and the promise "I will return what was quietly taken from you" belongs to the same class of cheap verifiable promises as "repeal the levy" (019c.3). Spoiling done by regulation is undone by the next government's regulation; spoiling that requires changing the rules requires a referendum in which everyone votes (§6b), including those being deprived.
+
+So the estimate in §3 should be read as follows: an *attempt* at quiet spoiling remains likely — the temptation of the ministry in a hard year and of the levy recipients goes nowhere. But "one in three" referred to success in a world without watchmen. With two watchmen and an election between the attempt and its entrenchment, the assistant puts durable success of spoiling at rather 10–20 %, the typical outcome being spoiling for one cycle, after which it is reversed and punished at the polls. This is an estimate, not a calculation.
+
+What remains, and it is no longer about a passive people. First, the lag: up to one cycle passes between the spoiling and the election, and a bad amendment gets to serve out the term. Second, a government that is already losing: the deterrent "you will be caught" does not work on someone with nothing to lose, and he is exactly the one who will try to bring cheap votes back just before the election; the defence here is deadlines and the procedure of choice written in the statute, not in a regulation. Third, cancelling the election itself on an emergency pretext: against that, watchmen with ballots are powerless, and this case already belongs to the scenario of force (048d). 🟡
+
 ## 4. Who would vote for rollback and why
 
 | Group | Motive | Share of electorate (first estimate) |
