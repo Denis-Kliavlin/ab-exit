@@ -212,6 +212,27 @@ Lower the rate or return the money? By the logic of the previous point — retur
 
 Two conditions without which a return turns into the same pre-election buckwheat. It must follow a rule, not a decision: the formula of the cap is written in advance, as in Colorado, and the government has no button "hand out before the election". And only what was really saved is returned: a return out of debt or out of underfunded hospitals is not a dividend but a sale of assets. The honest remainder: Colorado's experience also shows the other side — legislators constantly look for ways to redirect the surplus, and in downturn years a rigid cap hinders restoring spending; the rule is needed, but it should be written by economists, not by a slogan. 🟡
 
+## 6g. A forecast: how many of those who stay are touched by the tax on a car
+
+The architect's question: what percentage of voters after the protocol will have a car, realistically want one in the future, or know the price of customs clearance through relatives — "perhaps this will no longer be a minority". Below is a model, not a measurement; the assumptions are named so that they can be challenged one by one.
+
+**The starting point.** Moldova has about 745 thousand registered passenger cars (statistics for the end of 2022); those actually alive are estimated at about 600 thousand. There are roughly 1.9 million adults and about a million households. About 40–50 % of households have a car, and about half of adults live in them, because families with a car are larger. No direct figure from the household budget survey could be found; this is an estimate. Among those who vote today the share is lower — roughly 40–45 %, because the elderly and rural residents turn out better. The architect's formula "the majority that votes has no car and no licence" is true of today, but the margin is small.
+
+**Who leaves.** The sum instead of the vote is more often taken by the poor, the elderly, people with a short horizon — that is, more often by those who have no car. Two variants at an overall exit share of about 60 %:
+
+| Stratification | Leaving among those without a car | Leaving among those with a car | Share of "a car in the family" among those who stay |
+|---|---|---|---|
+| Strong | 75 % | 45 % | about 69 % |
+| Weak | 65 % | 55 % | about 56 % |
+
+**Who is personally affected.** To the owners are added those who have no car but intend to buy one, are getting a licence, or know the price of customs clearance through their children and relatives. If that is half of those who stay without a car — and for the young and employed that is a cautious estimate — the result is 75–85 % of those who stay.
+
+**The conclusion.** On everything connected with a car — the import excise, the compulsory driving school, registration fees — a minority very probably becomes a majority of two thirds or three quarters. The third condition for a levy's survival (§2: "the majority that decides elections does not care") ceases to hold for this group of norms.
+
+This also closes the question of visibility left open in §6e. The architect objected to the thesis "VAT is visible nowhere": "when importing a car I see it clearly and distinctly, and I see it on the receipt". The correction is accepted: a person sees the sum at customs, gets angry — and nothing changes, because those who see it are few. Visibility in itself is not feedback; it becomes feedback when the one who sees acquires weight at elections. An annual statement with a total is needed against a tax smeared over a thousand receipts; against a tax paid by few and in large sums only a change in the composition of those who vote works.
+
+**Caveats.** The main assumption — that car owners take the sum less often — is plausible (a car in Moldova is a good proxy for income and planning horizon) but unmeasured; it is a question for a survey or a pilot. Present owners have a double interest: cheap imports make the next car cheaper but lower the resale price of the present one; they will not vote as a single bloc. The diaspora was not included; it has more cars, and its relatives pay the Moldovan customs clearance, so by staying in the vote it strengthens the same majority. 🟡
+
 ## 7. Weak point of the section
 
 A delay of one electoral cycle does remain: repeal comes through the first election after adoption, not on the day of adoption. Under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
