@@ -77,6 +77,8 @@ Why upward. The first version of this point called the direction "an assumption 
 
 What really has not been measured is the size. The repository cautiously estimates the release at 20–30 % of what is lost today and at +2–5 % of GDP as a level effect, not a perpetual growth rate (019.59.5): a city will not become a firm, it keeps functions that business does not have. "x10" is an image of the order, "significantly better" is the claim; how much exactly a pilot will show.
 
+The low-base effect. The architect: "at the start there will be a low-base effect and growth really will be manifold; but a pilot is needed." This is consistent with the "level effect": the release comes not evenly but steeply in the first cycles, flattening afterwards. The worse a territory was governed, the more is lost today and the more is returned by simply stopping the leak (019b: "I will stop stealing" is a bar anyone can clear, and it already gives a manifold gain for a particular courtyard). So manifold figures are plausible precisely where and when the base is lowest — in a badly run city and in the first cycles — and implausible as a perpetual rate for a country already governed well. The consequence for a pilot: choose a territory with a low base, where the effect will be visible within one or two cycles, and state in advance what counts as the base.
+
 Two caveats: the oscillation runs with a lag of one cycle, that is, a bad government gets to serve out its term; the amplitude has not been measured — it is unknown how much life must worsen for those who returned to take the money again. 🟡
 
 ## 7. Greed, stupidity, conscience — the great cycle
