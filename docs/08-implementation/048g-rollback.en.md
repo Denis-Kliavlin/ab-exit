@@ -38,6 +38,25 @@ Why a full rollback is not the most likely: after launch a large group appears t
 
 The most dangerous path is not an honest rollback but quiet spoilage of the mechanism: keep the signboard and ruin the formula. That is why protecting the parameters matters more than speeches about irreversibility: the five statute parameters (059e.3), the four-agency rule and the 10 % rule (048b), the budget identity (048f.3.2). Full rollback is roughly one in eight to one in ten, not "fifty-fifty". But quiet spoilage is one in three, and that is the most underrated row of the table.
 
+## 3b. The Georgian lesson: a personal sum versus an abstract parameter
+
+In 2011 Georgia wrote a lock into its constitution: new taxes and rate increases only by referendum, spending no higher than 30 % of GDP, the deficit no higher than 3 %, debt no higher than 60 %; the norm kept a proviso "except for excise tax", and the rollback came through it (019c.6h). The architect: "all Georgia's parameters are impersonal and abstract to a villager; that is why there was a rollback. How would they roll back AB-EXIT?"
+
+The diagnosis is exact. Nobody receives "thirty per cent of GDP" in his account; a breach of such a norm is noticed by no one but an economist, and there is nobody to defend it. The sum D is received by everyone who took it, remembered to the leu and compared with the last one (033c.9). Any spoiling of the mechanism that reduces that sum, delays it or narrows the circle of recipients hits the majority personally and is visible the same day. That is the difference between a lock on paper and a lock with a watchman.
+
+So the honest answer to "how would they roll it back" is: not through the sum, but around it. Gaps of the same kind as Georgia's brackets:
+
+| Gap | What it looks like | What closes it |
+|---|---|---|
+| Deduct on the other side | D is paid in full but counted as income: benefits, heating subsidies and concessions are cut; or a charge is introduced that falls mainly on recipients | A statute norm: D is disregarded in assessing any payments and is untaxed; this must be written in advance, because this gap is the most probable |
+| Pay in something other than money | Certificates, bonds, offsetting utility debts | "In money to the account" — in the text of the statute, not in a regulation |
+| Narrow the circle | "Except debtors", "except those living abroad", "except those not registered" | Non-selectivity of the payment as one of the five parameters (059e.3); any "except" only by referendum |
+| Spoil the median | Change the methodology, the source, the publishing agency | The real median by a fixed methodology, the rule of four agencies (048b) |
+| Make the choice difficult | Payment only on personal appearance, a short window, a complicated form; or making the return to voting difficult | The deadline and method of filing in the statute; one and the same channel for both buttons |
+| Do not hold the election | A state of emergency, a postponement: no election, no payment | The payment is tied to the calendar of the cycle, not to the fact of voting |
+
+The general rule, which Georgia demonstrated at the cost of its own reform: do not write a closed list of exceptions at all. Every "except" in the statute is a future door for a rollback, and that is the door they will go through. And second: the first row of the table differs from the rest in that it does not touch the sum itself, so the watchman may not notice it. This is the main place where a personal sum does not defend itself. 🟡
+
 ## 4. Who would vote for rollback and why
 
 | Group | Motive | Share of electorate (first estimate) |
