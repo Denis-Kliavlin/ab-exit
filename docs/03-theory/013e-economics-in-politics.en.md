@@ -104,6 +104,23 @@ The second is not accepted: it is a logical error, and it is worth naming before
 
 The third is accepted, and it matters more than it looks. Where a person was born is indeed no ground for demanding other people's money. But "the availability of housing in the new place" is precisely the real reason people stay in emptying villages. A house in such a village is worth a few thousand euros, a flat in a town ten to twenty times as much; having sold everything, one still cannot move. And urban housing costs two to four times its construction not because of concrete but because of the status of land, permits and waiting (019c.6c). The result is a closed circle, both links of which were made by the state: artificially dear housing locks people in where there are no jobs or services, and then the budget pays to run a bus out to them. Subtraction in housing — the possibility of building a house cheaply and lawfully near a district centre — does more for resettlement than any resettlement programme: people do not need to be transported; they need somewhere to go at a price they can pay.
 
+A calculation: the whole village or flats. The architect: "and if one adds the bus, and gas, and electricity, and road repairs, and the school, and the hospital — perhaps it is cheaper to buy them flats?" The assistant's rough estimate for a notional village: 20 households, about 40 residents, three schoolchildren, 5 km of access road. All figures are an order of magnitude.
+
+| Item | Per year |
+|---|---|
+| The access road: upkeep and a share of future repairs, 5 km | 25–75 thousand euros |
+| The school bus (see above) | 19–23 thousand euros |
+| A medical post or a visiting paramedic | 8–12 thousand euros |
+| Networks — electricity, gas, water: the share of upkeep that other consumers pay today through the tariff | 3–6 thousand euros |
+| A share of the commune's costs: the mayor's office, lighting, refuse | 3–5 thousand euros |
+| **Total** | **58–121 thousand euros a year — 3–6 thousand euros per household** |
+
+A 45 m² flat in a district centre (not the capital) is on the order of 27–40 thousand euros; for twenty households — 540–810 thousand euros. Payback: from four to five years in the case dear to the budget to fourteen in the cheap one. So yes, over a horizon of ten to fifteen years flats are cheaper than upkeep, and the gap grows: each year there are fewer residents in such a village, while the road and the networks cost the same.
+
+What must be kept in mind in this arithmetic. Part of the costs will not vanish when people leave: the road also leads to fields, the line also feeds a farm. Not everyone will want to go, and nobody may be forced (the boundary above). Mass purchase of flats by the state will raise prices in district centres if one cannot build freely there — it runs into housing again (019c.6c). And the main point, by the architect's own argument: "buy them flats" is a programme, that is, a procurement, a contractor and a flow to pinch from. The consistent solution is the same as with the bus: work out what the village costs and offer each household its ten-year share *as money for housing* — on the order of 30–60 thousand euros, which is just the price of a flat. Whoever agrees leaves with the money and chooses where to go; whoever stays, stays on the minimum. When a household leaves, its share of costs disappears from the budget for good.
+
+Why this is not done today has been said above: a loss-making village is bought votes, and the offer "take forty thousand and move" is a ready-made headline "the authorities are evicting the elderly". A calculation that on paper benefits all three sides — the household, the budget and the other taxpayers — is politically impossible as long as elections are decided by whoever watches that headline on television.
+
 A caveat for a campaign. The phrase "AB-EXIT wants to resettle villages" is a ready-made headline for an opponent. In public language this is a subject not for the protocol but for the programmes of candidates, who will for the first time be able to raise it; the protocol says nothing about it and should say nothing.
 
 Third. In a market whoever has more money has more votes. The protocol does not carry this over: those who stay have one vote each, and the sum is the same for all. This is not a flaw in the analogy but a deliberate boundary — yet it means that "the laws of economics" are not taken whole.
