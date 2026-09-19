@@ -59,9 +59,26 @@ Hence an exact formula to which the objection "you want to abolish supervision" 
 
 *Any other country.* The three conditions of §2 hold everywhere; only the height of the base differs. In rich countries the same levy looks like occupational licensing: in the United States roughly one worker in four needs a licence against one in twenty in the 1950s, and the explanation is not that occupations became more dangerous but the same construction — concentrated incumbents against dispersed newcomers and an indifferent majority. There the effect will be smaller and slower; in countries with a low base — manifold and fast.
 
+## 6b. Two kinds of effect: fast and slow
+
+This whole analysis began with the assistant's claim that the protocol would have no fast effect: "x10 is a condition, not a fact", "the cautious estimate is +2–5 % of GDP as a level effect", "the first cycle has to be financed before any effect". The architect: "we discussed all this when you were asserting that there would be no fast effect from AB-EXIT." The correction is accepted: the caution was right for one kind of effect and was wrongly extended to both.
+
+| | Construction | Subtraction |
+|---|---|---|
+| What it is | New institutions, investment, quality of decisions | Repeal of levies and fictitious control |
+| What it takes | A design, money, people, competence | One line and the absence of a reason to keep the norm |
+| Cost to the budget | Yes | Zero |
+| When the result shows | Years; +2–5 % of GDP as a level effect (019.59.5) | The day after the signature |
+| Who sees it | An economist in the statistics | Everyone — in the receipt, in the queue, in the wallet |
+| Sign of the result | Depends on the quality of the managers | Known in advance: the money stays with the person |
+
+The repository's cautious estimates belong to the left-hand column and stand. The right-hand column is fast: its only delay is the first election after adoption, not years. Moreover, it starts working before the election: candidates who need cheap verifiable promises compile their "repeal" lists during the campaign, and the very publication of such lists changes the behaviour of inspectors.
+
+For a campaign this distinction matters more than any other. A person need not be promised GDP growth in ten years; he can be given three lines that will vanish from his life in the first year, with a sum beside each. That is the answer to the question "what do I get besides the dividend".
+
 ## 7. Weak point of the section
 
-Speed: repeal comes not on the day the protocol is adopted but through an election at which such a promise first becomes profitable; under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
+A delay of one electoral cycle does remain: repeal comes through the first election after adoption, not on the day of adoption. Under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
 
 ---
 
