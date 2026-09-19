@@ -22,7 +22,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 
 - **We change who decides — the rest is consequences.** For a century reformers have begged the dependent voter to approve long-term development; he will not. The protocol does not persuade — it takes him out of the loop without hurting him financially (033c.6, 059b.4).
 - **A separating equilibrium.** One ballot for all gives pooling: the smart and the indifferent merge into a grey mass where the administrative resource wins. A menu of contracts makes the types separate themselves (056e.2, 059c.3).
-- **1/N → 1/(N − M).** The value of a vote grows as people exit; with half gone — double, with 90 % gone and x3 — thirtyfold. This is not a trick inside the old choice function but a replacement of the function itself (015c.2, 056e.3).
+- **1/N → 1/(N − M).** The value of a vote grows as people exit; with half gone — double, with two thirds gone — triple (hence "x3"), with 90 % gone — tenfold. This is not a trick inside the old choice function but a replacement of the function itself (015c.2, 056e.3).
 - **A phase transition, not a deal.** The dividend is not the price of a vote but activation energy: the one who took the money drops out of the political dimension, becomes a line on the balance sheet, and the state no longer needs his vote (040d.3, 033c.2).
 - **The first fair, voluntary and reversible market census in history.** All censuses of the past were built from above; here the filter is from below: the citizen himself judges whether influence matters more to him than a concrete sum (043 §75, 033c.8).
 

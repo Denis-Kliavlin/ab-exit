@@ -1,4 +1,4 @@
-# Russia: Contract Soldiers, the Separating Equilibrium and the 30× Leverage
+# Russia: Contract Soldiers, the Separating Equilibrium and the Tenfold Leverage
 
 **Chapter:** 09 — Cases: Other Countries
 **File:** 09_056e · v1 · 15 September 2026 (Gemini dialogue, session 15-09-26)
@@ -25,17 +25,17 @@ Result: of 100 people ready to sell their bodies for the front, 93–95 take the
 
 ## 2. The separating equilibrium
 
-In mechanism design theory (Nobel 2007) this is called a **separating equilibrium through self-selection**. The hidden-information problem: the state does not know who understands and cares and who came on orders or for a hand-out. One option for all (just a ballot) gives a pooling equilibrium — the smart and the stupid, the free and the dependent merge into a grey mass where the administrative resource wins. A menu of contracts forces the types to separate themselves: political will means nothing to you — take B; it is critical — pay for it by refusing the money and receive x3. People sort themselves.
+In mechanism design theory (Nobel 2007) this is called a **separating equilibrium through self-selection**. The hidden-information problem: the state does not know who understands and cares and who came on orders or for a hand-out. One option for all (just a ballot) gives a pooling equilibrium — the smart and the stupid, the free and the dependent merge into a grey mass where the administrative resource wins. A menu of contracts forces the types to separate themselves: political will means nothing to you — take B; it is critical — pay for it by refusing the money and receive a heavier vote. People sort themselves.
 
 **The autocrat's electorate** divides into: core ideological supporters (10–15 %) — will not disappear, will refuse the money; the administratively dependent (40–50 %) — vote out of fear of losing crumbs; the poor and apolitical (20–30 %) — by inertia and for a hand-out before the election. Group 3 the protocol removes with a legal large payment bigger than any one-off hand-out. Group 2 is the most powerful blow: the chief physician says "tomorrow we all vote, send a photo of the ballot", and the employee officially takes the dividend, and the director has nobody left to manage. **The autocrat's paradox:** he cannot outbid, because it is *his own* money — the protocol cuts out the intermediaries (governors, buckwheat, bonuses) and tells the voter "take your share directly". To keep his electorate the autocrat must ask "don't take the money, come out for me" — the level of fanaticism needed to burn a month's wage for a tick exists in at most 10 %.
 
-## 3. The 30× leverage
+## 3. The 10× leverage
 
-When 90 % go into the dividend, the active pool shrinks to 10 %, and the x3 multiplier gives each conscious vote a relative weight of 1/0.10 × 3 = **30**: one vote of an entrepreneur or a principled oppositionist outweighs thirty passive ones whom the regime herded in for a day off. On Wall Street a 90/10 ratio with triple leverage would be called a guaranteed hostile-takeover scenario.
+When 90 % go into the dividend, the active pool shrinks to 10 %, and the weight of each remaining vote rises to 1/0.10 = **10**: one vote of an entrepreneur or a principled oppositionist weighs as much as ten did before, while the passive votes the regime herded in for a day off have left the count. This is the arithmetic of those who stay, not a legal multiplier (033c.9b); "x3" in the early texts is the same calculation with two thirds exiting. On Wall Street a 90/10 ratio would be called a ready-made hostile-takeover scenario.
 
 **Double-spending.** The observers' main pain is dead souls: lists of non-voters (40–50 %) are used for ballot stuffing. At 90 % payouts the scheme technically dies: choice B is not absence from the polling station but a legally recorded transaction; stuffing a ballot for someone who received the dividend creates a conflict (treasury statement vs paper in the box), verifiable by automatic audit without catching teachers red-handed. (See the analysis of observation and falsification — 048e.)
 
-**Hypersensitivity.** When 90 % sit on the dividend, stability is hypersensitive to the economy: it is enough for 5–7 % of that pool to be disappointed in the amount and switch to A for the opposition's weight to double. The regime is in a vice: it cannot cut the payments (an inflow of the enraged with x3) and cannot print (inflation cuts the purchasing power of the dividend).
+**Hypersensitivity.** When 90 % sit on the dividend, stability is hypersensitive to the economy: it is enough for 5–7 % of that pool to be disappointed in the amount and switch to A for the opposition's weight to double. The regime is in a vice: it cannot cut the payments (an inflow of the enraged, each of whose votes weighs tenfold) and cannot print (inflation cuts the purchasing power of the dividend).
 
 ## 4. Why this does not resemble the opposition's technologies
 
@@ -43,7 +43,7 @@ The opposition and the protocol come from different universes: the opposition's 
 
 ## 5. Weak point of the case
 
-The percentages in the table are expert guesses on top of the sociology of motivation, not the result of a poll about A/B. The 30× leverage is arithmetic under the assumption of 90 % exit, which for the country as a whole (not for the contract-soldier cohort) the repository estimates at 55–65 %; at 60 % the leverage = 7.5×. Both figures should be shown together. 🟡
+The percentages in the table are expert guesses on top of the sociology of motivation, not the result of a poll about A/B. The 10× leverage is arithmetic under the assumption of 90 % exit, which for the country as a whole (not for the contract-soldier cohort) the repository estimates at 55–65 %; at 60 % the leverage = 2.5×. Both figures should be shown together. The first version of this section said 30× and 7.5×: the arithmetic of those who stay had been multiplied by "x3" once more, that is, counted twice; corrected per 033c.9b. 🟡
 
 ---
 
