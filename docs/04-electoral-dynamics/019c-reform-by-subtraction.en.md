@@ -353,6 +353,24 @@ This is an extreme case, not the average: in an average small mayoralty about 30
 
 Within a radius of eight and a half kilometres of a mayoralty of 293 inhabitants there are eight more mayoralties, each with its own mayor, secretary and accountant. The nearest is six or seven kilometres by road, ten minutes by car, half an hour by bicycle; the district centre is about twenty minutes away. And the village goes on emptying: the 2004 census counted 382 people in the village of Salcia itself, the 2024 census 166. The office has stayed the same.
 
+**Is this x10? A count from real budgets.** The architect: "so if all these within a 10 km radius are merged, that will be exactly the x10 efficiency." A check against the same portal's data for 2019 — eight mayoralties of Taraclia district within that radius (Carbalia, which belongs to the neighbouring autonomy, is not included).
+
+| Mayoralty | Inhabitants | Expenditure, lei |
+|---|---|---|
+| Salcia | 293 | 967,216 |
+| Aluatu | 704 | 1,140,057 |
+| Budăi | 834 | 2,225,765 |
+| Musaitu | 838 | 1,485,846 |
+| Balabanu | 864 | 2,610,149 |
+| Novosiolovca | 1,384 | 3,352,021 |
+| Albota de Jos | 1,425 | 3,480,406 |
+| Vinogradovca | 1,548 | 4,321,985 |
+| **Total** | **7,890** | **19,583,445** — 2,482 lei per inhabitant |
+
+Eight offices for 7,890 people — fewer than live in a single city block. Taking the government's figures for them (about 30 % of the budget on administration now and about 11 % after amalgamation) gives: administration costs 5.9 million lei, after amalgamation 2.2 million; a saving of about 3.7 million lei a year, that is, 19 % of all spending, or roughly 470 lei per inhabitant. This agrees with the studies' estimate of 14–25 %.
+
+So it does not give x10, and one must not say so. There are three exact multiples. For a resident of Salcia the cost of the office falls from 2,224 to roughly 270 lei — eightfold. Across all eight mayoralties administrative spending falls threefold. And the budget as a whole gains a fifth. A manifold effect exists only where the base is lowest — exactly as stated in 015b.6b; on average across the cluster it is not an order of magnitude but a fifth. Yet even a fifth here is 3.7 million lei every year for eight villages that spend tens of thousands on everything that lasts beyond the year: in Salcia, ten thousand lei. Investment in what will remain to the villages grows not by 19 % but manifold. (A caveat: the administration share for the other seven mayoralties is taken as the average, not from their profiles; the exact count can be made from the same open data in an evening.)
+
 **The maid in the best room of the castle.** The architect: "I suspect that the mayor of Salcia gets the highest salary, that half his costs are borne by the state, and that he, a servant of the people, lives better than the people. It is as if the maid and the cook slept well in the largest room at the centre of the castle, while the count lived in the shed." This can be checked only indirectly: the assistant did not look up the salaries of particular people and should not. But the budget says enough. Compensation of employees in 2019 came to 717 thousand lei; with a staff of six to eight, that is on average 7.5–10 thousand lei a month per person including contributions — roughly the national average wage that year (about 7.4 thousand lei) and several times the average pension (about 1.9 thousand; both figures from the assistant's memory). In a village of 293 inhabitants, most of them pensioners, these are almost certainly the highest and the only stable earnings. A correction to the architect's words: the state bears not half but almost three quarters of the costs — transfers make up 73 % of revenue.
 
 In absolute terms this is not wealth — 400–500 euros a month — and the reproach is not addressed to people who most likely work honestly for little money. It is addressed to the construction, and that explains resistance to reform better than "a greedy mayor": in an emptying village the mayoralty is the main employer. Six to eight salaries are six to eight families for whom the office is the village economy; together with relatives they are a noticeable part of the electorate, and amalgamation for them means not "optimisation" but the loss of the only job. The transfer from the centre works as a hidden unemployment benefit paid in the form of posts — the most expensive form possible, because every salary comes with an office, heating and powers. The consistent answer is the same as in 013e.5: if the state wants to support these families, it is cheaper and more honest to pay them directly than to keep, for that purpose, an office that spends 1 % of its budget on what will remain to the village.
