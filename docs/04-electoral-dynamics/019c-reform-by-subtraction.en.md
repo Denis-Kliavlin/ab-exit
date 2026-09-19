@@ -337,6 +337,22 @@ This is an extreme case, not the average: in an average small mayoralty about 30
 
 **A signature worth more than the salary.** The architect remarked: "and the mayor is the one who converts land for building, isn't he? And there is no money for his salary." In substance this is true: the planning certificate and the building permit are issued by the mayor, and the local council takes part in changing the designation of land. The result is an office with no money for its own upkeep and a signature that turns a plot under maize into a building plot at a price difference of tens of times (§6c). This is not an accusation against anyone but a description of incentives: a poor office with an expensive signature is a textbook construction, and the surprising thing is not that it sometimes fires but that it is kept. The subtraction here is twofold: remove the conversion of designation for a house on one's own land (§6c) — and the signature ceases to be worth anything; amalgamate mayoralties — and the one that remains can afford a specialist on a proper salary.
 
+**How far it is to the next mayoralty.** The architect asked exactly this: "and how far is the drive to the next mayoralty if this one is removed?" From the coordinates of the settlements (straight-line distances; by road roughly one and a half times more):
+
+| Neighbouring mayoralty | Straight line |
+|---|---|
+| Budăi | 4.3 km |
+| Carbalia (in the neighbouring autonomy; itself one of the smallest in the country — 374 inhabitants) | 5.3 km |
+| Musaitu | 6.1 km |
+| Aluatu | 6.4 km |
+| Vinogradovca | 7.4 km |
+| Novosiolovca | 7.4 km |
+| Albota de Jos | 7.8 km |
+| Balabanu | 8.4 km |
+| Taraclia, the district centre | about 12 km |
+
+Within a radius of eight and a half kilometres of a mayoralty of 293 inhabitants there are eight more mayoralties, each with its own mayor, secretary and accountant. The nearest is six or seven kilometres by road, ten minutes by car, half an hour by bicycle; the district centre is about twenty minutes away. And the village goes on emptying: the 2004 census counted 382 people in the village of Salcia itself, the 2024 census 166. The office has stayed the same.
+
 **The maid in the best room of the castle.** The architect: "I suspect that the mayor of Salcia gets the highest salary, that half his costs are borne by the state, and that he, a servant of the people, lives better than the people. It is as if the maid and the cook slept well in the largest room at the centre of the castle, while the count lived in the shed." This can be checked only indirectly: the assistant did not look up the salaries of particular people and should not. But the budget says enough. Compensation of employees in 2019 came to 717 thousand lei; with a staff of six to eight, that is on average 7.5–10 thousand lei a month per person including contributions — roughly the national average wage that year (about 7.4 thousand lei) and several times the average pension (about 1.9 thousand; both figures from the assistant's memory). In a village of 293 inhabitants, most of them pensioners, these are almost certainly the highest and the only stable earnings. A correction to the architect's words: the state bears not half but almost three quarters of the costs — transfers make up 73 % of revenue.
 
 In absolute terms this is not wealth — 400–500 euros a month — and the reproach is not addressed to people who most likely work honestly for little money. It is addressed to the construction, and that explains resistance to reform better than "a greedy mayor": in an emptying village the mayoralty is the main employer. Six to eight salaries are six to eight families for whom the office is the village economy; together with relatives they are a noticeable part of the electorate, and amalgamation for them means not "optimisation" but the loss of the only job. The transfer from the centre works as a hidden unemployment benefit paid in the form of posts — the most expensive form possible, because every salary comes with an office, heating and powers. The consistent answer is the same as in 013e.5: if the state wants to support these families, it is cheaper and more honest to pay them directly than to keep, for that purpose, an office that spends 1 % of its budget on what will remain to the village.
