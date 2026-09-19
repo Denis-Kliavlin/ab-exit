@@ -34,6 +34,8 @@ The answer is accepted. The rule "never tell the voter anything unpleasant" is n
 
 The protocol does not need to be liked. Clinton and Romney offered the offended nothing definite; the protocol offers a sum in the account. By the repository's own logic a person with a short horizon takes the money even when angry (040c.1.5, 055d.8): he does not need to love the author, he needs the payment. A campaign whose offer does not depend on sympathy for the one offering is the first that can afford not to flatter. And the README does not stop at anger: "the insult became a mechanism; the answer is not to take a right away but to add one".
 
+The offended have an answer inside the protocol itself. The architect: "if they are so proud and clever, let them not take the money and vote against." This is the same separating equilibrium as in 056e.2, applied to offence: a word compels no one to anything, and button A is always available. Whoever refuses the sum and comes to vote has refuted the word by his act, and the protocol strengthens him for it: his vote weighs more. Whoever is indignant and takes the money has made a choice the protocol regards as lawful and not shameful, but he has nothing left to argue about. In both cases the insult decides nothing; the act decides, and each has his own.
+
 What remains. The phrase hits not the apathetic but those who set the tone of coverage — journalists and the moral middle class, for whom it is a ready-made frame of "contempt for the poor". But compared with the system in force this is the ordinary price: any reformer is attacked with quotations, and a story told honestly by the author himself serves exposure worse than one dug up by an opponent. 🟡
 
 ## 4. The logic of posts
