@@ -119,6 +119,20 @@ What remains. The number of applications *submitted* is unknown, so "few are iss
 
 What these figures do not prove. Why exactly completions fell in Moldova has not been established here from open sources; market participants name permitting procedures, but other forces also acted on the price — refugees from Ukraine, diaspora money, subsidised mortgages, inflation. So housing is recorded not as a proven levy but as a candidate for testing by the filter of §5: how many months and signatures a building permit takes compared with ten countries, and which of them check a result (structural soundness, fire safety) and which a process. 🟡
 
+## 6d. Three thirty-second spots
+
+The architect on the maize formula: "oh, how well this would play at an election, on television." It would, and it is clear why: it has an object that can be shown, a sum that can be compared, and not one word that requires an education. The language of subtraction is televisual in general — unlike the language of construction, where one has to promise what cannot be seen. The rule of a spot: one object, two figures, one question, one word at the end.
+
+**Maize.** Shot: three hundred square metres of maize, behind it an empty foundation. Voice: "This is Ion's maize. The whole harvest is a hundred dollars. This is Ion's house. It does not exist. To cut down his own maize on his own land and build his own house, Ion must pay the state for losses. Whose losses? The maize is Ion's. The land is Ion's. The house is Ion's. Repeal."
+
+**The driving school.** Shot: a young man reverses confidently into a parking space; the instructor in the next seat looks at his phone. Voice: "Andrei has been driving since he was sixteen. He will pass the test tomorrow. But first — thirty lessons and ten thousand lei. England has none of this, and fewer people die on its roads than on ours. The test — keep. The levy — repeal."
+
+**The cash register.** Shot: a small roadside shop; on the counter a box with a new cash register. Voice: "Maria's shop has one shop assistant — herself. The device, its servicing and its connection to state monitoring are at her expense. This year she was told to replace the model — again at her expense. In Thailand a shop with that turnover needs no register at all, and the country is no poorer. Repeal."
+
+The last frame in all three is the same: "Why has nobody repealed this? Because those who decide elections do not care. AB-EXIT changes who decides." Thus a spot about a levy becomes a spot about the protocol and answers the question "what do I get besides the dividend" without a single figure about GDP.
+
+Two cautions. Every figure in a spot must withstand checking — one refuted sum ruins the whole series, so sums are taken from open price lists and statistics, while names and scenes are composite and said to be so. And a spot must not be built on accusing particular people: the argument "the norm checks a process, not a result" is stronger than "they steal", because the first is verifiable, while the second gives the opponent grounds for a lawsuit and for pity. 🟡
+
 ## 7. Weak point of the section
 
 A delay of one electoral cycle does remain: repeal comes through the first election after adoption, not on the day of adoption. Under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
