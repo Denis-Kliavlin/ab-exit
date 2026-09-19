@@ -145,6 +145,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [48e. The Export of Truth: "Why Do They Have It and We Don't"](08-implementation/048e-export-of-truth.md)
 - [48f. Double Entry Instead of Observers](08-implementation/048f-double-entry-elections.md)
 - [48g. Rollback after Launch: Probabilities, Four Paths, Who Votes to Repeal](08-implementation/048g-rollback.md)
+- [48h. Secrecy, Verifiability and the Price of Coercion: the German Court and the Mirror Attack](08-implementation/048h-secrecy-verifiability-coercion.md)
 
 ## Part IV — 🌍 Country Implementations
 

@@ -154,6 +154,7 @@
 - [48e. Экспорт правды: «почему у них есть, а у нас нет»](08-implementation/048e-export-of-truth.md)
 - [48f. Двойная запись вместо наблюдателей](08-implementation/048f-double-entry-elections.md)
 - [48g. Откат после запуска: вероятности, четыре пути, кто за отмену](08-implementation/048g-rollback.md)
+- [48h. Тайна, проверяемость и цена принуждения: немецкий суд и зеркальная атака](08-implementation/048h-secrecy-verifiability-coercion.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 
