@@ -72,6 +72,19 @@ Before the protocol the question sounds "why don't you go and vote?". After — 
 
 The architect's correction: this begins **before the law**. As soon as an underdog has simply hammered in the formula "$1,000 or a x3 vote", both old options — voting for free and not voting for free — lose even before the referendum: the non-voter asks "why do they give nothing for my exit?", the voter — "why does my vote equal the vote of someone who doesn't care?", the systemic politician is forced to argue not with a candidate but with a sense of the old norm's unfairness. That is a different world in the head, even if the mechanism does not yet exist (059e.4: the 72-hour phenomenon; 048e.5: fake elections after people learned the number).
 
+## 6b. Who votes on the rules: everyone — and why that is a lock
+
+The architect's clarification: "everyone votes at the referendum — that is the hack of the system, because it is precisely the apathetic who want the money most, and almost all of them will be for the referendum; the government makes a noose for itself out of its own apathetic electorate. And to repeal it there must be a referendum at which the apathetic voluntarily give up easy money." This removes the uncertainty on which §1–5 silently rested: status B is a waiver of taking part in choosing managers for a cycle, not of the right to decide on the rules. Two levels:
+
+| Level | Who decides | What is decided |
+|---|---|---|
+| Rules of the game | All citizens, including those who took the money | Adoption of the protocol, its repeal, any change to the five statute parameters (059e.3) |
+| Governance | Those who stayed in this cycle | Who governs and how the budget is spent |
+
+Three consequences. First — an asymmetric lock: adoption is helped by precisely the majority on which the old system rested, and to repeal the protocol that same majority has to be persuaded to vote against its own payment. Hence the 7–12 % for rollback in §4. Second — protection of those who took the money from those who stayed: the cohort that governs can neither cut the dividend, nor change the formula, nor take away the return of the right — all that lies one level above its powers. This answers the fear "the rich will remain and rewrite the rules for themselves" (059c.4; 034, strike 3). Third — in the terms of constitutional theory this is the separation of constituent power, which belongs to the people as a whole, from constituted power, which a part exercises; the protocol changes the composition of the second and leaves the first untouched.
+
+The boundary. Other referendums — on policy questions, like the British one of 2016 — are not changed by the protocol: everyone votes in them, as now, and the price of that is shown in 055d. Relative to the order in force this is no worsening; the protocol acts on such referendums indirectly — through which decisions were taken in the preceding cycles and how much anger they accumulated (055d.9).
+
 ## 7. Weak point of the section
 
 All figures are projections; a before/after baseline will appear only with a pilot. The durability of §4–5 is derived from a working payment, that is, from a successful first cycle, while §3 shows that the most likely rollback path is precisely spoilage of the first cycle (substitution of the formula, data sabotage, delayed payments — 059e.3 iteration 3), after which the share for rollback rises to 30–40 %. The circle closes on protecting the parameters, not on "irreversibility" as a property. 🟡

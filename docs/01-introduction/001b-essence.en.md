@@ -60,6 +60,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 ## 7. Defending the construction
 
 - **Five statute parameters:** the source — only the federal median; the formula strictly D = M × 1.5 × K; 100 % automatic crediting; the choice anew at every election; no approvals or vetoes. Changing any one — a new referendum (059e.3, 042).
+- **Two levels of decision.** The rules of the game — adoption, repeal, parameters — are changed by all citizens at a referendum, including those who took the money; managers are chosen by those who stayed. The protocol can be repealed only by persuading the majority to vote against its own payment, and the governing cohort cannot touch the dividend (048g.6b).
 - **Four substitutions to expect:** the source switched to budget revenue, the source switched to surveys, a composite index, a barrier at the exit (059e.3).
 - **The four-agency rule and the 10 % rule** against data sabotage (048b).
 - **Double entry instead of observers.** [dividend budget] = [number of B] × D; paint turnout — the treasury does not reconcile; the audit is an SMS from the bank (048f).
