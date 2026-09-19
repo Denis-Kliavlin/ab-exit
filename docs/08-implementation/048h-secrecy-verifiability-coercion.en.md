@@ -41,17 +41,21 @@ The economics of coercion change in four places:
 
 The architect's observation about the mafia: it is strong in poor neighbourhoods, that is, exactly where D weighs most (019b, 040c.1.5). In the old system the strongman *gave* a hand-out and looked like a benefactor; by demanding that people give up D for his candidate he *takes* a large sum from the poor and turns from patron into robber. The district can be held only by paying each person his D from one's own pocket — and that business model was built on taking, not on handing out.
 
-## 6. The mirror attack: forced exit
+## 6. The mirror attack: forced exit — compared with what exists now
 
-The main objection, absent from the dialogue. Everything in §5 is true of coercion *to vote a certain way*. But the protocol opens the reverse move: coercion *to exit*. And it is built worse for defence:
+The objection. Everything in §5 is true of coercion *to vote a certain way*, but the protocol opens the reverse move — coercion *to exit*. Status B is provable by a bank statement, it costs the instigator nothing (the state pays), and it looks not like coercion but like "everyone takes it, take it too". It benefits an employer with a disloyal workforce, a domestic tyrant (039b.3.3), a local strongman.
 
-- status B is provable — a bank statement is exactly the receipt that §3 forbids for a ballot;
-- it costs the instigator nothing — the state pays;
-- it does not look like coercion — "everyone takes it, take it too".
+The architect's correction: "you compared with the ideal again. Bribery and intimidation are just as possible now, and so is a phone photo of the ballot in the booth. The protocol at the very least turns a +1 vote into zero. And forcing a worker to lose money is much harder than now, when it is free." The correction is accepted. The first version of this section called the attack "the most serious unclosed spot", having compared the protocol with a receipt-free abstention — and no such abstention exists. The comparison with the system in force:
 
-Who benefits: an employer who knows his workforce leans against the candidate he needs; a domestic tyrant (039b.3.3 — he takes the money too); a local strongman who, instead of buying votes, takes a disloyal neighbourhood out of the election and collects a cut of the payments. The literature calls this negative vote buying (057b.3), and the protocol makes it cheap and verifiable.
+| | Now | Under the protocol |
+|---|---|---|
+| Coercion to vote for the required candidate | Free for the instigator; verified by a ballot photo, home and postal voting, electronic voting under supervision; the result is +1 for the instigator, and if the person was opposed — a swing of two votes | Costs D plus a risk premium; visible at scale; negative return (§5) |
+| Coercion not to vote | Already possible, free and verifiable: turnout is visible in the rolls, and in many countries participation history is public data; the coerced person gets nothing | Possible and verifiable by a statement; the coerced person gets D; the result is zero instead of a vote against |
+| What the instigator gets | A full vote in his favour | At best, someone else's vote removed |
 
-What can be set against it, and how far it goes: secrecy of the A/B status as a right rather than a duty of disclosure (033c.4, 057b.3) — but a statement can still be demanded; a window for changing the decision on the Estonian model — chose B in front of the boss, switched to A before the deadline, the last choice counts; crediting only to a personal account and a ban on deductions from the payment; a criminal norm on pressure over the choice of status. This is enough against household and shop-floor pressure of medium strength and not enough against organised pressure. The honest formulation: the protocol devalues coercion *to vote* and cheapens coercion *to silence*; the net effect is positive only if the former is today more widespread than the latter — and that is an empirical question for a pilot.
+Two conclusions. First: forced abstention is not a new capability, it exists and is verifiable today; the protocol adds to it only a payment to the victim. Second: the instigator is forced to move from a strong attack to a weak one — from "+1 for me" to "0 for him". On an indifferent worker the effect is nil; on an opponent — half the former swing.
+
+The honest remainder. In votes the attack is weaker; in shares — not always: in a shrunken pool each removed opponent weighs 1/(N − M). With half exiting this equals today's swing from a coerced vote (2/N); with 70 % exiting — more. What limits the attack is something else: those who can be coerced are mostly the dependent, and the dependent, by the protocol's logic, take the money voluntarily anyway; the circle "dependent, yet would refuse D on principle" is narrow, and the instigator rarely knows by name who is against — the order "we all take it" removes his own supporters from the election too. Countermeasures narrow the circle further: a window for changing the decision on the Estonian model (chose B in front of the boss, switched to A before the deadline, the last choice counts), secrecy of status as a right, crediting only to a personal account with a ban on deductions, a criminal norm on pressure over the choice of status. The size of that circle is a question for a pilot.
 
 ## 7. "Dictatorships are inevitable": what the protocol answers and what it does not
 
@@ -61,7 +65,7 @@ A correction to the premise itself. Autocrats most often lose power not to hunge
 
 ## 8. Weak point of the section
 
-§6 is the most serious unclosed spot in the protocol's defence found so far: all the countermeasures weaken the attack, none removes it, because the provability of the payment is not an implementation defect but the basis of double entry (048f). One property yields both the audit and the lever of coercion, and they cannot be uncoupled. The estimates in §4 come from different countries and years and do not add up to an overall share of the coerced. And §7 rests on Svolik's general conclusion without verification of the exact figures. 🟡
+In its first version §6 repeated the error analysed in 037b.4: comparison with the ideal instead of comparison with the system in force. After the correction what remains is not a hole but a limitation: the relative weight of a removed vote in a shrunken pool and the unmeasured size of the circle "dependent, yet motivated". The estimates in §4 come from different countries and years and do not add up to an overall share of the coerced; they also cut both ways — they confirm that coercion exists now, that is, that the comparison must be made with it rather than with its absence. And §7 rests on Svolik's general conclusion without verification of the exact figures. 🟡
 
 ---
 
