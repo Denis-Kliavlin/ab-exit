@@ -42,7 +42,15 @@ The objections of 013d.5 — "the informed may be self-interested", "the motivat
 
 "And that is all" is stronger than can be defended, and three differences are worth naming ourselves.
 
-First. In a market a person bears the consequences of *his own* choice: bought badly — lost his own. In an election the winner governs everyone, those who left included. Refusing D is a stake at the door, not a loss for a bad choice. The protocol does have a budget constraint, but it is softer than the market's: it screens out those who do not care rather than punishing those who were wrong.
+First. In a market a person bears the consequences of *his own* choice: bought badly — lost his own. In an election the winner governs everyone, those who left included. Refusing D is a stake at the door, not a loss for a bad choice. The first version of this point concluded that the constraint "screens out those who do not care rather than punishing those who were wrong". The architect objected: "your candidate will be booed and never elected again, you are humiliated; that is no punishment for the apathetic, but for strategists it is a disgrace." The objection is accepted: the one who stays faces three punishments for a bad choice, and today's voter faces none of them.
+
+| Punishment | Why it falls precisely on the one who stays |
+|---|---|
+| The forgone sum | He paid for the vote by refusing D and got a bad government for it; his neighbour took the money and lost nothing |
+| His own damage | Those who stay are more often the ones who pay levies, run a business, raise children (019c.3): bad governance hits them first and hardest |
+| Disgrace | Those who stay are a small and attentive circle where results are watched and it is remembered who backed whom; with an open verifiable vote (048i) the choice is public altogether. An apathetic voter suffers nothing when his candidate fails — he does not even remember whom he voted for; for a strategist it costs reputation |
+
+So the constraint is softer than the market's — no money is debited from an account for a mistake — but it is not zero, and it is selective: it presses on the one who takes the decision, not on the one who declined to decide. An honest caveat from psychology: a person who has paid for a choice sometimes does not admit the mistake but doubles down — defends the failed candidate precisely because he invested in him. That works against the argument; but such stubbornness has a limit of a cycle or two, because the bill for bad government comes to him as well.
 
 Second. A market works well where the good is private and badly with public goods and costs imposed on third parties; and politics deals precisely with those. The laws of economics carried into politics do not cancel the fact that some decisions the market cannot take.
 
