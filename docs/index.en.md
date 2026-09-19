@@ -68,6 +68,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [13b. Counterintuitive Game Theory](03-theory/013b-counterintuitive.md)
 - [13c. The Pre-Launch Referendum as a Game: Three Equilibria, Who Is Against in %](03-theory/013c-referendum-game.md)
 - [13d. Elections as a Measuring Instrument: Comparing "Before" and "After" by Bayes](03-theory/013d-bayes-elections.md)
+- [13e. The Laws of Economics in Politics: Why the System Does Not Need Clever Participants](03-theory/013e-economics-in-politics.md)
 14. [Behavioral Economics and the Alaska Permanent Fund Dividend](03-theory/014-alaska-pfd.md)
 15. [Honest Politicians Thesis (PNAS 2020)](03-theory/015-honest-politicians.md)
 - [15b. The Catharsis Spiral: Yin Leaves, Yang Arrives](03-theory/015b-catharsis-spiral.md)

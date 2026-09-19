@@ -59,6 +59,7 @@
 - [13b. Контринтуитивная теория игр](03-theory/013b-counterintuitive.md)
 - [13c. Референдум до запуска как игра: три равновесия, кто против в %](03-theory/013c-referendum-game.md)
 - [13d. Выборы как измерительный прибор: сравнение «до» и «после» по Байесу](03-theory/013d-bayes-elections.md)
+- [13e. Законы экономики в политике: почему системе не нужны умные участники](03-theory/013e-economics-in-politics.md)
 14. [Поведенческая экономика и Alaska Permanent Fund Dividend](03-theory/014-alaska-pfd.md)
 15. [Honest Politicians Thesis (PNAS 2020)](03-theory/015-honest-politicians.md)
 - [15b. Спираль катарсиса: инь уходит, ян приходит](03-theory/015b-catharsis-spiral.md)
