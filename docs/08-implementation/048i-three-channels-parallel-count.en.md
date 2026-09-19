@@ -178,6 +178,21 @@ On the second: "it does harm, but not much, and it is a matter for the police." 
 
 On the third: "every party can personally ask every voter to help with an alternative count; I think 95 % will be for it, the losers especially." The main thing here is the second half of the sentence. The lower bound is needed above all by the losing side, and its supporters are the most motivated: they will hand over tokens more readily than anyone. The higher the share handed over, the less is left for forgery: at 95 % no more than a twentieth of a candidate's open votes can be taken from him, at 70 % — up to a third. On the figure the assistant is more cautious than the architect: in exit polls about half agree (§3), though there people answer a stranger for no reason at all, while here their own party asks, the token is anonymous and it comes down to a single tap; the benchmark is 70–90 %, and a pilot will show more precisely. So the requirement to publish all tokens stays in the pilot's charter as a second line: the parties' parallel count needs no trust in the state, publication needs no participation by the voter, and together they close what each leaves open on its own. 🟡
 
+## 5d. The upshot: accuracy compared with today
+
+The architect summed up the analysis: "in my view we have brought the present electoral system, almost without restrictions, to very good accuracy compared with today." The assistant agrees with both parts of the sentence. "Almost without restrictions" is right: the secret ballot, polling stations, commissions and observers stay as they are, nobody loses anything (§1); what is added is the choice of the sum, an open channel with a token, and the late payment. "Very good accuracy" is right, compared with today, on every row:
+
+| | Today | After |
+|---|---|---|
+| Records on the roll that the person himself checks | 0 of 100 | 91–95 of 100, with the late payment — almost all |
+| The resource for stuffing | 40–50 % of the roll | records nobody came for — each of them counted |
+| The shift that goes unnoticed at a station | 10–15 points | 1–3 points |
+| Rewriting the results protocol | limited only by nerve | only in the secret channel, 5–10 % of votes |
+| The voter roll | a discrepancy of hundreds of thousands of records, no owner | the balance "records = votes + sums + silent", four interested parties |
+| What follows detection | usually nothing | a repeat at the station by a rule written in advance |
+
+What this rests on — three assumptions that only a pilot can test. First: the share of the secret channel really turns out small; in a country where people have something to fear it will be large, and accuracy will then be lower, though the share itself will show it (§6b). Second: identification in the application is no worse than a bank's; if it is weak, both the payment and the open channel are vulnerable. Third: the rule of a repeat at the station is actually applied rather than left on paper — that is no longer a matter of arithmetic but of who orders the repeat. And a limit to the conclusion: accuracy of counting is not the same as quality of choice. Honestly counted elections can give a bad result; the quality of choice is the business of other parts of the protocol — the weight of the vote and the composition of those voting (001b, 013d). 🟡
+
 ## 6. Two remainders for discussion
 
 **Loss of deniability for those who have already stayed.** The floor price protects before the choice of status. Someone who has already refused D and stayed to vote no longer has that protection: for him the demand "since you stayed — show the token" is free for the instigator. Today he could show a photo and re-vote; an official token cannot be fooled that way. The Estonian device (an open vote can be overridden by a secret one, the last counts) restores deniability but takes away the token's power of proof: one cannot have a vote that is both provable for the count and deniable to the boss. It is the same trio "verifiability, secrecy, accessibility" (048h.1); the architect's construction chooses verifiability for volunteers.
