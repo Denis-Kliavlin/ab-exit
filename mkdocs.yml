@@ -84,6 +84,7 @@ plugins:
             "13. Теория игр": "13. Game Theory"
             "13b. Контринтуитивная теория игр": "13b. Counterintuitive Game Theory"
             "13c. Референдум до запуска как игра": "13c. The Pre-Launch Referendum as a Game"
+            "13d. Выборы как измерительный прибор: Байес": "13d. Elections as a Measuring Instrument: Bayes"
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
             "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
@@ -241,6 +242,7 @@ nav:
       - "13. Теория игр": 03-theory/013-game-theory.md
       - "13b. Контринтуитивная теория игр": 03-theory/013b-counterintuitive.md
       - "13c. Референдум до запуска как игра": 03-theory/013c-referendum-game.md
+      - "13d. Выборы как измерительный прибор: Байес": 03-theory/013d-bayes-elections.md
       - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
       - "15. Honest Politicians": 03-theory/015-honest-politicians.md
       - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
