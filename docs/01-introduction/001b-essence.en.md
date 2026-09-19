@@ -109,6 +109,21 @@ An honest list from the sections' "weak points", collected in one place:
 - "A x3 vote" is not a multiplier in the count but the floating arithmetic 1/(1 − the share who exited): every ballot counts as one (033c.9b). The legal wall is not vote weight but payment for non-participation: the US federal contour is closed by §597 (059b.8, 049).
 - The effect figures are model projections; a baseline appears only with a pilot (037b.8). In the dialogues the sums "1,000–1,500 euros" are the model's drift; by the formula, for France ≈ 390 euros, for Britain ≈ £465, for the US ≈ $780 (055d.4).
 
+## 12b. What belongs to the protocol's logic and what to parameters
+
+The architect's clarification on the question of what choice B covers with several levels of elections and who pays: "the budget always pays. The logic is simple: refused the election — received the money. The sums and budget shares should be entrusted to economists, and they do not belong to the logic of the protocol itself; these are simply solvable tasks, not a matter for deep discussion of the concept." Hence a boundary by which any objection is worth sorting.
+
+| The protocol's logic: discussed as a concept | Parameters: tasks for economists and lawyers |
+|---|---|
+| Two buttons, voluntary, reversible, once per cycle | The size of K and the resulting sum in a territory (033c.9c) |
+| Refused the election — received the money; the budget pays | From which budget, under which line, on what schedule |
+| Vote weight is the arithmetic of those who stay, not a multiplier (033c.9b) | How the median is computed and who publishes it (048b) |
+| Everyone changes the rules, those who stay choose managers (048g.6b) | How federal, regional and local elections and primaries are combined |
+| Five statute parameters outside ordinary politics (059e.3) | Ballot wording and the legal construction in a given jurisdiction (049) |
+| Three channels: money, an open verifiable vote, a secret ballot (048i) | The technique of tokens, the register and the payment |
+
+An objection to the right-hand column is not an objection to the protocol: it means "this has to be calculated", not "this does not work". One exception worth remembering in the calculations: with several elections per cycle the principle "refusal — payment" multiplies the annual cost by their number; this is a question for economists, but it affects the estimate "1–2 % of the budget".
+
 ## 13. Three lines to leave with
 
 **Either money, or a heavier vote.** · **We change who decides — the rest is consequences.** · **Complicated is where they steal; honest is where it is simple.**
