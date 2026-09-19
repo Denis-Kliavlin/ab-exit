@@ -92,6 +92,7 @@ plugins:
             "18. Три эпохи демократии": "18. Three Epochs of Democracy"
             "19. Цена плохого управления": "19. The Cost of Bad Governance"
             "19b. Бедный — самый дорогой избиратель": "19b. The Poor as the Most Expensive Voter"
+            "19c. Реформа вычитанием": "19c. Reform by Subtraction"
             "20. AB-EXIT сильнее UBI": "20. AB-EXIT Is Stronger Than UBI"
             "21. Пустота центристов": "21. The Centrist Void"
             "22. Консенсусная тема": "22. The Consensus Theme"
@@ -249,6 +250,7 @@ nav:
       - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
       - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
       - "19b. Бедный — самый дорогой избиратель": 04-electoral-dynamics/019b-poor-voter-price.md
+      - "19c. Реформа вычитанием": 04-electoral-dynamics/019c-reform-by-subtraction.md
       - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
       - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
       - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md

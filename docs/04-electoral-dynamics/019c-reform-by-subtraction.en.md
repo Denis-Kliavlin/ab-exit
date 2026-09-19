@@ -1,0 +1,68 @@
+# Reform by Subtraction: How the Protocol Repeals the Levies Nobody Can Repeal
+
+**Chapter:** 04 — Electoral Dynamics (paired with §19)
+**File:** 04_019c · v1 · 19 September 2026
+**Source:** the architect's and the assistant's analysis of three examples — compulsory driving schools, cash registers at small turnover, supervision of street food (Moldova, Thailand, United Kingdom); the fact-checking and the argument are recorded in 015b.6c. Here is the answer to the architect's question: "why did we discuss this? how can AB-EXIT solve it in Moldova or in any other country".
+
+---
+
+## 1. Why discuss this
+
+The cost of bad governance (§19) is usually counted in large lines: corruption, debts, bankrupt cities. But most of that cost is spread across hundreds of small norms, each too small for newspapers to write about and too profitable to someone to be repealed. The compulsory driving school, the compulsory cash register in a small shop, the compulsory certificate, the compulsory intermediary, the compulsory inspection. This is where a person actually meets the state — not in the budget but in the queue for a paper — and this is where the effect of the protocol will be felt soonest.
+
+Three examples showed the common construction. In Moldova, to take the driving test one must buy a course of theory and 30 lessons — up to 8–10 thousand lei, even if the person can already drive; in the United Kingdom there are no compulsory lessons at all, and road mortality is among the lowest in the world; in Thailand a school is voluntary, and without motorcyclists mortality is half Moldova's. In Moldova a cash register is compulsory, connected to online monitoring, and some models must be replaced at the owners' expense by 30 September 2026; in Thailand a business with a turnover of up to 1.8 million baht does not register for VAT at all. Food in Bangkok is checked by samples from the plate, not by the seller's papers (015b.6c).
+
+## 2. The anatomy of a levy: three conditions
+
+A levy-norm lives for decades when three conditions hold at once.
+
+| Condition | Driving schools | Cash registers |
+|---|---|---|
+| The recipient of the income is concentrated and organised | School owners | Sellers and servicers of registers, inspectors |
+| The payers are dispersed and pay rarely | Each pays once in a lifetime | Thousands of shopkeepers one by one |
+| The majority that decides elections does not care | "The majority that votes has no car and no licence" | The buyer does not see the price of the register in the price of bread |
+
+This is Olson's classic logic: concentrated benefit defeats dispersed costs. The consequence for a politician is simple arithmetic. The promise "repeal" brings no votes (the payers are few, young or busy and the worst at turning out; the rest are indifferent) and creates an organised, well-connected enemy. The promise is loss-making, so nobody makes it. The norm has not a single public defender — and not a single opponent.
+
+This also shows that the bottleneck is not knowledge. Checking each of the three examples took minutes from open sources; any ministry could have done it twenty years ago. The norms live not because nobody knows, but because none of those who decide has any interest in knowing.
+
+## 3. What the protocol changes: four links
+
+The protocol does not and will not contain a norm "abolish driving schools". It breaks the third condition — and through it the rest.
+
+**Link 1. Composition.** The indifferent take the sum. Among those who stay, the share of people who pay levies personally and regularly is higher: the entrepreneur, the self-employed, the car owner, the parent. And those who have already paid are not indifferent: a person who could drive and still sat through thirty lessons remembers not the sum but the humiliation of pointlessness.
+
+**Link 2. The price of a promise.** The promise "repeal" turns from loss-making into the most profitable one in a campaign: it costs the budget nothing, is verifiable the day after the signature and requires no faith in the candidate's competence — the same class as "I will stop stealing" (019b). For a voter who counts his own money it translates into a sum: 8–10 thousand lei per child is four to five dividends (033c.9c).
+
+**Link 3. A lobby without its free resource.** The recipients of the income do not go anywhere, but they are thousands against hundreds of thousands who stay; they can no longer bring the indifferent to the polling station — those took the money — and each of them, to vote, must himself refuse the sum (015c.7b).
+
+**Link 4. Feedback.** If those who stay do not repeal the levies and life does not get cheaper, the exit share does not fall in the next cycle, and everyone sees it: the thermostat (015b.6b) measures not promises but whether people came back. Today there is no such feedback at all.
+
+## 4. Reform by subtraction
+
+Building a good institution is hard: it takes a design, money, people, years, and the result is not guaranteed. Removing a bad one is a single line, zero budget cost, an effect the next day. It does not even require competence — only the absence of a reason to keep the norm. "Abolishing them requires simply writing 'Repeal'. There is nothing to think over or adopt."
+
+This explains where the manifold effect of the first cycles comes from when the base is low (015b.6b): not from brilliant managers but from hundreds of lines reading "repeal", each of which today is unprofitable for any politician. A country with decades of negative selection is a country with the largest stock of such lines.
+
+## 5. The filter: how not to repeal what is needed
+
+Not every norm that looks like a levy is one. A filter of two questions is cheap and applies to any norm.
+
+1. **Comparison.** Are there ten or twenty countries where the norm does not exist, and is the result worse there — crashes, poisonings, tax collection? If not worse — repeal.
+2. **Result or process.** Does the norm check a result (a driving test; a sample of food from the plate) or a process (buy a course; obtain a permit; show a paper)? A check of the result protects the person and costs the one checked almost nothing. A check of the process feeds an intermediary. Keep the first, repeal the second.
+
+Hence an exact formula to which the objection "you want to abolish supervision" does not attach: **free entry plus a check of the result — instead of permits and inspection of papers.**
+
+## 6. What it looks like in Moldova and in any other country
+
+*Moldova, the first cycle after adoption.* Candidates compete with lists: "a hundred lines of 'repeal' in the first hundred days", each with the sum it returns to a family or a shop. Compiling such a list by the filter of §5 is weeks of work, not years. What a person gets: up to 8–10 thousand lei and two to three months for everyone obtaining a licence; the shopkeeper — the cost of the device, its servicing and its forced replacement; the buyer — a price with nobody else's rent in it; a young person with a stove and a pan — the right to start a business without a permit, under a check of the result. If tens of thousands of people obtain a licence each year, the first line alone is hundreds of millions of lei staying in families (an order of magnitude, not a calculation).
+
+*Any other country.* The three conditions of §2 hold everywhere; only the height of the base differs. In rich countries the same levy looks like occupational licensing: in the United States roughly one worker in four needs a licence against one in twenty in the 1950s, and the explanation is not that occupations became more dangerous but the same construction — concentrated incumbents against dispersed newcomers and an indifferent majority. There the effect will be smaller and slower; in countries with a low base — manifold and fast.
+
+## 7. Weak point of the section
+
+Speed: repeal comes not on the day the protocol is adopted but through an election at which such a promise first becomes profitable; under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
+
+---
+
+**Related:** 015b.6b–6c (the thermostat, the low base, the checking of the examples) · §19 (the cost of bad governance) · 019b (verifiable promises) · 018.40–41 (the pizzeria test) · 015c.7b (organised groups) · 033c.9c (the order of the sums) · 040b.2b (two sensors) · 053 (Moldova)
