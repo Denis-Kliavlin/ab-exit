@@ -23,7 +23,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 - **We change who decides — the rest is consequences.** For a century reformers have begged the dependent voter to approve long-term development; he will not. The protocol does not persuade — it takes him out of the loop without hurting him financially (033c.6, 059b.4).
 - **A separating equilibrium.** One ballot for all gives pooling: the smart and the indifferent merge into a grey mass where the administrative resource wins. A menu of contracts makes the types separate themselves (056e.2, 059c.3).
 - **1/N → 1/(N − M).** The value of a vote grows as people exit; with half gone — double, with two thirds gone — triple (hence "x3"), with 90 % gone — tenfold. This is not a trick inside the old choice function but a replacement of the function itself (015c.2, 056e.3).
-- **A phase transition, not a deal.** The dividend is not the price of a vote but activation energy: the one who took the money drops out of the political dimension, becomes a line on the balance sheet, and the state no longer needs his vote (040d.3, 033c.2).
+- **A phase transition, not a deal.** The dividend is not the price of a vote but activation energy: the one who took the money drops out of the choice of managers for this cycle, becomes a line on the balance sheet, and the state no longer needs his vote; he remains a founder and votes in referendums on the rules (040d.3, 033c.2, 048g.6b).
 - **The first fair, voluntary and reversible market census in history.** All censuses of the past were built from above; here the filter is from below: the citizen himself judges whether influence matters more to him than a concrete sum (043 §75, 033c.8).
 
 ## 3. Why it works on people, not on angels
@@ -71,7 +71,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 ## 8. Economics
 
 - **The dividend costs 1–2 % of the budget** against ~20 % on "maintaining loyalty" through non-working programmes (055b.8, 045).
-- **x10, not savings on paperclips.** The money for the dividend comes not from cutting officials but from the multiplier: when the controlling stake is with the motivated, the quality of decisions grows not by 15 % but by an order of magnitude (059c.3, 048).
+- **x10, not savings on paperclips.** The money for the dividend comes not from cutting officials but from the multiplier: when the controlling stake is with the motivated, the quality of decisions grows not by 15 % but by an order of magnitude (059c.3, 048). This is a condition on which the calculation rests, not a measured fact: the repository's own cautious estimate is +2–5 % of GDP (045, 048b), and "doubling in five years" in the dialogues is an "if" scenario (048e.8). The size of the effect is a task for economists and a pilot.
 - **A change of sign, not +5 %.** The state's utility U = B − C is negative for many; the protocol claims a crossing of zero — from state-as-obstacle to state-as-instrument (015c.3).
 - **The term "state money" dies.** The budget becomes a P&L, the dividend a shareholder's share, tax a fee for infrastructure (034b.6).
 - **Park benches.** Quality grows not from appeals but from a construction in which a bad state is unprofitable for someone; the current system makes benches for mobilisation, the protocol for those who answer for the choice (015c.6).
@@ -116,11 +116,13 @@ The architect's clarification on the question of what choice B covers with sever
 | The protocol's logic: discussed as a concept | Parameters: tasks for economists and lawyers |
 |---|---|
 | Two buttons, voluntary, reversible, once per cycle | The size of K and the resulting sum in a territory (033c.9c) |
-| Refused the election — received the money; the budget pays | From which budget, under which line, on what schedule |
+| Refused the election — received the money; the budget pays, automatically and independently of the sitting government's will | From which budget or fund, under which line, on what schedule; returnability of the payment |
 | Vote weight is the arithmetic of those who stay, not a multiplier (033c.9b) | How the median is computed and who publishes it (048b) |
 | Everyone changes the rules, those who stay choose managers (048g.6b) | How federal, regional and local elections and primaries are combined |
 | Five statute parameters outside ordinary politics (059e.3) | Ballot wording and the legal construction in a given jurisdiction (049) |
 | Three channels: money, an open verifiable vote, a secret ballot (048i) | The technique of tokens, the register and the payment |
+
+A clarification to the row on the payment. The README states the principle of "full autonomy": the payment is automatic, and the sitting government cannot control it. The architect: "the payment is automatic once a person has chosen it, and it is non-returnable; returnability can be thought through more carefully with lawyers later — these are details." The boundary runs as follows: *automaticity and independence from the government* are the protocol's logic (if the payment can be delayed, cut or switched off at the government's discretion, choice B ceases to be reliable and the whole mechanism turns into an ordinary handout); *non-returnability* is the working default, open to lawyers; *where the money physically comes from* — a budget line or a separate fund — is a parameter.
 
 An objection to the right-hand column is not an objection to the protocol: it means "this has to be calculated", not "this does not work". One exception worth remembering in the calculations: with several elections per cycle the principle "refusal — payment" multiplies the annual cost by their number; this is a question for economists, but it affects the estimate "1–2 % of the budget".
 
