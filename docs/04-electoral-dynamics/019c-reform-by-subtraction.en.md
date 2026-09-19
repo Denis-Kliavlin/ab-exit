@@ -120,11 +120,21 @@ The same "x2", only without a line in the law. The architect: "if the cunning st
 | Component of the price of a square metre in Chișinău | Order |
 |---|---|
 | Sale price | about 1,720 euros |
-| Construction of an apartment block | on the order of 600–800 euros (the assistant's estimate from regional analogues; no direct source for Chișinău was found) |
+| Turnkey construction, without land and connections | 425–715 euros (a Moldovan construction publication's estimate for 2026; the first version of this row held the assistant's guess of 600–800) |
 | Land per metre of flat | on the order of 125–250 euros: an are (100 m²) in Chișinău costs 50–70 thousand euros, over 100 thousand in the best places, and about eight thousand metres are built on twenty ares |
-| The remainder — permits, connections, margin | on the order of 700–900 euros, that is, 40–50 % of the price |
+| The remainder — permits, connections, margin | on the order of 750–1,150 euros, that is, 45–65 % of the price |
 
-The same factor of two results: a flat costs roughly twice what it costs to build. And the main figure here is the price of land. A hundred thousand euros per are in a country people leave, with arable land lying idle around the city, is not the price of land but the price of the *status* "for building". The neighbouring plot under maize costs tens of times less only because one may not build on it until its designation is changed. The scarcity of land is created by the norm, and the difference in price is the capitalised value of the permit.
+The same factor of two results, and at the lower bound of cost more than that: a flat costs two to four times what it costs to build. And the main figure here is the price of land. A hundred thousand euros per are in a country people leave, with arable land lying idle around the city, is not the price of land but the price of the *status* "for building". The neighbouring plot under maize costs tens of times less only because one may not build on it until its designation is changed. The scarcity of land is created by the norm, and the difference in price is the capitalised value of the permit.
+
+Construction cost: a comparison with Thailand. The architect supposed that the cost of building in the two countries is comparable; the check confirms this, and the table row above has been corrected from a source.
+
+| | Moldova | Thailand |
+|---|---|---|
+| Turnkey construction cost, without land and connections | 425–715 euros per m² (a Moldovan construction publication's estimate for 2026) | 25–30 thousand baht per m² for an ordinary condominium or house, that is, roughly 650–790 euros; 35–45 thousand baht for expensive ones |
+| Sale price | Chișinău, on average — 1,720 euros per m² | Bangkok: a townhouse about 31 thousand baht per m², a house about 58 thousand, a small central flat about 135 thousand |
+| How many times the price exceeds the cost | 2.4–4 times — *on average across the city* | a townhouse 1–1.2 times; a house 1.5–2.3 times; a flat in the business centre of a megacity of eleven million 3–4 times |
+
+Building costs about the same in both countries — concrete, rebar and labour cost much alike. Everything else diverges. Thailand has a tier that sells almost at the cost of construction — a townhouse on the outskirts; a detached house costs about twice its construction, and a mark-up of three to four times appears only where land physically does not exist — in the centre of a megacity. In Chișinău a mark-up of two and a half to four times is the average for a city surrounded by idle arable land, and a tier "at the cost of construction" does not exist at all. The average Chișinău metre carries the same mark-up as a metre in Bangkok's business centre. This is the measured price of the status "for building". A caveat to the comparison: the Moldovan cost figure refers to a private house; a multi-storey block with lifts and parking costs more, and for it the multiple is closer to the lower bound — two and a half.
 
 The difference from cars lies in who receives the mark-up, and it is not in the flats' favour. The excise on a car at least reaches the budget. The mark-up on a flat for the most part does not: it settles with whoever already holds a plot with the right status and with whoever grants that status. That is why there are no direct figures — not because they are hidden in the statistics, but because nobody collects this tax officially: it is levied through the price. By this section's classification it is a levy, not a tax (§6e), and thereby a candidate for subtraction: abolishing compulsory conversion of designation for a private house on one's own land costs the budget almost nothing — it loses only the fee for "compensation of losses".
 
