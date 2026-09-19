@@ -144,6 +144,34 @@ Hence deterrence too. Forging the secret channel makes sense only if the forgery
 
 This shows that it is precisely the two things together that work, as the architect said. Tokens without the register of those who took the sum leave open the main resource for stuffing — the half of the roll that does not vote. The register without tokens closes stuffing but leaves everything dropped into the box unverifiable. Together they leave the commission only the secret channel, and its size is a public number (§6b). 🟡
 
+## 5c. A catalogue of techniques: what is closed, what remains, what is new
+
+The architect asked whether any known channels remain unexamined — carousels and other techniques. Below is a consolidated list; the assistant's assessments rest on general knowledge of fraud practice, without a separate check of every row.
+
+**Closed by what is already written in §1–5b.**
+
+| Technique | How it works today | What becomes of it after the protocol |
+|---|---|---|
+| Rewriting the results protocol | Figures are changed at the higher commission; no ballots needed | Open votes are summed by tokens independently of the commission (§2); only the secret channel can be rewritten — 5–10 % of votes, bounded by the number of signatures |
+| Home voting | A mobile ballot box outside the station; people vote "for the grannies" | Pensioners take the sum more often than anyone; their records are closed and nobody can vote for them |
+| Carousel | The same people vote at several stations on absentee and supplementary lists | It needs other people's or "nobody's" records and paper lists not linked to one another; in a single register with record status a second vote produces a conflict at once |
+| Spoiling the opponent's ballots | A second mark is added during the count | Possible only in the secret channel; an open vote cannot be spoiled |
+| Striking people off the roll, "you are not on the list" | An inconvenient voter is turned away | See below |
+
+On the last row. The assistant first wrote: a person struck off will notice when the sum does not arrive — so the argument worked only for those who took the money. The architect widened it: "but he will come for the money anyway, even if he is not allowed to vote, and that can be done after the election too." Right: the late payment (§5b) makes a witness of the person who was turned away as well. He comes for the late sum, and the system must either pay — and then the register holds a record "was on the roll, did not vote, took the sum after the election, reported being turned away" — or refuse because there is no record, and then the person has a monetary reason to complain. The number of such cases by station is a gauge of exclusion that does not exist at all today. A caveat: the sum does not give the vote back, and mass exclusion still shifts the result; but it becomes countable, and a countable violation falls under the rule of a repeat at the station.
+
+**Remains, but on a smaller scale.** Early and postal voting — ballots are stored for days and can be substituted; this is the same secret channel, under the same ceiling. Chain voting (a pre-filled ballot carried out of the station) and vote buying in general — the records are real, so the arithmetic of the roll does not help; something else works: the buyer loses his free base and the search narrows (019d.4b).
+
+**Not solved by counting.** Removal of candidates, clone candidates, administrative resource, media imbalance — all of this happens before polling day. The protocol acts on it through the weight of the vote and the composition of those voting (048g.3c), not through this section; nothing more should be promised here.
+
+**New — what the protocol itself creates.** Three vulnerabilities that do not exist today.
+
+The first is forced exit: the sum is taken in the name of someone else's voter, and on polling day he hears "you took the money". It is the mirror image of stuffing, but targeted: the opponent's supporters can be switched off station by station. The person will discover it, but late. Three rules are needed: a notification to the person at the moment the sum is taken on his record; a period for contesting it before polling day; a provisional ballot for anyone contesting on the day — the vote is counted after verification.
+
+The second is coercion to take the sum. For a boss it is cheaper to demand that "unreliable" employees exit than to demand "vote the right way": exit is verifiable, a choice in the booth is not. Partial protection already exists: only shares by station are published, without lists (019d.4b), so a boss can check a particular employee only by making him show a bank statement. This is the same coercion as analysed in 048h, and the remedies are the same — making the demand punishable and an anonymous complaint; an anomalous exit share at a station next to a large employer shows in the data.
+
+The third is the open channel as a black box. A token shows a person his own vote; that is not enough if the system can show everyone "your vote is counted" and count differently. The design of §2 bounds this from below: candidates' servers sum the tokens handed to them, and an official figure below that sum is proven forgery. But the lower bound depends on how many people handed over their tokens. Full protection is publication of all tokens with votes, without names, so that anyone can add up the total; this requirement should be written into the pilot's charter. 🟡
+
 ## 6. Two remainders for discussion
 
 **Loss of deniability for those who have already stayed.** The floor price protects before the choice of status. Someone who has already refused D and stayed to vote no longer has that protection: for him the demand "since you stayed — show the token" is free for the instigator. Today he could show a photo and re-vote; an official token cannot be fooled that way. The Estonian device (an open vote can be overridden by a secret one, the last counts) restores deniability but takes away the token's power of proof: one cannot have a vote that is both provable for the count and deniable to the boss. It is the same trio "verifiability, secrecy, accessibility" (048h.1); the architect's construction chooses verifiability for volunteers.
