@@ -76,6 +76,23 @@ The repository's cautious estimates belong to the left-hand column and stand. Th
 
 For a campaign this distinction matters more than any other. A person need not be promised GDP growth in ten years; he can be given three lines that will vanish from his life in the first year, with a sum beside each. That is the answer to the question "what do I get besides the dividend".
 
+## 6c. A test on housing: Moldova and Thailand
+
+The architect's question: compare the rate of housing completion and its price relative to wages; "and Thailand is a country all the neighbours want to move to, while Moldova is a depressed region everyone leaves". The result of the check is mixed, and it is recorded in full.
+
+| | Chișinău / Moldova | Bangkok / Thailand |
+|---|---|---|
+| Purchase price | About 1,720 euros per m² at the end of 2025; a 50 m² flat is roughly 131 average net salaries (13.2 thousand lei), that is, about 11 years | Average unit price 6.7 million baht (2024); a townhouse at about 4 million baht is roughly 250 average national wages (15.7 thousand baht) or about 160 Bangkok wages; the price-to-household-income ratio is about 28 years |
+| Price dynamics | +60 % in two years (from ~1,070 euros per m² in 2023) | On average +4.3 % a year in 2012–2025 |
+| Bottom tier of rents | A one-room flat from 320–350 euros, that is, about half the average net salary | A basic studio at 2–5 thousand baht, that is, 13–32 % of the average wage |
+| Completions | The housing stock grew by 6.8 thousand dwellings in 2023 (about 2.8 per thousand inhabitants); in 2024 completions, by the statistics, fell 2.1-fold — to 2.6 thousand flats and houses, 200.9 thousand m² | Developers only: about 146 thousand units a year nationwide, of which about 96 thousand in the capital region (8–9 per thousand inhabitants); self-build is not included |
+
+What was not confirmed. Buying new housing in Bangkok is not cheaper relative to income than in Chișinău: by the formal statistics it is dearer. Bangkok is a megacity of eleven million with foreign demand, and its new-build cannot be compared with Chișinău's in Thailand's favour.
+
+What was confirmed, and it is stronger. First, the bottom tier: in Thailand the market produces housing for a person on an average or low wage (a room for a fifth of earnings); in Moldova that tier does not exist at all. Free entry gives not cheap luxury but the existence of the cheap. Second, the supply response. In a country people move to, prices rise four per cent a year and the market is if anything oversupplied; in a country people leave, with a shrinking population, prices rose sixty per cent in two years while completions simultaneously halved. Falling completions with a soaring price is the signature of supply that cannot answer demand; in a free market a 60 % price rise would set off a building boom, not a slump.
+
+What these figures do not prove. Why exactly completions fell in Moldova has not been established here from open sources; market participants name permitting procedures, but other forces also acted on the price — refugees from Ukraine, diaspora money, subsidised mortgages, inflation. So housing is recorded not as a proven levy but as a candidate for testing by the filter of §5: how many months and signatures a building permit takes compared with ten countries, and which of them check a result (structural soundness, fire safety) and which a process. 🟡
+
 ## 7. Weak point of the section
 
 A delay of one electoral cycle does remain: repeal comes through the first election after adoption, not on the day of adoption. Under autocracy the tangle and the levies benefit the very top as an instrument of control (015b.6c), and those who stay will not repeal them until they change the top. The estimate "hundreds of millions of lei" is an order, not a calculation: the number of licences issued was not found in open sources. The main assumption — that those who stay really do pay levies more often than those who leave — is plausible but unmeasured. An indicator for a pilot is simple and cheap: whether, after the first cycle, candidates' programmes begin to contain promises to repeal specific levies that were not there before, and how many lines are repealed per cycle. 🟡
