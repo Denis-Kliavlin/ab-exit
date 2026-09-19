@@ -135,7 +135,19 @@ Two cautions. Every figure in a spot must withstand checking — one refuted sum
 
 ## 6e. A levy and a tax are not the same thing: importing a car
 
-The architect's question: "I earned money honestly and paid my taxes. I decided to buy a car. Moldova has no car plants. Why must I, with my own money, buy a car from the United States and pay a tax? What is the logic of the tax — apart from all the poor being glad that this rich man with a car paid into the budget?" How it is arranged: customs duty on cars from most countries is 0 %; one pays an excise depending on engine size and the car's age (three bands: up to 10 years, 11–15, over 15; hybrids get a discount, electric cars are exempt), a customs fee of 0.4 % and a luxury tax on cars dearer than 600 thousand lei; from 2026 a 20 % VAT on import is introduced, and sources differ on whether it replaces the excise or is added to it.
+The architect's question: "I earned money honestly and paid my taxes. I decided to buy a car. Moldova has no car plants. Why must I, with my own money, buy a car from the United States and pay a tax? What is the logic of the tax — apart from all the poor being glad that this rich man with a car paid into the budget?" How it is arranged: customs duty on cars from most countries is 0 %; one pays an excise depending on engine size and the car's age (three bands: up to 10 years, 11–15, over 15; hybrids get a discount, electric cars are exempt), a customs fee of 0.4 % and a luxury tax on cars dearer than 600 thousand lei; a 20 % VAT on import is paid on commercial imports; for individuals its introduction, planned for 2026, has been postponed (see the calculation below).
+
+A correction of fact and a worked example. The first version of this point said that from 2026 a 20 % VAT on import is introduced. A check against a current customs-clearance guide (April 2026): the introduction of VAT for individuals importing a car for themselves was postponed in December 2025; VAT is paid on commercial imports and on lorries. An individual pays the excise — engine capacity in cm³ multiplied by a rate in lei that depends on age and engine type — and a fee of 0.4 % of the customs value. The calculation for a 2018 Ford Fusion (age 8 years, rates from the excise table):
+
+| Engine | Capacity | Rate, lei per cm³ | Excise | Roughly in euros |
+|---|---|---|---|---|
+| 1.5 petrol | 1,499 cm³ | 15.61 | about 23,400 lei | about 1,200 |
+| 2.0 petrol | 1,999 cm³ | 23.68 | about 47,300 lei | about 2,400 |
+| 2.5 petrol | 2,488 cm³ | 38.49 | about 95,800 lei | about 4,800 |
+| 2.0 hybrid | 1,999 cm³ | 17.76 | about 35,500 lei | about 1,800 |
+| 2.0 plug-in hybrid | 1,999 cm³ | 11.84 | about 23,700 lei | about 1,200 |
+
+On top of this comes a fee of about 600 lei for a car worth, with shipping, some 8–9 thousand dollars. The most common version in the United States is the 2.5; for it the total is about 96 thousand lei, that is, more than half the price of the car itself. The tax does not depend on the price at all: a wrecked Fusion for 3,000 dollars and a perfect one for 12,000 pay the same, while half a litre of engine doubles the sum. This is a tax not on wealth and not on harm but on cubic centimetres.
 
 Such a tax can in principle rest on five logics, and they are worth checking one by one.
 
@@ -160,7 +172,7 @@ The car and the loaf. To the argument "tax scholarship regards a broad consumpti
 | | A 10,000-dollar car from the United States | A loaf of bread from local flour |
 |---|---|---|
 | Where the value was added | Wholly abroad; nothing was added in the country | Wholly in the country: the field, the mill, the bakery, the shop |
-| How much is taken | 20 % at once — 2,000 dollars | At the reduced rate on bread; fractions of a leu per loaf |
+| How much is taken | On a commercial import — 20 % at once, 2,000 dollars; from an individual, instead of VAT, an excise on cubic centimetres, about 96 thousand lei for a Fusion 2.5 | At the reduced rate on bread; fractions of a leu per loaf |
 | Who collects and how | One customs officer at one barrier; do not pay and the car is not released | Four taxpayers along the chain, each with invoices, offsets, a cash register and inspections |
 | What collection costs | Almost nothing | An accountant, a device, online monitoring and an inspector at every link |
 
