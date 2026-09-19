@@ -35,7 +35,8 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 
 ## 4. The thermostat: why the system does not freeze
 
-- **The social thermostat.** The dividend falls — the mass takes its votes back with the multiplier and fires the managers; it grows — the mass leaves again. The Check Engine signal: passengers cannot repair the engine but unerringly notice the breakdown (§13.9, 040b.2).
+- **The social thermostat.** Life gets worse — the mass returns with a vote that now weighs more and fires the managers; it gets better — the mass leaves again. The Check Engine signal: passengers cannot repair the engine but unerringly notice the breakdown (§13.9, 040b.2).
+- **The number is a comprehensible but crude sensor.** The size of the dividend is valuable because it is single, arrives personally and is understood by everyone; as an indicator it is imprecise, but better than none. The real sensor is the share returning with their votes; for those for whom one number is not enough, the candidates will bring the rest in the debates (040b.2b).
 - **The trust barometer.** The share refusing the dividend is the second indicator; countries are comparable only by the pair "D + share of A" (§13.11, 040b.5).
 - **Yin-yang.** Decay runs both ways: an amplified vote is expensive property, its owner starts trading it until the other shareholders unite against him; stability is not the absence of struggle but its flow from state to state (015b.2).
 - **A repeated game.** Elections today are one-shot, where cheating is rational for the incumbent; the protocol satisfies all four of Axelrod's conditions for cooperation: a long shadow of the future, a legible move (the number), cheap retaliation (a tick instead of a revolution), simplicity (013b.3).

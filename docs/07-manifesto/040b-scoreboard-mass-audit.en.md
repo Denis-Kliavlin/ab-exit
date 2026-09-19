@@ -20,6 +20,22 @@ A tyrant always prepares the country for a new tyrant or chaos: after him scorch
 
 This closes the question "won't the active minority seize power". In any other system the elite excuses failure by complexity: "this is macroeconomics, sanctions, be patient" — complexity as a screen. Here the excuse burns: "I don't care how the engine works; the dividend was 1,500, now it's 1,400; the car drives worse; you engineers work badly — get out, we'll hire those who fix it". Passengers need not know how to repair — only to notice the breakdown. The dividend is the Check Engine light; millions of the "passive" are millions of independent auditors; hidden corruption is impossible, because any piece pinched off shows up in the payment. Politics turns from a struggle for power into a struggle for service quality; the elite is hostage to its efficiency. Free-market logic transferred to the state: the state is a product, citizens are consumers, the dividend is the quality rating; a bad product is not bought.
 
+## 2b. Two sensors: a comprehensible number and the return of people with their votes
+
+A check against the British data (055d.9) showed that the size of the dividend is a crude gauge: it is tied to the median wage, does not see what happens to the bottom 20 %, and would have responded to a shock on the scale of Brexit with single pounds per cycle. The architect's clarification: "the sensor matters precisely as a comprehensible number; in reality it is not highly indicative, but it is better than nothing. The number is for the very poorly educated, and for the smarter ones the candidates will find a thousand more numbers in the debates."
+
+Hence three layers of signal, and none replaces another.
+
+| Layer | For whom | Strength | Weakness |
+|---|---|---|---|
+| The size of the dividend | For everyone, including those who read nothing | One number, arrives personally, needs no trust in experts and cannot be translated into the language of propaganda | Crude: the median does not see the bottom 20 % and reacts weakly to individual decisions |
+| The share returning with their votes | For the system as a whole | Sees everything: people return not because the sum fell by two pounds but because life got worse — including those the median does not notice | Fires with a lag of one cycle |
+| Numbers in the debates | For those who stayed to vote | As many indicators as one likes; an audience that refused money reads them | Requires involvement — which is why it works only on those who stayed |
+
+Compared with the order in force: today the voter has not a single number that arrives personally and depends on the quality of governance. A crude comprehensible sensor is better than none. And the real thermostat is the second layer: a passenger notices a breakdown not from the gauge but from how the car rides; the gauge is there so that those who do not look out of the window notice too.
+
+The remainder. Returning with a vote costs a person his dividend: for the poor the voice of discontent becomes paid. Today it is free but diluted to 1/N; after the return it weighs 1/(1 − the share who exited) times more (033c.9b). What prevails for a person with a short horizon — the price or the weight — is a question for a pilot. 🟡
+
 ## 3. The elite as a national team, not a caste
 
 The architect's correction to "fear of dismissal": "you forgot the competition of elites; elites are not stable, children of the passive move into the elites; the engineers are not under threat of dismissal — they compete for the right to prove they are smarter and more effective". This changes the model from a "stable system" to a living organism.
