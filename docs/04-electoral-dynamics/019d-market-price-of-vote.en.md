@@ -47,7 +47,26 @@ The architect supposed that in other countries the ratio would be comparable. A 
 | Bulgaria, 2024 | 100–300 leva (50–150 euros) | on the order of 300 leva | D at the upper end of the price |
 | The Philippines, 2025 | 250–500 pesos in mayoral races; in the hottest contests sums of up to 15,000 pesos were reported | on the order of 3,000 pesos | D six to twelve times the usual price |
 
-The consequences. First: vote buying becomes dearer after the protocol. To buy a vote that a person can lawfully exchange for D, the buyer must pay more than D — otherwise the seller takes the sum from the state and risks nothing; this is the floor price of a vote (048h.5). Where the market paid a third or a tenth of D, it simply closes. Second: a foreign buyer, as in Moldova, now has to outbid not zero but D, and not among a hundred thousand poor people but among the motivated who stay, who by definition have already refused the sum. Third: the protocol does not create a market in votes — it exists, is documented and serves the worst buyers; the protocol makes the state the buyer of last resort and the seller the one who gains.
+The consequences. First: vote buying becomes dearer after the protocol. To buy a vote that a person can lawfully exchange for D, the buyer must pay more than D — otherwise the seller takes the sum from the state and risks nothing; this is the floor price of a vote (048h.5). Where the market paid a third or a tenth of D, it simply closes. Second: a foreign buyer, as in Moldova, now has to outbid not zero but D; but this does not stop a rich buyer and has a reverse side — see §4b, where the first wording of this point is corrected. Third: the protocol does not create a market in votes — it exists, is documented and serves the worst buyers; the protocol makes the state the buyer of last resort and the seller the one who gains.
+
+## 4b. Does the protocol solve "the Shor problem": an honest count
+
+The architect's conclusion: "so AB-EXIT solves, simply by protocol, the real Shor problem that the security service of an entire country" could not prevent. This is half true, and the other half must be written down, because it is exactly what an opponent will find.
+
+An error in the first version of §4. It says the buyer will have to outbid D "among the motivated who stay". That is wrong: the buyer recruits not the motivated but the same poor people as before — only now from among those who were going to take the sum: "do not take D, take more from me and vote as required." The choice is reversible, and the protocol cannot prevent this.
+
+The arithmetic for a rich buyer. Before the protocol 39 million dollars yielded about 138 thousand recipients among 1.5 million voting — on the order of nine per cent. After the protocol the price of one vote rises: to the former 2,000 lei one must add the D the person forgoes, that is, about 4–5 thousand lei. But those voting become two and a half times fewer, and each bought vote weighs correspondingly more. The same 39 million at 5,000 lei is on the order of 130 thousand votes, now out of 600 thousand, that is, about a fifth. The floor price of a vote closes the *cheap* market — the local buyer with buckwheat and two hundred lei — but it does not hinder a geopolitical buyer with tens of millions, and the shrinking of the pool helps him. This is the same narrow-pool vulnerability as in 039b.3.4 and 015c.7b, and it must not be hidden.
+
+What the protocol really changes — and what the security service does not have today.
+
+| | Today | After the protocol |
+|---|---|---|
+| When the buying becomes visible | After the election, from bank transfers; in 2024 identities were established when the money had already been handed out | Before the election: a recruit is a person who by every indication should have taken the sum and did not; a surge of such refusals at the polling stations of one district is visible on the day the choice closes, before the vote |
+| Whom to check | All recipients of transfers from abroad | A narrow group: those who refused the sum where refusals are anomalously many |
+| What holds the influence network together | Handouts: top-ups for pensioners, "social shops" — gratitude is expected at the polling station | The same sum comes from the state unconditionally; the handout ceases to be the only source of free money |
+| What the seller loses if exposed | Nothing but the risk of a fine | The lawful sum he could have received without risk |
+
+The upshot. The protocol does not replace a security service and does not make vote buying impossible; against a buyer with a state's budget, price is no defence. It does something else: it turns hidden buying into conspicuous buying (recruitment leaves a trace in the A/B choice itself) and deprives handout networks of their monopoly on the poor voter's free money. For the first to work, the statute needs two norms: publication of the number of refusals of the sum by polling station before polling day, and a threshold at which an anomaly triggers a check. Without them only the arithmetic remains, and it favours the buyer. An indicator for a pilot: the share of refusals of the sum by polling station compared with the forecast from the composition of the population. 🟡
 
 ## 5. Weak point of the section
 
