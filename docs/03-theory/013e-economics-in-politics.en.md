@@ -78,6 +78,22 @@ How to replace: not with a programme. The architect objected to this too: "you d
 
 The protocol already has the consistent answer, and it is the same as in the sum D itself: money goes to the person, bypassing the intermediary (056e.2). A school for one pupil is closed, and the per-pupil funding is given to the family: to drive the child, to rent near the school, to move — the family decides, and will decide more cheaply and better than any education office. A bus for one passenger is cancelled, and part of the saving goes to the passenger himself. The criterion of result remains — the child has a school, the old man has a doctor — but it is met not by a new line of spending but by a line disappearing while the person receives money. The flow through officials shrinks twice over: by the saving itself and by the part that used to settle along the way.
 
+A calculation: a bus or a house. The architect: "a bus for three children over 50 km costs per year as much as building these people a house next to the school — work it out; populists do not even count this." The assistant's rough estimate for Moldova, a dedicated route, 175 school days; all figures are an order of magnitude, not a budget.
+
+| Item | Per year |
+|---|---|
+| Mileage | 100–200 km a day (the bus waits at the school or returns empty) — 17.5–35 thousand km |
+| Fuel (12 l per 100 km, 22 lei a litre) | 46–92 thousand lei |
+| Servicing and tyres (1.5 lei per km) | 26–53 thousand lei |
+| The driver, with taxes | about 170 thousand lei |
+| Depreciation of the bus (60 thousand euros over ten years) | about 120 thousand lei |
+| Insurance, parking, other | about 20 thousand lei |
+| **Total** | **380–450 thousand lei — 19–23 thousand euros a year** |
+
+A modest 70 m² house at the construction cost from 019c.6c (425–715 euros per m²) plus an inexpensive plot in the village with the school comes to 37–57 thousand euros. So the architect was off by no more than a factor of two: the house pays for itself not in one year but in two to three years of the route. And the route lives as long as the children are at school — nine to twelve years: that is 170–270 thousand euros, four to six houses for three families, and after the children leave school a house remains, whereas what remains of the bus is a written-off bus. Per child the bus costs 6–8 thousand euros a year — by the assistant's estimate several times the entire per-pupil funding (the funding norm itself was not checked here).
+
+Caveats. A dedicated bus for three children is an extreme case; usually a route collects several villages, and the extra cost of an added 50 km is smaller. And not every family will want a house by the school: it has a farm, land, elderly parents. So the conclusion is not "build houses instead of buses" but the same as above: the sum a service costs must be known and named to the family — "your route costs twenty thousand euros a year; here is that money, decide for yourselves." Some will move, some will buy a car, some will arrange things with a neighbour. Today nobody works out this sum, because there is nobody to ask for it: those who decide elections do not care, and those who run the route benefit from its existing.
+
 A caveat for a campaign. The phrase "AB-EXIT wants to resettle villages" is a ready-made headline for an opponent. In public language this is a subject not for the protocol but for the programmes of candidates, who will for the first time be able to raise it; the protocol says nothing about it and should say nothing.
 
 Third. In a market whoever has more money has more votes. The protocol does not carry this over: those who stay have one vote each, and the sum is the same for all. This is not a flaw in the analogy but a deliberate boundary — yet it means that "the laws of economics" are not taken whole.
