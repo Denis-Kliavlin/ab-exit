@@ -161,6 +161,7 @@ United States is one country case among others, not the frame of the document.*
 ### Chapter 9. Country Cases
 
 53. [🇲🇩 Moldova: The Opportunities](09-other-countries/053-moldova.md)
+- [53b. 🇲🇩 Moldova in Figures: Levies, Mayoralties and the Price of an Office](09-other-countries/053b-moldova-in-figures.md)
 54. [🇨🇭 Switzerland *(in preparation)*](09-other-countries/054-switzerland-placeholder.md)
 55. [🇪🇺 EU Countries *(in preparation)*](09-other-countries/055-eu-countries-placeholder.md)
 - [55b. 🇫🇷 France: Le Pen, Yellow Vests, 'de Gaulle of the 21st Century'](09-other-countries/055b-france.md)

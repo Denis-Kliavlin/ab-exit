@@ -170,6 +170,7 @@
 ### Глава 9. Кейсы: другие страны
 
 53. [🇲🇩 Молдова: возможности](09-other-countries/053-moldova.md)
+- [53b. 🇲🇩 Молдова в цифрах: поборы, примэрии и цена конторы](09-other-countries/053b-moldova-in-figures.md)
 54. [🇨🇭 Швейцария *(готовится)*](09-other-countries/054-switzerland-placeholder.md)
 55. [🇪🇺 ЕС-страны *(готовится)*](09-other-countries/055-eu-countries-placeholder.md)
 - [55b. 🇫🇷 Франция: Ле Пен, жёлтые жилеты, «де Голль XXI века»](09-other-countries/055b-france.md)

@@ -86,6 +86,7 @@ plugins:
             "13c. Референдум до запуска как игра": "13c. The Pre-Launch Referendum as a Game"
             "13d. Выборы как измерительный прибор: Байес": "13d. Elections as a Measuring Instrument: Bayes"
             "13e. Законы экономики в политике": "13e. The Laws of Economics in Politics"
+            "53b. Молдова в цифрах": "53b. Moldova in Figures"
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
             "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
@@ -330,6 +331,7 @@ nav:
   - "IV. Страновые имплементации":
     - "Глава 9. Кейсы: другие страны":
       - "53. Молдова": 09-other-countries/053-moldova.md
+      - "53b. Молдова в цифрах": 09-other-countries/053b-moldova-in-figures.md
       - "54. Швейцария": 09-other-countries/054-switzerland-placeholder.md
       - "55. ЕС-страны": 09-other-countries/055-eu-countries-placeholder.md
       - "55b. Франция": 09-other-countries/055b-france.md
