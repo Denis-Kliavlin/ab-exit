@@ -71,6 +71,17 @@ An example with a hundred people on the roll (the shares are notional):
 
 The last row requires an honest reading: with ten secret to thirty open, the theoretical ceiling is higher than today's practical one. But it is a ceiling of quite a different kind. Today 10–15 points are added without trace. After the protocol, forging the secret channel leaves a trace by itself: the same station has open votes with a known distribution, and if the secret ballots diverge sharply from them, that is visible with no observer at all; besides, each candidate knows his lower bound from tokens, and a total below it is impossible. The practical ceiling is a few points, and the smaller the secret channel's share, the lower it is. With five secret, thirty-five open and two "empty places" per hundred on the roll, the theoretical ceiling is about a sixth of the votes and the practical one single points.
 
+The target configuration. The architect named the state he regards as the ideal: "10 % or fewer vote secretly, 40–50 % exit the election; with that split the accuracy of elections will be at its maximum and differ sharply from today's variants." By the formula above, with three "empty places" per hundred on the roll:
+
+| Exit | Secret among those voting | Records on the roll that the person himself checks | Votes confirmed by a token | Theoretical ceiling on forgery |
+|---|---|---|---|---|
+| 40 % | 10 % | 91 of 100 | 90 % | about 15 % |
+| 40 % | 5 % | 94 of 100 | 95 % | about 10 % |
+| 50 % | 10 % | 92 of 100 | 90 % | about 15 % |
+| 50 % | 5 % | 95 of 100 | 95 % | about 11 % |
+
+The comparison with today lies not in the "ceiling" column — in theory it is of the same order as today's practical 10–15 points — but in the other two. Today the number of records a person checks himself is nought out of a hundred; in the target configuration it is over ninety. And today 10–15 points are added without trace, whereas here the whole ceiling is concentrated in the secret channel, whose size is published and whose distribution is compared with the open votes at the same station: to use the ceiling in full one would have to draw the secret ballots in a way nobody voted openly. The practical ceiling in this configuration is single points. An exit share of 40–50 % coincides with the second phase of the forecast in 015b.6; in the first phase exit is expected to be higher, and verifiability only grows from that — whoever took the sum is always verifiable. What the share of the secret channel turns out to be is not a parameter but a result (§6b): ten per cent and less will come about where people have nothing to fear.
+
 This shows that it is precisely the two things together that work, as the architect said. Tokens without the register of those who took the sum leave open the main resource for stuffing — the half of the roll that does not vote. The register without tokens closes stuffing but leaves everything dropped into the box unverifiable. Together they leave the commission only the secret channel, and its size is a public number (§6b). 🟡
 
 ## 6. Two remainders for discussion
