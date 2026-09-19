@@ -104,7 +104,7 @@ An honest list from the sections' "weak points", collected in one place:
 - It is designed for electing managers; a one-off constitutional referendum outside the protocol remains a one-way door (055d.8, 013b.3).
 - The dividend is small compared with the losses from bad policy: anger is removed by changing who decides, not by the cheque (055d.9).
 - The first cycle before x10 must be financed in advance; household coercion is not solved by the protocol; a narrow pool of A in a municipality is vulnerable to a cartel (039b.3, 015b.8).
-- The x3 multiplier in the count is legally more vulnerable than an opt-out with compensation; the US federal contour is closed by §597 (059b.8, 049).
+- "A x3 vote" is not a multiplier in the count but the floating arithmetic 1/(1 − the share who exited): every ballot counts as one (033c.9b). The legal wall is not vote weight but payment for non-participation: the US federal contour is closed by §597 (059b.8, 049).
 - The effect figures are model projections; a baseline appears only with a pilot (037b.8). In the dialogues the sums "1,000–1,500 euros" are the model's drift; by the formula, for France ≈ 390 euros, for Britain ≈ £465, for the US ≈ $780 (055d.4).
 
 ## 13. Three lines to leave with

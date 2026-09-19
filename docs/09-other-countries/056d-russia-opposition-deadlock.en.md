@@ -30,7 +30,7 @@ Katz criticises Yabloko for its plan to spoil ballots and calls for voting for t
 | 2. Systemic opposition | 28 (New People 16, CPRF 11, LDPR 1) | 28 → 37.8 % | half take the money, 14 stay | 42 | 31.1 % |
 | 3. Administrative resource | 46 (public-sector workers, security forces, pensioners) | 46 → **62.2 %** | 90 % (41) take the dividend, 5 ideological stay | 15 | 11.1 % |
 
-The system flips not because the opposition persuaded 46 supporters of the regime but because their participation was bought out at the budget's expense. The boycotters — marginals under the old rules — become the controlling majority; the party of power falls from 62 % to 11 %.
+The system flips not because the opposition persuaded 46 supporters of the regime but because their participation was bought out at the budget's expense. The boycotters — marginals under the old rules — become the controlling majority; the party of power falls from 62 % to 11 %. (The "weight x3" column is an illustration: an identical coefficient for all who remain does not change the shares, 78/135 = 26/45; the result comes not from the multiplication but from the composition of those who remain — 033c.9b.)
 
 **Why Katz sees no way out** (not stupidity — paradigmatic blindness): (a) the religion of the "sacred vote" — proposing to monetise apathy is, for a classical liberal, "like coming to church with a calculator; morality blocks access to mathematics"; (b) the enlightener's business model — a career built on "persuading and teaching", and the protocol makes that labour unnecessary; (c) the illusion of a chess game by the Presidential Administration's rules.
 

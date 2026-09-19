@@ -68,7 +68,7 @@ The architect: "I deliberately caught you out — is Milei definitely against AB
 
 ## 8. Weak point of the case
 
-Three honest corrections by the model itself remain in force: (1) the statutes 18 U.S.C. § 597 and 52 U.S.C. § 10307(c) literally cover compensation for *non-participation* — the legal route through "revocable escrow" and a municipal statute (§45, 049) has not been tested by a single court; (2) One person, one vote — the x3 multiplier in the *count* is constitutionally more vulnerable than an opt-out with compensation; the 048 series and 052 discuss this, but there is no final answer; (3) the "state takeover" scenario is an illustration that the protocol itself rejects as an oligarchic coup; the cohort A paradox is a plausible, not a proven, answer. And the personalities: Musk and Milei here are types; their real positions were not solicited. 🟡
+Three honest corrections by the model itself remain in force: (1) the statutes 18 U.S.C. § 597 and 52 U.S.C. § 10307(c) literally cover compensation for *non-participation* — the legal route through "revocable escrow" and a municipal statute (§45, 049) has not been tested by a single court; (2) One person, one vote — the model's objection assumed x3 to be a multiplier in the *count*; this is removed by the architect's clarification: x3 is the floating arithmetic 1/(1 − the share who exited), every ballot counts as one (033c.9b, Q-LEG-005); what remains is only the opt-out with compensation, that is, point (1); (3) the "state takeover" scenario is an illustration that the protocol itself rejects as an oligarchic coup; the cohort A paradox is a plausible, not a proven, answer. And the personalities: Musk and Milei here are types; their real positions were not solicited. 🟡
 
 ---
 
