@@ -91,6 +91,20 @@ What was not confirmed. Buying new housing in Bangkok is not cheaper relative to
 
 What was confirmed, and it is stronger. First, the bottom tier: in Thailand the market produces housing for a person on an average or low wage (a room for a fifth of earnings); in Moldova that tier does not exist at all. Free entry gives not cheap luxury but the existence of the cheap. Second, the supply response. In a country people move to, prices rise four per cent a year and the market is if anything oversupplied; in a country people leave, with a shrinking population, prices rose sixty per cent in two years while completions simultaneously halved. Falling completions with a soaring price is the signature of supply that cannot answer demand; in a free market a 60 % price rise would set off a building boom, not a slump.
 
+The architect's question: "and what, besides corruption and hidden permits, can affect supply like this?" An honest list of causes that give the same picture with no levy at all.
+
+| Cause | How it works | Does it depend on the quality of governance |
+|---|---|---|
+| Construction lag | A building is completed two to three years after it starts; the completions of 2024 are the starts of 2021–2022, that is, the shock of a war next door and a policy rate above 20 % | No: an external shock; easy to test — if the lag is the cause, completions in 2026–2027 should rise sharply |
+| The price of money | A developer builds on prepayments and credit; with dear money there are fewer starts | Partly |
+| Shortage of builders | Workers left for where pay is triple; a country people leave loses not only buyers but those who build | Yes, but indirectly: emigration itself is a consequence of the low base |
+| The price of materials | A jump after 2022, imports | No |
+| Networks and land | The city lacks water, sewage and electricity capacity; connection is a separate queue | Yes: this is precisely the quality of city management |
+| A few large developers | With few players it pays to hold supply back | Yes: players are few where entry is dear |
+| Demand not from local wages | Diaspora money and buying "as a store of value" detach the price from wages | No; but this explains the price, not the fall in completions |
+
+The conclusion from the table is twofold. The slump of 2024 specifically is in all likelihood explained in large part by the lag after the shock of 2022, and attributing it to permits would be dishonest. But the *level* — why in calm years Moldova builds about three dwellings per thousand inhabitants and has no cheap tier — is not explained by the lag. Here there is a measured benchmark: in the World Bank's last Doing Business ranking (2020) Thailand stood 34th of 190 for dealing with construction permits, at 113 days for the whole procedure; Moldova, from the assistant's memory and unchecked against the primary source, stood in the middle of the second hundred with a procedure roughly twice as long. One indicator tells the causes apart: the number of building permits issued and the time to obtain them, year by year. If, with the price up 60 %, many permits are applied for while few are issued and slowly — it is a barrier; if few are applied for — it is money, people and the lag.
+
 What these figures do not prove. Why exactly completions fell in Moldova has not been established here from open sources; market participants name permitting procedures, but other forces also acted on the price — refugees from Ukraine, diaspora money, subsidised mortgages, inflation. So housing is recorded not as a proven levy but as a candidate for testing by the filter of §5: how many months and signatures a building permit takes compared with ten countries, and which of them check a result (structural soundness, fire safety) and which a process. 🟡
 
 ## 7. Weak point of the section
