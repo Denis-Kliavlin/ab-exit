@@ -71,6 +71,7 @@
 19. [Цена плохого управления](04-electoral-dynamics/019-bad-governance-cost.md)
 - [19b. Бедный — самый дорогой избиратель](04-electoral-dynamics/019b-poor-voter-price.md)
 - [19c. Реформа вычитанием: как протокол отменяет поборы](04-electoral-dynamics/019c-reform-by-subtraction.md)
+- [19d. Рыночная цена голоса уже измерена: Молдова 2024 и другие страны](04-electoral-dynamics/019d-market-price-of-vote.md)
 20. [AB-EXIT сильнее UBI](04-electoral-dynamics/020-stronger-than-ubi.md)
 21. [Пустота центристов — первая эмоциональная речь](04-electoral-dynamics/021-centrist-void.md)
 22. [Консенсусная тема — объединяет три лагеря](04-electoral-dynamics/022-consensus-theme.md)

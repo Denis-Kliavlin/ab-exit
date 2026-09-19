@@ -79,6 +79,7 @@ Each section is self-contained — you can read it straight through as a book (u
 18. [Three Epochs of Democracy](04-electoral-dynamics/018-three-epochs.md)
 19. [The Cost of Bad Governance](04-electoral-dynamics/019-bad-governance-cost.md)
 - [19c. Reform by Subtraction: How the Protocol Repeals Levies](04-electoral-dynamics/019c-reform-by-subtraction.md)
+- [19d. The Market Price of a Vote Has Already Been Measured: Moldova 2024 and Other Countries](04-electoral-dynamics/019d-market-price-of-vote.md)
 20. [AB-EXIT Is Stronger Than UBI](04-electoral-dynamics/020-stronger-than-ubi.md)
 21. [The Centrist Void — the First Emotional Speech](04-electoral-dynamics/021-centrist-void.md)
 22. [A Consensus Theme — Uniting Three Camps](04-electoral-dynamics/022-consensus-theme.md)
