@@ -50,6 +50,29 @@ Double entry closes the B share, tokens close the A-open share. Only A-secret st
 
 Coercion. The open channel gives a boss what he wanted: proof. But the comparison must be made with the system in force (048h.6): photographing a ballot is lawful in 25 US states and unlawful in 13, and technically possible everywhere. Under the protocol the direct attack "vote openly for my man" costs the instigator D plus a risk premium, and the coerced person has the exit into B (048h.5). That is, the main protection is not secrecy but the floor price of a vote.
 
+## 5b. The arithmetic of the ceiling: tokens plus the register of those who took the sum
+
+The architect's summing-up: "votes with a token become verifiable — that is the most important thing; and if control of those who took the money is added, the amount of manipulation falls sharply, mathematically." This can be written as one formula and worked through on an example.
+
+Any forgery of the result is made out of records that nobody but the commission can check. After the protocol there are two kinds of such records: secret ballots and "empty places" — people who are on the roll, did not take the sum and did not come to vote. Everything else is checked by the person himself: whoever took the sum sees the payment, whoever voted openly holds a token.
+
+**The ceiling on forgery = (secret ballots + those who neither took the sum nor turned up) / all votes cast.**
+
+An example with a hundred people on the roll (the shares are notional):
+
+| | Today | After the protocol |
+|---|---|---|
+| Took the sum — checked by every recipient and the treasury | — | 55 |
+| Voted openly, with a token — checked by the voter himself and his candidate's counters | — | 30 |
+| Voted secretly | 50 | 10 |
+| On the roll but took no part at all — the reserve for stuffing | 50 | 5 |
+| Records that can be forged without their owner noticing | 100 of 100 | 15 of 100 |
+| The ceiling on forgery as a share of votes cast | not bounded by arithmetic; in practice 10–15 points (013d.6c) | in theory 15 of 45 (forty cast and five stuffed), that is, about a third, *if* the entire secret channel is forged |
+
+The last row requires an honest reading: with ten secret to thirty open, the theoretical ceiling is higher than today's practical one. But it is a ceiling of quite a different kind. Today 10–15 points are added without trace. After the protocol, forging the secret channel leaves a trace by itself: the same station has open votes with a known distribution, and if the secret ballots diverge sharply from them, that is visible with no observer at all; besides, each candidate knows his lower bound from tokens, and a total below it is impossible. The practical ceiling is a few points, and the smaller the secret channel's share, the lower it is. With five secret, thirty-five open and two "empty places" per hundred on the roll, the theoretical ceiling is about a sixth of the votes and the practical one single points.
+
+This shows that it is precisely the two things together that work, as the architect said. Tokens without the register of those who took the sum leave open the main resource for stuffing — the half of the roll that does not vote. The register without tokens closes stuffing but leaves everything dropped into the box unverifiable. Together they leave the commission only the secret channel, and its size is a public number (§6b). 🟡
+
 ## 6. Two remainders for discussion
 
 **Loss of deniability for those who have already stayed.** The floor price protects before the choice of status. Someone who has already refused D and stayed to vote no longer has that protection: for him the demand "since you stayed — show the token" is free for the instigator. Today he could show a photo and re-vote; an official token cannot be fooled that way. The Estonian device (an open vote can be overridden by a secret one, the last counts) restores deniability but takes away the token's power of proof: one cannot have a vote that is both provable for the count and deniable to the boss. It is the same trio "verifiability, secrecy, accessibility" (048h.1); the architect's construction chooses verifiability for volunteers.
