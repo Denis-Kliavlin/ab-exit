@@ -51,6 +51,7 @@ The three figures have one thing in common, and it sets the protocol apart from 
 | Parliament and a private referendum | stay silent; ridicule; ban; discuss seriously — all four moves work for the idea | 035 §84.3 |
 | The establishment politician before any law | argue — the argument is with a sense of injustice, not with the candidate; stay silent — both old options already look like losing ones | 048g.6 |
 | Those who want to roll the protocol back | repeal by referendum — persuade the majority to vote against its own payment; do not — the protocol is entrenched by that same majority | 048g.6b |
+| The authorities and the public counter | keep it public — the underdog gets the same precise data as the authorities; classify it — admit the figure is bad and breach the text adopted by referendum | 004.4.3b, 004.4.7b |
 | The national populist in power | fit into the system he promised to break; keep his promises — eat through the reserves and collapse | 039b.4 |
 
 ## 5. The autocrat and his apparatus

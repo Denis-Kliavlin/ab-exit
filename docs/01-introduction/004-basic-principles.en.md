@@ -188,6 +188,14 @@ measure of public trust in incumbent leadership.
 
 ---
 
+### 4.7b. The counter belongs in the text of the referendum
+
+Added on 20 September 2026. The occasion was a fork: a public counter takes away the authorities' informational advantage (4.3b), and they are left with two moves — keep it public and give the underdog the same precise data they have themselves, or classify it and thereby admit the figure is bad. The architect drew a conclusion for the design: "then the counter must be put into the referendum."
+
+The conclusion is right, and behind it stands the Georgian lesson (048g.3b): whatever is not written into the text adopted by the people remains a slit through which a reform is dismantled by ordinary law — there it was the clause "except excise". The counter is exactly such a candidate for quiet spoiling. The payment cannot be repealed: everyone who received it holds on to it (048g.3c). But "temporarily suspending daily publication for technical reasons", publishing once a week, publishing with a delay, publishing without a breakdown by polling station — all that is possible if Article XIV exists only as a by-law; and each of these trifles hands back to the authorities exactly the advantage the counter took away.
+
+So the text put to the referendum includes not only the sum and the right to choose but four properties of the counter: the aggregate is published for every polling station; daily throughout the declaration window; in open machine-readable form; with no right of suspension. The counter then falls under the same asymmetric lock as the payment (048g.6b): it can be changed only by a new referendum, and holding a referendum on hiding a figure from the people is a move that defeats itself.
+
 ### 4.8. The two payment phases
 
 **Phase 1: base dividend (D\_base)** \= M × 1.5 × K. Paid one day before the election from
