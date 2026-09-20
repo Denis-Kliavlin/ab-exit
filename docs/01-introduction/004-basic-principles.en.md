@@ -62,6 +62,23 @@ decision with real money at stake.
 No existing mechanism provides a trust rating this precise, this unmanipulable, and this
 financially backed.
 
+### 4.3b. Two camps: why the percentage alone is not a rating
+
+Added on 20 September 2026. The architect corrected §4.3: "it is all more complicated here. The percentage gives no understanding: a person is fully satisfied with the authorities and takes the money — or he does not care and takes the money. These are entirely different camps." The correction is right, and §4.3 in its earlier form contradicts the rest of the repository: by the logic of the thermostat (015b.6b), exit *grows* under good governance — a satisfied person reckons they will manage without him. So "90 % took the sum" may mean the authorities' failure or their success, and the level cannot be read as a grade.
+
+| | Camp 1 — the satisfied | Camp 2 — the indifferent |
+|---|---|---|
+| Why they take the sum | "things are going fine, they will manage without me" | "I do not care who is there" |
+| Do they follow the campaign | yes: they watch debates and read | no |
+| Can they be brought back to the polls | yes — if candidates persuade them there is something to lose or to choose | no, whatever the campaign |
+| When they declare | either at once, if they need the money, or after watching the campaign | when they remember — more often at the last moment |
+
+Two consequences follow. First: the rating is not the level but the curve. Camp 2 does not react to campaign events at all; camp 1 does — after strong debates or a scandal the flow of declarations for the sum slows and the flow of declarations for the vote rises. So what speaks of the authorities is not how many people exited but how the counter responds to the campaign and how it has changed from the previous cycle: steady high exit with a calm counter is satisfaction or indifference; a counter that turns after debates is camp 1 changing its mind, and that is a signal no poll provides.
+
+The second consequence concerns time, and here the architect is right: "it matters what moment that is; time must be left." If the indifferent declare on the last day, the counter shows the wrong picture to the very end, and a candidate has nothing to calibrate his decision by (4.2). The design answers this in two ways. The declaration window closes in advance — 15 days before the election (4.1) — and the second phase of the campaign runs with the number of voters already known (4.5). And the premium for early declaration (4.9) pulls forward precisely camp 2: it has nothing to wait for, and a small increment is enough to stop it procrastinating. Then those left at the end of the window are mostly the ones who are genuinely thinking — and the counter's movement in the last days becomes a clean measurement of whether the campaign persuaded the satisfied.
+
+Weak point. A camp cannot be identified from the counter alone: it is an inference from the shape of the curve, not an observation. It can be tested only in a pilot — by asking those who took the sum for their reason and comparing early and late declarers. 🟡
+
 ### 4.4. The effect on debates
 
 The public counter creates a new kind of debate question, IMPOSSIBLE without AB-EXIT:
