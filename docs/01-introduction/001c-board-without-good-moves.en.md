@@ -65,6 +65,7 @@ The three figures have one thing in common, and it sets the protocol apart from 
 | The autocrat and his own budget | outbid — pay himself past the intermediaries; ask people not to take it — a tenth at most have the fanaticism required | 056e.2 |
 | The regime after launch | cut the payments — get an influx of the enraged with a tenfold vote; print money — inflation eats the payment | 056e.3 |
 | The dictator and the army | order suppression — the soldier kills the source of his own income; do not — there is nothing else to repeal the protocol with | 048d.3 |
+| A dependent court and its honest judges | keep them — put up with inconvenient rulings; throw them out — hand them to a parallel court where their rulings are open and cited | 048j.5e |
 | The ruler before his own family | does not see the solution — a fool; sees it and does not introduce it — a thief | 048d.5 |
 | The dictator and the defector from the elite | kill him — make a martyr; leave him — he prepares the transition | 048d.6, 057c.4 |
 | The regime explaining that money is harmful | explain — lose the role of the people's protector; do not — propaganda cannot explain why one may not become richer | 048d.7 |
