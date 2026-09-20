@@ -152,6 +152,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [48g. Rollback after Launch: Probabilities, Four Paths, Who Votes to Repeal](08-implementation/048g-rollback.md)
 - [48h. Secrecy, Verifiability and the Price of Coercion: the German Court and the Mirror Attack](08-implementation/048h-secrecy-verifiability-coercion.md)
 - [48i. Three Channels and a Parallel Count: Money, an Open Vote, a Secret Ballot](08-implementation/048i-three-channels-parallel-count.md)
+- [48j. Courts and Local Tuning: What the Protocol Does Not Describe, and Why](08-implementation/048j-courts-and-local-tuning.md)
 
 ## Part IV — 🌍 Country Implementations
 

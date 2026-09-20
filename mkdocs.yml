@@ -189,6 +189,7 @@ plugins:
             "48g. Откат после запуска": "48g. Rollback after Launch"
             "48h. Тайна, проверяемость и цена принуждения": "48h. Secrecy, Verifiability and the Price of Coercion"
             "48i. Три канала и параллельный подсчёт": "48i. Three Channels and a Parallel Count"
+            "48j. Суды и подгонка по месту": "48j. Courts and Local Tuning"
             "55b. Франция": "55b. France"
             "55c. Германия": "55c. Germany"
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
@@ -330,6 +331,7 @@ nav:
       - "48g. Откат после запуска": 08-implementation/048g-rollback.md
       - "48h. Тайна, проверяемость и цена принуждения": 08-implementation/048h-secrecy-verifiability-coercion.md
       - "48i. Три канала и параллельный подсчёт": 08-implementation/048i-three-channels-parallel-count.md
+      - "48j. Суды и подгонка по месту": 08-implementation/048j-courts-and-local-tuning.md
   - "IV. Страновые имплементации":
     - "Глава 9. Кейсы: другие страны":
       - "53. Молдова": 09-other-countries/053-moldova.md
