@@ -175,6 +175,26 @@ its promises.
 
 ---
 
+### 4.9. A premium for early declaration
+
+Added on 20 September 2026. The architect's proposal: "if the public counter matters so much and we impose a penalty on late payments (048i.5b), then perhaps make a premium for early ones." The assistant considers the idea right and sees in it the completion of one design: the sum stops being a point and becomes a scale over time.
+
+| When the person chooses the sum | What he receives | Why the protocol wants it |
+|---|---|---|
+| In the first days of the declaration window | the sum with a small premium, paid at once | the counter fills early, when it is needed most |
+| On the remaining days of the window | the ordinary sum | — |
+| After the election, if he did not vote | the sum with a 20–30 % discount | a witness for every "empty" record (048i.5b) |
+
+Why early figures are worth more than late ones. The counter is a "calibrator of courage" for new candidates (4.2), but seeing the figure is not enough for a candidate: he must have time to register, gather a team and run a campaign. A figure that appears three days before the election brings nobody into the race. Early declarations are also needed by the second gauge — the number of refusals before polling day, by which vote buying is found (019d.4b).
+
+What exactly the premium buys. A person who puts off declaring holds something of value — the right to watch the campaign through and change his mind. The premium is the price at which he sells that right. Someone who decided long ago and is merely procrastinating has nothing to sell and gets the premium for free — such people are the majority, and it is precisely their early figures the counter needs. Someone to whom the campaign really matters keeps the right and loses nothing against the ordinary sum. So the premium does not penalise the thoughtful; it pays for certainty.
+
+Two conditions. First, the premium must be small, of the order of 5–10 %: its task is to beat procrastination, not to outbid a decision; a large premium would pull out of the election those whom the campaign might have persuaded to stay, and would break the first phase of the campaign (4.5), which is precisely where people are urged to take part. Second, the budget identity (048f.3) must balance: the natural way to fund the premium is from the late discount, and then the scale as a whole costs the budget nothing. The cheapest part of the premium is free altogether: paying the early declarer at once rather than the day before the election (4.8); for someone living from pay cheque to pay cheque, money today is worth noticeably more than the same money a month later.
+
+Weak point. An early declaration with immediate payment is irreversible: a scandal in mid-campaign will not bring such a person back to the polls. It is a deliberate exchange, but in the first cycle it may prove a bad one for those who underestimated how the campaign would change; the size of the premium and the share of those who regret it are parameters for the pilot. 🟡
+
+---
+
 **Calculations for specific jurisdictions** are in Part IV. American municipal examples
 (including the efficiency bonus calculation) are in
 [chapter 10](../10-usa/045-us-legal-base.md).
