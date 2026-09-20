@@ -26,7 +26,7 @@ In a dialogue two hundred thousand words long the model slid again and again int
 
 ## 4. Publicity — not anonymity
 
-Cypherpunks build protection on ZKP and secrecy; the architect: "anonymity is not even really needed here — yes, I took the money, so what? if you want me to vote for you, pay the same". Publicity turns the boss's blackmail into farce: "compensate me from the factory's cash plus a loyalty bonus; can't — I chose my family". Taking the money is not dissent but capitalism; "are you against?" — "no, I'm for, I just need the money more". The secrecy of the ballot remains; the secrecy of the *A/B choice* is not mandatory — its absence is even stronger. Country analysis — 056d.4.
+Cypherpunks build protection on ZKP and secrecy; the architect: "anonymity is not even really needed here — yes, I took the money, so what? if you want me to vote for you, pay the same". Publicity turns the boss's blackmail into farce: "compensate me from the factory's cash plus a loyalty bonus; can't — I chose my family". Taking the money is not dissent but capitalism; "are you against?" — "no, I'm for, I just need the money more". The secrecy of the ballot remains; the secrecy of the *A/B choice* is kept by default — the status is seen by the person and the treasury (048i.5b) — but one need not use it: against a boss openness is stronger. Against pressure from one's own — a union, a community — it is secrecy that is stronger: the leader can order but cannot check (018 §31.3). So disclosure is a right, not a duty (clarified 21 September 2026). Country analysis — 056d.4.
 
 ## 5. Once per cycle — not monthly
 
