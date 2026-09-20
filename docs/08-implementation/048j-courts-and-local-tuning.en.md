@@ -45,6 +45,27 @@ The dependence cannot be removed altogether, but the repository already does thr
 
 The protocol does not need judicial reform as a precondition; it needs three things, and all three go into the same text adopted by referendum. Short deadlines: a dispute over a payment or over a repeat at a station is settled within days, otherwise the ruling arrives after the result has been confirmed. Standing for everyone whose record is affected and for every candidate — with no filter in the form of a prosecutor or an electoral commission. And open data as evidence by default: a bank statement, a register entry and the published counter are accepted by the court without further confirmation. Where even this is absent the protocol works worse, but by the usual yardstick not worse than elections without it: today the loser has neither a court nor a figure; after the protocol he has at least the figure.
 
+## 5b. The architect's drafts: an internet jury court
+
+After the first version of this section the architect showed two drafts of his own: "on the court I prepared everything long ago." The first is a 2016–2017 project, the "Internet Court": online hearing of small disputes (up to a thousand dollars, debts, online purchases, defamation) by jurors drawn from ordinary verified people, in absentia, with the case materials open to the public, a term of no more than 30 days and a fee commensurate with the sum in dispute; legally an arbitration tribunal, in substance an institution of reputation: "it pays to be honest." The second is a later roadmap for launching such a court in Moldova as private arbitration inside the IT park: standard contracts with an arbitration clause, a ruling within 72 hours, random assignment of 7–11 jurors who do not know one another and see the facts without names, some jurors from abroad — because "in Moldova everyone knows everyone."
+
+The projects were not written for the protocol, yet they close exactly the hole named in §3: judges are not elected, and the new composition of voters reaches the courts last. Jurors drawn by lot do not have this problem at all — nobody appoints them. And the protocol's six disputes are a rare case where a court of ordinary people is no worse than a professional one: they are questions of fact and arithmetic, not of interpreting law. Does the signature match; was the written threshold exceeded; was the counter published yesterday. No lawyer is needed for that — twelve disinterested people and open data are, which is precisely the draft's design. It has a venerable precedent: the Athenian dikasteria decided cases by hundreds of jurors chosen by lot precisely because that many people can be neither bribed nor intimidated.
+
+What the protocol takes from the drafts and what it changes.
+
+| From the drafts | How it fits the protocol's disputes |
+|---|---|
+| Jurors are ordinary verified people, in absentia, online | the same; identification is the same as in the payment application (048i.5c) |
+| Random assignment, jurors unknown to one another, the case without names | the same; plus jurors not from the district the dispute concerns |
+| A term of 72 hours to 30 days | days, not weeks: the ruling must arrive before the result is confirmed (§5) |
+| Materials are open | always open: this is a dispute over public data, not private life |
+| Jurors chosen by the parties | no: by lot only, otherwise parties will bring their own |
+| The juror paid from the claimant's fee | from the election budget: a claim about forgery must not cost money to the one who was robbed |
+
+The original project's main weakness, pointed out at its very first presentation — that a ruling has no legal force and strikes only at reputation — removes itself here: force is given to the ruling by the text adopted by referendum (004.4.7b). And conversely, the protocol solves the internet court's hardest problem — where jurors come from and why they would bother: the pool already exists, it is all citizens with the application installed, and a small payment for a juror's day comes from the same budget as the sum.
+
+Two things from the drafts the assistant advises against carrying over. Paying a juror "for agreeing with the majority", from the second roadmap: it rewards guessing others' opinion rather than attentiveness, and is unnecessary in disputes with obvious arithmetic. And blockchain as a mandatory foundation: for six disputes an open signed register suffices; technology is a matter of place, not of the protocol (§2). 🟡
+
 ## 6. Weak point of the section
 
 The section was written without a lawyer and without analysing even one concrete judicial system; the six points of dependence were gathered from the text of the repository, and there may be more. The claim that an arithmetic rule is hard to interpret "in the desired direction" is an argument, not an observation: dependent courts have found ways in simpler cases too. It is to be tested by a pilot in a country where courts are moderately dependent — which is most of them. 🟡
