@@ -37,6 +37,7 @@
 
 1. [Основная формула D = M × 1.5%](01-introduction/001-formula.md)
 - [1b. AB-EXIT в одной главе: сущность и вся важная логика](01-introduction/001b-essence.md)
+- [1c. Доска без хороших ходов: полсотни цугцвангов протокола](01-introduction/001c-board-without-good-moves.md)
 2. [Требования к источнику данных](01-introduction/002-protection.md)
 3. [Таймлайн данных и симметрия отчётности](01-introduction/003-rejected-variants.md)
 4. [Публичный счётчик и его влияние на выборы](01-introduction/004-basic-principles.md)

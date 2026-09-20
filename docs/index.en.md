@@ -47,6 +47,7 @@ Each section is self-contained — you can read it straight through as a book (u
 
 1. [The Core Formula D = M × 1.5%](01-introduction/001-formula.md)
 - [1b. AB-EXIT in One Chapter: the Essence and All the Important Logic](01-introduction/001b-essence.md)
+- [1c. A Board with No Good Moves: Half a Hundred Zugzwangs of the Protocol](01-introduction/001c-board-without-good-moves.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)

@@ -67,6 +67,7 @@ plugins:
             "Глава 1. Введение и базовая формула": "Chapter 1. Introduction and Core Formula"
             "1. Основная формула": "1. Core Formula"
             "1b. AB-EXIT в одной главе": "1b. AB-EXIT in One Chapter"
+            "1c. Доска без хороших ходов: полсотни цугцвангов": "1c. A Board with No Good Moves: Half a Hundred Zugzwangs"
             "2. Требования к источнику данных": "2. Requirements for the Data Source"
             "3. Таймлайн данных": "3. The Data Timeline"
             "4. Публичный счётчик": "4. The Public Counter"
@@ -227,6 +228,7 @@ nav:
     - "Глава 1. Введение и базовая формула":
       - "1. Основная формула": 01-introduction/001-formula.md
       - "1b. AB-EXIT в одной главе": 01-introduction/001b-essence.md
+      - "1c. Доска без хороших ходов: полсотни цугцвангов": 01-introduction/001c-board-without-good-moves.md
       - "2. Требования к источнику данных": 01-introduction/002-protection.md
       - "3. Таймлайн данных": 01-introduction/003-rejected-variants.md
       - "4. Публичный счётчик": 01-introduction/004-basic-principles.md
