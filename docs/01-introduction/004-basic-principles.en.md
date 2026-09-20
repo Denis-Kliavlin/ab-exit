@@ -13,7 +13,7 @@
 
 ### 4.1. The publication mechanism
 
-During the declaration window (30–15 days before the election) the jurisdiction publishes
+During the declaration window (30–5 days before the election) the jurisdiction publishes
 DAILY, on its official site and on the AB-EXIT portal:
 
 - the number of citizens who chose the Dividend (Option B)
@@ -23,6 +23,15 @@ DAILY, on its official site and on the AB-EXIT portal:
 
 The data is refreshed every 24 hours. Individual choices (who exactly chose A or B) remain
 CONFIDENTIAL. ONLY the aggregate is published.
+
+**On the length of the window.** In the first version the window closed 15 days before the
+election; on 20 September 2026 this was changed to 5 days (the reasoning is in 4.3b: those
+who think need time to watch the campaign through, while candidates get enough from the
+first wave of the counter). The architect set a limit here: "political fine-tuning this
+delicate is already a matter for political scientists, not architects." The protocol sets
+the principle — the window opens early and closes as close to the election as the payment
+machinery allows; the exact number of days is chosen by each country and city, and 5 days
+is a default, not a norm.
 
 ### 4.2. Why the counter must be public
 
@@ -77,7 +86,7 @@ Two consequences follow. First: the rating is not the level but the curve. Camp 
 
 The second consequence concerns time. The assistant first read the architect's words the other way round and wrote that the indifferent drag on to the last day. The architect clarified: "camp 1 may think it over; camp 2 takes the money at once — they need free money now and do not want to think; and here one can count the dissatisfied by the old scheme." This changes the picture, and for the better. The counter moves in two waves. The first, in the very first days of the window, is camp 2: it is large, fast and does not respond to the campaign. The old reading of §4.3 applies to it: these are people for whom the vote is worth nothing, and the size of the first wave is a measurement of alienation, comparable from cycle to cycle. The second wave, towards the end of the window, is camp 1: it is small, slow and depends wholly on what people saw in the campaign.
 
-Hence "time must be left", and it is a remark on the design itself. Under §4.1 the window closes 15 days before the election, while the main debates usually take place precisely in the last two weeks: a satisfied, thinking person has to decide before he hears the candidates. There is no need to close the window that early. Candidates get their calibration (4.2) from the first wave: the bulk of those taking the sum is known in the first days, and the second wave changes the number of voters by per cent, not by multiples. So the window can stay open almost up to the election — say, until three to five days before — taking nothing from candidates and giving camp 1 back what it is waiting for. With this arrangement the premium for early declaration (4.9) is needed for the purity of the first figure. The assistant had written that it is hardly needed to pull the indifferent forward; the architect kept it: "for the purity of the figure for the alienated and apathetic, so that they do not drag on to the last day; but that is already a figure to be discussed for each place." Right: most of the indifferent will come at once, but some will put it off out of mere forgetfulness and blend into the second wave, spoiling both measurements. The premium gathers them into the first days and fixes the boundary: whoever took the premium was not waiting for the campaign, and the first wave is separated from the second not by guesswork but by date. The size of the premium and the length of the "early days" are parameters each country or city chooses.
+Hence "time must be left", and it is a remark on the design itself. In the first version of §4.1 the window closed 15 days before the election, while the main debates usually take place precisely in the last two weeks: a satisfied, thinking person has to decide before he hears the candidates. There is no need to close the window that early. Candidates get their calibration (4.2) from the first wave: the bulk of those taking the sum is known in the first days, and the second wave changes the number of voters by per cent, not by multiples. So the window can stay open almost up to the election, taking nothing from candidates and giving camp 1 back what it is waiting for; the term in §4.1 has been changed to 5 days. With this arrangement the premium for early declaration (4.9) is needed for the purity of the first figure. The assistant had written that it is hardly needed to pull the indifferent forward; the architect kept it: "for the purity of the figure for the alienated and apathetic, so that they do not drag on to the last day; but that is already a figure to be discussed for each place." Right: most of the indifferent will come at once, but some will put it off out of mere forgetfulness and blend into the second wave, spoiling both measurements. The premium gathers them into the first days and fixes the boundary: whoever took the premium was not waiting for the campaign, and the first wave is separated from the second not by guesswork but by date. The size of the premium and the length of the "early days" are parameters each country or city chooses.
 
 Who needs the second wave most. The architect added: "and for the underdog it is important to see the figures — to step up the campaign or not to spend money because there is no point." This is a third reason not to close the window early, and the most practical one. Today a campaign flies blind: a poll costs money an underdog does not have, arrives late and measures words rather than deeds. The counter gives him, free and daily, what large campaign staffs pay for: after a debate or a successful video the flow of declarations for the vote rose — the campaign works, and it is worth putting in one's last; the counter did not stir — the satisfied stayed satisfied, and it is better to save money and strength for the next cycle. The first wave tells him whether to run at all (4.2); the second — whether to carry on. The assistant first wrote that an incumbent has such data today as well — from closed polls and administrative channels. The architect corrected this: "polls are simply not comparable with money in accuracy." Right: a poll measures the words of a small sample, the counter measures the deeds of everyone, and paid-for deeds at that (4.3); nobody has such data today, the authorities included. So the field is levelled more than was said: the incumbent had costly and imprecise knowledge, the underdog none, and now both have the same thing, precise and free — and the authorities' informational advantage disappears entirely.
 
@@ -106,8 +115,8 @@ PARTICIPATION as such, not for a particular candidate. "Don't take the dividend 
 vote is worth more!" This is a new kind of campaigning that does not exist in the current
 system.
 
-**Phase 2 — "after the counter" (15 days before the election):** the number of voters is
-KNOWN. The campaign becomes targeted: convince a specific number of motivated voters.
+**Phase 2 — "after the first wave of the counter" (the last weeks before the election):** the number of voters is
+KNOWN to within a few per cent (4.3b). The campaign becomes targeted: convince a specific number of motivated voters.
 Money loses its decisive weight — motivated voters ignore advertising and listen to
 arguments.
 

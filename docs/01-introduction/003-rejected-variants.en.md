@@ -18,7 +18,7 @@ the election date change.
 | The authority aggregates the median by territory | After collection | Statistical authority |
 | The jurisdiction computes the dividend | After the median is published | Administration |
 | The dividend amount is published | 30 days before the election | Jurisdiction |
-| A/B declaration window | 30–15 days before the election | Citizens |
+| A/B declaration window | 30–5 days before the election (a default, see 4.1) | Citizens |
 | Base payment (D\_base) | 1 day before the election | Treasury → bank |
 | Election | Day X | — |
 | Budget audit | \+6 months | Independent auditor |
