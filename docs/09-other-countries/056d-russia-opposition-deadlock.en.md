@@ -215,6 +215,7 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 | 3 | **A ready referendum question**, legally drafted, with the share's unconditionality and the formula's protection (004.4.3c, 004.4.7b) | Against the prospect that in a transition window discussion starts from zero and consumes years the window does not have | lawyers' work, once |
 | 4 | **The ballot sign as measurement** (§7b) | The one item in the whole construction that works **before** adoption and requires nobody's permission. It was available in September 2026 and went unused | hours of video and a single day |
 | 5 | **The main line of defence: the rule must have no owner.** Spread through those who cannot be struck off — The protocol is a rule, not a person: anyone may voice it, including regional candidates of systemic parties who already ran slogans "for peace" and "for a free internet" (§6b) | Against layer 1 (048i.5f): a candidate is struck off, a rule cannot be — it has no surname | zero |
+| 5b | **The repository as short clips, one argument per clip.** The architect's remark: "everything in the repo can be made into small videos, and each person watches what appeals to him; there is material there that even pensioners will find interesting" | Against the fact that one long speech cannot address everyone at once (§7d): fifty short ones can, and **the viewer selects**. This also answers the "party of the big cities" objection: the pensioner is addressed by late payment and the arithmetic of "two pensions," the small trader by two or three per cent of turnover, the state employee by turnout ceasing to be a commodity | editing, no permission required |
 | 6 | **Make nobody a loser.** The share goes to everyone without exception, officials and war participants included | Against the lesson Gallyamov draws about himself: he declines to push recovery from war participants because it would create a group ready to defend the regime to the death (§5b) | discipline in wording |
 
 **What of this was available in September 2026 and not done.** Points 1, 2, 4 and 5, entirely. None required registration, accreditation, or presence in the country.
@@ -260,9 +261,44 @@ This is materially stronger than what was written, for three reasons, and one of
 
 ### Two honest limits
 
-**Distribution.** An app store is the weak point: takedown requests are honoured, and a Russian store would remove this immediately. So the principal form is **a web page that works offline after first opening**: there is nowhere to remove it from, it installs by link and updates itself. An Android package is worth making as a second form — it survives the site being blocked, and the site survives removal from a store. Each is worse without the other.
+**Distribution, with the architect's correction.** The assistant recorded the app store as the weak point. The objection: "Apple's store will not remove it quickly, or will refuse outright, and Google too — on what grounds? All the app contains is figures."
+
+The correction is accepted, and it follows from the same logic as §7e. Removing Smart Voting was easy: it was a list of surnames presented as voting guidance, and a takedown demand for it fits in one line. Here what is proposed for removal is a **calculator** that divides published budget figures by the population. It contains no call to action, no surname, no organisation; the demand would read "remove the app that divides published numbers," and stores carry hundreds of such apps. Refusing on that ground is awkward, and complying is awkward too: the precedent is visible to everyone.
+
+So a store should be treated not as the weak point but as a **tripwire**: if the app is removed after all, that is itself news, and the news is that a **calculator** was removed. For the cause that is no worse than installation — the same mechanism §7e describes for bans in general.
+
+Both fallback forms remain, not out of pessimism but because they cover different failures: **a web page that works offline after first opening** (nowhere to remove it from, installs by link) and **an Android package** (survives the site being blocked). The store gives reach, the page gives indestructibility, the file survives blocking; together they insure rather than replace one another.
 
 **Security against measurement, and this is a genuine conflict rather than a caveat.** An app that asks a Russian resident about political preferences and sends the answer to a server is dangerous **to him**. So the computation happens on the device and sends nothing; any measurement is voluntary, anonymous, aggregate-only and announced on screen before the tap. That is markedly worse than a proper survey. **The choice is between data quality and the user's safety, and here the choice is obvious**; point 2 of the plan remains a separate task for panel surveys outside the country, and the app yields only a coarse picture. 🟡
+
+### The second scale: what to compare against
+
+The architect's proposal: "you could compare it with what the budget spends on maintaining deputies, or any other line on bureaucrats — people will be surprised, it is a very small sum."
+
+The figures were checked, and they yield a stronger conclusion than expected, because it runs the **opposite** way to the customary one. The denominator is Russia's resident population on 1 January 2025, 146,119,928 [Rosstat, verified].
+
+| Line | ₽ per person per year | ₽ per month | Source |
+|---|---|---|---|
+| **Oil and gas budget revenue, 2024** | **76,177** | **6,348** | Minfin, 11,131 bn ₽ [verified] |
+| Oil and gas revenue, 2025 | 58,014 | 4,834 | Minfin, 8,477 bn ₽ [verified] |
+| Section "General state matters," 2025 | 15,404 | 1,284 | Law 419-FZ, 2,250.9 bn ₽ [verified] |
+| The entire Federal Assembly, 2025 | **154** | **13** | 419-FZ, 22.56 bn ₽ [verified] |
+| — of which the State Duma | 102 | 8.5 | 14.84 bn ₽ [verified] |
+| — the Federation Council | 53 | 4.4 | 7.72 bn ₽ [verified] |
+| The "palace" from the 2021 investigation, one-off | 684 | — | the claimed 100 bn ₽ [a claim, not an audit] |
+| Damage from corruption offences, 2024 | 208 | 17 | 30.4 bn ₽ [second-hand] |
+
+**What follows, and it is inconvenient for the customary agenda.** Maintaining the entire parliament costs a citizen **thirteen roubles a month**. The palace around which the decade's best-known investigation was built is **six hundred and eighty-four roubles once**, about one per cent of one person's annual share. And the rent is **six thousand roubles a month**, every month.
+
+The ratio: oil and gas revenue per person is **375 times** the cost of both chambers of parliament.
+
+So for fifteen years people were shown numbers that **divide into nothing**. Outrage per rouble in them is enormous; roubles per person are not. This is the arithmetic version of the same empty slot as §7d: the opposition's material was moral ("they steal, and it is vile") rather than countable ("here is your share"). And it struck a target not worth striking: taking everything from the deputies leaves a person thirteen roubles a month.
+
+**An honest correction without which the conclusion becomes a lie.** "Bureaucrats cost pennies" is true of **parliament** and false of **the apparatus**: the section "General state matters" is 15,404 ₽ per person per year, about a quarter of the rent. That is real money. The precise formulation: **the visible, emotionally charged targets are negligible, while the apparatus as a whole is substantial — and still four times smaller than the thing nobody talks about.**
+
+Hence the calculator's second screen: beside the share, show not only the local wage but **what people are customarily invited to be angry about**. The first screen answers "how much is this for me," the second answers "why was I shown the wrong number for fifteen years."
+
+**Weak point.** Section 01 spending is the planned figure from the budget law: actual execution by section could not be found, and the law's appendices contain only the open part. The palace figure is an investigation's claim, not an audited quantity. The corruption damage figure could not be confirmed at source. And above all: the comparison is sound **arithmetically** and does not make theft any less theft — it says only which number is worth showing if the aim is to move the apathetic rather than to please the convinced. 🟡
 
 ### A correction to the word "free"
 
