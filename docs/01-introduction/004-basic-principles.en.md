@@ -94,7 +94,7 @@ Weak point. A camp cannot be identified from the counter alone: it is an inferen
 
 ### 4.3c. Two objections from the "limited good"
 
-Both follow from the concept examined in 056d.5b: in archaic consciousness good is not created but redistributed. For the rent part of the economy that belief is correct (same place), but it acts on the mechanism of §4.3 in two ways.
+Both follow from the concept examined in 056d.5b: in archaic consciousness good is not created but redistributed. And neither is speculation: in current quantitative work on zero-sum thinking these are **two measured correlates of one disposition** — the stronger it is, the greater both the support for redistribution and the harshness towards outsiders (same place). For the rent part of the economy that belief is correct (same place), but it acts on the mechanism of §4.3 in two ways.
 
 **First: the rating function works more weakly than intended.** §4.3 assumes the dividend percentage measures the quality of management: manage better and the share grows. But a man for whom the pie is fixed expects from a manager not **growth** but **less theft**. The mechanism is not abolished but degraded: choosing the most capable turns into choosing the least thieving.
 
