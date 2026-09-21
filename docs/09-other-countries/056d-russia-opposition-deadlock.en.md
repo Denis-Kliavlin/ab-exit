@@ -94,6 +94,39 @@ The sign carries any message. The architect generalised the device: "the sign is
 
 Limits. Where voting is electronic there is no ballot and nothing to write on, and the share of remote voting is growing. Where scanners are used the sign in the box will be read as a vote, but nobody will see the letter — the ballot goes into the box without passing through the commission's hands. There are almost no independent observers to bring what was seen into one figure, and each commission knows only its own station. And the main point: this is a way to show, not to change; it stands to the protocol as reconnaissance to battle — it gives a first measurement of support where no other is available. 🟡
 
+## 7c. September 2026: the technique half-tested, and the test went badly
+
+The State Duma elections of 20 September 2026 supplied the first material against which §7b can be checked. The figures below follow Maxim Katz's analysis of 21 September 2026; the assistant did not verify precinct commission data, and the estimate of the "real result" belongs to the analysis, derived from "honest" precincts and exit polls. 🟡
+
+| What | Figure |
+|---|---|
+| United Russia, party list | about 58 %, against an estimated real result in the ballot boxes of about 35 % |
+| Single-mandate districts | 209 of 225; 100 % of districts went to candidates planned in advance |
+| Total seats | 355 — an absolute record; the systemic opposition was left under a hundred |
+| St Petersburg | exit polls gave Yabloko one mandate certainly and probably three or four; results were redrawn from scratch — United Russia around 20 % on honest precincts and a flat 55 % in the protocols |
+| Moscow | protest turnout, queues up to an hour and a half after the precincts closed; the redrawing had to cover paper voting, not only electronic |
+| Saratov district | 83 % for the Duma speaker; precincts with 99 % turnout and 98 % for him; the Yabloko candidate got 983 votes against his 208,000 |
+
+**The main point for §7b, and it runs against us.** The mechanism described in §7b assumes a chain: the commission sees the true scale of dissent, common knowledge forms, friction appears. In Moscow and St Petersburg the first link fired by itself, with no sign at all: commissions saw a genuine protest result at their own precincts — and redrew it, in the analysis's phrase, "as if by a ruler," with no visible resistance. **Seeing is not acting**, and the scene of exchanged glances in §7b must be stated more modestly than it is.
+
+One distinction is necessary here, and it is a distinction rather than an excuse. What was overwritten was the **count of votes** — a number the commission produces itself and can therefore produce at any value. The sign in §7b is built differently: nobody counts it, it can only be seen, and it cannot be "redrawn" — it can only be left out of the tally, while what was seen stays seen. September 2026 tested ordinary voting, not the sign. But it did test the weaker premise — that being seen by itself creates friction — and the answer was no.
+
+What survives of the mechanism. Kuran was never describing immediate action: accumulated private knowledge changes behaviour not on the day but when an occasion appears, and half a year passed between the independent count in East Germany in May 1989 and the fall of the regime. That is true — and it is exactly why the technique should be described as measurement and accumulation rather than as an event. Said here once.
+
+**Three things in the analysis work for the chapter's theses, and all three are results rather than reasoning.**
+
+**Novgorod region: a natural experiment nobody set up.** It is the single region where Yabloko's list remained on the ballot for the regional duma — and it cleared 6 %. A poor, conservative region with below-average indicators and no liberal base. The reason, per the analysis, is mundane: the authorities were busy with the federal campaign and had no time to rewrite regional results. This is the best available measurement of **what the mere absence of an alternative on the ballot is worth**: where it was left in by oversight, it immediately took its percentage in a place where it "should not have existed." The chapter's thesis that visible support is manufactured gains here not an argument but a number. 🟡
+
+**Foreign precincts: a rout for the party of power.** Where the administrative machine does not reach, the result inverts. For the protocol this confirms 048i.5b from the other side: an emigrated citizen remains a voter and acts when acting costs him nothing; in the protocol he "comes for the money," here he came to the polling station.
+
+**Boldness as the only measurable quantity.** The analysis concludes that the result of an authoritarian election is predetermined, but **the degree of brazenness in the fraud is the only thing that indicates the scale of what is intended**. 355 seats and under a hundred for the systemic opposition is a bid for which a constitutional majority is not enough. The observation deserves recording on its own: a wholly drawn number still carries information — just not the information it claims. It says nothing about support and a great deal about plans.
+
+**And the strongest part concerns the thesis of elections as an examination.** In 048i.6c the technique is described after Shulman: elections in an autocracy are the state machine's examination in loyalty, and digitising them abolishes the examination. The analysis gives this an operational form the repository lacked: "electoral mobilisation differs technically in no way from mobilisation to the front — it is exactly the same administrative exercise; the chain of command must on order turn people into loyal voters or into soldiers." And then the conclusion the examination is held for: mobilisation may follow **the electoral map** — the quieter the elections passed and the less plausible the drawn result, the better the local authorities are held to control their territory.
+
+If so, the examination stops being a metaphor: its result is used as a target map. For 048i.6c this strengthens the argument about why the regime clings to paper elections and why digitising them is expensive for it — and it is also a warning about what an excellent grade on that examination brings to the inhabitants of the region that earned it.
+
+**Weak point.** All figures come from a single analysis and are not verified against primary data; the estimate of "really about 35 %" derives from honest precincts and exit polls and is an estimate, not a measurement. Exit polls in authoritarian elections carry distortions of their own, and none of the numbers above can be reconstructed independently. The main limitation lies elsewhere: the analysis speaks to the **diagnosis**, not the remedy, and changes nothing in §8 — in today's Russia neither a referendum nor public discussion is possible, and the protocol remains an idea for after a transition rather than an instrument. This section cannot be read as an argument for the protocol; it serves as material on precisely what has stopped working. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
