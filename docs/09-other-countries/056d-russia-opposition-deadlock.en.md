@@ -461,6 +461,76 @@ The architect's phrase "two pensions free" is accurate as a sensation and inaccu
 
 **Weak point.** All of this describes an instrument, not a result. The app displays a number and does not prove that the number moves anyone: testing that is still point 2, and it has not been done. Besides, the computation turns on what portion of the rent counts as distributable — a contested question where any value will be disputed, which is why changeable figures here are not a convenience but a condition of honesty. 🟡
 
+## 7g. Can a referendum application be filed in Russia: the procedure and where it breaks
+
+The architect's question: can signatures be collected and an application for a referendum be filed. The check produced a more precise answer than expected, and **refuted the premise §8 had been resting on**.
+
+### The ban on budget questions was repealed
+
+The assistant had assumed a question on distributing rent was prohibited by content: points 6 and 7 of part 5 of Article 6 of the constitutional law on referendums excluded questions on the budget, internal financial obligations and federal taxes. **Those points were repealed** — constitutional law of 24 April 2008 No. 1-FKZ; the current text reads "6) — 7) repealed" [verified against two independent publications of the text].
+
+The prohibition did not disappear but moved into a more general point 10: questions "assigned by the Constitution and federal constitutional laws to the exclusive competence of federal bodies of state power." The wording is broader and therefore more flexible — but the law no longer contains a direct ban on a money question.
+
+**The Constitutional Court spoke in the same direction.** Ruling of 21 March 2007 No. 3-P: the ban on questions concerning the performance and modification of internal financial obligations is constitutional only insofar as it concerns budgetary obligations as such, and **does not imply a ban on referendum questions whose answers might change expenditure obligations beyond the term of the budget law** [verified]. A distribution rule introduced for future periods does not fall under that description.
+
+**And there is a direct precedent.** In August 2018 the Central Election Commission ruled by three decisions that questions on the retirement age **complied with Article 6** (Nos. 174/1410-7 and 174/1411-7 of 8 August, No. 175/1416-7 of 10 August) [verified]. A question with colossal budgetary consequences passed the content filter.
+
+The conclusion to record plainly: **the content filter is not what kills referendums in Russia.** No precedent was found on resource rent specifically, so it cannot be asserted that such a question would pass; but there is no ground for treating it as prohibited by content either. 🟡
+
+### Where the procedure actually breaks
+
+| Stage | Requirement | Deadline |
+|---|---|---|
+| Regional subgroups | **at least 44 subjects** (more than half of 89), each with **at least 100 members**, signatures in the registration protocol **notarised** | all subgroups within **2 months** of the first one's registration |
+| Notification and registration | notify the regional commission 5 days before the meeting; it registers within 15 days; the CIK checks the question against Article 6 within 10 | — |
+| Registration of the initiative group | CIK, 10 days after the subgroups are assembled | — |
+| Signatures | **2 million**, no more than 50,000 per subject | **45 days** |
+| Verification | at least 40 % of signatures checked; **5 % defective means refusal** | — |
+| Appointment | the President, having first referred the papers to the Constitutional Court | — |
+
+The minimum at the first stage is about **4,400 people across 44 regions, each before a notary, within two months** — and that is before a single signature is collected.
+
+**But it breaks on one line rather than on the arithmetic.** Part 18 of Article 15: once one subgroup is registered, the same commission **may not register another with a formulation "the same in meaning or content"** until the procedures conclude [verified].
+
+How that works is visible in the 2018 pension case: **five competing initiative groups** were registered in different regions, and **none assembled the required number of subgroups** — they blocked each other [second-hand; CIK data not independently confirmed 🟡]. The question passed on content and died at registration.
+
+The device is elegant: **banning the question is unnecessary.** It suffices for similar initiatives to appear alongside the real one, and all of them stall.
+
+### The federal verdict
+
+In twenty-two years under the 2004 law **not one citizen-initiated federal referendum has been held, and not once have initiators reached the signature stage**. No group has cleared even the first.
+
+This is the substance of §8, now with its precise cause: the problem is not that the question may not be asked but that **the procedure is designed so that nobody reaches the question**.
+
+### The local level: different, and with a working precedent
+
+Regional and local referendums fall under federal law 67, and the thresholds are not comparable:
+
+| | Initiative group | Signatures |
+|---|---|---|
+| Regional | **20 people** | no more than 2 % |
+| Local | **10 people** | no more than 5 %, but at least 25 |
+
+A content restriction exists there too — Article 12 part 8(g) bars questions on adopting or amending the budget and on financial obligations. But **there is no ban on taxes**, and part 9 states expressly: "the establishment of other restrictions is not permitted" [verified].
+
+**And here is the working precedent, worth more than everything else in this section.** Since December 2003 **4,844 local referendums** have been held, almost all of them on **self-taxation of citizens** — one-off payments by residents into the local budget [second-hand 🟡]. Self-taxation may by law be decided **only** by referendum: a money question that the part 8(g) ban does not catch.
+
+So a channel for a money question at local level **exists and works in thousands of instances**. Self-taxation is a referendum on how citizens pay **into** a budget; the protocol's question is its mirror — how a budget pays **to** citizens. Whether the mirror question survives the same filter nobody has tested, and it cannot be asserted. But it is the first procedure found in Russia that is not closed to a money question.
+
+A timing caveat: federal law 131 is being replaced by the law of 20 March 2025 No. 33-FZ, in which the subject of a local referendum narrows from "questions of local significance" to "questions of directly providing for the population's life support" [verified; commencement dates and the transition period could not be confirmed 🟡]. The narrowing may close this channel too, and that must be checked before anyone relies on it.
+
+### And confirmation that procedures are written to fit the task
+
+The 2020 vote on constitutional amendments was conducted **not under the referendum law** but under Article 2 of the constitutional amendment law of 14 March 2020 No. 1-FKZ — a self-contained procedure in twenty-six parts [verified]. The initiative lay with the President; **there was no turnout threshold** — amendments counted as approved on a majority of those taking part, whereas the referendum law requires turnout of more than half the registered electorate [both provisions verified].
+
+So when the authorities want a vote, a new procedure is written — without a quorum and without the Article 6 filter. That is not an argument for the protocol but an exact description of what it deals with.
+
+### What follows for the plan in §7e
+
+Point 3 of the plan — a ready text of the question — becomes more concrete and cheaper than it looked. A point not previously there is added: **test the local level**. Self-taxation shows that money referendums are held in Russia by the thousand; the distribution question is its reverse in direction, and for that reason it is worth filing once in some municipality with rent of its own. The cost of the attempt is ten people and a lawyer; the result is informative either way — either the procedure is open, or a refusal produces a written ground that nobody has today.
+
+**Weak point.** The CIK data on five competing groups in 2018 come from a secondary source and were not independently confirmed. No precedent on resource rent was found at either federal or local level, positive or negative. The figure of 4,844 local referendums is also secondary. And above all: **all of this describes a procedure rather than a political reality** — the fact that the content filter would pass the question says nothing about what happens to the people who file it. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
