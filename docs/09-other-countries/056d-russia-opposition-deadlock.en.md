@@ -324,25 +324,31 @@ Hence a correction to the architect's "a monthly salary or two pensions": those 
 
 The architect's correction: the comparison should be between **the budget's total outlay on the payment** and a budget line such as the State Duma. That is the right level, and it answers the objection that comes first: "where will you get that kind of money."
 
-The calculation. Recipients cannot exceed the electorate; we take **110 million** [an order-of-magnitude estimate, unverified at source 🟡]. The cycle is five years. The arithmetic is shown so it can be checked.
+**The architect's correction, and it halves the result.** The first version computed the payment across **all** voters. That is wrong: not everyone takes the sum — those who choose exit do, and their share is the quantity being measured (004.4.3). The architect's estimate is **50–60 %**. Elections also occur once in four or five years, so the annual figure comes from dividing.
+
+The calculation. The electorate is taken as **110 million** [an order-of-magnitude estimate, unverified 🟡], recipients as 50–60 % of it, i.e. **55–66 million**. The cycle is five years. The arithmetic is shown so it can be checked.
 
 | At K | Payment to one person | Total per cycle | Annualised |
 |---|---|---|---|
-| **1 %** | 11,000 ₽ | 11,000 × 110 m = **1.21 trn ₽** | **242 bn ₽** |
-| **≈6–7 %** (a month's earnings) | 70,000 ₽ | 70,000 × 110 m = **7.7 trn ₽** | **1.54 trn ₽** |
+| **1 %** | 11,000 ₽ | 11,000 × (55–66 m) = **0.61–0.73 trn ₽** | **121–145 bn ₽** |
+| **≈6–7 %** (a month's earnings) | 70,000 ₽ | 70,000 × (55–66 m) = **3.9–4.6 trn ₽** | **770–924 bn ₽** |
 
-The same against annual budget lines:
+The same against annual budget lines (at the midpoints, 133 and 847 bn ₽):
 
 | Budget line | Per year | Dividend at K = 1 % | Dividend at "a month's earnings" |
 |---|---|---|---|
-| **The State Duma** | 14.84 bn ₽ | **16 times larger** | 104 times larger |
-| The entire Federal Assembly | 22.56 bn ₽ | 11 times larger | 68 times larger |
-| Section "General state matters" | 2,251 bn ₽ | **11 % of it** | **68 % of it** |
-| Oil and gas revenue, 2024 | 11,131 bn ₽ | **2.2 %** | **13.8 %** |
+| **The State Duma** | 14.84 bn ₽ | **9 times larger** | 57 times larger |
+| The entire Federal Assembly | 22.56 bn ₽ | 6 times larger | 38 times larger |
+| Section "General state matters" | 2,251 bn ₽ | **5.9 % of it** | **38 % of it** |
+| Oil and gas revenue, 2024 | 11,131 bn ₽ | **1.2 %** | **7.6 %** |
 
-**What this reads as, and it is the answer to "where from."** The whole dividend under the present formula costs the budget **about sixteen State Dumas a year** — and **two per cent of a single revenue line**. Even a payment the size of a month's earnings, which is what the architect has in mind, is **cheaper than the section "General state matters"** and fits within fourteen per cent of oil and gas revenue.
+**What this reads as, and it is the answer to "where from."** The whole dividend under the present formula costs the budget **about nine State Dumas a year** — and **a little over one per cent of a single revenue line**. Even a payment the size of a month's earnings fits within **eight per cent of oil and gas revenue** and comes to a little over a third of the "General state matters" section.
 
-The comparison with the Duma cuts both ways, and the second way must be stated honestly. It shows that **the dividend is not small change**: sixteen parliaments a year is real money, and the line "take it from the deputies and hand it out" does not add up arithmetically (see above). But it also shows that **the money exists and sits in one line**, rather than having to be scraped from the whole budget.
+**And the correction exposes a property the analysis lacked entirely: the outlay is self-limiting, and limited in the right direction.** The dividend's cost is proportional to the number who take it, and that number is the measure of dissatisfaction. A well-performing government pays **less**, because fewer choose exit; a badly performing one pays **more**. The budgetary load rises exactly when the government deserves it to and falls when it deserves the opposite.
+
+This inverts the ruin argument: **the budget is strained only by dissatisfaction, and the remedy for the strain is not to cancel the payment but to stop giving people cause to take it**. No expenditure line today has that property.
+
+The comparison with the Duma cuts both ways, and the second way must be stated honestly. It shows that **the dividend is not small change**: nine parliaments a year is real money, and the line "take it from the deputies and hand it out" does not add up arithmetically (see above). But it also shows that **the money exists and sits in one line**, rather than having to be scraped from the whole budget.
 
 ### "This would ruin the budget" — the answer and its honest half
 
@@ -356,16 +362,16 @@ The architect names the main counterstroke: **the authorities will press the lin
 
 | Variant | Annual cost | Addition to the deficit |
 |---|---|---|
-| K = 1 % | 242 bn ₽ | **+4.3 %** |
-| A month's-earnings payment | 1,540 bn ₽ | **+27 %** |
+| K = 1 % | 121–145 bn ₽ | **+2.1–2.6 %** |
+| A month's-earnings payment | 770–924 bn ₽ | **+13.6–16.4 %** |
 
-From which follows a conclusion inconvenient for loud presentation but necessary: **the arithmetic supports the cautious variant and does not support "a monthly salary" without specifying what gets cut.** Four per cent on an existing deficit is noise; twenty-seven per cent is a serious fiscal decision requiring named reductions, and pretending otherwise is dishonest.
+From which follows a conclusion inconvenient for loud presentation but necessary: **the arithmetic fully supports the cautious variant and supports "a monthly salary" only with a statement of what gets cut.** Two and a half per cent on an existing deficit is noise the finance ministry would not notice; fifteen per cent is a visible fiscal decision requiring named reductions, and pretending otherwise is dishonest. Both figures are half those in the first version of this section, which computed across all voters rather than those taking the sum.
 
 Hence a practical rule for any conversation about the protocol: **start from a low K and show the slider**, rather than promising a monthly salary. A low K is fully defended by arithmetic; a high one requires a separate conversation about what goes. This, incidentally, is the answer to why the repository's formula is deliberately conservative.
 
 **And finally.** The claim that "paying citizens would ruin the budget" is itself a confession: it means the budget rests on citizens not being paid. Said out loud, it works against whoever says it — exactly as a ban does in §7.
 
-**Caveats without which the table misleads.** The payment comes from a pre-formed fund (004.4.8) — it is not free, and it means that money is not spent on something else; the table shows **scale, not the absence of a price**. The efficiency bonus B is additional and not counted here at all. The number of recipients is an estimate: at 146 million rather than 110 the sums rise by about a third. And the budget outlays are planned figures from the law, not actual execution. 🟡
+**Caveats without which the table misleads.** The payment comes from a pre-formed fund (004.4.8) — it is not free, and it means that money is not spent on something else; the table shows **scale, not the absence of a price**. The efficiency bonus B is additional and not counted here at all. The number of recipients is doubly an estimate: both the electorate (110 million) and the take-up share (50–60 %) are estimates. On a four-year rather than five-year cycle the annual sums are a quarter higher. The take-up share is also not constant — it is the quantity being measured — so "annual cost" here means an average rather than a budget line. And the budget outlays are planned figures from the law, not actual execution. 🟡
 
 ### A correction to the word "free"
 
