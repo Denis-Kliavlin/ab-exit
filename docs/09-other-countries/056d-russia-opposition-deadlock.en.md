@@ -279,7 +279,7 @@ The figures were checked, and they yield a stronger conclusion than expected, be
 
 | Line | ₽ per person per year | ₽ per month | Source |
 |---|---|---|---|
-| **Oil and gas budget revenue, 2024** | **76,177** | **6,348** | Minfin, 11,131 bn ₽ [verified] |
+| **Oil and gas budget revenue, 2024** — a flow past the citizen, **not a payment** (see below) | **76,177** | **6,348** | Minfin, 11,131 bn ₽ [verified] |
 | Oil and gas revenue, 2025 | 58,014 | 4,834 | Minfin, 8,477 bn ₽ [verified] |
 | Section "General state matters," 2025 | 15,404 | 1,284 | Law 419-FZ, 2,250.9 bn ₽ [verified] |
 | The entire Federal Assembly, 2025 | **154** | **13** | 419-FZ, 22.56 bn ₽ [verified] |
@@ -299,6 +299,26 @@ So for fifteen years people were shown numbers that **divide into nothing**. Out
 Hence the calculator's second screen: beside the share, show not only the local wage but **what people are customarily invited to be angry about**. The first screen answers "how much is this for me," the second answers "why was I shown the wrong number for fifteen years."
 
 **Weak point.** Section 01 spending is the planned figure from the budget law: actual execution by section could not be found, and the law's appendices contain only the open part. The palace figure is an investigation's claim, not an audited quantity. The corruption damage figure could not be confirmed at source. And above all: the comparison is sound **arithmetically** and does not make theft any less theft — it says only which number is worth showing if the aim is to move the apathetic rather than to please the convinced. 🟡
+
+### What the calculator actually shows: the payment is one-off
+
+The architect's correction: **"the payment is one-off, at the election."** In the table above the assistant presented the rent monthly and thereby blurred two entirely different numbers. The difference is substantial and must be kept apart.
+
+| Quantity | What it is | How much |
+|---|---|---|
+| **Rent per person** | how much flows past a citizen today; **not** what he receives | 76,177 ₽ a year (2024), about 380,000 ₽ over a five-year cycle |
+| **Dividend D = M × 1.5 × K** | what a person **receives** — once, the day before the election (004.4.8) | at K = 1 %, about **11,000 ₽**, roughly four working days of median pay (033c) |
+| **Efficiency bonus B** | a share of budget savings, six months after the election and after audit (004.4.8) | unknown in advance by construction |
+
+**And here it becomes visible that the calculator computes something other than it seemed.** The dividend is tied **not to the rent but to median earnings**: no parameter of the formula is controlled by the authorities holding the election (001b). The rent is the fund's source, the median is the meter. So "your share of the rent" and "your payment" are different numbers, and both must be shown without being mixed.
+
+**This also exposes a discrepancy the chapter already flags as a weak point (§8), which now becomes the calculator's principal subject.** The architect's intuition is "a monthly salary or two pensions"; the formula at K = 1 % yields about a sixth of a monthly salary and roughly half an average pension. Both statements are true, because **K is precisely what a referendum decides**. For the payment to equal a month's earnings, K has to be of the order of six or seven per cent.
+
+The arithmetic is open: at K = 1 % the payment is about 3 % of the rent accruing to a person over a cycle; at a month's-earnings payment, about 18 %. So **the formula as it stands is deliberately conservative, and the rent sustains appreciably more**. This is the argument for the changeable figures in §7f: the K slider is not an interface convenience but **the principal political question put on the screen**. A person moves it and sees what the dispute is actually about.
+
+Hence a correction to the architect's "a monthly salary or two pensions": those describe not what the formula yields today but **what he wants K to be**. Saying it that way is both more honest and stronger: not "you will be given a monthly salary" but "here is what flows past you, here is what is proposed to be handed over, and here is the slider that decides it."
+
+**Weak point.** Median earnings for Russia were not verified in this calculation: the figure of about 11,000 ₽ is taken from 033c, and working backwards gives an annual median of about 733,000 ₽, which must be confirmed against Rosstat before any calculator is published. The size of bonus B is not estimated at all — it depends on budget savings that do not yet exist. 🟡
 
 ### A correction to the word "free"
 
