@@ -202,6 +202,27 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 
 **Weak point.** "Would have been discussed in kitchens" is not a result by this repository's own standards, which elsewhere demand a number. Conversation does not rewrite a precinct protocol or change the composition of the Duma; it changes what people know about one another (§7b, East Germany 1989), which works slowly and without guarantees. More importantly: there are no data at all on whether an economic offer would move the apathetic Russian voter — no measurement exists, because no attempt was made. The whole chapter rests on this: it describes an unoccupied slot, not a proven remedy. 🟡
 
+## 7e. What could have been done over the cycle: a plan drawn from the three analyses
+
+§7d established that the slot is empty and that the architect's supposition is untested rather than refuted. This section sets out what exactly "millions, viewers' resources and hours of video" turn into if directed at the protocol. The order follows what the analyses themselves named as the problem, not what suits us.
+
+**A caveat without which the plan becomes a lie.** Nothing below wins an election under the present regime or cancels §8. Everything listed is work for a transition window and for measurement, not for polling day.
+
+| No. | What to do | Against what precisely | Cost |
+|---|---|---|---|
+| 1 | **A share calculator.** A person enters his region and household and sees his monthly sum. Not a text, not a programme, but a number about himself | Directly against Prokopenko's central point: "there is no clearly formulated alternative; nobody knows what a different future might be" (§6b). An abstraction does not compete with "the rotten present"; a number does | weeks of work, no permission required |
+| 2 | **The measurement nobody has.** A survey: do you know how much rent per person there is; would you support a rule distributing it; would you vote for whoever proposed it | Against §7d's own weak point: data on whether an economic offer moves the apathetic Russian voter **do not exist**, because no attempt was made | the cost of a panel survey |
+| 3 | **A ready referendum question**, legally drafted, with the share's unconditionality and the formula's protection (004.4.3c, 004.4.7b) | Against the prospect that in a transition window discussion starts from zero and consumes years the window does not have | lawyers' work, once |
+| 4 | **The ballot sign as measurement** (§7b) | The one item in the whole construction that works **before** adoption and requires nobody's permission. It was available in September 2026 and went unused | hours of video and a single day |
+| 5 | **Spread through those who cannot be struck off.** The protocol is a rule, not a person: anyone may voice it, including regional candidates of systemic parties who already ran slogans "for peace" and "for a free internet" (§6b) | Against layer 1 (048i.5f): a candidate is struck off, a rule cannot be — it has no surname | zero |
+| 6 | **Make nobody a loser.** The share goes to everyone without exception, officials and war participants included | Against the lesson Gallyamov draws about himself: he declines to push recovery from war participants because it would create a group ready to defend the regime to the death (§5b) | discipline in wording |
+
+**What of this was available in September 2026 and not done.** Points 1, 2, 4 and 5, entirely. None required registration, accreditation, or presence in the country.
+
+**And a fork it is more honest not to resolve on the architect's behalf.** Loudly making the protocol the main slogan delivers mass — and invites a ban: "transparent distribution of rent" is declared extremism, and then a transition window arrives with not even the subject left. Quiet seeding preserves the subject but builds no mass. The first is faster, the second safer; the choice depends on how near the window is thought to be, and nobody knows that. The repository has until now mixed the two; here they are separated and named.
+
+**Weak point.** The plan rests on the assumption that the empty slot is fillable by this protocol in particular; point 2 exists precisely to test that assumption rather than confirm it. If the measurement shows that an economic offer leaves the apathetic voter unmoved, what is cancelled is not point 2 but the whole chapter. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡

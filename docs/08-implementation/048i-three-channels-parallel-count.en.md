@@ -277,6 +277,41 @@ The protocol acts on layers 2, 3 and 4 — producing turnout, producing the numb
 
 Hence a conclusion worth keeping in any conversation about the protocol: **it protects the count, not the choice**. Where the choice has been destroyed before polling day, an honest count saves nothing — it only shows what was not there. 🟡
 
+## 5g. How the authorities behave now and how they would behave after adoption
+
+§5f examined techniques. This section is about **behaviour as a whole**, before and after, because what changes is not the techniques but what an administrator is paid for at all. The world "after" is not measured by the standards of "before": a large part of the present machine ceases to exist not because it was banned but because its product is no longer wanted by anyone.
+
+### What stops being a commodity
+
+| | Today | After adoption |
+|---|---|---|
+| **The administrator's target** | turnout X %, party Y % — both quantities produced by the machine itself | turnout is near-universal and signifies nothing: people came for their own money. "I delivered 95 %" is not a thing anyone buys |
+| **What a local boss sells upward** | produced turnout and a produced percentage | there is nothing to present; the only figure that attaches to him is economic (048g.3c) |
+| **Corporate mobilisation** | the principal instrument, with brigade leaders, reporting and bonuses | a budget line with no purpose: paying for what will happen by itself |
+| **Rewriting the protocol in a territorial commission** | works because there is nothing to compare against | runs into the token lower bound: a figure below the transmitted sum is proven fraud (§2) |
+| **The observer** | a target: keep him out, expel him, block his road | ceases to be the bottleneck — the count runs from phones, there is nobody to block |
+| **Falsification as intimidation** | free, and demoralising | becomes the most expensive kind of fraud: it requires a large discrepancy, and a large discrepancy is the easiest to prove (§5c) |
+
+### What remains and what appears
+
+Listed honestly, or the comparison turns into advertising.
+
+**Coercion over choice remains.** A boss cannot demand attendance but can demand a vote. The instrument is weaker than today's and is examined in §5c: whoever demands appearance subtracts blindly, not knowing how the employee would have voted.
+
+**Everything before the ballot remains** (§5f, layer 1): striking candidates, sentences, removal of the right to stand. The protocol protects the count, not the choice.
+
+**A political cycle in payments appears.** An incumbent who cannot draw a percentage can still move money: inflate the payment before a vote and trim it after. This is a known phenomenon, and the answer lies in the construction rather than in supervision: the distribution formula is fixed in the referendum text and not set annually (004.4.7b). But **manoeuvring with the timing of collection and with spending remains**, and this should be counted a standing vulnerability rather than a settled question. 🟡
+
+**And above all: the struggle moves from the precinct into the text of the law.** If the number cannot be faked, the only way to change the outcome is to change the **rule**. Hence a prediction worth stating plainly: after adoption the pressure will fall not on commissions but on the formula — the coefficient, "temporary" defence deductions, the exclusion of categories from the list of recipients (004.4.3c).
+
+**That relocation is itself the gain, and here is why.** Today the dispute concerns a number nobody can verify, so whoever writes it wins. Afterwards the dispute concerns a rule everyone reads, and it acquires three properties the present one lacks: it is **visible** (a formula cannot be changed in silence), it is **slow** (a law, not a night in a commission), and it is **measured in money** — everyone sees by how much his share fell. Fraud becomes not impossible but **public and attributable**.
+
+### What changes for a person
+
+Today participation is a political act carrying risk and no payment, and absence is counted as consent. Afterwards participation is paid and signifies nothing, and only the choice of recipient stays political, covered by the secret channel. This is precisely the change Meduza's discussion describes as missing: the man who was afraid of being noticed with a paper ballot (056d.6b) comes for his money and gives nothing away.
+
+**Weak point.** All of this describes a construction rather than an observation: the protocol is adopted nowhere, and not one line of the right-hand column has been tested. The nearest verifiable analogue is regimes with direct resource payments, but none of them ties the payment to voting, so their experience cannot be transferred whole. 🟡
+
 ## 6. Two remainders for discussion
 
 **Loss of deniability for those who have already stayed.** The floor price protects before the choice of status. Someone who has already refused D and stayed to vote no longer has that protection: for him the demand "since you stayed — show the token" is free for the instigator. Today he could show a photo and re-vote; an official token cannot be fooled that way. The Estonian device (an open vote can be overridden by a secret one, the last counts) restores deniability but takes away the token's power of proof: one cannot have a vote that is both provable for the count and deniable to the boss. It is the same trio "verifiability, secrecy, accessibility" (048h.1); the architect's construction chooses verifiability for volunteers.
