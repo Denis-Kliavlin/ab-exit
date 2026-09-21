@@ -350,7 +350,49 @@ This inverts the ruin argument: **the budget is strained only by dissatisfaction
 
 The comparison with the Duma cuts both ways, and the second way must be stated honestly. It shows that **the dividend is not small change**: nine parliaments a year is real money, and the line "take it from the deputies and hand it out" does not add up arithmetically (see above). But it also shows that **the money exists and sits in one line**, rather than having to be scraped from the whole budget.
 
+### The fifth scale, stronger than the last: for companies the money exists
+
+The architect's verdict on the previous section: **"the comparison with luxury is not much good."** Correct, and the reason is in its own weak point: every official car for a year is three per cent of the dividend. It is the very genre of outrage that divides into nothing (§7d).
+
+His replacement is more precise: **find where the budget helps companies.** "For them the money exists; for voters it does not." Here the sums are not three per cent but multiples of the dividend and, more importantly, **it is the same kind of expenditure** — money moved from the budget onto someone else's balance sheet with no goods received in return. Only the recipient differs.
+
+For comparison, the dividend at K = 1 % **per cycle**: 55–66 m recipients × 11,000 ₽ = **605–726 bn ₽**, midpoint ≈ **665 bn ₽**.
+
+| What the state pays companies | Sum | How many dividend cycles |
+|---|---|---|
+| **Subsidising interest rates on preferential loans** — compensating banks the rate differential on mortgages, SMEs, agriculture and industry, **in the single year 2025** | **2,787 bn ₽** (8.8 % of all budget spending) | **4.2 cycles** |
+| — of which the **overspend against plan**, which passed with no public discussion | **1,000 bn ₽** (+57.7 % over plan) | **1.5 cycles** |
+| The damper paid to oil companies, 2024 | 1,815 bn ₽ | 2.7 cycles |
+| The damper, 2022 | 2,171 bn ₽ | 3.3 cycles |
+| The damper, 2025 | 881.8 bn ₽ | 1.3 cycles |
+| Section "National economy," 2026, **in one year** | 4,770 bn ₽ (10.8 % of spending) | 7.2 cycles |
+| State support for agriculture, 2025 actual | **665 bn ₽** | **exactly one cycle** |
+| Share issue of the United Aircraft Corporation, approved January 2026 | 544.9 bn ₽ | 0.8 cycles |
+| Cumulative state support for Rosnano, 2007–2018 | 404.6 bn ₽ | 0.6 cycles |
+
+All figures [verified via publications citing Minfin, the Audit Chamber and Vedomosti; Minfin's primary files would not open from this environment 🟡].
+
+**The key figure here is the first, not the damper.** Compensating banks for the rate differential in the single year 2025 was **2,787 bn ₽** — four times the entire dividend for the entire country over a five-year cycle. And the **overspend** deserves separating: the plan was exceeded by a trillion roubles, and it passed without public discussion. A trillion "turned up" within a year — a cycle and a half of dividends — and no referendum or explanation of its origin was required.
+
+**A coincidence worth remembering, because it explains itself.** State support for agriculture in 2025 was 665 bn ₽. The dividend for the whole country over a five-year cycle under the present formula is also about 665 bn ₽. **One industry for one year equals every citizen for five.**
+
+**Why this beats both luxury and the deficit.** Luxury is a moral argument — "they steal, and it is vile" — and it is small and does not divide. The deficit is the finance ministry's argument: an abstraction the person neither caused nor controls. A subsidy is a **structural** argument: nobody stole anything, the money was spent lawfully and by decision. So the dispute is not about honesty but about **priority**, and on that ground there is no answer: if a trillion over plan is found for banks within a year, "there is no money for payments to citizens" stops being an economic statement and becomes a statement about the order of the queue.
+
+Hence the shortest formulation the whole section reduces to: **the state already pays a dividend — its recipients are simply companies rather than voters**. The protocol introduces no new kind of expenditure. It changes who stands first in the queue.
+
+**The honest half, without which the argument becomes demagogy.** Subsidies have a stated purpose: cheaper mortgages, steadier fuel prices, a livelier industry. That is a choice rather than theft, and the argument must engage the choice rather than substitute an accusation for it. Three substantive caveats.
+
+First, **the damper is legally not an expenditure** but a deduction against the reverse excise — it reduces oil and gas revenue rather than appearing among outlays. For the argument that is if anything a strengthening (the money fails to reach the treasury precisely because it goes to the companies), but "they paid it out of expenditure" must not be said — that is where one gets caught.
+
+Second, **part of the subsidy does reach people**. A subsidised rate lowers the borrower's payment even though the bank is paid. How much of the benefit reaches the borrower and how much goes into the price of housing is contested, and need not be settled here; it is enough to note that **the recipient of the payment is a bank**, while the citizen benefits indirectly and did not choose it.
+
+Third, **the wealth fund's holdings in companies are not an annual payment** but the value of holdings on a date, and cannot be added to expenditure. Russian Railways, with 722 bn ₽, is therefore left out of the table above, striking though the figure is.
+
+**Weak point.** Minfin's primary documents (the list of tax expenditures, the damper table) would not open from this environment, so every row comes from publications citing them. Actual execution of the "National economy" section for 2025 was not found, so the 2026 plan is shown. The total of tax expenditures for 2024–2025 could not be confirmed; the only figure seen was 5,040 bn ₽ for 2023, and that is a forecast from a 2020 document rather than an outturn. 🟡
+
 ### The fourth scale: not the deficit, but what people regard as luxury
+
+*(This section is kept as a unit of measurement — "how many dividends in one car" — but as an argument it is weaker than subsidies, see above.)*
 
 Two corrections from the architect, both methodological. First: **comparing with the budget deficit is pointless** — that is the finance ministry's argument, not a person's; the comparison should be with galling lines such as leasing cars for officials or maintaining the apparatus. Second: **the budget is annual and the payment comes once per cycle**, so the two must be brought to one basis.
 
