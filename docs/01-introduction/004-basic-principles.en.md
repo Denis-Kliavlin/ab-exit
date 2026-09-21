@@ -92,6 +92,22 @@ Who needs the second wave most. The architect added: "and for the underdog it is
 
 Weak point. A camp cannot be identified from the counter alone: it is an inference from the shape of the curve, not an observation. It can be tested only in a pilot — by asking those who took the sum for their reason and comparing early and late declarers. 🟡
 
+### 4.3c. Two objections from the "limited good"
+
+Both follow from the concept examined in 056d.5b: in archaic consciousness good is not created but redistributed. For the rent part of the economy that belief is correct (same place), but it acts on the mechanism of §4.3 in two ways.
+
+**First: the rating function works more weakly than intended.** §4.3 assumes the dividend percentage measures the quality of management: manage better and the share grows. But a man for whom the pie is fixed expects from a manager not **growth** but **less theft**. The mechanism is not abolished but degraded: choosing the most capable turns into choosing the least thieving.
+
+Three consequences deserve naming. The dividend begins to reward honesty rather than competence, and these are different qualities. A manager who genuinely enlarged the base gets no credit for it: the growth is written off to prices or luck. And his own incentive shifts from "develop" to "don't take" — better than today, but less than intended.
+
+What survives. Even "steal less" is a working criterion expressed in money, and today there is none at all. And the belief corrects itself here by the only means available: if the share genuinely grows under a capable manager, the person sees **his own money**, and that is the one kind of evidence that overrides a settled opinion. The objection therefore concerns the first cycle rather than the design. 🟡
+
+**Second, and sharper: the universality of the share is politically fragile.** Gallyamov shows how the energy of envy converts into a demand: after the war, on his forecast, a mass demand will arise to recover compensation for Ukraine from the earnings of the war's participants — "why should we pay for their doings." The same energy applied to the dividend yields a different demand: **"and those people should get no share"** — emigrants, officials, the non-working, the war's participants themselves. The first politician to say it will collect votes.
+
+For the protocol this is more dangerous than any objection about inflation. Universality is not humanism but a load-bearing part: a share made conditional turns into **a benefit that someone awards**, which is precisely what the protocol replaces. And the argument against exclusions must be mechanical rather than moral: **any exclusion creates an office that decides whom to exclude — and that office is the one the protocol abolishes.**
+
+Hence a requirement for the referendum text (§4.7b): the unconditional nature of the share must stand in it explicitly and be harder to amend than the rest. And hence a lesson from Gallyamov's own caution: he declines to push the recovery idea now because it would create a group ready to defend the regime to the death. The same rule holds for the protocol: **no group must lose more by it than it gains**, or it manufactures defenders of the existing order for itself. 🟡
+
 ### 4.4. The effect on debates
 
 The public counter creates a new kind of debate question, IMPOSSIBLE without AB-EXIT:
