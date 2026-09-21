@@ -350,6 +350,46 @@ This inverts the ruin argument: **the budget is strained only by dissatisfaction
 
 The comparison with the Duma cuts both ways, and the second way must be stated honestly. It shows that **the dividend is not small change**: nine parliaments a year is real money, and the line "take it from the deputies and hand it out" does not add up arithmetically (see above). But it also shows that **the money exists and sits in one line**, rather than having to be scraped from the whole budget.
 
+### The fourth scale: not the deficit, but what people regard as luxury
+
+Two corrections from the architect, both methodological. First: **comparing with the budget deficit is pointless** — that is the finance ministry's argument, not a person's; the comparison should be with galling lines such as leasing cars for officials or maintaining the apparatus. Second: **the budget is annual and the payment comes once per cycle**, so the two must be brought to one basis.
+
+Reduced to a five-year cycle: annual lines multiplied by five, the payment taken as it is.
+
+| Line | Per year | Per cycle (×5) | Status |
+|---|---|---|---|
+| State procurement of passenger cars by all government bodies (4,400 contracts, 10,700 cars, average price 1.94 m ₽) | 20.8 bn ₽ | **104 bn ₽** | 2025, RTVI and Tenderscope's count from the contract register [verified; a journalistic aggregation, not a budget line] |
+| Functioning of the President and his Administration | 32.9 bn ₽ | **165 bn ₽** | 2026, budget explanatory note [verified] |
+| The Government apparatus | 13.0 bn ₽ | **65 bn ₽** | 2026 [verified] |
+| Section "Mass media" | 146.3 bn ₽ | **≈544 bn ₽** | 2026; falls to ≈100 bn in 2027–2028, so the cycle figure sums the years rather than multiplying [verified for 2026–2028] |
+| — of which RT ("TV-Novosti") | ≈28 bn ₽ | ≈140 bn ₽ | 2026 [verified] |
+| — VGTRK | ≈25.6 bn ₽ | ≈128 bn ₽ | 2026 [verified] |
+| **Dividend at K = 1 %** | — | **605–726 bn ₽** | 55–66 m recipients × 11,000 ₽ |
+
+**The first conclusion, and it answers "ruin" directly.** Cars, the President with his Administration, and state media together come to **813 bn ₽** per cycle — **more** than the entire dividend at K = 1 % (605–726 bn). The cautious variant of the protocol is thus **fully covered by three lines a person already regards as excess**, with no hospital needing to be closed for it.
+
+The honest half: at a month's-earnings payment (3.9–4.6 trn ₽ per cycle) those three lines do not cover a fifth of it, and reductions far larger would have to be named. Same conclusion as before: **a low K is defended, a high one needs a separate conversation.**
+
+### The exchange rate: how many dividends there are in one line of luxury
+
+The comparison works harder in reverse — not "what the dividend costs" but **how many people could be paid with the same money**. At K = 1 % one dividend is 11,000 ₽.
+
+| Expenditure | Sum | That many dividends |
+|---|---|---|
+| State media, per year | 146.3 bn ₽ | **13.3 m people** |
+| Every car bought by officials, per year | 20.8 bn ₽ | **1.9 m people** |
+| The President and Administration, per year | 32.9 bn ₽ | **3.0 m people** |
+| RT for a year | 28 bn ₽ | **2.5 m people** |
+| Chauffeured transport for one ministry, a single contract | 353 m ₽ | **32,000 people** |
+| Refurbishing one hall of Tatarstan's State Council — marble, Venetian plaster, premium jacquard seating | 288 m ₽ | **26,000 people** |
+| One VOYAH Dream minivan bought by the emergencies ministry | 9.0 m ₽ | **817 people** |
+
+**This is the unit in which the conversation becomes intelligible without an economics degree.** "One refurbished hall is the payment for an entire district town." "One nine-million car is eight hundred people." The same sums in pensions: the hall equals **ten thousand** average pensions, the car **three hundred and thirty** [average old-age insurance pension for 2026, 27,100 ₽, verified].
+
+**Why this beats comparing with the deficit.** A deficit is an abstraction a person neither controls nor caused. A car, a hall and a television channel are things he sees and already has an opinion about. In this frame the protocol stops looking like a new expense and looks like what it is: **a redirection of money already flowing**.
+
+**Weak point, and a substantial one.** Multiplying an annual line by five is crude: lines change, and media spending is planned to nearly halve after 2026, which is why its cycle figure sums the years. The car figure is a journalistic aggregation of the contract register rather than a budget line, and it is a **lower** bound: chauffeur hire and fleet maintenance are excluded. The budgets of the Presidential Property Directorate and the Federal Guard Service could not be verified at all — the first is not served on the open web, the second is classified. And above all, **individual procurements are vivid but small**: every official car for a year is 1.9 m dividends out of 55–66 m, about three per cent. A dividend cannot be built on luxury, and claiming otherwise is not allowed; luxury here is **a unit of measurement, not a source of funding**. 🟡
+
 ### "This would ruin the budget" — the answer and its honest half
 
 The architect names the main counterstroke: **the authorities will press the line that this ruins the budget**. The objection is predictable, and it has to be answered with figures rather than indignation.
@@ -358,7 +398,7 @@ The architect names the main counterstroke: **the authorities will press the lin
 
 **What the construction answers.** The protocol does not demand a fixed sum regardless of circumstances. It demands that the deduction be **named**: "put defence spending into the algorithm — we will see what protection costs, and divide the remainder among us" (§7). Against an unspecified sum the ruin argument works; against a formula where every deduction is visible it turns into "here is what we deduct and why," which is precisely the conversation the protocol is after.
 
-**And the honest half, which we did not have until now.** The budget genuinely runs a deficit: 2025 revenue 37,284 bn ₽, expenditure 42,928 bn ₽, deficit **5,644 bn ₽** [Minfin, verified]. Against that:
+**And the honest half, which we did not have until now** — with the architect's caveat that the deficit is the finance ministry's argument rather than a person's, so in conversation with people it comes after the section above. The budget genuinely runs a deficit: 2025 revenue 37,284 bn ₽, expenditure 42,928 bn ₽, deficit **5,644 bn ₽** [Minfin, verified]. Against that:
 
 | Variant | Annual cost | Addition to the deficit |
 |---|---|---|
