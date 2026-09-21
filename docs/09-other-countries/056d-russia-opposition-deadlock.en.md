@@ -320,6 +320,53 @@ Hence a correction to the architect's "a monthly salary or two pensions": those 
 
 **Weak point.** Median earnings for Russia were not verified in this calculation: the figure of about 11,000 ₽ is taken from 033c, and working backwards gives an annual median of about 733,000 ₽, which must be confirmed against Rosstat before any calculator is published. The size of bonus B is not estimated at all — it depends on budget savings that do not yet exist. 🟡
 
+### The third scale: what it costs the budget as a whole
+
+The architect's correction: the comparison should be between **the budget's total outlay on the payment** and a budget line such as the State Duma. That is the right level, and it answers the objection that comes first: "where will you get that kind of money."
+
+The calculation. Recipients cannot exceed the electorate; we take **110 million** [an order-of-magnitude estimate, unverified at source 🟡]. The cycle is five years. The arithmetic is shown so it can be checked.
+
+| At K | Payment to one person | Total per cycle | Annualised |
+|---|---|---|---|
+| **1 %** | 11,000 ₽ | 11,000 × 110 m = **1.21 trn ₽** | **242 bn ₽** |
+| **≈6–7 %** (a month's earnings) | 70,000 ₽ | 70,000 × 110 m = **7.7 trn ₽** | **1.54 trn ₽** |
+
+The same against annual budget lines:
+
+| Budget line | Per year | Dividend at K = 1 % | Dividend at "a month's earnings" |
+|---|---|---|---|
+| **The State Duma** | 14.84 bn ₽ | **16 times larger** | 104 times larger |
+| The entire Federal Assembly | 22.56 bn ₽ | 11 times larger | 68 times larger |
+| Section "General state matters" | 2,251 bn ₽ | **11 % of it** | **68 % of it** |
+| Oil and gas revenue, 2024 | 11,131 bn ₽ | **2.2 %** | **13.8 %** |
+
+**What this reads as, and it is the answer to "where from."** The whole dividend under the present formula costs the budget **about sixteen State Dumas a year** — and **two per cent of a single revenue line**. Even a payment the size of a month's earnings, which is what the architect has in mind, is **cheaper than the section "General state matters"** and fits within fourteen per cent of oil and gas revenue.
+
+The comparison with the Duma cuts both ways, and the second way must be stated honestly. It shows that **the dividend is not small change**: sixteen parliaments a year is real money, and the line "take it from the deputies and hand it out" does not add up arithmetically (see above). But it also shows that **the money exists and sits in one line**, rather than having to be scraped from the whole budget.
+
+### "This would ruin the budget" — the answer and its honest half
+
+The architect names the main counterstroke: **the authorities will press the line that this ruins the budget**. The objection is predictable, and it has to be answered with figures rather than indignation.
+
+**What arithmetic answers.** Under the present formula the dividend is **2.2 % of a single revenue line** and **11 % of the section spent on general state matters**. The state spends nine times the whole dividend on that section and does not call it ruin. So the dispute is not about the sum but about the **direction**: the same money going to procurement from friends is not considered ruin (§7). The question "does two per cent ruin a budget" is worth asking out loud — it refutes itself.
+
+**What the construction answers.** The protocol does not demand a fixed sum regardless of circumstances. It demands that the deduction be **named**: "put defence spending into the algorithm — we will see what protection costs, and divide the remainder among us" (§7). Against an unspecified sum the ruin argument works; against a formula where every deduction is visible it turns into "here is what we deduct and why," which is precisely the conversation the protocol is after.
+
+**And the honest half, which we did not have until now.** The budget genuinely runs a deficit: 2025 revenue 37,284 bn ₽, expenditure 42,928 bn ₽, deficit **5,644 bn ₽** [Minfin, verified]. Against that:
+
+| Variant | Annual cost | Addition to the deficit |
+|---|---|---|
+| K = 1 % | 242 bn ₽ | **+4.3 %** |
+| A month's-earnings payment | 1,540 bn ₽ | **+27 %** |
+
+From which follows a conclusion inconvenient for loud presentation but necessary: **the arithmetic supports the cautious variant and does not support "a monthly salary" without specifying what gets cut.** Four per cent on an existing deficit is noise; twenty-seven per cent is a serious fiscal decision requiring named reductions, and pretending otherwise is dishonest.
+
+Hence a practical rule for any conversation about the protocol: **start from a low K and show the slider**, rather than promising a monthly salary. A low K is fully defended by arithmetic; a high one requires a separate conversation about what goes. This, incidentally, is the answer to why the repository's formula is deliberately conservative.
+
+**And finally.** The claim that "paying citizens would ruin the budget" is itself a confession: it means the budget rests on citizens not being paid. Said out loud, it works against whoever says it — exactly as a ban does in §7.
+
+**Caveats without which the table misleads.** The payment comes from a pre-formed fund (004.4.8) — it is not free, and it means that money is not spent on something else; the table shows **scale, not the absence of a price**. The efficiency bonus B is additional and not counted here at all. The number of recipients is an estimate: at 146 million rather than 110 the sums rise by about a third. And the budget outlays are planned figures from the law, not actual execution. 🟡
+
 ### A correction to the word "free"
 
 The architect's phrase "two pensions free" is accurate as a sensation and inaccurate as a position, and the difference is expensive. "Free" reads as a handout — and triggers two ready-made objections at once: the paternalist "they will drink it away" (§7) and the envy of another's income examined in §5b. The accurate formulation is **"your share"**: not a gift but the distribution of what Article 9 of the Constitution already calls the foundation of the peoples' life. This is both truer and disposes of both objections before they arise: nobody envies his own share, and nobody asks whether its recipient will drink it away.
