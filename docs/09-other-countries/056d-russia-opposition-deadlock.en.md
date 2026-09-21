@@ -210,7 +210,7 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 
 | No. | What to do | Against what precisely | Cost |
 |---|---|---|---|
-| 1 | **A share calculator.** A person enters his region and household and sees his monthly sum. Not a text, not a programme, but a number about himself | Directly against Prokopenko's central point: "there is no clearly formulated alternative; nobody knows what a different future might be" (§6b). An abstraction does not compete with "the rotten present"; a number does | weeks of work, no permission required |
+| 1 | **A share calculator** (specification in §7f)**.** A person enters his region and household and sees his monthly sum. Not a text, not a programme, but a number about himself | Directly against Prokopenko's central point: "there is no clearly formulated alternative; nobody knows what a different future might be" (§6b). An abstraction does not compete with "the rotten present"; a number does | weeks of work, no permission required |
 | 2 | **The measurement nobody has.** A survey: do you know how much rent per person there is; would you support a rule distributing it; would you vote for whoever proposed it | Against §7d's own weak point: data on whether an economic offer moves the apathetic Russian voter **do not exist**, because no attempt was made | the cost of a panel survey |
 | 3 | **A ready referendum question**, legally drafted, with the share's unconditionality and the formula's protection (004.4.3c, 004.4.7b) | Against the prospect that in a transition window discussion starts from zero and consumes years the window does not have | lawyers' work, once |
 | 4 | **The ballot sign as measurement** (§7b) | The one item in the whole construction that works **before** adoption and requires nobody's permission. It was available in September 2026 and went unused | hours of video and a single day |
@@ -234,6 +234,41 @@ Hence the correct formulation, the reverse of the earlier one: **loudness does n
 **And finally, what turns the ban from a risk into an outcome.** §7 of this chapter already states that to ban a direct dividend the authorities would have to admit that the Constitution is a fairy tale for plebeians, and that admission is itself the confirmation. So the loud branch wins either way: **either the subject spreads, or it is banned — and the ban says something about the subject that no amount of campaigning could say**. The quiet branch has neither.
 
 **Weak point.** The plan rests on the assumption that the empty slot is fillable by this protocol in particular; point 2 exists precisely to test that assumption rather than confirm it. If the measurement shows that an economic offer leaves the apathetic voter unmoved, what is cancelled is not point 2 but the whole chapter. 🟡
+
+## 7f. The share calculator: a specification
+
+The architect took the plan's first point and turned it into an object: "in a video you could say — download an Android calculator of payments by city or by country and by household, and see a monthly salary or two pensions in it."
+
+This is materially stronger than what was written, for three reasons, and one of them changes the plan itself.
+
+**First: it moves the argument from speech into a thing.** A video is watched once; an app stays on the screen and is opened a second time when petrol goes up. A clip has to be rewatched; a number has to be recalculated, and the person recalculates it himself.
+
+**Second, and this is the main find: the unit is not roubles but "a monthly salary" and "two pensions."** Abstract thousands mean nothing; a familiar quantity means everything. And from this follows a breakdown by city that the plan lacked: rent per person is computed nationally, but **its meaning is local**. The same sum is small change in Moscow and a salary in a district town. An app that shows the share beside the local median wage tells different people different things — and speaks loudest to exactly those the construction is aimed at (§5: for a nurse in a district hospital the sum changes everything, for a Moscow hipster it does not).
+
+**Third: point 1 of the plan swallows point 2.** The measurement "nobody has" comes out of the same app: where it is installed, what households are entered, whether people return. No separate survey budget is required — but this carries a cost, discussed below.
+
+### What has to be inside
+
+| Requirement | Why |
+|---|---|
+| **The formula is open, not only the result** | A calculator that emits a single number is propaganda and will die on first contact with an economist. The computation must be visible: budget income from rent, what is deducted, how many people it is divided among |
+| **The figures can be changed** | A sceptic who enters his own percentages and sees his own result stops being a sceptic and becomes a user. The objection "you have inflated everything" is answered before it is raised |
+| **A source for every line** | The data come from the published budget; a link beside each number |
+| **Computes on the device, with no server** | See the security note below |
+| **Open source and open data** | Otherwise "this is a fake by foreign agents" is a free answer |
+| **No account, no registration, no donate button** | The same |
+
+### Two honest limits
+
+**Distribution.** An app store is the weak point: takedown requests are honoured, and a Russian store would remove this immediately. So the principal form is **a web page that works offline after first opening**: there is nowhere to remove it from, it installs by link and updates itself. An Android package is worth making as a second form — it survives the site being blocked, and the site survives removal from a store. Each is worse without the other.
+
+**Security against measurement, and this is a genuine conflict rather than a caveat.** An app that asks a Russian resident about political preferences and sends the answer to a server is dangerous **to him**. So the computation happens on the device and sends nothing; any measurement is voluntary, anonymous, aggregate-only and announced on screen before the tap. That is markedly worse than a proper survey. **The choice is between data quality and the user's safety, and here the choice is obvious**; point 2 of the plan remains a separate task for panel surveys outside the country, and the app yields only a coarse picture. 🟡
+
+### A correction to the word "free"
+
+The architect's phrase "two pensions free" is accurate as a sensation and inaccurate as a position, and the difference is expensive. "Free" reads as a handout — and triggers two ready-made objections at once: the paternalist "they will drink it away" (§7) and the envy of another's income examined in §5b. The accurate formulation is **"your share"**: not a gift but the distribution of what Article 9 of the Constitution already calls the foundation of the peoples' life. This is both truer and disposes of both objections before they arise: nobody envies his own share, and nobody asks whether its recipient will drink it away.
+
+**Weak point.** All of this describes an instrument, not a result. The app displays a number and does not prove that the number moves anyone: testing that is still point 2, and it has not been done. Besides, the computation turns on what portion of the rent counts as distributable — a contested question where any value will be disputed, which is why changeable figures here are not a convenience but a condition of honesty. 🟡
 
 ## 8. Weak point of the case
 
