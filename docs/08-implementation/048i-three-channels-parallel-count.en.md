@@ -217,6 +217,66 @@ What follows. The application in itself saves almost nothing while the station i
 
 And the scale. Five or six euros per vote once in four years is a quantity invisible in a budget; the sum paid out under the protocol is larger by orders of magnitude. So the argument "the application saves on elections" is a weak one for the protocol and should not be put forward. The strong argument is different: the application is not a saving but infrastructure, without which three things in this section do not work — identification at payment (§5c), the token of the open channel (§2), and the notification to a person of any operation on his record. 🟡
 
+## 5f. Testing the catalogue against the September 2026 elections
+
+The catalogue in §5c was assembled from general knowledge of practice. The Duma elections of 20 September 2026 produced a list of techniques applied within a single campaign, per three analyses: Maxim Katz, Abbas Gallyamov, and Meduza's discussion with Alexandra Prokopenko and Andrei Pertsev (all 21 September 2026). Below they are arranged **by the layer on which they act**, because the layer determines whether the protocol reaches them at all. The material comes from those analyses; primary data were not verified. 🟡
+
+### Layer 1. Before the ballot — and the protocol does not work here
+
+| Technique in September 2026 | What the protocol does |
+|---|---|
+| Yabloko struck from the lists almost everywhere | nothing |
+| Long prison sentences for politicians (Shlosberg, Kruglov), removal of the right to stand, pressure on grassroots activists | nothing |
+| Three-day voting; voting in occupied territories | nothing |
+
+This is stated outright in §5c ("not solved by counting") and is confirmed here in practice: **the campaign was decided on this very layer**. The Novgorod case (056d.7c) shows what is at stake: where the list stayed on the ballot it immediately took over six per cent.
+
+**But the protocol does change one thing on this layer, and it deserves stating precisely.** It does not prevent a candidate being struck off — it changes **what striking off costs**. Today it works twice over: the voter loses his alternative, stays at home, and his absence is counted as consent. Under the protocol he comes anyway, because he came for his own money, and his money goes somewhere. A candidate can be removed; **a voter cannot**. Turnout ceases to be a consequence of motivation — and half the effect of clearing the ballot rests on that.
+
+### Layer 2. Producing turnout — the protocol's main answer
+
+Per Pertsev this is the principal instrument, not stuffing: corporate mobilisation, tightened this cycle.
+
+| Technique | What the protocol does |
+|---|---|
+| Threat of dismissal for not turning up; brigade leaders added to HR staff; compulsory reporting | **Turnout ceases to be a commodity.** A boss sells upward the turnout he produced; once everyone is paid for appearing, people come without him and "I delivered 95 %" is worth nothing |
+| Bonuses to those who bring people in | the same budget line becomes pointless: there is no reason to pay for what will happen anyway |
+| Mobilisation by state employees of their charges — clubs, pensioners, schoolchildren's parents | pensioners take the sum more often than anyone (§5c), and need not be led by the hand |
+| Demands to photograph the ballot | not solved by the protocol; treated separately in 056d.7b — a photograph fixes the ballot at the moment of the shot, not at the moment it enters the box |
+| Voting by remote ballot in a manager's presence | partly: the token stays with the person, and a token transmitted to a party does not depend on who was standing nearby |
+
+**The layer's limit, stated honestly: the protocol devalues coercion over attendance and does not abolish coercion over choice.** The latter is examined in §5c as the second new vulnerability, where it is also shown why coercing the choice is a weaker instrument than today's herding: a boss who demands appearance subtracts blindly.
+
+### Layer 3. Producing the number — here the protocol gives a lower bound
+
+| Technique | What the protocol does |
+|---|---|
+| Rewriting protocols in territorial commissions — per Pertsev one of the main instruments | open votes are summed by token past the commission; an official figure below the sum of transmitted tokens is proven fraud (§2) |
+| Redrawing "from scratch" where protest actually occurred (St Petersburg, Moscow) | the same; and the larger the discrepancy, the more visible it is |
+| Remote voting under the administration's control | the token shows a person his own vote — which today's remote voting lacks by construction |
+| **Falsification as intimidation** — excessive figures that do not affect the outcome (83 % for the speaker; 983 votes against 208,000) | works **better** against this than against ordinary fraud: intimidation requires a large discrepancy, and a large discrepancy is easier to prove (§5c) |
+
+### Layer 4. "Dirt" — about five per cent, on Pertsev's estimate
+
+| Technique | What the protocol does |
+|---|---|
+| Barring and expelling observers (Yekaterinburg, Yabloko's observers) | reduces their significance: a parallel count does not require presence at the precinct |
+| Home voting without observers | pensioners take the sum more often than others; their records are closed and nobody can vote in their stead (§5c) |
+| Physically blocking an observer (the Sakhalin case) | the same: there is nobody to block, the count runs from phones |
+| Stuffing and carousels | closed by the register with record status per §5c; and per Pertsev they "do not give very much" anyway |
+
+### Layer 5. The product — the image of a majority
+
+Prokopenko describes this as the **signalling function** of a constructed majority: "people saw each other at the polling stations, people know that they came, nobody knows how the neighbour voted."
+
+The protocol produces a **competing number**, and that is its only answer on this layer: the share who declined the sum and the share of transmitted tokens are quantities no commission computes. But this switches on only after adoption, and before adoption the layer belongs to the authorities entirely (056d.6b).
+
+### Conclusion: three layers out of five
+
+The protocol acts on layers 2, 3 and 4 — producing turnout, producing the number, and dirt — and on two of them it changes the construction rather than improving supervision. On layer 5 it supplies a competing number after adoption. **On layer 1, where the September 2026 campaign was actually decided, it does almost nothing** — and the one thing it does is important but narrow: a candidate can be removed, a voter cannot.
+
+Hence a conclusion worth keeping in any conversation about the protocol: **it protects the count, not the choice**. Where the choice has been destroyed before polling day, an honest count saves nothing — it only shows what was not there. 🟡
+
 ## 6. Two remainders for discussion
 
 **Loss of deniability for those who have already stayed.** The floor price protects before the choice of status. Someone who has already refused D and stayed to vote no longer has that protection: for him the demand "since you stayed — show the token" is free for the instigator. Today he could show a photo and re-vote; an official token cannot be fooled that way. The Estonian device (an open vote can be overridden by a secret one, the last counts) restores deniability but takes away the token's power of proof: one cannot have a vote that is both provable for the count and deniable to the boss. It is the same trio "verifiability, secrecy, accessibility" (048h.1); the architect's construction chooses verifiability for volunteers.
