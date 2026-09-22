@@ -793,6 +793,37 @@ The argument against exclusions stays mechanical rather than moral: **any exclus
 
 **Weak point.** The whole section reasons about available moves rather than observing: no pro-government opinion leader has publicly addressed the rent question, and how that milieu would behave is unknown. The fork "they cannot abandon the wealth thesis" assumes a commentator is bound by his earlier words — a weak assumption, since he is bound only as far as the audience remembers. And judging appropriation the likeliest outcome is the assistant's estimate with no precedent behind it. 🟡
 
+## 7k. Three different platforms, not one
+
+The architect's correction to §7j: "you are confusing them — what the authorities say, what the opposition on YouTube says, and what a permitted opinion leader says in Telegram channels."
+
+The assistant did indeed collapse them into a single figure, the "pro-government blogger," and thereby spoiled the analysis: these three positions have **different constraints, different audiences and different available moves**. They must be taken separately.
+
+| | Official authorities | Opposition on YouTube | A permitted opinion leader on Telegram |
+|---|---|---|---|
+| Where | television, statements, state media | blocked platforms, a foreign-agent label | inside the country, no VPN, no label |
+| What can be said | almost nothing: any word about a share legitimises the question | anything | almost anything, as long as it is not directly political |
+| Whom it reaches | everyone, with zero credibility on this topic | the already convinced (§7d) | **the mass audience** |
+| Best move | **silence** | say it | pick it up if the topic gets views |
+
+**First correction to §7j: the authorities' best move is silence, not "not now."** The assistant attributed the besieged-fortress argument to them, but uttering it concedes that there is something to divide. The official response to a successful money question is not objection but **the absence of a response**; objection begins when silence is no longer possible.
+
+**Second: opposition YouTube can say it but cannot spread it.** And not only because of blocking. A labelled source's touch makes a topic toxic for everyone else — exactly the mechanism that killed Smart Voting (§7e): the app was not what was blocked, the label attached to the organisation and through it to everything connected. So uttering the idea in that channel is **not free**: it may close its entry into the others.
+
+**Third, and this is the main omission: permitted Telegram channels are the only bridge.** They are inside the country, unlabelled, reachable without a VPN, and they compete with each other for the same audience. An anti-elite money topic pays them immediately, and individually they have no strategic consequences to weigh — the very mechanism the architect described in §7j ("there are many of them and they need an audience"). The idea's route to a mass reader runs **through them rather than through opposition platforms**.
+
+### And the architect's observation that changes the distribution arithmetic
+
+> "People watch quietly and know everything — even what the authorities have de facto banned."
+
+If so, the blockade does not prevent **knowing** — it prevents **citing**. A person may be well informed and still unable to name the source: citing a labelled one draws the label onto himself.
+
+**And hence something unexpected: the blockade itself produces the condition §7e calls the main defence.** An idea everyone knows and nobody attributes **has no owner** — there is nobody to designate undesirable because there is nobody to point at. What is intended as isolating the source works as detaching the idea from the source.
+
+The practical consequence for the §7e plan changes point 5. It previously read "spread through those who cannot be struck off." More precisely now: **the idea must be built so that it can be retold without a citation**. That is a requirement on form — a short rule, a countable number, a calculator that works by itself (§7f) — rather than on a list of allies. What gets retold is what needs no authority in order to be checked.
+
+**Weak point.** The observation that "people watch and know everything" is the architect's testimony rather than a measurement; the share of Russians consuming blocked content has not been verified by the assistant, and the whole calculation depends on it. The table of three platforms describes constraints rather than observed behaviour: none of the three positions has publicly reacted to a rent question. And the conclusion that the blockade produces ownerlessness holds only where circumvention is widespread; where it is not, the blockade works as intended and produces nothing useful. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
