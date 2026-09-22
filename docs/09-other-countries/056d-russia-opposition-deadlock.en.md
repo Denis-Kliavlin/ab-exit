@@ -939,6 +939,8 @@ It must be named, or the survey is dishonest. **Regimes of this type fall more o
 
 On that theory the right programme is **not talking to Vasya at all** but working on the apparatus: guarantees for non-security officials, personal forks for those with something to lose, preparing conditions in which leaving the system stops being suicide. Under that theory the protocol is **not the best idea** but a secondary one, addressed to people whose behaviour, on that theory, decides little.
 
+**That assessment is withdrawn at the architect's instance, and rightly — see §7m.** In brief: an elite split fails not on dissatisfaction but on coordination, and coordination requires a public pretext. Mass support is not an alternative to the split but its **input**.
+
 One partial qualification in the protocol's favour: it **worsens the apparatus's position regardless** (048i.5g — turnout stops being a commodity and a local boss has nothing to sell upward), so it works along the elite line too. But it works there more weakly than targeted work with elites, and there is no reason to pretend otherwise.
 
 ### Third conclusion, the least welcome: on realisability the protocol loses to almost everything
@@ -1000,6 +1002,47 @@ That is exactly the ownerlessness requirement of §7e and §7k, now arrived at f
 And the argument for it is not superiority but **expected-value arithmetic**: the expensive things were tried for a cycle and yielded zero; the cheap and unoccupied one has never been tried once. The four actions of §7e together cost less than one investigation, and any of them yields knowledge nobody has today — including negative knowledge.
 
 **Weak point, applying to the whole section.** The table was assembled by the assistant from open material and the three September 2026 analyses; none of those listed has described their strategy in these terms, and imputing aims from outcomes is unreliable. The "personal reason" assessments were measured for no item, the protocol included: §7d states outright that data on how an economic offer affects an apathetic Russian voter **do not exist**. And most importantly: the conclusion that the slot is empty comes from surveying what the assistant knows rather than from an exhaustive review — an idea's absence from this table means it was not found, not that it does not exist. 🟡
+
+## 7m. The elite split and the pretext: not a rival to the protocol but its application
+
+The architect's objection to §7l: "an elite split is more likely with 90 % popular support. And elites need a pretext for consolidating with the people and among themselves. A pretext that is explicit and cannot be openly condemned."
+
+The assistant set the elite split up as a **rival theory** under which the protocol is secondary. That is an error, and here is where it lies.
+
+### A split fails not on dissatisfaction but on coordination
+
+There is never a shortage of discontent inside an apparatus — that is not the scarce resource. What is scarce is **the first move**: nobody can move first, because nobody knows who would follow, and a lone defector is destroyed at no cost to the regime.
+
+That is a coordination problem, solved not by persuasion but by **common knowledge** — the very mechanism §7b rests on: what matters is not how many know but that each knows the others know (Chwe, *Rational Ritual*). What is needed is a **public focal point** around which people can converge without conspiring.
+
+Hence mass support is **not an alternative to a split but the input to it**. The architect is literally right: with visible support a split becomes likelier, because its principal blocker is removed.
+
+### Why the pretext must be of this particular kind: four requirements
+
+| Requirement | Why | Does the protocol supply it |
+|---|---|---|
+| **Uncondemnability** | for "democracy" or "against the war" a defector is destroyed as a traitor at no cost | yes: demanding a share of the subsoil is not treason but populism, and populism is survivable |
+| **Measurability** | one cannot coordinate on a feeling, one can on a number | yes: the counter and the anonymous count produce a figure (§7h) |
+| **Consolidation with the people rather than away from them** | a split on a liberal platform leads away from the 90 %, not towards them | yes: "for the people" rather than against the authorities (§7k) |
+| **Personal gain for the defector** | "democracy" costs him rather than paying him | yes: he is a recipient too, as is the foreman (§7i) |
+
+**The fourth row is one the assistant did not see at all.** Every previous platform asked an official to **give something up** for the common good. The protocol **pays him too**: he is a citizen, the share is due to him, and no self-sacrifice is required. That removes from a potential defector precisely the argument that has held him so far.
+
+### And the defector's armour is the regime's own rhetoric
+
+001c already contains the fork: "the dictator and the defector from the elite — kill him and make a martyr; leave him and he prepares the transition" (048d.6, 057c.4). The protocol adds a third side that was not there.
+
+A defector saying "Russia is rich and a share is due to everyone" **cannot be condemned without condemning one's own propaganda**: the riches of the subsoil are an official thesis and a matter of state pride for decades (§7h). A traitor is shot; a man repeating the television with a question at the end is shot **with explanations**, and there are none to give.
+
+So the protocol supplies not only a pretext but **armour**, cut from the regime's own words.
+
+### What follows for §7l
+
+The "elite split" row is removed from the table of rivals. The correct formulation: **the elite split is the mechanism, and the protocol supplies its missing part**. The theory is right, and precisely for that reason mass work does not contradict it but serves it.
+
+And the addressee of §7e's four actions changes. They looked like work with the population. It is now clear that **the calculator and the anonymous count produce exactly the public landmark an apparatus needs in order to coordinate**: a figure that can be cited without anyone conspiring with anyone.
+
+**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured, so the input to the mechanism is unconfirmed. And the principal objection to the whole construction: an apparatus coordinating around a payment is likelier to take it **without the formula** (§7j) — so coordination may produce not the protocol but its degenerate case, and the mechanism itself contains no defence against that. 🟡
 
 ## 8. Weak point of the case
 
