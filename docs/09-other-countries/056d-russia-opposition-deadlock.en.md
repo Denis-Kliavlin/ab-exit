@@ -925,7 +925,7 @@ Answering requires a survey rather than a confirmation. Below is what is actuall
 | Work with emigrants | yes, but for those who already left | high | foreign precincts routed the party of power (§7c) and nothing changed inside |
 | The anti-war agenda | no: it requires courage and there is no valve (§6b) | high | no protest voting occurred |
 | Wait for a transition, prepare cadres and programmes | no | not a mechanism but a timeframe | — |
-| **The protocol** | **yes, and it is the only case in the table** | **low**: needs a referendum, the procedure is closed (§7g) | never tried |
+| **The protocol** | **yes, and it is the only case in the table** | **the end point is closed, the intermediate ones open** (see below) | never tried |
 
 ### First conclusion: the slot really is empty, and that is not a compliment
 
@@ -947,9 +947,55 @@ Investigations, sanctions and work with emigrants are being done **today**. The 
 
 What is realisable within it is **narrow**: the calculator (§7f), a trial local referendum (§7g), a ready text of the question, an anonymous count (§7h). That is not a programme but four cheap actions.
 
+### Two corrections from the architect to the table
+
+**First: "low is low, not nil; and the discussion itself is already a phase transition."**
+
+The objection is right, and the assistant substituted one measure for another. Realisability was measured on a single criterion — will a referendum happen — that is, as yes or no. But with the protocol **the intermediate states are results in themselves**, not failed attempts at the final one:
+
+| State | What it produces | Permission required |
+|---|---|---|
+| The topic is discussable in money terms | common knowledge: each learns what others think (§7b) | no |
+| The calculator works | a personal number the person computed himself | no |
+| An anonymous count is gathered | a figure that can be neither drawn nor refuted (§7h) | no |
+| A local referendum is filed | either a written ground of refusal or an open procedure (§7g) | ten people's application |
+| A federal referendum | adoption of the protocol | closed (§7g) |
+
+Only the last line requires what is unavailable. **The four preceding are states in which the country is no longer what it was**, and none is cancelled by refusal at the last.
+
+"Phase transition" is the right term, and the chapter already has the precedent: the independent count in East Germany in May 1989 **changed not a single result** and changed what people knew about one another (§7b). Measured by "did the vote happen" it failed; measured by consequences it did not.
+
+So the table's row should read differently: **not "low realisability" but "the end point is closed, the intermediate ones are open and valuable in themselves."**
+
+**Second, and it inverts the frame: "Vasya needs this more than the opposition does, he is poorer."**
+
+Here the assistant was wrong systematically, across the section rather than in one line. The analysis proceeded as though the protocol were **the opposition's programme**: what it might adopt, where to spend resources, how this compares with its other ideas. But the dividend stands in **different relations** to the two:
+
+- for the opposition a share is an **instrument**: a way to bring a person to the polls;
+- for Vasya a share is the **object**: money he needs.
+
+And §5 already says this arithmetically: the sum changes everything for a nurse and nothing for a Moscow professional. So the protocol's natural carrier is **not whoever would use it as a means but whoever it is the point for**.
+
+### Hence a consequence the chapter lacked: the protocol need not run through the opposition
+
+If it is needed more by the poorest, the opposition's agreement is **a convenience of distribution rather than a condition of existence**. And §7k showed that a labelled source's touch additionally **costs**: it makes the topic toxic for every other channel.
+
+Four facts established in this chapter add up to one:
+
+1. §5 — the sum means more the poorer the recipient;
+2. §7h — the technique passes the foreman test, requiring no political position;
+3. §7k — an opposition channel does not distribute but infects, and the mass medium is private channels;
+4. §7j — the idea spreads through small actors who need audience, not through a champion.
+
+**All four say the route bypasses the opposition.**
+
+One thing it is nonetheless needed for, and this must be stated precisely. Somebody has to **build** the calculator, **draft** the question, **launch** the count. That takes resources and organisation, which Vasya lacks and the opposition has. **So its role is builder rather than carrier: make it and let it go, do not brand it and do not campaign on it.**
+
+That is exactly the ownerlessness requirement of §7e and §7k, now arrived at from a third direction.
+
 ### Hence the precise answer
 
-"The protocol versus the alternatives" is the wrong framing, and the right one is: **the protocol does not replace the repertoire, it occupies its single empty place**. It is not better than investigations and not worse than sanctions — it is about something else, and about something nobody else addresses.
+"The protocol versus the alternatives" is doubly the wrong framing. First, **the protocol does not replace the repertoire, it occupies its single empty place**. Second, and more importantly, **it is not the opposition's programme at all**: it is addressed to whoever needs it more, and the opposition is assigned a narrow role in it — to build and not to appropriate.
 
 And the argument for it is not superiority but **expected-value arithmetic**: the expensive things were tried for a cycle and yielded zero; the cheap and unoccupied one has never been tried once. The four actions of §7e together cost less than one investigation, and any of them yields knowledge nobody has today — including negative knowledge.
 
