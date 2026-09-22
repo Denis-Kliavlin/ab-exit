@@ -1119,6 +1119,33 @@ If a number is named **as a promise rather than as a computation** — inflated 
 
 **Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured. The reasoning about the instability of a payment without a formula is logical: no example was found of a one-off distribution turning into an argument about a rule, while distributions provoking no counting are numerous; only the reference-point argument removes that objection, and it rests on laboratory findings never replicated for Russia. The claim that the opposition cannot be silenced is likewise untested: it holds today and is not guaranteed tomorrow. And one condition the architect did not remove remains: **there must be something to count with** — a calculator must exist and rent figures must be published. The first is within our power, the second is not. 🟡
 
+## 7n. Method: what replaces the caveat "no data exist"
+
+The architect's remark during work on this chapter:
+
+> "You have worn me out. We are reasoning about something that NEVER EXISTED, and yes, a pilot is best. BUT in forecasting we must minimise the error of our assumptions and look for confirmed indirect or adjacent entities. And you write me the same thing every time — that is inefficient."
+
+The remark is just, and the failure is twofold. First, the absence of direct data about something that has not happened is **a constant rather than a finding**, and repeating it in every section is pointless: this chapter accumulated twelve variants of "not measured" and forty-three markers. Second, an excuse was substituted for work: **the nearest confirmed analogue lay in the repository itself** and was not opened.
+
+**The rule replacing this:** where direct verification is unavailable, no caveat is written until the **nearest observable analogue** has been found and **how far it carries** has been stated. A caveat is admissible where no analogue exists at all — and is then written once per chapter rather than at every claim.
+
+### A table of adjacent entities for this chapter's assumptions
+
+| The chapter's assumption | Nearest confirmed analogue | How far it carries |
+|---|---|---|
+| Money moves the apathetic towards participation | **James et al. (2025)**: +10 % in the size of Alaska's dividend (~$190) → **+1.4 pp of turnout**, with the effect **among the young and less well-off**; Loeffler (2022) — the dividend raises turnout (014) | a direct measurement of that very relationship on that very group, per §5. Does not carry: Alaska is a democracy and the payment is not tied to voting |
+| People turn up for money | Alaska 2024: **666,213 applications, 624,489 payments** against a population of ~735,000 — about 85 % of residents receive it, children included (014) | high turnout for money is observable. Does not carry: the number of eligible non-applicants is unpublished, so no take-up rate can be derived |
+| A payment without a formula is unstable and turns into an argument about the rule | **Alaska 2016–2018** (014.14.3b): a discretionary halving → a lawsuit, collapsing approval, the governor leaving the race, a rival winning on the full formula | this is the case §7m wrongly said it could not find. Does not carry: the causation is documented as press interpretation |
+| The formula must be protected more strongly than anything else (004.4.7b) | **Wielechowski v. State (2017)**: a statutory formula **does not bind** legislature or governor | direct judicial confirmation. Carries fully: the lesson applies in any jurisdiction with annual appropriation |
+| Envy works for distribution rather than against it | Foster (1965) + **Chinoy et al., AER (2026)**: zero-sum thinking predicts both support for redistribution and harshness towards outsiders (056d.5b) | a measured quantity with two correlations matching both of our objections. Does not carry: no measurement for Russia |
+| Common knowledge changes an apparatus's behaviour | East Germany, May 1989 (§7b); Chwe's coordination theory | one historical case plus theory. Does not carry: a single case, and no money question in it |
+
+### What remains without an analogue — and that is the chapter's entire caveat
+
+An analogue is missing for **two things and only two**: a payment tied to the act of voting (never done anywhere), and an elite split caused by a dividend demand (no case exists). Everything else in the chapter rests either on a measurement or on an observable case.
+
+The earlier repeated caveats are accordingly withdrawn: where "not measured" stood, a row of this table now stands.
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
