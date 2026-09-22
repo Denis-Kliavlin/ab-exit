@@ -12,7 +12,7 @@ The general case of the Russian opposition is in [056d](056d-russia-opposition-d
 
 ## 1. September 2026: the technique half-tested, and the test went badly
 
-The State Duma elections of 20 September 2026 supplied the first material against which §7b can be checked. The figures below follow Maxim Katz's analysis of 21 September 2026; the assistant did not verify precinct commission data, and the estimate of the "real result" belongs to the analysis, derived from "honest" precincts and exit polls. 🟡
+The State Duma elections of 20 September 2026 supplied the first material against which 056d.7b can be checked. The figures below follow Maxim Katz's analysis of 21 September 2026; the assistant did not verify precinct commission data, and the estimate of the "real result" belongs to the analysis, derived from "honest" precincts and exit polls. 🟡
 
 | What | Figure |
 |---|---|
@@ -23,9 +23,9 @@ The State Duma elections of 20 September 2026 supplied the first material agains
 | Moscow | protest turnout, queues up to an hour and a half after the precincts closed; the redrawing had to cover paper voting, not only electronic |
 | Saratov district | 83 % for the Duma speaker; precincts with 99 % turnout and 98 % for him; the Yabloko candidate got 983 votes against his 208,000 |
 
-**The main point for §7b, and it runs against us.** The mechanism described in §7b assumes a chain: the commission sees the true scale of dissent, common knowledge forms, friction appears. In Moscow and St Petersburg the first link fired by itself, with no sign at all: commissions saw a genuine protest result at their own precincts — and redrew it, in the analysis's phrase, "as if by a ruler," with no visible resistance. **Seeing is not acting**, and the scene of exchanged glances in §7b must be stated more modestly than it is.
+**The main point for 056d.7b, and it runs against us.** The mechanism described in 056d.7b assumes a chain: the commission sees the true scale of dissent, common knowledge forms, friction appears. In Moscow and St Petersburg the first link fired by itself, with no sign at all: commissions saw a genuine protest result at their own precincts — and redrew it, in the analysis's phrase, "as if by a ruler," with no visible resistance. **Seeing is not acting**, and the scene of exchanged glances in 056d.7b must be stated more modestly than it is.
 
-One distinction is necessary here, and it is a distinction rather than an excuse. What was overwritten was the **count of votes** — a number the commission produces itself and can therefore produce at any value. The sign in §7b is built differently: nobody counts it, it can only be seen, and it cannot be "redrawn" — it can only be left out of the tally, while what was seen stays seen. September 2026 tested ordinary voting, not the sign. But it did test the weaker premise — that being seen by itself creates friction — and the answer was no.
+One distinction is necessary here, and it is a distinction rather than an excuse. What was overwritten was the **count of votes** — a number the commission produces itself and can therefore produce at any value. The sign in 056d.7b is built differently: nobody counts it, it can only be seen, and it cannot be "redrawn" — it can only be left out of the tally, while what was seen stays seen. September 2026 tested ordinary voting, not the sign. But it did test the weaker premise — that being seen by itself creates friction — and the answer was no.
 
 What survives of the mechanism. Kuran was never describing immediate action: accumulated private knowledge changes behaviour not on the day but when an occasion appears, and half a year passed between the independent count in East Germany in May 1989 and the fall of the regime. That is true — and it is exactly why the technique should be described as measurement and accumulation rather than as an event. Said here once.
 
@@ -55,7 +55,7 @@ The architect's question following Meduza's post-election discussion (Alexandra 
 | **Rewriting protocols** in territorial commissions | Open votes are summed by token past the commission; an official figure below the sum of transmitted tokens is arithmetically proven fraud (048i.2) | Works only on the open channel and only with a high share of tokens transmitted |
 | **Controlled remote electronic voting** | The token shows a person his own vote and is transmitted to a party; this is what remote voting lacks by construction | Full protection requires publishing all tokens; without it what remains is a lower bound, not accuracy |
 | **No valve: "whoever you vote for, it is forty shades of one party"** | The protocol is not a party but **a question for a referendum**. People vote not for persons but for a rule of distribution, which requires no decent name to appear on the ballot | It requires a referendum to be possible. In today's Russia it is not (§8) |
-| **Fear: a man is afraid to vote on paper in case he is noticed** | It changes the nature of the act: coming for **one's own money** is not a political deed and signals nothing. This is the same property the sign has (§7b): compatibility with coercion | The choice of recipient remains political; only the secret channel covers that |
+| **Fear: a man is afraid to vote on paper in case he is noticed** | It changes the nature of the act: coming for **one's own money** is not a political deed and signals nothing. This is the same property the sign has (056d.7b): compatibility with coercion | The choice of recipient remains political; only the secret channel covers that |
 | **Rational conformism: "the rotten present is better"** | It changes the arithmetic: today conformism buys safety and protest is risk without payment. The protocol puts money on the second scale, and puts it with those for whom it means most (§5) | It works on the apathetic and not on convinced supporters; it was never designed for the latter |
 
 **And one point deserves separating out, because only the protocol answers it.** Prokopenko formulates the cause of conformism not as fear but as absence of a subject: "there is no clearly formulated alternative… nobody knows what a different future might be. So the rotten present is better than this unclear future of yours. And for protesting you can also get hit over the head."
@@ -66,7 +66,7 @@ This is precisely the empty slot described in §3 — but stated independently a
 
 For the protocol this is bad news in two places. First, the signalling function is preference falsification (Kuran) in the form of a manufactured product, and the protocol destroys it only after adoption, having no effect at all before. Second, and more important: **a regime that has stopped valuing appearances loses less by banning the protocol outright**. While elections were made to look genuine, banning "transparent distribution of rent" was awkward (§7); once the pretence ended, the awkwardness went with it.
 
-The conclusion on the architect's question, unsoftened: of the six problems named, the protocol is built so as to remove four and devalue a fifth, but **not one of them is removed in Russia today**, because every answer switches on after adoption, and adoption requires a referendum that does not exist. The Meduza discussion is a description of why §8 of this chapter is written as it is. The only thing that works **before** adoption and requires nobody's permission is the sign on the ballot (§7b), and its test in September 2026 went badly (§1). 🟡
+The conclusion on the architect's question, unsoftened: of the six problems named, the protocol is built so as to remove four and devalue a fifth, but **not one of them is removed in Russia today**, because every answer switches on after adoption, and adoption requires a referendum that does not exist. The Meduza discussion is a description of why §8 of this chapter is written as it is. The only thing that works **before** adoption and requires nobody's permission is the sign on the ballot (056d.7b), and its test in September 2026 went badly (§1). 🟡
 
 ## 3. The empty slot in the repertoire
 
@@ -86,9 +86,9 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 
 **As a subject of conversation — yes, and here the architect's position is strong.** By the analysis's own diagnosis, the failure lay not in *how* people voted but in the fact that **they did not come**: "the country passed the test of passive loyalty; it makes no difference why people do not resist." Apathy is not cured by improved booth tactics — tactics answer "how," and the question left unasked was "why bother at all." And here the empty slot becomes visible: **everything the opposition offered was procedural or moral** — honest elections, against the war, against corruption. An offer of the form "here is your share, here is what you personally get" has never been made by anyone — **and the slot stood empty for the whole cycle, with the money and the audience available**. This is §6 of this chapter seen from the other side: not "why won't the opposition take up the protocol" but "what occupies that slot instead" — and the answer is nothing.
 
-**And the supposition has a testable version, closer to hand than it looks.** The protocol requires adoption; the sign in §7b does not. The sign is the one item in the whole construction that could have been announced the day before and performed in the booth without a single change in law. It was not announced; the architect himself regretted this on seeing the election date. So the supposition that the opposition could have spent resources on this and got something **is untested rather than refuted**, and those are different things. A testable version exists and is cheap — hours of video and a single day.
+**And the supposition has a testable version, closer to hand than it looks.** The protocol requires adoption; the sign in 056d.7b does not. The sign is the one item in the whole construction that could have been announced the day before and performed in the booth without a single change in law. It was not announced; the architect himself regretted this on seeing the election date. So the supposition that the opposition could have spent resources on this and got something **is untested rather than refuted**, and those are different things. A testable version exists and is cheap — hours of video and a single day.
 
-**Weak point.** "Would have been discussed in kitchens" is not a result by this repository's own standards, which elsewhere demand a number. Conversation does not rewrite a precinct protocol or change the composition of the Duma; it changes what people know about one another (§7b, East Germany 1989), which works slowly and without guarantees. More importantly: there are no data at all on whether an economic offer would move the apathetic Russian voter — no measurement exists, because no attempt was made. The whole chapter rests on this: it describes an unoccupied slot, not a proven remedy. 🟡
+**Weak point.** "Would have been discussed in kitchens" is not a result by this repository's own standards, which elsewhere demand a number. Conversation does not rewrite a precinct protocol or change the composition of the Duma; it changes what people know about one another (056d.7b, East Germany 1989), which works slowly and without guarantees. The relationship "size of payment → participation" has not been measured for Russia, but it has been measured where the payment exists (§13, first row); what has been measured nowhere is the effect of a payment **tied to the act of voting**. 🟡
 
 ## 4. What could have been done over the cycle: a plan drawn from the three analyses
 
@@ -99,12 +99,12 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 | No. | What to do | Against what precisely | Cost |
 |---|---|---|---|
 | 1 | **A share calculator** (specification in §5)**.** A person enters his region and household and sees his monthly sum. Not a text, not a programme, but a number about himself | Directly against Prokopenko's central point: "there is no clearly formulated alternative; nobody knows what a different future might be" (§2). An abstraction does not compete with "the rotten present"; a number does | weeks of work, no permission required |
-| 2 | **The measurement nobody has.** A survey: do you know how much rent per person there is; would you support a rule distributing it; would you vote for whoever proposed it | Against §3's own weak point: data on whether an economic offer moves the apathetic Russian voter **do not exist**, because no attempt was made | the cost of a panel survey |
+| 2 | **The measurement nobody has.** A survey: do you know how much rent per person there is; would you support a rule distributing it; would you vote for whoever proposed it | Against §3's own weak point: the relationship "size of payment → participation" is measured in Alaska (§13) but unmeasured for Russia, and a payment tied to voting has been tried by nobody | the cost of a panel survey |
 | 3 | **A ready referendum question**, legally drafted, with the share's unconditionality and the formula's protection (004.4.3c, 004.4.7b) | Against the prospect that in a transition window discussion starts from zero and consumes years the window does not have | lawyers' work, once |
-| 4 | **The ballot sign as measurement** (§7b) | The one item in the whole construction that works **before** adoption and requires nobody's permission. It was available in September 2026 and went unused | hours of video and a single day |
+| 4 | **The ballot sign as measurement** (056d.7b) | The one item in the whole construction that works **before** adoption and requires nobody's permission. It was available in September 2026 and went unused | hours of video and a single day |
 | 5 | **The main line of defence: the rule must have no owner.** Spread through those who cannot be struck off — The protocol is a rule, not a person: anyone may voice it, including regional candidates of systemic parties who already ran slogans "for peace" and "for a free internet" (§2) | Against layer 1 (048i.5f): a candidate is struck off, a rule cannot be — it has no surname | zero |
 | 5b | **The repository as short clips, one argument per clip.** The architect's remark: "everything in the repo can be made into small videos, and each person watches what appeals to him; there is material there that even pensioners will find interesting" | Against the fact that one long speech cannot address everyone at once (§3): fifty short ones can, and **the viewer selects**. This also answers the "party of the big cities" objection: the pensioner is addressed by late payment and the arithmetic of "two pensions," the small trader by two or three per cent of turnover, the state employee by turnout ceasing to be a commodity | editing, no permission required |
-| 6 | **Make nobody a loser.** The share goes to everyone without exception, officials and war participants included | Against the lesson Gallyamov draws about himself: he declines to push recovery from war participants because it would create a group ready to defend the regime to the death (§5b) | discipline in wording |
+| 6 | **Make nobody a loser.** The share goes to everyone without exception, officials and war participants included | Against the lesson Gallyamov draws about himself: he declines to push recovery from war participants because it would create a group ready to defend the regime to the death (056d.5b) | discipline in wording |
 
 **What of this was available in September 2026 and not done.** Points 1, 2, 4 and 5, entirely. None required registration, accreditation, or presence in the country.
 
@@ -122,7 +122,7 @@ Hence the correct formulation, the reverse of the earlier one: **loudness does n
 
 **And finally, what turns the ban from a risk into an outcome.** §7 of this chapter already states that to ban a direct dividend the authorities would have to admit that the Constitution is a fairy tale for plebeians, and that admission is itself the confirmation. So the loud branch wins either way: **either the subject spreads, or it is banned — and the ban says something about the subject that no amount of campaigning could say**. The quiet branch has neither.
 
-**Weak point.** The plan rests on the assumption that the empty slot is fillable by this protocol in particular; point 2 exists precisely to test that assumption rather than confirm it. If the measurement shows that an economic offer leaves the apathetic voter unmoved, what is cancelled is not point 2 but the whole chapter. 🟡
+**Weak point.** The plan rests on the assumption that the empty slot is fillable by this protocol in particular; point 2 exists precisely to test that assumption rather than confirm it. The Alaskan measurement (§13) says money moves the young and the less well-off in particular — but says it of a democracy where the payment is not tied to voting, and so cannot stand in for a Russian measurement. And point 2 runs into the rule adopted in §10: a survey about money frightens less than a survey about politics, but remains a survey — its result serves as a lower bound, not as a measurement. 🟡
 
 ## 5. The share calculator: a specification
 
@@ -345,9 +345,9 @@ Hence a practical rule for any conversation about the protocol: **start from a l
 
 ### A correction to the word "free"
 
-The architect's phrase "two pensions free" is accurate as a sensation and inaccurate as a position, and the difference is expensive. "Free" reads as a handout — and triggers two ready-made objections at once: the paternalist "they will drink it away" (§7) and the envy of another's income examined in §5b. The accurate formulation is **"your share"**: not a gift but the distribution of what Article 9 of the Constitution already calls the foundation of the peoples' life. This is both truer and disposes of both objections before they arise: nobody envies his own share, and nobody asks whether its recipient will drink it away.
+The architect's phrase "two pensions free" is accurate as a sensation and inaccurate as a position, and the difference is expensive. "Free" reads as a handout — and triggers two ready-made objections at once: the paternalist "they will drink it away" (§7) and the envy of another's income examined in 056d.5b. The accurate formulation is **"your share"**: not a gift but the distribution of what Article 9 of the Constitution already calls the foundation of the peoples' life. This is both truer and disposes of both objections before they arise: nobody envies his own share, and nobody asks whether its recipient will drink it away.
 
-**Weak point.** All of this describes an instrument, not a result. The app displays a number and does not prove that the number moves anyone: testing that is still point 2, and it has not been done. Besides, the computation turns on what portion of the rent counts as distributable — a contested question where any value will be disputed, which is why changeable figures here are not a convenience but a condition of honesty. 🟡
+**Weak point.** The computation turns on what portion of the rent counts as distributable — a contested question where any value will be disputed, which is why changeable figures here are not a convenience but a condition of honesty. The app displays a number and does not prove that the number moves anyone; testing that is point 2 of §4. 🟡
 
 ## 6. Can a referendum application be filed in Russia: the procedure and where it breaks
 
@@ -457,15 +457,15 @@ Taken in parts: one is stronger than presented, one is right as presented, and o
 
 This is the core of the proposal, and the 2018 material supports it. Subgroups on the retirement age registered in Moscow, Moscow oblast, **Altai krai, Nizhny Novgorod and Vologda oblasts** (§6) — not a map of liberal capitals. A money question collects where a political one does not.
 
-And non-political has a second, less obvious consequence: **it makes unity technically possible**. A joint campaign behind a common list of candidates requires everyone to accept somebody else's leaders; a campaign for a rule requires nobody to endorse anybody. A person who cannot stand the neighbouring column can still join a question about distributing income. That is precisely the property no item in the old repertoire had (§3), and possibly the only known way around what Gallyamov calls not creating losers (§5b).
+And non-political has a second, less obvious consequence: **it makes unity technically possible**. A joint campaign behind a common list of candidates requires everyone to accept somebody else's leaders; a campaign for a rule requires nobody to endorse anybody. A person who cannot stand the neighbouring column can still join a question about distributing income. That is precisely the property no item in the old repertoire had (§3), and possibly the only known way around what Gallyamov calls not creating losers (056d.5b).
 
 ### Right, but for a different reason than stated: finish the collection — the product is not the authorities' embarrassment
 
 The argument "how will they say you missed the deadline" counts on embarrassment, and they will not be embarrassed: terminating the procedures is one line in a decision, and in 2018 it was written without difficulty (part 26 of Article 15, §6).
 
-But the collection should still be finished, and for a stronger reason: **signatures here are a measuring instrument rather than a legal one**. Legally they die with the deadline. Informationally they do not. Four million verifiable signatures tell each signatory that four million others signed, and that is exactly the common-knowledge mechanism §7b rests on: Kuran and Chwe describe regimes falling not through persuading opponents but through opponents learning about each other.
+But the collection should still be finished, and for a stronger reason: **signatures here are a measuring instrument rather than a legal one**. Legally they die with the deadline. Informationally they do not. Four million verifiable signatures tell each signatory that four million others signed, and that is exactly the common-knowledge mechanism 056d.7b rests on: Kuran and Chwe describe regimes falling not through persuading opponents but through opponents learning about each other.
 
-And the comparison with §7b favours signatures: **a sign on a ballot is not counted, signatures are**. This is the first instrument proposed anywhere in the repository that produces a **number** where there is nobody to produce one.
+And the comparison with 056d.7b favours signatures: **a sign on a ballot is not counted, signatures are**. This is the first instrument proposed anywhere in the repository that produces a **number** where there is nobody to produce one.
 
 Hence the precise formulation: the collection is finished not to embarrass the authorities but to **obtain a figure that can neither be drawn nor refuted**. A refusal on deadline grounds does not destroy it — it publishes it.
 
@@ -490,7 +490,7 @@ The objection is right, and the assistant made an error of a particular kind: **
 
 **And the strongest part of the objection is its last words.** "The country with the largest subsoil wealth per citizen" is not our thesis but the **official** one: the riches of the subsoil have been a matter of state pride for decades. So the question "where is my share" is asked **from inside the official picture of the world** rather than against it. Vasya is not subverting the propaganda; he is taking it literally. The boast cannot be withdrawn, and the question following from it has no answer.
 
-Hence a rule worth extracting from this chapter as a separate criterion — call it **the foreman test**: a technique is sound if a local boss cannot explain to his own worker why not to do it. The ballot sign (§7b) passes for the same reason, being compatible with coercion. A signature for a money question passes it more cleanly still: the sign has to be explained, the signature does not.
+Hence a rule worth extracting from this chapter as a separate criterion — call it **the foreman test**: a technique is sound if a local boss cannot explain to his own worker why not to do it. The ballot sign (056d.7b) passes for the same reason, being compatible with coercion. A signature for a money question passes it more cleanly still: the sign has to be explained, the signature does not.
 
 ### But the risk remains, and it lies elsewhere
 
@@ -562,15 +562,15 @@ But as a **formulation** the word is unusable, and this is not a matter of taste
 
 "Freebie" means **unearned**. Saying it hands an opponent all three ready-made objections listed in §7: the paternalist "they will drink it away," the charge of bribing voters, and the dismissal as populism. Worse, it directly contradicts the frame "your share": **one cannot simultaneously say "this is yours by right" and "this is a freebie"** — the second sentence cancels the first.
 
-And there is a third argument, from §5b: in the limited-good worldview another's unearned gain provokes envy, while **one's own does not**. Calling the share a freebie moves it from the second category into the first and turns against us the very mechanism §5b shows working in our favour.
+And there is a third argument, from 056d.5b: in the limited-good worldview another's unearned gain provokes envy, while **one's own does not**. Calling the share a freebie moves it from the second category into the first and turns against us the very mechanism 056d.5b shows working in our favour.
 
 Hence a simple, hard rule: **"freebie" is how it will be understood and never how we speak**. We say "a thirteenth salary" and "your share."
 
-**And the architect's correction, which removes half the worry: "Vasya will say that to the foreman without us."** Right, and confirmed by the same §5b. A freebie is what **somebody else** receives; one's own is what is due. A person to whom money is owed produces the legitimation himself, unprompted — he needs none of our vocabulary to tell the foreman "this is mine."
+**And the architect's correction, which removes half the worry: "Vasya will say that to the foreman without us."** Right, and confirmed by the same 056d.5b. A freebie is what **somebody else** receives; one's own is what is due. A person to whom money is owed produces the legitimation himself, unprompted — he needs none of our vocabulary to tell the foreman "this is mine."
 
-From which follows an unexpected argument for universality (004.4.3c): **while everyone receives, the word "freebie" has nobody to attach to**. It requires someone who received undeservedly, that is, an exception to the general rule. A universal share creates no such addressee; a payment to a selected group creates one at once, and §5b shows on the war participants' example how quickly.
+From which follows an unexpected argument for universality (004.4.3c): **while everyone receives, the word "freebie" has nobody to attach to**. It requires someone who received undeservedly, that is, an exception to the general rule. A universal share creates no such addressee; a payment to a selected group creates one at once, and 056d.5b shows on the war participants' example how quickly.
 
-**Weak point.** The thirteenth salary is a custom rather than a legal right, and in today's Russia it is far from universal; younger workers may have no such experience at all, in which case the unit fails. Forty thousand is the architect's example rather than a measured median — the Russian median wage used in this chapter's arithmetic is still unverified (§5). And the claim about lump sums versus spread payments rests on general knowledge of behaviour rather than on any measurement for Russia. 🟡
+**Weak point.** The thirteenth salary is a custom rather than a legal right, and in today's Russia it is far from universal; younger workers may have no such experience at all, in which case the unit fails. Forty thousand is the architect's example rather than a measured median — the Russian median wage used in this chapter's arithmetic is still unverified (§5). The difference between a lump sum and a spread payment rests on a laboratory-measured dependence on the reference point, never replicated for Russia. 🟡
 
 ## 9. What happens to pro-government bloggers: their position is worse than the foreman's
 
@@ -661,13 +661,13 @@ The bans in §5 on "free" and §8 on "freebie" were derived tactically: those wo
 
 So the formula's independence (001b) is not only protection against manipulation. **It is what makes the payment a right rather than a favour.** One element of the construction carries both functions, which is worth remembering in any conversation about "simplifying" the formula.
 
-**Weak point.** All of this reasons about motives rather than measuring: no measurement of how far "the bosses are obliged" outweighs financial interest exists for Russia or, so far as the assistant knows, anywhere. Self-taxation is offered as an analogy and a weak one: there people pay themselves and the sums are small. And the argument has a reverse side worth holding in mind: the creditor's position is pleasant only while the debt is paid; non-payment of what is owed by right is felt more keenly than the absence of a handout. 🟡
+**Weak point.** Self-taxation is offered as an analogy and a weak one: there people pay themselves and the sums are small. How far "the bosses are obliged" outweighs financial interest has not been measured for Russia or, so far as the assistant knows, anywhere. And the argument has a reverse side worth holding in mind: the creditor's position is pleasant only while the debt is paid; non-payment of what is owed by right is felt more keenly than the absence of a handout. 🟡
 
 ### The uncomfortable part: their audience fits better than the liberal one
 
 This must be said plainly, because it is what the analysis yields.
 
-The rent question is built as **anti-elite, pro-people and sovereign** — and requires no liberal premise whatever. It is not about free speech, not about the war, not about the West. The material in §5b shows that the energy of "they are feasting in the rear" is live in that milieu and currently aimed at the war's participants; the question of a share lands on it without an adapter.
+The rent question is built as **anti-elite, pro-people and sovereign** — and requires no liberal premise whatever. It is not about free speech, not about the war, not about the West. The material in 056d.5b shows that the energy of "they are feasting in the rear" is live in that milieu and currently aimed at the war's participants; the question of a share lands on it without an adapter.
 
 And the scene in §7 says the same from the other side: **Vasya is not a liberal.** He is a worker on forty thousand who wants what is due to him. He needs neither the "party of the big cities" (§3) nor its language for that.
 
@@ -679,7 +679,7 @@ It is named in 004.4.3c and acquires a concrete carrier here. A milieu for which
 
 The argument against exclusions stays mechanical rather than moral: **any exclusion creates the office that decides whom to exclude — precisely the office the protocol abolishes**. That argument works identically in any audience, which is its chief merit.
 
-**Weak point.** The whole section reasons about available moves rather than observing: no pro-government opinion leader has publicly addressed the rent question, and how that milieu would behave is unknown. The fork "they cannot abandon the wealth thesis" assumes a commentator is bound by his earlier words — a weak assumption, since he is bound only as far as the audience remembers. And judging appropriation the likeliest outcome is the assistant's estimate with no precedent behind it. 🟡
+**Weak point.** No pro-government opinion leader has publicly addressed the rent question, so this section enumerates available moves rather than describing observed behaviour. The fork "they cannot abandon the wealth thesis" assumes a commentator is bound by his earlier words — a weak assumption, since he is bound only as far as the audience remembers. And judging appropriation the likeliest outcome is the assistant's estimate with no precedent behind it. 🟡
 
 ## 10. Three different platforms, not one
 
@@ -754,7 +754,7 @@ The assistant cited two survey figures: 40 % VPN users and the absence of opposi
 
 > "Why are you giving me statistics from Russia, where surveys are answered under fear? They are **irrelevant**. Where do millions of YouTube views come from if people are not circumventing? Where do the Z-channels' views on Telegram come from? VPN reach has been 80–90 % for a long time."
 
-**The objection is methodologically right, and the assistant fell into an internal contradiction.** The whole chapter rests on Kuran: in regimes of this type people systematically conceal preferences, which is exactly why §7b is built around giving them a way to report the truth anonymously. Leaning after that on a survey of those same people is applying an instrument whose uselessness one has just demonstrated.
+**The objection is methodologically right, and the assistant fell into an internal contradiction.** The whole chapter rests on Kuran: in regimes of this type people systematically conceal preferences, which is exactly why 056d.7b is built around giving them a way to report the truth anonymously. Leaning after that on a survey of those same people is applying an instrument whose uselessness one has just demonstrated.
 
 The refinement needed here: the distortion is **not uniform**. "Do you use a VPN" is less dangerous than "do you watch so-and-so," because using a VPN is not prohibited to a citizen. But the direction of distortion is the same in both cases — **downward**. So 40 % is **a lower bound rather than an estimate**, and the absence of a named foreign agent from what people tell a stranger on the telephone says almost nothing about his audience.
 
@@ -845,7 +845,7 @@ The objection is right, and the assistant substituted one measure for another. R
 
 | State | What it produces | Permission required |
 |---|---|---|
-| The topic is discussable in money terms | common knowledge: each learns what others think (§7b) | no |
+| The topic is discussable in money terms | common knowledge: each learns what others think (056d.7b) | no |
 | The calculator works | a personal number the person computed himself | no |
 | An anonymous count is gathered | a figure that can be neither drawn nor refuted (§7) | no |
 | A local referendum is filed | either a written ground of refusal or an open procedure (§6) | ten people's application |
@@ -853,7 +853,7 @@ The objection is right, and the assistant substituted one measure for another. R
 
 Only the last line requires what is unavailable. **The four preceding are states in which the country is no longer what it was**, and none is cancelled by refusal at the last.
 
-"Phase transition" is the right term, and the chapter already has the precedent: the independent count in East Germany in May 1989 **changed not a single result** and changed what people knew about one another (§7b). Measured by "did the vote happen" it failed; measured by consequences it did not.
+"Phase transition" is the right term, and the chapter already has the precedent: the independent count in East Germany in May 1989 **changed not a single result** and changed what people knew about one another (056d.7b). Measured by "did the vote happen" it failed; measured by consequences it did not.
 
 So the table's row should read differently: **not "low realisability" but "the end point is closed, the intermediate ones are open and valuable in themselves."**
 
@@ -889,7 +889,7 @@ That is exactly the ownerlessness requirement of §4 and §10, now arrived at fr
 
 And the argument for it is not superiority but **expected-value arithmetic**: the expensive things were tried for a cycle and yielded zero; the cheap and unoccupied one has never been tried once. The four actions of §4 together cost less than one investigation, and any of them yields knowledge nobody has today — including negative knowledge.
 
-**Weak point, applying to the whole section.** The table was assembled by the assistant from open material and the three September 2026 analyses; none of those listed has described their strategy in these terms, and imputing aims from outcomes is unreliable. The "personal reason" assessments were measured for no item, the protocol included: §3 states outright that data on how an economic offer affects an apathetic Russian voter **do not exist**. And most importantly: the conclusion that the slot is empty comes from surveying what the assistant knows rather than from an exhaustive review — an idea's absence from this table means it was not found, not that it does not exist. 🟡
+**Weak point, applying to the whole section.** The table was assembled by the assistant from open material and the three September 2026 analyses; none of those listed has described their strategy in these terms, and imputing aims from outcomes is unreliable. The "personal reason" assessments were measured for no item in the table, the protocol included. And most importantly: the conclusion that the slot is empty comes from surveying what the assistant knows rather than from an exhaustive review — an idea's absence from this table means it was not found, not that it does not exist. 🟡
 
 ## 12. The elite split and the pretext: not a rival to the protocol but its application
 
@@ -901,7 +901,7 @@ The assistant set the elite split up as a **rival theory** under which the proto
 
 There is never a shortage of discontent inside an apparatus — that is not the scarce resource. What is scarce is **the first move**: nobody can move first, because nobody knows who would follow, and a lone defector is destroyed at no cost to the regime.
 
-That is a coordination problem, solved not by persuasion but by **common knowledge** — the very mechanism §7b rests on: what matters is not how many know but that each knows the others know (Chwe, *Rational Ritual*). What is needed is a **public focal point** around which people can converge without conspiring.
+That is a coordination problem, solved not by persuasion but by **common knowledge** — the very mechanism 056d.7b rests on: what matters is not how many know but that each knows the others know (Chwe, *Rational Ritual*). What is needed is a **public focal point** around which people can converge without conspiring.
 
 Hence mass support is **not an alternative to a split but the input to it**. The architect is literally right: with visible support a split becomes likelier, because its principal blocker is removed.
 
@@ -1005,7 +1005,7 @@ One thing, and it is an argument about quality rather than blame.
 
 If a number is named **as a promise rather than as a computation** — inflated for effect, with no arithmetic shown — it becomes a promise in fact, and then nothing written above protects it. So the discipline remains, on a different ground: **a defensible number is needed not to avoid blame but to win the competition of formulas** (above). A computation that cannot be checked loses to one that can, regardless of whose number is larger.
 
-**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §11 states outright that the effect of an economic offer on a Russian voter has never been measured. The reasoning about the instability of a payment without a formula is logical: no example was found of a one-off distribution turning into an argument about a rule, while distributions provoking no counting are numerous; only the reference-point argument removes that objection, and it rests on laboratory findings never replicated for Russia. The claim that the opposition cannot be silenced is likewise untested: it holds today and is not guaranteed tomorrow. And one condition the architect did not remove remains: **there must be something to count with** — a calculator must exist and rent figures must be published. The first is within our power, the second is not. 🟡
+**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed; it is one of the two things with no analogue at all (§14). "Ninety per cent support" is the architect's assumption. The reasoning about the instability of a payment without a formula rests on Alaska 2016–2018 (§13) — the nearest case, but not direct confirmation: there the payment is not tied to voting. The claim that the opposition cannot be silenced is untested: it holds today and is not guaranteed tomorrow. And one condition the architect did not remove remains: **there must be something to count with** — a calculator must exist and rent figures must be published. The first is within our power, the second is not. 🟡
 
 ## 13. Method: what replaces the caveat "no data exist"
 
@@ -1026,7 +1026,7 @@ The remark is just, and the failure is twofold. First, the absence of direct dat
 | A payment without a formula is unstable and turns into an argument about the rule | **Alaska 2016–2018** (014.14.3b): a discretionary halving → a lawsuit, collapsing approval, the governor leaving the race, a rival winning on the full formula | this is the case §12 wrongly said it could not find. Does not carry: the causation is documented as press interpretation |
 | The formula must be protected more strongly than anything else (004.4.7b) | **Wielechowski v. State (2017)**: a statutory formula **does not bind** legislature or governor | direct judicial confirmation. Carries fully: the lesson applies in any jurisdiction with annual appropriation |
 | Envy works for distribution rather than against it | Foster (1965) + **Chinoy et al., AER (2026)**: zero-sum thinking predicts both support for redistribution and harshness towards outsiders (056d.5b) | a measured quantity with two correlations matching both of our objections. Does not carry: no measurement for Russia |
-| Common knowledge changes an apparatus's behaviour | East Germany, May 1989 (§7b); Chwe's coordination theory | one historical case plus theory. Does not carry: a single case, and no money question in it |
+| Common knowledge changes an apparatus's behaviour | East Germany, May 1989 (056d.7b); Chwe's coordination theory | one historical case plus theory. Does not carry: a single case, and no money question in it |
 
 ### What remains without an analogue — and that is the chapter's entire caveat
 
