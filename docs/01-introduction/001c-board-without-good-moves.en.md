@@ -59,6 +59,7 @@ The three figures have one thing in common, and it sets the protocol apart from 
 | Who | The moves — and how each ends | Where |
 |---|---|---|
 | The two-passenger-flow machine | the loyal must come, the disloyal must not; the payment is universal and so dries both flows at once. Excluding the dependent means writing dependence into statute and publishing a list of the owned | 056 correction-2026, 23b.2 |
+| Excluding state employees from the payment | give them an equivalent separate payment — they take it and stay away; give them less or nothing — deliver a resentful voter to the urn, told so by his own superior. There is no third form | 056 correction-2026, 057e.3 |
 | The authorities and their core electorate | forbid taking — take live money from their own; allow it — the core takes it and stays home, no turnout | 056d.3, 048h.7 |
 | The head of an enterprise | order a refusal — reach into the employee's pocket and compensate with a bonus; do not — zero turnout | 056d.4, 048h.5 |
 | The autocrat and poverty | keep them poor — they take the payment and leave; make them rich — they refuse and vote against him | 056d.5, 048d.4 |

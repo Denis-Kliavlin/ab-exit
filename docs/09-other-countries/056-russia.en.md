@@ -64,6 +64,45 @@ And the machine's two failure modes: **the first group does not come, or comes a
 - **A register of the owned appears.** To exclude, one must enumerate, and a list of those not entitled to the payment is a list of those who are owned — and by construction it is public.
 - **The move fails the foreman test** ([23b.2](../05-empirical-base/023b-evidence-rules.en.md)). The foreman will have to explain to his own worker why the neighbour on his stairwell is paid and he is not — and again there are two answers, both losing: "because you are dependent" or "because your vote is already bought by your wages".
 
+**And the architect's objection, which moves this whole move into another class.**
+
+> "Paying everyone except state employees — that is a revolt. The humiliated would simply destroy such a law. They are already poor and loyal, and now they are not given money either. How would the authorities justify it, other than by an honest admission?"
+
+The three arguments above are reputational: they spoil appearances. The objection points out that the move spoils not appearances but **the wallet of the most loyal and poorest part of the population**, which is heavier by an order of magnitude.
+
+**First: by irreversibility 1 this is the same winter fuel, only addressed by name.** Formally no money is taken away — it is not given. But the reference point is set not by the statute but by the neighbour: once the payment reaches the man across the landing, non-receipt is experienced as a loss rather than as the absence of a gain. The nearest confirmed case is Alaska 2016–2018 (014.14.3b): a discretionary halving produced a lawsuit, a collapse in approval and the governor's withdrawal from the race. There the cut fell on everyone; here it is withheld from the selected, and the addressing makes the grievance personal.
+
+**Second, and this is a fork inside the degenerate variant: who counts as dependent.** The analysis of the three layers of the mobilised queue below (056c) names them outright: the poor pensioner — **the country's highest dividend-to-effort ratio**; the herded state employee; the network voter. The exclusion would have to be drawn from that list, and both branches are bad:
+
+- **Draw the line at "paid from the budget"** — and pensioners fall under the exclusion, that is, the numerically largest group and the one most responsive to the payment. The move loses its point: to preserve the turnout of teachers the regime deprives the very people for whose sake turnout exists.
+- **Do not exclude pensioners** — and the criterion "from the budget" visibly fails, showing that the line is drawn not by source of income but by **controllability**. Which is precisely the honest admission the move was meant to avoid.
+
+**Third: there are exactly four justifications, and each ends in an admission.**
+
+| What can be said aloud | Where it runs aground |
+|---|---|
+| "the state already pays you" | a wage is not a share in the rent; the answer means "you are hired, not a co-owner", that is, a demotion of estate written into law |
+| "your participation is your duty" | it says aloud the thing the drive belt depends on not saying |
+| "so as not to pay twice from the budget" | see the fork about pensioners above |
+| "fiscal considerations" | it does not explain why this group in particular, and invites the question "so how much is our turnout worth" |
+
+A fifth option is **not to justify but not to introduce the law in that form** — and that is the forecast: the degenerate move is not a live option but a dead end discovered while drafting the text.
+
+**Fourth, and this closes the construction.** States do have a lawful way of taking their dependents out of a general scheme: not exclusion but **a parallel scheme, usually a better one** — separate pension systems for the security services and the civil service are arranged this way almost everywhere. Apply that here and a fork with no exit results:
+
+- give state employees an **equivalent** separate payment — they will take it and not come; flow 1 breaks exactly as it does under a universal payment, only at greater cost;
+- give them **less, or nothing** — the grievance analysed above.
+
+There is no third construction. **The degenerate variant has no working form.**
+
+**And a correction to the objection itself, without which it will not serve.** "They would destroy the law" is not a description of an available mechanism: present-day Russia has neither a referendum, nor a court, nor elections by which a law is destroyed, and no street revolt should be expected. But the conclusion is not weakened by this — it changes door, and the new door is worse for the regime.
+
+Shulman's failure mode no. 1 has **two branches**: "the first group does not come **or comes and votes disloyally**". The exclusion is aimed at the first branch — the dependent is still obliged to come. It sharply strengthens the second: the person is delivered to the urn with a fresh, specific, monetary grievance, and **the exclusion is announced to him by his own superior** — that is, the drive belt itself carries the message that corrodes it.
+
+A move devised to preserve compelled loyal turnout preserves compelled **resentful** turnout. Autumn 1966 in Spain is a recorded case of precisely that branch ([057e.3](057e-spain-francoism.en.md)).
+
+**Weak point of this analysis.** The assistant **did not find** a case in which a regime excluded its own dependents from a universal payment, and general practice runs the other way: loyalty is bought with a supplement, not with a deduction. By rule 23b.5, "did not find" and "does not exist" differ only by the diligence of the search, and no special enumeration of schemes excluding public servants was made. The claim about the reference point rests on a laboratory-measured dependence and on Alaska, where the payment is not tied to voting. And the whole analysis remains reasoning about what an administrator will see while drafting, rather than an observation of what he did. 🟡
+
 **Hence a correction to the conclusion, and a substantial one.** The reconstructed verdict above holds that the Kremlin will drag in the Trojan horse itself, proud of the trophy. The two-flow model says that **what the horse does to the first flow is written on its flank** — and that the analysis above concedes as much: "the Administration is not stupid: its analysts will compute the five irreversibilities within a week". Then they will compute the sixth as well.
 
 | What was claimed | What survives the correction |
