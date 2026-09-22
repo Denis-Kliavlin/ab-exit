@@ -911,6 +911,50 @@ And hence a practical consequence for §7f worth recording outright: the calcula
 
 **Weak point.** The observation that "people watch and know everything" is the architect's testimony rather than a measurement; the share of Russians consuming blocked content has not been verified by the assistant, and the whole calculation depends on it. The table of three platforms describes constraints rather than observed behaviour: none of the three positions has publicly reacted to a rent question. And the conclusion that the blockade produces ownerlessness holds only where circumvention is widespread; where it is not, the blockade works as intended and produces nothing useful. 🟡
 
+## 7l. Does the opposition in exile have better ideas: an honest survey
+
+The architect's question is direct: judging by how the opposition prepared for and ran these elections, are there better and more realisable ideas than the protocol right now?
+
+Answering requires a survey rather than a confirmation. Below is what is actually on offer, assessed by two separate measures, because they must not be mixed: **does it give an apathetic Russian a personal reason**, and **is it realisable today**.
+
+| What is offered | A personal reason for Vasya | Realisable today | What the cycle showed |
+|---|---|---|---|
+| Corruption investigations | no: outrage does not divide per person — the palace is 684 ₽ once (§7f) | high, it is being done | a full cycle with millions of viewers produced zero districts (§7d) |
+| Smart Voting and booth tactics | no | **nil**: the class of techniques ends at a number the commission writes, and in September 2026 it stopped being embarrassed | went to zero at once |
+| Sanctions and external pressure | no: the addressee is Western governments, not a voter | high, it is being done | no effect on the internal picture; and its touch makes a topic toxic (§7k) |
+| Work with emigrants | yes, but for those who already left | high | foreign precincts routed the party of power (§7c) and nothing changed inside |
+| The anti-war agenda | no: it requires courage and there is no valve (§6b) | high | no protest voting occurred |
+| Wait for a transition, prepare cadres and programmes | no | not a mechanism but a timeframe | — |
+| **The protocol** | **yes, and it is the only case in the table** | **low**: needs a referendum, the procedure is closed (§7g) | never tried |
+
+### First conclusion: the slot really is empty, and that is not a compliment
+
+By the first measure the answer is unambiguous: **not one of the offerings even attempts** to give an apathetic person a personal reason to turn up. Everything listed is procedural ("how to vote"), moral ("against the war," "they steal") or external (sanctions). Nobody asks "why bother at all," and this was established by survey rather than by argument (§7d).
+
+So to the architect's question in its literal form the answer is **no, nothing occupying that slot is currently on offer**. But it does not follow that the protocol is better than everything: it follows that it is alone in **its** column, and the column may be the wrong one.
+
+### Second conclusion: there is a serious rival, and it is a different theory rather than a different tactic
+
+It must be named, or the survey is dishonest. **Regimes of this type fall more often from elite splits than from pressure below** — that is the main line of comparative transitology, and it is held by Shulman, on whom the repository relies elsewhere.
+
+On that theory the right programme is **not talking to Vasya at all** but working on the apparatus: guarantees for non-security officials, personal forks for those with something to lose, preparing conditions in which leaving the system stops being suicide. Under that theory the protocol is **not the best idea** but a secondary one, addressed to people whose behaviour, on that theory, decides little.
+
+One partial qualification in the protocol's favour: it **worsens the apparatus's position regardless** (048i.5g — turnout stops being a commodity and a local boss has nothing to sell upward), so it works along the elite line too. But it works there more weakly than targeted work with elites, and there is no reason to pretend otherwise.
+
+### Third conclusion, the least welcome: on realisability the protocol loses to almost everything
+
+Investigations, sanctions and work with emigrants are being done **today**. The protocol needs adoption, adoption needs a referendum, and the procedure is closed by clocks and subgroups (§7g). By this measure it is among the worst in the table.
+
+What is realisable within it is **narrow**: the calculator (§7f), a trial local referendum (§7g), a ready text of the question, an anonymous count (§7h). That is not a programme but four cheap actions.
+
+### Hence the precise answer
+
+"The protocol versus the alternatives" is the wrong framing, and the right one is: **the protocol does not replace the repertoire, it occupies its single empty place**. It is not better than investigations and not worse than sanctions — it is about something else, and about something nobody else addresses.
+
+And the argument for it is not superiority but **expected-value arithmetic**: the expensive things were tried for a cycle and yielded zero; the cheap and unoccupied one has never been tried once. The four actions of §7e together cost less than one investigation, and any of them yields knowledge nobody has today — including negative knowledge.
+
+**Weak point, applying to the whole section.** The table was assembled by the assistant from open material and the three September 2026 analyses; none of those listed has described their strategy in these terms, and imputing aims from outcomes is unreliable. The "personal reason" assessments were measured for no item, the protocol included: §7d states outright that data on how an economic offer affects an apathetic Russian voter **do not exist**. And most importantly: the conclusion that the slot is empty comes from surveying what the assistant knows rather than from an exhaustive review — an idea's absence from this table means it was not found, not that it does not exist. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
