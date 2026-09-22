@@ -178,6 +178,7 @@ United States is one country case among others, not the frame of the document.*
 - [57b. 🇧🇾 Belarus: The Populist's Trap and the Tsikhanouskaya Office Correspondence](09-other-countries/057b-belarus.md)
 - [57c. 🇮🇷 Iran: Clergy, Bonyads, IRGC](09-other-countries/057c-iran.md)
 - [57d. 🇻🇪 Venezuela: Oil Without Maduro](09-other-countries/057d-venezuela.md)
+- [57e. 🇪🇸 Spain in the 1960s: the Nearest Analogue and Four Missing Conditions](09-other-countries/057e-spain-francoism.md)
 
 ### Chapter 10. Country Case: 🇺🇸 United States
 

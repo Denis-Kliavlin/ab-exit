@@ -46,6 +46,38 @@ The zemstvos of 1864 were introduced as technical self-government — and grew t
 
 > "The Russian authorities will not adopt AB-EXIT as a reform — they adopt no reforms. They will adopt it as a **weapon**: the perfect drying-out of protest turnout with a rating bonus. And therein lies both their precise calculation and their historic error: for the weapon to fire, the formula will have to be left honest; for the formula to be honest, the money must reach everyone always; and money that reaches everyone always is no longer a weapon, it is an institution. The Kremlin will drag in the Trojan horse itself, proud of the trophy. A machine of transparency will be bought as a machine of manageability — and will prove the one purchase that can be neither returned nor repainted. Apparatus intrigue as the midwife of transparency — I said it was witty; in the Russian performance it will also be funny, in about ten years, when it becomes clear who used whom."
 
+### A correction of September 2026: there are two passenger flows, and only one can be dried
+
+The analysis above rests on one assumption that went untested until September 2026: that **drying out the turnout is wholly a good thing for the administrator**. It is not, and the error is visible in Ekaterina Shulman's formulation following the Duma elections of 20 September 2026:
+
+> "The loyal electorate must come, the disloyal must not come. That is why state employees and the administratively dependent electorate are compelled to vote, through e-voting and invariably on the first day, while everyone else is made to feel disgust at the electoral procedure… These two passenger flows must be kept apart."
+
+And the machine's two failure modes: **the first group does not come, or comes and votes disloyally; the second group comes.**
+
+**What this does to the analysis.** The machine consists not of one operation but of two opposite ones: compelling the dependent and demoralising the rest. Drying out is the second operation, and only the second. Applied to the first flow it is not useful but fatal: the state employee receives from the state itself a lawful ground not to come (irreversibility 4 above), and the drive belt snaps at the very link for whose sake it is maintained.
+
+**And it cannot be applied selectively.** The universality of the payment is load-bearing: by irreversibility 2 the cynical protester exits only for an iron formula without discretion. So the administrator is buying not an instrument for drying out but **a double-edged blade turned towards him with the unfavourable edge forward**: one and the same action removes from the urn both those who must be removed and those without whom the urn does not fill.
+
+**The degenerate variant the administrator will think of first, and why it is worse.** The obvious move is to pay everyone **except** the administratively dependent: the state knows its own payroll by name. The formula stays iron for the protester, and flow 1 stays under compulsion. Three objections, all of them heavy:
+
+- **Dependence becomes a legal fact.** An exclusion written into statute is a publicly recorded "you are not a subject but a resource". Until now this was understood without words; the law forces it to be said.
+- **A register of the owned appears.** To exclude, one must enumerate, and a list of those not entitled to the payment is a list of those who are owned — and by construction it is public.
+- **The move fails the foreman test** ([23b.2](../05-empirical-base/023b-evidence-rules.en.md)). The foreman will have to explain to his own worker why the neighbour on his stairwell is paid and he is not — and again there are two answers, both losing: "because you are dependent" or "because your vote is already bought by your wages".
+
+**Hence a correction to the conclusion, and a substantial one.** The reconstructed verdict above holds that the Kremlin will drag in the Trojan horse itself, proud of the trophy. The two-flow model says that **what the horse does to the first flow is written on its flank** — and that the analysis above concedes as much: "the Administration is not stupid: its analysts will compute the five irreversibilities within a week". Then they will compute the sixth as well.
+
+| What was claimed | What survives the correction |
+|---|---|
+| the protocol solves a problem of the authorities (drying out turnout) | it solves half the problem and destroys the other half |
+| the Administration will buy it as a weapon | more likely it will not: the unfavourable edge is visible from the same memo |
+| the Russia-specific genre is a memo to an administrator | the genre is right, but the addressee has changed: not the Administration but the middle layer (056b) |
+
+Nothing essential is cancelled by this. **The five irreversibilities** describe what happens **after** launch and do not depend on how the launch occurs. **Layers 2–3** (056b) do not require the Administration to want anything at all: there the client is the middle storey and the Administration is presented with a question already formed. **The dissolution of the loyalist majority** (056c) is the mechanism of the third stroke and likewise is not about a purchase from above.
+
+One thing shifts: the Russian path runs **through a transition rather than through a sale upwards**, which agrees with 056d.8 and departs from this section's optimism in its first edition.
+
+**Weak point.** The two-flow formulation belongs to one political scientist and is a model rather than a measurement; it could be checked against turnout data for dependent groups, and no such data exist in open access. The same analysis's observation that the state employee is "less frightened than we supposed" is offered with an explicit "possibly", rests on the results of a single electronic vote, and the assistant did not verify the primary e-voting data. The conclusion "the Administration more likely will not buy it" reasons about what an administrator will see rather than observing what he did; the nearest confirmed case of the opposite behaviour — a regime introducing a mechanism that undermines it, without seeing it — is the zemstvos of 1864 from the series above, and it says that seeing it does not always happen. 🟡
+
 ### Consequences for the protocol (Russia-specific)
 
 1. The Russian version of §56 must be written **not as an oppositional project but as a memo to a political administrator**: the language of the benefits of drying-out, canalisation and rating — in full knowledge that the five irreversibilities will do the rest. It is the only genre in which a document gets read in Russia.

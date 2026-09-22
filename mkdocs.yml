@@ -200,6 +200,7 @@ plugins:
             "57b. Беларусь": "57b. Belarus"
             "57c. Иран": "57c. Iran"
             "57d. Венесуэла": "57d. Venezuela"
+            "57e. Испания: франкизм 1960-х": "57e. Spain: Francoism of the 1960s"
             "59. Аватары и инженеры": "59. Avatars and Engineers"
             "59b. Маск, Милей, DOGE": "59b. Musk, Milei, DOGE"
             "59c. Трамп $5000 и критики": "59c. Trump's $5,000 and the Critics"
@@ -353,6 +354,7 @@ nav:
       - "57b. Беларусь": 09-other-countries/057b-belarus.md
       - "57c. Иран": 09-other-countries/057c-iran.md
       - "57d. Венесуэла": 09-other-countries/057d-venezuela.md
+      - "57e. Испания: франкизм 1960-х": 09-other-countries/057e-spain-francoism.md
     - "Глава 10. Кейс: США":
       - "45. Правовая база США": 10-usa/045-us-legal-base.md
       - "46. Oregon initiative": 10-usa/046-oregon-initiative.md
