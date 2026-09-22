@@ -559,6 +559,58 @@ Point 3 of the plan — a ready text of the question — becomes more concrete a
 
 **Weak point.** The CIK data on five competing groups in 2018 come from a secondary source and were not independently confirmed. No precedent on resource rent was found at either federal or local level, positive or negative. The figure of 4,844 local referendums is also secondary. And above all: **all of this describes a procedure rather than a political reality** — the fact that the content filter would pass the question says nothing about what happens to the people who file it. 🟡
 
+## 7h. Collect the signatures even if the deadline is burned: what is right here and where the danger lies
+
+The architect's proposal: if the whole opposition unites, a **non-political question** will be signed by people within two months. And if the authorities file a fake application in advance to burn the clock, **finish the collection anyway**, doubling the number of signatures, and collect in the same token app. How would the authorities, looking at a doubled verified figure, say "you missed the deadline"?
+
+Taken in parts: one is stronger than presented, one is right as presented, and one is more dangerous than it looks.
+
+### Right and underrated: a non-political question is signed differently
+
+This is the core of the proposal, and the 2018 material supports it. Subgroups on the retirement age registered in Moscow, Moscow oblast, **Altai krai, Nizhny Novgorod and Vologda oblasts** (§7g) — not a map of liberal capitals. A money question collects where a political one does not.
+
+And non-political has a second, less obvious consequence: **it makes unity technically possible**. A joint campaign behind a common list of candidates requires everyone to accept somebody else's leaders; a campaign for a rule requires nobody to endorse anybody. A person who cannot stand the neighbouring column can still join a question about distributing income. That is precisely the property no item in the old repertoire had (§7d), and possibly the only known way around what Gallyamov calls not creating losers (§5b).
+
+### Right, but for a different reason than stated: finish the collection — the product is not the authorities' embarrassment
+
+The argument "how will they say you missed the deadline" counts on embarrassment, and they will not be embarrassed: terminating the procedures is one line in a decision, and in 2018 it was written without difficulty (part 26 of Article 15, §7g).
+
+But the collection should still be finished, and for a stronger reason: **signatures here are a measuring instrument rather than a legal one**. Legally they die with the deadline. Informationally they do not. Four million verifiable signatures tell each signatory that four million others signed, and that is exactly the common-knowledge mechanism §7b rests on: Kuran and Chwe describe regimes falling not through persuading opponents but through opponents learning about each other.
+
+And the comparison with §7b favours signatures: **a sign on a ballot is not counted, signatures are**. This is the first instrument proposed anywhere in the repository that produces a **number** where there is nobody to produce one.
+
+Hence the precise formulation: the collection is finished not to embarrass the authorities but to **obtain a figure that can neither be drawn nor refuted**. A refusal on deadline grounds does not destroy it — it publishes it.
+
+### Doubling the signatures does not work legally
+
+One detail to dispose of at once. The law does not reward excess: at least forty per cent of signatures are checked, and five per cent defective means refusal regardless of the total (§7g). Doubling also doubles defects in absolute terms. As a **legal** move doubling is pointless; as a **measuring** one it makes complete sense, and that is how it should be presented.
+
+### Dangerous: a signature sheet is a list of people with passport data
+
+Here is the principal objection, and it outranks everything above.
+
+A federal referendum signature sheet carries full name, date of birth, address, **passport series and number**, and a signature. Collecting two to four million such records means creating a **named list of citizens who publicly supported an initiative**, in a country where participation in unapproved campaigns leads to criminal cases. Collected in an app, it additionally sits in one place and is seized whole.
+
+The architect's instinct to collect "on a blockchain token prototype" is right in direction and wrong in form: **a public immutable ledger is the worst possible store for a list of dissenters**. The opposite property is needed — proving the **count without revealing identities**.
+
+And the repository has already solved that task: it is exactly how the protocol's open channel works (048i.2) — the token is anonymous, the sum of tokens is verifiable by anyone, and no identity is disclosed to anyone. So the instrument need not be invented; it needs to be **taken from our own construction**.
+
+### Hence the answer: two different instruments that must not be merged
+
+| | Legal collection | Anonymous count |
+|---|---|---|
+| What is collected | signature sheets with passport data | anonymous tokens |
+| What for | filing with the CIK | measurement and common knowledge |
+| Volume | 2 m by law | whatever is collected |
+| Risk to a participant | **high and personal** | near zero |
+| What a refusal yields | the end of the procedure | **publication of the figure** |
+
+They must not be merged, and here is why: **the moment an anonymous count is turned into legal signatures it stops being anonymous**. An anonymous figure cannot be filed with the CIK — and need not be: the legal route is closed by the deadline anyway, and the measuring route does not suffer for it.
+
+The practical consequence for the §7e plan: the anonymous count is something that can be built **today**, without initiative groups, notaries or deadlines, using the same app that computes the share (§7f). The legal collection is something to undertake only when ready to answer for signatories' safety, and that question is settled before the first signature rather than after.
+
+**Weak point.** "If the whole opposition unites" is an assumption rather than a plan; §7d shows it did not happen once in a full cycle, and the question's non-political character makes unity **possible** without securing it. An anonymous count has no legal force at all and is easily dismissed as inflated — its credibility rests solely on the openness of the counting scheme, which requires publishing all tokens as in 048i.2. And neither instrument answers what happens to the organisers: measurement protects participants, not those conducting it. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
