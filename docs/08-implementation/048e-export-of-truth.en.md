@@ -20,6 +20,46 @@ When a state appears next door where power rests not on repression but on effici
 
 **For autocracies the amount is a shock.** With an average wage of 300–500 dollars, 1,500 euros is not money but a change of civilisational code: capital for a business, a relocation, half a year of a family's life. The instant comparison: "if I get 300 and they get 1,500 for the same citizenship — my authorities are stealing 1,200 from me". This is not economic analysis, it is the bookkeeping of robbery. The myth of the "poor West" ("they eat rats, they freeze") shatters on screenshots of banking apps.
 
+## 3b. The folk version is already in circulation, and it needs no first adopter
+
+The architect's remark, which changes the sequence of this whole chapter:
+
+> "You have forgotten: basic income already exists in many places. People recount with envy that the Emirates pay so many dollars for a birth, though they have never been there and do not know where it is. But they love discussing it."
+
+§3 and §4 are built on a **hypothetical** first adopter: the French receive fifteen hundred euros, and comparison follows. The architect points out that the comparison **is already under way** — with no first adopter, right now, and about real places.
+
+### What follows, and it changes the order of moves
+
+**First: nobody needs persuading that a state can pay its citizens.** That is already established in popular consciousness, and established not by propaganda or economists but by conversation. "Somewhere they pay you just like that" is a commonplace; the argument is not about whether it happens but about where and how much.
+
+**Second: it circulates charged with envy, that is, in the most transmissible form available.** §5b (056d) examines why envy in a limited-good society is an engine rather than an obstacle: somebody else's unearned gain is discussed more readily than anything. The folk version of basic income runs on exactly that fuel and demands of the teller neither an interest in economics nor a political position.
+
+**Third, and chiefly: accuracy is not required for circulation.** Someone retelling the story of a birth payment in the Emirates usually knows neither the sum, nor the conditions, nor that it concerns citizens rather than residents. This **does not hinder** the retelling, because the subject of the conversation is not the Emirates but one's own position. Inaccuracy here is not a defect of transmission but a property of it.
+
+### Hence a correction to the sequence
+
+The chapter assumed: **first adopter → comparison → pressure**. In fact the first link already exists, and the chain is shorter:
+
+| As recorded | In fact |
+|---|---|
+| a first adopter is needed for comparison to arise | comparison is already under way, about Alaska, Norway, the Gulf |
+| the protocol creates the question "why do they have it and we do not" | the question **is already asked**; the protocol supplies a **countable answer** |
+| the country waits for somebody else's example | the country waits for **its own figure** |
+
+So the protocol enters not empty ground but **a conversation in progress** — and its contribution is not to start the subject but to insert a **checkable number about oneself**. That is materially cheaper: starting a conversation is expensive, joining one is almost free.
+
+And for Russia it removes a dependency recorded in 056d: **a first adopter is no longer a condition**. One would accelerate matters but is not required.
+
+### The honest half: the substrate helps circulation and harms credibility
+
+The folk version has a price, and it must be named.
+
+The field we enter consists of **unverified figures**: sums are named at random, countries are confused, conditions omitted. A number thrown into such a field without arithmetic becomes **one more rumour** and shares their fate — retold, distorted and forgotten within a month along with the rest.
+
+So the requirement from 056d.7m ("the number must be defensible rather than large") gains a second basis here: **shown arithmetic is what distinguishes our number from a rumour**. Not scale, not volume, but the possibility of checking. In a field full of the unconfirmed, checkability is the only differentiator.
+
+**Weak point.** The observation about the folk version is the architect's testimony rather than a measurement: how many people actually retell such stories and how distorted they are has not been counted, and the assistant found no sources. The specific example of a birth payment in the Emirates was not verified and appears to be a garbled rendering of various citizen-support programmes — immaterial to the argument, but meaning it cannot be cited as **fact**, only as **a specimen of what gets retold**. And the conclusion that a first adopter is unnecessary holds for conversation and fails for proof: the hypothetical France of §3 supplied not a subject but a **precedent**, and its absence remains a weakness in an argument with an economist, though not in a conversation with a neighbour. 🟡
+
 ## 4. The absolute political trap: a non-political question
 
 The architect's clarification: "everyone in every country knows what 1,500 euros is, it is easy to compare; and above all — the question is not political, nobody can be jailed for it anywhere". Autocrats know how to suppress politics: "down with the tyrant" — ten years; "agents of influence", "liberal media" — well-worn schemes. But "why do they pay in France and not here?" is a question at the level of shop prices. To jail someone for it is to signal to the country "I am your enemy, I do not want you to live richly". The number is a constant, a physical object; it cannot be distorted on television like "greatness" or "enemies at the gate". Three paths, all losing: stay silent (the silence is deafening, distrust grows); explain (it looks like the excuse of a man who could not feed people — contempt instead of fear); repress (a greedy cruel master — the revolution accelerates). Discussing the economy and social payments is not politics but "caring for the family"; an autocrat cannot forbid people to care for their families. "Dictatorships do not fear tanks — they are used to force. They fear comparison, because comparison is objective reality and dictatorship is a lie." The protocol is an economic lie detector held to the temple of any regime.
