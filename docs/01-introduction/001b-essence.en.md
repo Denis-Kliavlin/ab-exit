@@ -95,7 +95,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 
 ## 11. Irreversibility
 
-After the first working cycle, retention 85–90 %; for rollback at a referendum 7–12 % — voting for repeal means voting against one's own prize; in durability the protocol is closer to Social Security and the Alaska PFD than to procedural reforms. The main risk is not repeal but quiet spoilage of the formula (30–40 %), and the whole answer to it is protecting the parameters, not speeches about irreversibility (048g, 036.7). After launch the language of the dispute itself changes: not "why don't you vote" but "why do you vote for free" — and that begins before the law, as soon as the fork is spoken aloud (048g.6).
+After the first working cycle, retention 85–90 %; for rollback at a referendum 7–12 % — voting for repeal means voting against one's own prize; in durability the protocol is closer to Social Security and the Alaska PFD than to procedural reforms. The main risk is not repeal but quiet spoilage of the formula (30–40 %), and the whole answer to it is protecting the parameters, not speeches about irreversibility (048g, [036.85.7](../07-manifesto/036-comparison-10-ideas.md)). After launch the language of the dispute itself changes: not "why don't you vote" but "why do you vote for free" — and that begins before the law, as soon as the fork is spoken aloud (048g.6).
 
 ## 12. What the protocol does not promise
 

@@ -2,7 +2,7 @@
 
 **Chapter:** 08 — Implementation
 **File:** 08_048g · v1 · 17 September 2026 (Grok dialogue, session 15-09-26)
-**Source:** a series of analyses "rollback in percentages", "who would vote to repeal and why", a comparison of durability with mass-payment institutions; the architect's correction "voting for rollback is voting against your own prize". Supplements 036.7 (irreversibility as the sixth parameter — qualitatively, five reasons) and 042 (poison pills). Here — numbers, paths and the composition of rollback supporters. All percentages are model estimates.
+**Source:** a series of analyses "rollback in percentages", "who would vote to repeal and why", a comparison of durability with mass-payment institutions; the architect's correction "voting for rollback is voting against your own prize". Supplements [036.85.7](../07-manifesto/036-comparison-10-ideas.md) (irreversibility as the sixth parameter — qualitatively, five reasons) and 042 (poison pills). Here — numbers, paths and the composition of rollback supporters. All percentages are model estimates.
 
 ---
 
@@ -145,7 +145,7 @@ The first sum — 15–25 %, base guide 20 %. The recount by the protocol's logi
 | **The protocol after 2–3 cycles** | **5–10 %** |
 | RCV, open primaries, procedural reforms | 20–40 % |
 
-Reading scale: 1–5 % — almost iron; 5–15 % — very durable; 15–30 % — resilient but vulnerable; 30 % and above — easily rolled back. At a repeal referendum: an ordinary procedural reform — 40–55 % for repeal; a mass-payment system — 10–20 %; the protocol — 7–12 %. The law of durability: reforms are rolled back easily when the benefit is abstract, elitist, procedural; almost never when the benefit is personal, regular, mass, comprehensible. By that criterion the protocol is closer to Social Security and the PFD than to RCV — which is what 036.7 claims, only here it is expressed in comparable numbers rather than "close to zero".
+Reading scale: 1–5 % — almost iron; 5–15 % — very durable; 15–30 % — resilient but vulnerable; 30 % and above — easily rolled back. At a repeal referendum: an ordinary procedural reform — 40–55 % for repeal; a mass-payment system — 10–20 %; the protocol — 7–12 %. The law of durability: reforms are rolled back easily when the benefit is abstract, elitist, procedural; almost never when the benefit is personal, regular, mass, comprehensible. By that criterion the protocol is closer to Social Security and the PFD than to RCV — which is what [036.85.7](../07-manifesto/036-comparison-10-ideas.md) claims, only here it is expressed in comparable numbers rather than "close to zero".
 
 ## 6. Why the language of the dispute changes after launch
 
@@ -172,4 +172,4 @@ All figures are projections; a before/after baseline will appear only with a pil
 
 ---
 
-**Related:** 036.7 (irreversibility as the sixth parameter) · 042 (poison pills) · 048b (four agencies, the 10 % rule) · 048f (double entry) · 059e.3 (five statute parameters) · 059e.4 (72 hours) · 048e.5 · 013c (the referendum as a game) · 015c.4 (mass-benefit institutions) · §14 (the Alaska PFD) · 037b (Grok)
+**Related:** [036.85.7](../07-manifesto/036-comparison-10-ideas.md) (irreversibility as the sixth parameter) · 042 (poison pills) · 048b (four agencies, the 10 % rule) · 048f (double entry) · 059e.3 (five statute parameters) · 059e.4 (72 hours) · 048e.5 · 013c (the referendum as a game) · 015c.4 (mass-benefit institutions) · §14 (the Alaska PFD) · 037b (Grok)

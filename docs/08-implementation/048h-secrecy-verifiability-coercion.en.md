@@ -42,8 +42,8 @@ What secrecy gives people today — point by point. The architect asked for a li
 
 | Plus | Where in the repository | State today |
 |---|---|---|
-| A dependent person votes against the one he depends on: a boss, a union chief, the head of the family, a commander. "The leader can give the order but cannot check" | 018.24, 015c.43, §4 above | Works and is needed: employer pressure and family voting have been measured |
-| Deceive the deceiver: take the vote-buyer's money and vote one's own way. 018 says outright that this construction "works only under full secrecy", and it is named the first level of the triple defence | 018.464–492 | Works partly: photographing the ballot and payment "by polling station" erode it but do not cancel it. In Moldova in 2024, 138 thousand people received money for a "no" vote — and "no" lost all the same (019d.2) |
+| A dependent person votes against the one he depends on: a boss, a union chief, the head of the family, a commander. "The leader can give the order but cannot check" | 018.31.3, 015c.5, §4 above | Works and is needed: employer pressure and family voting have been measured |
+| Deceive the deceiver: take the vote-buyer's money and vote one's own way. 018 says outright that this construction "works only under full secrecy", and it is named the first level of the triple defence | 018.43.1–43.7 | Works partly: photographing the ballot and payment "by polling station" erode it but do not cancel it. In Moldova in 2024, 138 thousand people received money for a "no" vote — and "no" lost all the same (019d.2) |
 | No list for reprisals after a change of power. In Venezuela in 2004 the list of those who signed the demand for a recall referendum on the president was published, and for years people were dismissed from public service on the basis of it (from the assistant's memory) | Was not in the repository | Works and is needed precisely where power changes rarely and takes revenge |
 | Peace in the family, at work and with customers: nobody is obliged to explain his choice | Was not in the repository | Works; a small but mass plus |
 
