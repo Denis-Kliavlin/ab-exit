@@ -806,11 +806,41 @@ The assistant did indeed collapse them into a single figure, the "pro-government
 | Whom it reaches | everyone, with zero credibility on this topic | the already convinced (§7d) | **the mass audience** |
 | Best move | **silence** | say it | pick it up if the topic gets views |
 
+And a fourth row the first version lacked — **private channels and reposts**; it appears below, because that is a transmission medium rather than a platform.
+
 **First correction to §7j: the authorities' best move is silence, not "not now."** The assistant attributed the besieged-fortress argument to them, but uttering it concedes that there is something to divide. The official response to a successful money question is not objection but **the absence of a response**; objection begins when silence is no longer possible.
 
 **Second: opposition YouTube can say it but cannot spread it.** And not only because of blocking. A labelled source's touch makes a topic toxic for everyone else — exactly the mechanism that killed Smart Voting (§7e): the app was not what was blocked, the label attached to the organisation and through it to everything connected. So uttering the idea in that channel is **not free**: it may close its entry into the others.
 
 **Third, and this is the main omission: permitted Telegram channels are the only bridge.** They are inside the country, unlabelled, reachable without a VPN, and they compete with each other for the same audience. An anti-elite money topic pays them immediately, and individually they have no strategic consequences to weigh — the very mechanism the architect described in §7j ("there are many of them and they need an audience"). The idea's route to a mass reader runs **through them rather than through opposition platforms**.
+
+### A fourth platform, larger than the previous three
+
+The architect adds what the table lacked entirely: "and there are many ordinary private channels, and sometimes Russians post, not knowing better, what they take to be permitted by the authorities."
+
+This is not a fourth producer but a **transmission medium** — and it is where everything actually happens. The three positions above produce something; private channels, chats and reposts **carry** it, and in volume they exceed all three together.
+
+This medium has a property none of the three has: **it is itself the filter**. An ordinary person forwarding a post unconsciously checks it against "is this allowed?" — and that is the most widely applied censorship in existence, because everyone applies it constantly. **If content has passed through it, it has passed the main barrier.**
+
+And here the question of a share passes easily: it reads not as politics but as talk about money — the most permitted genre in Russian-language private channels.
+
+**But "not knowing better" must be examined honestly, and here the assistant has an objection.** The phrase allows two senses: either the person is mistaken and at risk, or the content genuinely is not prohibited and his judgement is correct. The difference is fundamental, and whether this channel can be relied on depends on it.
+
+"I thought it was allowed" is not a defence, and people in Russia are prosecuted for reposts. So the rule must be hard: **a technique is sound if the forwarder's judgement is correct, not if it is mistaken**. An idea that spreads because people misjudge the risk uses them as cover; an idea that spreads because it genuinely is not prohibited takes nothing from them.
+
+For the question of a share the second appears to hold — but verifying that is not the forwarder's job. Hence a requirement on form: **the material must contain nothing that makes forwarding risky** — no links to labelled sources, no mentions of organisations, no assessments of the authorities. Only the rule, the number and the calculator (§7f). Everything else adds risk to someone who chose nothing.
+
+### The architect's reframing: this is not opposition, this is for the people
+
+> "A referendum to hand out money to the people and to yourself is not opposition at all, it is for the people."
+
+This is the most precise statement of positioning anywhere in the chapter, and it explains why the preceding filter lets it through.
+
+Opposition content invites you to be **against** something — and requires courage. Content that is "for the people" invites you to be **for yourself** — and requires nothing.
+
+And crucially: **"for the people" is the authorities' own register.** State rhetoric is built on it; a phrase uttered in that register is indistinguishable by ear from television. Which is why it passes self-censorship: a person forwards not a protest but **something that sounds like the state's position with a question attached to the end**.
+
+This continues §7h from the other side. There it was shown that the question is asked **from inside the official picture of the world** (the subsoil's riches being an official thesis). Here it becomes clear that it spreads for the same reason: the forwarder does not feel he is doing something forbidden, **because he is not**.
 
 ### And the architect's observation that changes the distribution arithmetic
 
