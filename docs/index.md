@@ -181,6 +181,7 @@
 56. [🇷🇺 Россия: сценарий внедрения при текущем режиме](09-other-countries/056-russia.md)
 - [56d. 🇷🇺 Россия: тупик оппозиции и цугцванг ядерного электората](09-other-countries/056d-russia-opposition-deadlock.md)
 - [56e. 🇷🇺 Россия: контрактники и разделяющее равновесие](09-other-countries/056e-russia-contract-soldiers.md)
+- [56f. 🇷🇺 Россия, сентябрь 2026: выборы в Думу и что из них следует](09-other-countries/056f-russia-september-2026.md)
 57. [Дополнительные страны *(готовится)*](09-other-countries/057-additional-placeholder.md)
 - [57b. 🇧🇾 Беларусь: ловушка для популиста и переписка с Офисом Тихановской](09-other-countries/057b-belarus.md)
 - [57c. 🇮🇷 Иран: клир, бониады, IRGC](09-other-countries/057c-iran.md)

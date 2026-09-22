@@ -195,6 +195,7 @@ plugins:
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
             "56d. Россия: тупик оппозиции": "56d. Russia: The Opposition Deadlock"
             "56e. Россия: контрактники": "56e. Russia: Contract Soldiers"
+            "56f. Россия, сентябрь 2026": "56f. Russia, September 2026"
             "57b. Беларусь": "57b. Belarus"
             "57c. Иран": "57c. Iran"
             "57d. Венесуэла": "57d. Venezuela"
@@ -345,6 +346,7 @@ nav:
       - "56. Россия": 09-other-countries/056-russia.md
       - "56d. Россия: тупик оппозиции": 09-other-countries/056d-russia-opposition-deadlock.md
       - "56e. Россия: контрактники": 09-other-countries/056e-russia-contract-soldiers.md
+      - "56f. Россия, сентябрь 2026": 09-other-countries/056f-russia-september-2026.md
       - "57. Дополнительные страны": 09-other-countries/057-additional-placeholder.md
       - "57b. Беларусь": 09-other-countries/057b-belarus.md
       - "57c. Иран": 09-other-countries/057c-iran.md

@@ -168,7 +168,7 @@ On the last row. The assistant first wrote: a person struck off will notice when
 
 **Remains, but on a smaller scale.** Early and postal voting — ballots are stored for days and can be substituted; this is the same secret channel, under the same ceiling. Chain voting (a pre-filled ballot carried out of the station) and vote buying in general — the records are real, so the arithmetic of the roll does not help; something else works: the buyer loses his free base and the search narrows (019d.4b).
 
-**A separate category the catalogue lacked: falsification as intimidation.** The Duma elections of September 2026 gave it a vivid form: 83 % for the Duma speaker in the Saratov district, precincts with 99 % turnout and 98 % for him, an opposing candidate on 983 votes against his 208,000; in St Petersburg and Moscow results were redrawn "from scratch" precisely where protest voting actually took place (056d.7c). What these numbers have in common is that **they do not affect the outcome**: a constitutional majority was available without them. Their purpose is different — to show an opponent that his result is not merely small but indistinguishable, and so to drain the attempt to count of any meaning.
+**A separate category the catalogue lacked: falsification as intimidation.** The Duma elections of September 2026 gave it a vivid form: 83 % for the Duma speaker in the Saratov district, precincts with 99 % turnout and 98 % for him, an opposing candidate on 983 votes against his 208,000; in St Petersburg and Moscow results were redrawn "from scratch" precisely where protest voting actually took place (056f.2). What these numbers have in common is that **they do not affect the outcome**: a constitutional majority was available without them. Their purpose is different — to show an opponent that his result is not merely small but indistinguishable, and so to drain the attempt to count of any meaning.
 
 For the protocol this yields not a new defence but a clarification to §2. Parallel counting by tokens establishes a **lower bound**: if a candidate was sent a million tokens and the commission announces two hundred thousand for him, the fraud is arithmetically proven and its size is known. Against intimidation falsification this works better than against ordinary falsification, because intimidation requires a **large** discrepancy — and the larger the discrepancy, the more visible it is. A technique designed to demoralise, once a lower bound exists, demoralises whoever applied it. 🟡
 
@@ -229,7 +229,7 @@ The catalogue in §5c was assembled from general knowledge of practice. The Duma
 | Long prison sentences for politicians (Shlosberg, Kruglov), removal of the right to stand, pressure on grassroots activists | nothing |
 | Three-day voting; voting in occupied territories | nothing |
 
-This is stated outright in §5c ("not solved by counting") and is confirmed here in practice: **the campaign was decided on this very layer**. The Novgorod case (056d.7c) shows what is at stake: where the list stayed on the ballot it immediately took over six per cent.
+This is stated outright in §5c ("not solved by counting") and is confirmed here in practice: **the campaign was decided on this very layer**. The Novgorod case (056f.2) shows what is at stake: where the list stayed on the ballot it immediately took over six per cent.
 
 **But the protocol does change one thing on this layer, and it deserves stating precisely.** It does not prevent a candidate being struck off — it changes **what striking off costs**. Today it works twice over: the voter loses his alternative, stays at home, and his absence is counted as consent. Under the protocol he comes anyway, because he came for his own money, and his money goes somewhere. A candidate can be removed; **a voter cannot**. Turnout ceases to be a consequence of motivation — and half the effect of clearing the ballot rests on that.
 
@@ -269,7 +269,7 @@ Per Pertsev this is the principal instrument, not stuffing: corporate mobilisati
 
 Prokopenko describes this as the **signalling function** of a constructed majority: "people saw each other at the polling stations, people know that they came, nobody knows how the neighbour voted."
 
-The protocol produces a **competing number**, and that is its only answer on this layer: the share who declined the sum and the share of transmitted tokens are quantities no commission computes. But this switches on only after adoption, and before adoption the layer belongs to the authorities entirely (056d.6b).
+The protocol produces a **competing number**, and that is its only answer on this layer: the share who declined the sum and the share of transmitted tokens are quantities no commission computes. But this switches on only after adoption, and before adoption the layer belongs to the authorities entirely (056f.1).
 
 ### Conclusion: three layers out of five
 
@@ -308,7 +308,7 @@ Listed honestly, or the comparison turns into advertising.
 
 ### What changes for a person
 
-Today participation is a political act carrying risk and no payment, and absence is counted as consent. Afterwards participation is paid and signifies nothing, and only the choice of recipient stays political, covered by the secret channel. This is precisely the change Meduza's discussion describes as missing: the man who was afraid of being noticed with a paper ballot (056d.6b) comes for his money and gives nothing away.
+Today participation is a political act carrying risk and no payment, and absence is counted as consent. Afterwards participation is paid and signifies nothing, and only the choice of recipient stays political, covered by the secret channel. This is precisely the change Meduza's discussion describes as missing: the man who was afraid of being noticed with a paper ballot (056f.1) comes for his money and gives nothing away.
 
 **Weak point.** All of this describes a construction rather than an observation: the protocol is adopted nowhere, and not one line of the right-hand column has been tested. The nearest verifiable analogue is regimes with direct resource payments, but none of them ties the payment to voting, so their experience cannot be transferred whole. 🟡
 
@@ -376,7 +376,7 @@ The result is a fork in which both branches lose for the regime. To keep paper i
 
 ### The examination as a target map
 
-The examination argument acquired an operational extension in September 2026 that this section lacked. From the analysis of the Duma results: "electoral mobilisation differs technically in no way from mobilisation to the front — it is exactly the same administrative exercise; the chain of command must on order turn people into loyal voters or into soldiers." And then the conclusion the examination is kept for: conscription may follow **the electoral map** — the quieter the elections passed and the less plausible the drawn result, the more reliably the local authorities are held to govern their territory (056d.7c).
+The examination argument acquired an operational extension in September 2026 that this section lacked. From the analysis of the Duma results: "electoral mobilisation differs technically in no way from mobilisation to the front — it is exactly the same administrative exercise; the chain of command must on order turn people into loyal voters or into soldiers." And then the conclusion the examination is kept for: conscription may follow **the electoral map** — the quieter the elections passed and the less plausible the drawn result, the more reliably the local authorities are held to govern their territory (056f.2).
 
 If so, the examination stops being a metaphor: its grades are used as a target list. For this section's argument that is a reinforcement — it becomes clear why the regime clings to the paper procedure and why digitising it is expensive for it: what it would lose is not legitimacy but an **instrument**. And it is at the same time a warning worth keeping alongside: an excellent grade in such an examination is no reward for the inhabitants of the region that earned it. 🟡
 

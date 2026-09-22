@@ -172,6 +172,7 @@ United States is one country case among others, not the frame of the document.*
 56. [🇷🇺 Russia: An Adoption Scenario Under the Current Regime](09-other-countries/056-russia.md)
 - [56d. 🇷🇺 Russia: The Opposition Deadlock and the Core Electorate's Zugzwang](09-other-countries/056d-russia-opposition-deadlock.md)
 - [56e. 🇷🇺 Russia: Contract Soldiers and the Separating Equilibrium](09-other-countries/056e-russia-contract-soldiers.md)
+- [56f. 🇷🇺 Russia, September 2026: the Duma Elections and What Follows](09-other-countries/056f-russia-september-2026.md)
 57. [Additional Countries *(in preparation)*](09-other-countries/057-additional-placeholder.md)
 - [57b. 🇧🇾 Belarus: The Populist's Trap and the Tsikhanouskaya Office Correspondence](09-other-countries/057b-belarus.md)
 - [57c. 🇮🇷 Iran: Clergy, Bonyads, IRGC](09-other-countries/057c-iran.md)
