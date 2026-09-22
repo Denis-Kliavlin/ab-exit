@@ -475,7 +475,29 @@ The prohibition did not disappear but moved into a more general point 10: questi
 
 **And there is a direct precedent.** In August 2018 the Central Election Commission ruled by three decisions that questions on the retirement age **complied with Article 6** (Nos. 174/1410-7 and 174/1411-7 of 8 August, No. 175/1416-7 of 10 August) [verified]. A question with colossal budgetary consequences passed the content filter.
 
-The conclusion to record plainly: **the content filter is not what kills referendums in Russia.** No precedent was found on resource rent specifically, so it cannot be asserted that such a question would pass; but there is no ground for treating it as prohibited by content either. 🟡
+### A resource precedent does exist, and it is more useful than unwelcome
+
+The first version of this section stated that no precedent on a resource question had been found. One was found, and it deserves honest examination.
+
+**CIK decision of 20 April 2005 No. 143/981-4** found fifteen of seventeen questions from a Communist Party initiative group non-compliant with Article 6. Among them question No. 9: whether "subsoil, forests, water and other natural resources, nuclear, thermal and hydroelectric stations, defence-industry enterprises, railways, high-voltage power lines and trunk pipelines must be exclusively in state ownership." The refusal was upheld by the Supreme Court (2 June 2005) and by the Constitutional Court (the same ruling No. 3-P) [verified against the full text of the court decision].
+
+There were three grounds, and distinguishing them is essential:
+
+| Ground | What the CIK said | Does it transfer to the protocol's question |
+|---|---|---|
+| **Art. 6 part 7** — unambiguity | the question comprises several, no unambiguous answer is possible | **no**, if the question is single. The Communist formulation packed eight subjects into one sentence, from subsoil to pipelines |
+| **Art. 6 part 6** — no diminution of rights | the priority of state ownership diminishes the rights of other owners (Constitution arts. 8, 9, 35, 36) | **no**: the protocol does not touch ownership at all and diminishes nobody's rights — it distributes income the treasury already collects |
+| **Art. 6 part 5 point 6** — budgetary | "in substance this poses the question of nationalisation… permissible only on prior and equivalent compensation, and requiring expenditure from the federal budget" | **lapsed**: the point was repealed in 2008 |
+
+**What the precedent yields is not a prohibition but a specification.** The only resource question the CIK has assessed was refused for being **about nationalisation** and for **comprising eight questions at once**. A question about distributing income is neither. Hence three requirements for the wording, which go straight into point 3 of the plan in §7e:
+
+1. **One subject.** Not a list of industries but a single rule.
+2. **Do not touch ownership.** The question does not ask who owns the subsoil; it asks how the income the state already collects is distributed. This is exactly the distinction §7 of this chapter rests on: the protocol does not rewrite the Constitution, it puts it to work.
+3. **Do not demand compensation for anyone's seized assets** — that was the basis of the third ground, which is now repealed, but there is no reason to reproduce its logic.
+
+The section's conclusion survives in refined form: **the content filter kills not every resource question but a question about redistributing ownership.** No precedent exists either for or against a question about distributing income, and it still cannot be asserted that such a question would pass. 🟡
+
+For completeness: since 2008 the only federal question rejected by the CIK concerned accession to the WTO (decision of 13 April 2012 No. 118/917-6, upheld by the Supreme Court) [verified].
 
 ### Where the procedure actually breaks
 
@@ -492,13 +514,19 @@ The minimum at the first stage is about **4,400 people across 44 regions, each b
 
 **But it breaks on one line rather than on the arithmetic.** Part 18 of Article 15: once one subgroup is registered, the same commission **may not register another with a formulation "the same in meaning or content"** until the procedures conclude [verified].
 
-How that works is visible in the 2018 pension case: **five competing initiative groups** were registered in different regions, and **none assembled the required number of subgroups** — they blocked each other [second-hand; CIK data not independently confirmed 🟡]. The question passed on content and died at registration.
+**Here the first version had the mechanism wrong, and the correction matters.** The assistant wrote that in 2018 five competing groups blocked each other under part 18. Verification did not bear that out.
 
-The device is elegant: **banning the question is unnecessary.** It suffices for similar initiatives to appear alongside the real one, and all of them stall.
+What actually happened [verified against the full texts of the decisions]: on 8 and 10 August 2018 the CIK, by **five** decisions (174/1410-7, 174/1411-7, 174/1412-7, 175/1415-7, 175/1416-7), found compliant with Article 6 the questions of **regional subgroups** — Moscow, Moscow oblast, Altai krai, Nizhny Novgorod and Vologda oblasts. Not initiative groups: a federal initiative group is registered only once 43 subgroups are assembled, and none has ever been registered under this law.
+
+By late September there were about thirteen subgroups [second-hand 🟡]. **On 17 October 2018 the CIK terminated the procedures on all five questions, and the formal ground was part 26 of Article 15: the two-month term had expired**, counted from the registration of the first subgroup (Vologda oblast, 13 August).
+
+So what kills it is not mutual blocking under part 18 but **the clock**. And it works more simply and more harshly: the two-month term starts with the **first subgroup registered** — anyone's. An early, uncoordinated or hostile registration burns the term for everyone working on the same question, and by the time a real campaign unfolds there is no time left.
+
+Part 18 does exist and forbids registering, in the same subject, a subgroup whose formulation is "the same in meaning or content." But no source was found applying it as a ground for refusal, so mutual blocking cannot be presented as fact — it is an interpretation. 🟡
 
 ### The federal verdict
 
-In twenty-two years under the 2004 law **not one citizen-initiated federal referendum has been held, and not once have initiators reached the signature stage**. No group has cleared even the first.
+In twenty-two years under the 2004 law **not one citizen-initiated federal referendum has been held, no federal initiative group has ever been registered, and nobody has reached the signature stage**. The CIK publishes no aggregate statistics; only this negative fact is firmly established. The known attempts are 2005 (the Communist Party), 2012 (WTO accession) and 2018 (retirement age).
 
 This is the substance of §8, now with its precise cause: the problem is not that the question may not be asked but that **the procedure is designed so that nobody reaches the question**.
 
