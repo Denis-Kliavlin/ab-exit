@@ -103,6 +103,7 @@ plugins:
             "22. Консенсусная тема": "22. The Consensus Theme"
             "Глава 5. Эмпирическая база": "Chapter 5. Empirical Base"
             "23. Количественное сравнение": "23. Quantitative Comparison"
+            "23b. Правила обращения с доказательствами": "23b. Rules for Handling Evidence"
             "24. Норвегия": "24. Norway"
             "25. Грузия": "25. Georgia"
             "26. Хантингтон и Тоффлер": "26. Huntington and Toffler"
@@ -268,6 +269,7 @@ nav:
       - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
     - "Глава 5. Эмпирическая база":
       - "23. Количественное сравнение": 05-empirical-base/023-quantitative-comparison.md
+      - "23b. Правила обращения с доказательствами": 05-empirical-base/023b-evidence-rules.md
       - "24. Норвегия": 05-empirical-base/024-norway.md
       - "25. Грузия": 05-empirical-base/025-georgia.md
       - "26. Хантингтон и Тоффлер": 05-empirical-base/026-huntington-toffler.md

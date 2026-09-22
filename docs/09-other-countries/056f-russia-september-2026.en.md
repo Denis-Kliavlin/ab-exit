@@ -490,7 +490,7 @@ The objection is right, and the assistant made an error of a particular kind: **
 
 **And the strongest part of the objection is its last words.** "The country with the largest subsoil wealth per citizen" is not our thesis but the **official** one: the riches of the subsoil have been a matter of state pride for decades. So the question "where is my share" is asked **from inside the official picture of the world** rather than against it. Vasya is not subverting the propaganda; he is taking it literally. The boast cannot be withdrawn, and the question following from it has no answer.
 
-Hence a rule worth extracting from this chapter as a separate criterion — call it **the foreman test**: a technique is sound if a local boss cannot explain to his own worker why not to do it. The ballot sign (056d.7b) passes for the same reason, being compatible with coercion. A signature for a money question passes it more cleanly still: the sign has to be explained, the signature does not.
+Hence a rule extracted from this chapter into general form ([023b.2](../05-empirical-base/023b-evidence-rules.en.md)) — **the foreman test**: a technique is sound if a local boss cannot explain to his own worker why not to do it. The ballot sign (056d.7b) passes for the same reason, being compatible with coercion. A signature for a money question passes it more cleanly still: the sign has to be explained, the signature does not.
 
 ### But the risk remains, and it lies elsewhere
 
@@ -758,7 +758,7 @@ The assistant cited two survey figures: 40 % VPN users and the absence of opposi
 
 The refinement needed here: the distortion is **not uniform**. "Do you use a VPN" is less dangerous than "do you watch so-and-so," because using a VPN is not prohibited to a citizen. But the direction of distortion is the same in both cases — **downward**. So 40 % is **a lower bound rather than an estimate**, and the absence of a named foreign agent from what people tell a stranger on the telephone says almost nothing about his audience.
 
-**Hence a rule for the whole chapter, to be held firmly: survey data from Russia do not belong here except marked as a lower bound.** What serves is **behavioural** data — traffic measurements, metered panels, view counts, blocking. They do not ask a person, they observe him.
+**Hence a rule for the whole chapter, to be held firmly: survey data from Russia do not belong here except marked as a lower bound.** Its general form is recorded in [023b.3](../05-empirical-base/023b-evidence-rules.en.md) — it is about fear, not about Russia. What serves is **behavioural** data — traffic measurements, metered panels, view counts, blocking. They do not ask a person, they observe him.
 
 ### What survives the clean-up
 
@@ -1008,6 +1008,8 @@ If a number is named **as a promise rather than as a computation** — inflated 
 **Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed; it is one of the two things with no analogue at all (§14). "Ninety per cent support" is the architect's assumption. The reasoning about the instability of a payment without a formula rests on Alaska 2016–2018 (§13) — the nearest case, but not direct confirmation: there the payment is not tied to voting. The claim that the opposition cannot be silenced is untested: it holds today and is not guaranteed tomorrow. And one condition the architect did not remove remains: **there must be something to count with** — a calculator must exist and rent figures must be published. The first is within our power, the second is not. 🟡
 
 ## 13. Method: what replaces the caveat "no data exist"
+
+The section stays here because this is where the rule was found; in general form, together with two others, it is recorded in [023b](../05-empirical-base/023b-evidence-rules.en.md).
 
 The architect's remark during work on this chapter:
 

@@ -90,6 +90,7 @@ Each section is self-contained — you can read it straight through as a book (u
 ### Chapter 5. Empirical Base and Country Cases
 
 23. [⭐ Comparative Effectiveness: Single Digits vs Tens of Percent](05-empirical-base/023-quantitative-comparison.md)
+23b. [Rules for Handling Evidence](05-empirical-base/023b-evidence-rules.md)
 24. [Norway as a Natural Experiment](05-empirical-base/024-norway.md)
 25. [Georgia and Saakashvili](05-empirical-base/025-georgia.md)
 26. [Huntington and Toffler](05-empirical-base/026-huntington-toffler.md)

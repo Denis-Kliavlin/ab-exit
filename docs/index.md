@@ -82,6 +82,7 @@
 ### Глава 5. Эмпирическая база и кейсы стран
 
 23. [⭐ Сравнительная эффективность: единицы vs десятки процентов](05-empirical-base/023-quantitative-comparison.md)
+23b. [Правила обращения с доказательствами](05-empirical-base/023b-evidence-rules.md)
 24. [Норвегия как естественный эксперимент](05-empirical-base/024-norway.md)
 25. [Грузия и Саакашвили](05-empirical-base/025-georgia.md)
 26. [Хантингтон и Тоффлер](05-empirical-base/026-huntington-toffler.md)
