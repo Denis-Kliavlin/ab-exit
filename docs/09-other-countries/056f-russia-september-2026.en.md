@@ -90,6 +90,62 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 
 **Weak point.** "Would have been discussed in kitchens" is not a result by this repository's own standards, which elsewhere demand a number. Conversation does not rewrite a precinct protocol or change the composition of the Duma; it changes what people know about one another (056d.7b, East Germany 1989), which works slowly and without guarantees. The relationship "size of payment → participation" has not been measured for Russia, but it has been measured where the payment exists (§13, first row); what has been measured nowhere is the effect of a payment **tied to the act of voting**. 🟡
 
+## 3b. What the whole opposition cost the authorities — and where the difference lies
+
+The architect's remark after all the counter-moves had been examined:
+
+> "Put in the repository that under any scenario everything gets much harder for the authorities. At these elections — how did the opposition hinder them? Not at all."
+
+The second half is exact and is borne out by the material of §1 and §3. The first must be recorded **more weakly than it was stated**, because a counter-example exists and we wrote it ourselves (048f.4b).
+
+### The baseline: what September 2026 cost the authorities
+
+| What the opposition did | What it cost the authorities |
+|---|---|
+| Observing at precincts | nothing: with observers present the results were rewritten "as if by a ruler" (§1) |
+| Exit polls and "honest precincts" | a clash of estimates against an incontestable piece of paper; it never left its own audience |
+| Smart Voting | it worked until 2021, then the app was removed from the stores and the results rewritten (§3) |
+| Calls not to turn out | **a negative price**: the abstention of the disloyal is the aim of the machine's second operation (056, correction of 2026) |
+| Spoiling ballots, "Noon against Putin" | nothing in the precinct protocol |
+| Four years of preparation | 355 mandates, 209 districts of 225, fewer than a hundred for the systemic opposition (§1) |
+
+The cause is common to them all and is named in §3: **every one of these techniques expresses a preference inside a count produced by the authorities themselves.** Differing in tactics, they coincide at the point of failure — each runs into a number the commission writes. While the commission was still embarrassed they meant something; once it stopped, they went to zero together.
+
+### What the authorities pay on each branch of the protocol
+
+| The authorities' move | What they pay | Where analysed |
+|---|---|---|
+| Stay silent, do not adopt | the instrument stays on the table for **any** transition player: no programme or coalition needs inventing | 056b.3 |
+| Ban it | the first public ban on handing money to the people; every word of the ban works as agitation | 056b.3 |
+| Adopt it universally | the five irreversibilities; both passenger flows are dried, not one | 056, correction of 2026 |
+| Adopt it while excluding the dependent | there is no working form: an equivalent payment is taken and the vote skipped, a smaller one produces a grievance announced by the foreman | 056, correction of 2026 |
+| Adopt it and order people to take the money and turn up anyway | a mass accounting discrepancy, which is budget embezzlement with traces held by banks | 048f.4c |
+| Adopt it and use the register of exits as a target map | **nothing: this is the one move with a gain** | 048f.4b |
+
+### Hence the exact formulation, and it is not "under any scenario"
+
+The last row is a counter-example, and we wrote it ourselves as the falsifying condition for the loosening claim. So the honest version reads differently:
+
+> **No free moves remain to the authorities.** Exactly one winning move survives, and it is bought at the price of maintaining the very register that compromises the count.
+
+This is zugzwang in the exact sense of 001c: one must move, moves exist, each costs something. Not "everything gets harder" but "nothing comes free any more".
+
+### Where the difference actually lies — and this is the point of the section
+
+The comparison should be of the **point of failure**, not of outcomes.
+
+| | The opposition's repertoire | The protocol |
+|---|---|---|
+| where the technique ends | in a number the commission writes | in the budget, the payroll, a bank entry, the foreman's mouth |
+| who has the last word | the very party the technique is aimed at | the treasury, a bank, the statute, the neighbour on the landing |
+| what must be broken for the technique to fail | rewrite the protocol | break the books, or say aloud what cannot be said |
+
+The whole value lies in one thing: the opposition's techniques **end where the authorities hold a monopoly**, while moves against the protocol end where they hold none. That is the answer to "how does the protocol differ from Smart Voting", and it is not about effectiveness but about jurisdiction.
+
+**A caveat without which the tables compare incomparable things.** The left column is what happened; the right is what would happen after adoption, and adoption is unavailable in today's Russia (§8). This is a comparison of **construction**, not of outcomes, and it must not be read as "the protocol would have done better than Smart Voting on 20 September": on 20 September the protocol would have supplied no executable instruction at all (§3).
+
+**Weak point.** The "what they pay" column consists of derived prices, not measured ones: no branch has been observed anywhere, and the magnitude of each price is unknown — "costlier" in the table does not mean "costly enough to change behaviour". September 2026 showed that a price can be paid and change nothing: the rewriting happened in front of observers and carried no consequences. And the summary itself was compiled by the assistant from his own sections, that is, it checks the repository against its own material — not one row has external verification. 🟡
+
 ## 4. What could have been done over the cycle: a plan drawn from the three analyses
 
 §3 established that the slot is empty and that the architect's supposition is untested rather than refuted. This section sets out what exactly "millions, viewers' resources and hours of video" turn into if directed at the protocol. The order follows what the analyses themselves named as the problem, not what suits us.
