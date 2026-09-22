@@ -634,6 +634,52 @@ The practical consequence for the §7e plan: the anonymous count is something th
 
 **Weak point.** "If the whole opposition unites" is an assumption rather than a plan; §7d shows it did not happen once in a full cycle, and the question's non-political character makes unity **possible** without securing it. An anonymous count has no legal force at all and is easily dismissed as inflated — its credibility rests solely on the openness of the counting scheme, which requires publishing all tokens as in 048i.2. And neither instrument answers what happens to the organisers: measurement protects participants, not those conducting it. 🟡
 
+## 7i. "The thirteenth salary" and the word "freebie": the best unit and a dangerous word
+
+The architect's remark completing the previous scene: the poor work at a factory for forty thousand a month, and here they are offered **a thirteenth salary, lawfully, from the budget**. "For Vasya, and even for the foreman, and for everyone else, it is a freebie. Russians and freebies…"
+
+Two different things here, and separating them is obligatory: one is the best **unit of measurement** found anywhere in this chapter, the other a word that **must not be spoken**, though it describes reality correctly.
+
+### "A thirteenth salary" beats every earlier formulation
+
+The chapter's search for units ran thus: roubles a year (mean nothing), "a monthly salary" (means something but sounds like a promise), "two pensions" (the same), "your share" (true but abstract). The thirteenth salary beats each, for four reasons at once.
+
+**It is familiar as an institution rather than as news.** An annual bonus of roughly a month's pay is a concept known to anyone who has worked in a factory; nobody needs it explained.
+
+**It is a settlement rather than a handout.** A thirteenth salary is not begged for — it is **received at the end of a period**. That is exactly the frame §7f demanded in place of the word "free": not a gift but something due. And unlike "your share" it does not require first agreeing with an argument about the subsoil — it is intelligible before any argument.
+
+**It is periodic and tied to the end of a cycle** — as is a payment arriving the day before an election (004.4.8).
+
+**And it is wholly non-political**, so it passes the foreman test (§7h) without a word of explanation.
+
+### But the arithmetic must be stated honestly
+
+A thirteenth salary for a worker on forty thousand is forty thousand. The formula at K = 1 % yields about eleven thousand — **roughly a quarter of a thirteenth salary**. A full one requires K of the order of six or seven per cent (§7f).
+
+So "a thirteenth salary" may be said only together with the slider: **under the present cautious formula it is a quarter, and what it becomes is decided by a referendum**. Promising a full one without naming K is precisely what §7f warns against.
+
+A second caveat, also to be said aloud: the payment comes **once per cycle**, not once a year. Forty thousand once in five years is about seven hundred roubles a month if spread out. **But spreading it out is exactly what must not be done, and therein lies the point.**
+
+### Why a lump sum is the mechanism rather than a shortcoming
+
+For a person on forty thousand a month, eleven thousand **in one sum** and a hundred and eighty roubles a month sixty times over are entirely different events, though the money is the same. The first is something one can act on; the second is an imperceptible increment that dissolves into tariffs.
+
+This is the financial judo of §5: the sum works not because it is large but because it **arrives whole and on a particular day**. Spread out, it would stop working altogether — which is why the lump must be defended as a design feature rather than apologised for.
+
+### "Freebie": an accurate forecast of reception and an unusable formulation
+
+The architect is right in the observation: it will be received exactly so, and that applies **to the foreman too** — he is a recipient as well. Which incidentally closes the foreman test (§7h) harder still: the foreman not only cannot explain why not, he is owed the same money, so he has no personal interest in dissuading anyone.
+
+But as a **formulation** the word is unusable, and this is not a matter of taste.
+
+"Freebie" means **unearned**. Saying it hands an opponent all three ready-made objections listed in §7: the paternalist "they will drink it away," the charge of bribing voters, and the dismissal as populism. Worse, it directly contradicts the frame "your share": **one cannot simultaneously say "this is yours by right" and "this is a freebie"** — the second sentence cancels the first.
+
+And there is a third argument, from §5b: in the limited-good worldview another's unearned gain provokes envy, while **one's own does not**. Calling the share a freebie moves it from the second category into the first and turns against us the very mechanism §5b shows working in our favour.
+
+Hence a simple, hard rule: **"freebie" is how it will be understood and never how we speak**. We say "a thirteenth salary" and "your share"; the reception will do the rest, and will do it without our help.
+
+**Weak point.** The thirteenth salary is a custom rather than a legal right, and in today's Russia it is far from universal; younger workers may have no such experience at all, in which case the unit fails. Forty thousand is the architect's example rather than a measured median — the Russian median wage used in this chapter's arithmetic is still unverified (§7f). And the claim about lump sums versus spread payments rests on general knowledge of behaviour rather than on any measurement for Russia. 🟡
+
 ## 8. Weak point of the case
 
 The whole chapter assumes that a referendum, or at least public discussion, is possible. In present-day Russia neither is; the case describes (a) the transition window and (b) the idea as a weapon before the transition (see 057b — the same argument for Belarus and the reply from Tsikhanouskaya's Office that "there is no subject"). The 100-voter micro-model is an illustration, not an estimate: the shares 90 %/50 %/100 % are taken as plausible, not measured. The sums of 70–75 thousand roubles in §3–4 illustrate the order "a month's wage"; by the formula at K = 1 % the figure is about 11 thousand roubles, that is, four working days of median pay (033c.9c). 🟡
