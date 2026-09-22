@@ -1042,7 +1042,34 @@ The "elite split" row is removed from the table of rivals. The correct formulati
 
 And the addressee of §7e's four actions changes. They looked like work with the population. It is now clear that **the calculator and the anonymous count produce exactly the public landmark an apparatus needs in order to coordinate**: a figure that can be cited without anyone conspiring with anyone.
 
-**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured, so the input to the mechanism is unconfirmed. And the principal objection to the whole construction: an apparatus coordinating around a payment is likelier to take it **without the formula** (§7j) — so coordination may produce not the protocol but its degenerate case, and the mechanism itself contains no defence against that. 🟡
+### The degenerate case is unstable: the correction that closes the last hole
+
+The assistant left the principal objection open: an apparatus will take the payment **without the formula**, and the mechanism has no defence. The architect closed it:
+
+> "A payment without a formula immediately raises the question: how did you calculate it, maybe I am being underpaid? And there will be a formula, and many of them will circulate among people, and the opposition will throw in its own, which will also be discussed."
+
+Right, and it is the same device as everywhere in this chapter: **a number without a rule itself provokes the question of the rule**, and the question is asked by the recipient, in his own interest, with nobody organising it.
+
+The payer's fork closes:
+
+| Move | How it ends |
+|---|---|
+| Publish a formula | that is the audit of the rent upon itself (001c, the incumbent's row); thereafter the size has to be defended aloud |
+| Do not publish | every recipient supplies **his own** guess, the guesses spread through the same private channels (§7k), and refuting them requires publication — that is, the first move |
+
+**So "without a formula" is not a state but a pause.** The absence of a rule holds exactly until the first payment; after it the counting starts, and everybody counts.
+
+**And the calculator's role changes for the third time.** First it was a way to give a person a personal number (§7f), then the trigger of a trap (§7j). Now the main thing becomes visible: **the calculator is a competing formula, permanently available**. The moment the state names a sum, an independent computation of what it should have been stands beside it. Nothing extra is required — the instrument is already in place.
+
+Add that the opposition will throw in its own formula, and the field turns into **a comparison of rules conducted in numbers and in public**. That is exactly the ground the protocol was built to fight on: an argument about a rule rather than about trust.
+
+### Hence the test sharpens: not "is there a formula" but "who holds the inputs"
+
+The real degenerate case is not the absence of a formula but **a formula whose inputs the payer controls**: "five per cent of the surplus," where he defines the surplus. Such a construction looks like a rule and works as discretion.
+
+So §7j's test ("who sets the size?") takes a precise form: **who controls the quantities the size is computed from?** And from here it is visible why the formula is tied to median earnings from an independent source rather than to the volume of rent (§7f). That was recorded as protection against manipulation. In fact it is what makes it **unforgeable in a competition of formulas**: a rival whose inputs are his own loses to anyone whose inputs are external — and loses publicly, because the comparison is computed on the same calculator.
+
+**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured, so the input to the mechanism is unconfirmed. And the reasoning about the instability of a payment without a formula is logical: the assistant found no example of a country where a one-off distribution turned into an argument about a rule, while the opposite examples — distributions that provoked no counting at all — are numerous. The argument apparently works only where **somebody has an interest in counting and the means to do it**: that is, with a calculator in existence and with rent whose size is published. 🟡
 
 ## 8. Weak point of the case
 
