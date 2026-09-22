@@ -676,9 +676,59 @@ But as a **formulation** the word is unusable, and this is not a matter of taste
 
 And there is a third argument, from §5b: in the limited-good worldview another's unearned gain provokes envy, while **one's own does not**. Calling the share a freebie moves it from the second category into the first and turns against us the very mechanism §5b shows working in our favour.
 
-Hence a simple, hard rule: **"freebie" is how it will be understood and never how we speak**. We say "a thirteenth salary" and "your share"; the reception will do the rest, and will do it without our help.
+Hence a simple, hard rule: **"freebie" is how it will be understood and never how we speak**. We say "a thirteenth salary" and "your share."
+
+**And the architect's correction, which removes half the worry: "Vasya will say that to the foreman without us."** Right, and confirmed by the same §5b. A freebie is what **somebody else** receives; one's own is what is due. A person to whom money is owed produces the legitimation himself, unprompted — he needs none of our vocabulary to tell the foreman "this is mine."
+
+From which follows an unexpected argument for universality (004.4.3c): **while everyone receives, the word "freebie" has nobody to attach to**. It requires someone who received undeservedly, that is, an exception to the general rule. A universal share creates no such addressee; a payment to a selected group creates one at once, and §5b shows on the war participants' example how quickly.
 
 **Weak point.** The thirteenth salary is a custom rather than a legal right, and in today's Russia it is far from universal; younger workers may have no such experience at all, in which case the unit fails. Forty thousand is the architect's example rather than a measured median — the Russian median wage used in this chapter's arithmetic is still unverified (§7f). And the claim about lump sums versus spread payments rests on general knowledge of behaviour rather than on any measurement for Russia. 🟡
+
+## 7j. What happens to pro-government bloggers: their position is worse than the foreman's
+
+The architect's question: what effect will there be on Z-bloggers and pro-government opinion leaders generally. Examined by the same method as the foreman scene (§7h): not "what will they think" but **which moves are available to them**.
+
+### Two moves they do not have
+
+**They cannot say "the wealth is not yours."** The thesis that Russia is the world's richest country in subsoil is theirs rather than ours: it has been a matter of state pride for decades and an anchor of the sovereignty argument (§7h). Abandoning it for the sake of one dispute is impossible — too much else rests on it.
+
+**They cannot say "let the state keep it."** That sentence requires conceding that **the state and the people are different recipients** — saying aloud the very distinction pro-government commentary exists to refute. Uttering it, a person formulates the liberal thesis of appropriation with his own hands.
+
+It is the foreman's fork, only heavier: the foreman has no audience, a blogger does, and the audience remembers.
+
+### The move they do have: postpone
+
+One option remains — **"the idea is right, but not now"**: a war, a besieged fortress, no time for dividing. This is the third of the arguments listed in §7, and the only one open to them.
+
+**And that is better for us than rejection.** Whoever postpones **has already conceded the substance**: he has confirmed that the share is due and disputes only the timing. The thesis becomes legitimate inside a loyal audience, and by a person it trusts. Timing arguments have the property of expiring: "not now" sounds worse in two years than today, and whoever said it will owe an explanation of why it is still not now.
+
+### The move to fear: appropriation without the formula
+
+Something else is far more dangerous, and in the assistant's estimate it is the **most likely adverse outcome** — likelier than an outright ban.
+
+The idea can be taken and renamed: "let us return the subsoil to the people by taking it from oligarchs and foreign agents." That version keeps the **payment** and discards the **mechanism**: the formula's independence from the authorities (001b), the public counter (004.4.2), the open token channel (048i.2). What results is a one-off or regular distribution whose size is set by the very people it was meant to measure.
+
+**That is not a weakened protocol but its opposite.** A payment set by the authorities is not a gauge of trust but an instrument of loyalty: it strengthens the incumbent exactly to the degree it was meant to test him. The distinction is the one the internet-court repository names as the principal threat: more dangerous than a competitor is a forgery that keeps the name and discards the load-bearing walls.
+
+Hence a practical requirement worth recording separately: **in any presentation of the protocol the formula and the counter are inseparable from the payment**. A "dividend" without an independent formula is not part of the construction and must not be called one. The test is simple and the same as in the court repository's principles: **who sets the size?** If the authorities do, it is not the protocol, whatever it is called.
+
+### The uncomfortable part: their audience fits better than the liberal one
+
+This must be said plainly, because it is what the analysis yields.
+
+The rent question is built as **anti-elite, pro-people and sovereign** — and requires no liberal premise whatever. It is not about free speech, not about the war, not about the West. The material in §5b shows that the energy of "they are feasting in the rear" is live in that milieu and currently aimed at the war's participants; the question of a share lands on it without an adapter.
+
+And the scene in §7h says the same from the other side: **Vasya is not a liberal.** He is a worker on forty thousand who wants what is due to him. He needs neither the "party of the big cities" (§7d) nor its language for that.
+
+From which follows a conclusion uncomfortable for both sides: the protocol may sit closer to the audience pro-government bloggers speak for today than to the audience currently discussing it.
+
+### And the risk that comes with that audience
+
+It is named in 004.4.3c and acquires a concrete carrier here. A milieu for which "take it from the foreign agents" and "those who left do not deserve it" are natural formulations will **demand exclusions first of all**. And universality is load-bearing: a share made conditional becomes a benefit that somebody awards.
+
+The argument against exclusions stays mechanical rather than moral: **any exclusion creates the office that decides whom to exclude — precisely the office the protocol abolishes**. That argument works identically in any audience, which is its chief merit.
+
+**Weak point.** The whole section reasons about available moves rather than observing: no pro-government opinion leader has publicly addressed the rent question, and how that milieu would behave is unknown. The fork "they cannot abandon the wealth thesis" assumes a commentator is bound by his earlier words — a weak assumption, since he is bound only as far as the audience remembers. And judging appropriation the likeliest outcome is the assistant's estimate with no precedent behind it. 🟡
 
 ## 8. Weak point of the case
 
