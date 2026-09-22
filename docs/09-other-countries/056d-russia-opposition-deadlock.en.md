@@ -852,6 +852,32 @@ If so, the blockade does not prevent **knowing** — it prevents **citing**. A p
 
 The practical consequence for the §7e plan changes point 5. It previously read "spread through those who cannot be struck off." More precisely now: **the idea must be built so that it can be retold without a citation**. That is a requirement on form — a short rule, a countable number, a calculator that works by itself (§7f) — rather than on a list of allies. What gets retold is what needs no authority in order to be checked.
 
+### Checked against figures: half confirmed, half broken
+
+The assistant requested data on three of this section's assumptions. The result is mixed, and the worse part must come first.
+
+**Broken: the bridge called "the only one" no longer exists.** Telegram is being blocked in Russia — throttling from 10 February 2026, and by 10 April blocking reached 95 % on an independent project's measurements [second-hand 🟡]. Telegram's average daily audience in August 2026 was **33.8 m**, down a third from April; WhatsApp 22.6 m, down a quarter. And **Max — 69.9 m** [verified against a publication of Mediascope data]. By monthly audience Max overtook Telegram back in June 2026: 86.3 m against 75.7 m [verified].
+
+So the mass medium §7k called the bridge is **being dismantled as we write**, and the audience is moving into a messenger controlled by the state. The claim that permitted Telegram channels are the only bridge was true when written and is already false.
+
+**Confirmed: circumvention is used on a mass scale.** An all-Russian survey of April 2026, 1,600 respondents: **40 % actively use a VPN** — against 34 % two years earlier; 74 % know what one is; 48 % use a paid one against 15 % in August 2024 [verified on the publication page]. The architect's observation that people watch quietly is supported by these figures: forty per cent is not a marginal group.
+
+**Refined, and not in our favour: "everyone knows" is an overstatement.** A survey of the most popular journalists and video bloggers, March 2026 [Levada Center; designated a foreign agent in Russia 🟡]: Solovyov 10 %, Skabeeva 5 %, then single percentages — **and Katz and Varlamov do not appear at all**. A separate study of Telegram audiences: pro-government channels account for 44 % of readers, opposition ones for **14 %** [verified].
+
+So two things must be distinguished: **technical access** to blocked content is high (40 % with a VPN), while **actual consumption** of opposition sources is small. People can reach it and in the mass watch something else. "Everyone knows" is true of the architect's circle and false of the country.
+
+### What follows, and the conclusion is stronger than before
+
+The picture has worsened, but worsened **selectively** — and it has eliminated every option but one.
+
+If the mass medium is moving into a messenger owned by the state, then content that lives only in opposition channels **does not reach a mass audience at all** — neither by the bridge nor around it: circumvention gives access, not attention.
+
+One type of content remains capable of existing inside a state platform: **that which does not read as oppositional**. Which is exactly what this chapter arrived at independently — "not opposition, for the people" (above), a question asked from inside the official picture of the world (§7h), material forwarded without any sense of transgression.
+
+**From a tactical advantage this becomes a condition of existence.** The argument used to run: being non-political helps distribution. Now: **being non-political is the only condition under which distribution is possible at all**, because every other channel is either closing or unread.
+
+And hence a practical consequence for §7f worth recording outright: the calculator must be built to **work and spread inside the state messenger** — as a link, an image and a number forwarded without explanation and without a source, rather than as an app from a store or a clip on a blocked platform.
+
 **Weak point.** The observation that "people watch and know everything" is the architect's testimony rather than a measurement; the share of Russians consuming blocked content has not been verified by the assistant, and the whole calculation depends on it. The table of three platforms describes constraints rather than observed behaviour: none of the three positions has publicly reacted to a rent question. And the conclusion that the blockade produces ownerlessness holds only where circumvention is widespread; where it is not, the blockade works as intended and produces nothing useful. 🟡
 
 ## 8. Weak point of the case
