@@ -702,15 +702,42 @@ One option remains — **"the idea is right, but not now"**: a war, a besieged f
 
 **And that is better for us than rejection.** Whoever postpones **has already conceded the substance**: he has confirmed that the share is due and disputes only the timing. The thesis becomes legitimate inside a loyal audience, and by a person it trusts. Timing arguments have the property of expiring: "not now" sounds worse in two years than today, and whoever said it will owe an explanation of why it is still not now.
 
-### The move to fear: appropriation without the formula
+### Appropriation is a trap rather than a threat, and the repository already says so
 
-Something else is far more dangerous, and in the assistant's estimate it is the **most likely adverse outcome** — likelier than an outright ban.
+The assistant called appropriation the principal danger. **That is an error, made worse by contradicting his own repository** — the architect said so directly: "re-read the repo, there is a trap there."
 
-The idea can be taken and renamed: "let us return the subsoil to the people by taking it from oligarchs and foreign agents." That version keeps the **payment** and discards the **mechanism**: the formula's independence from the authorities (001b), the public counter (004.4.2), the open token channel (048i.2). What results is a one-off or regular distribution whose size is set by the very people it was meant to measure.
+In the fork catalogue of 001c the two lines stand side by side:
 
-**That is not a weakened protocol but its opposite.** A payment set by the authorities is not a gauge of trust but an instrument of loyalty: it strengthens the incumbent exactly to the degree it was meant to test him. The distinction is the one the internet-court repository names as the principal threat: more dangerous than a competitor is a forgery that keeps the name and discards the load-bearing walls.
+| Player | The fork | Where |
+|---|---|---|
+| A heavyweight interceptor | seize the theme and work on the first mover's monument; leave it alone and the underdog keeps it | 047.3 |
+| The incumbent | **copy the idea and launch the audit that destroys him**; do not copy and leave the underdog something that cannot be seized | 042.74.3, 030.14 |
 
-Hence a practical requirement worth recording separately: **in any presentation of the protocol the formula and the counter are inseparable from the payment**. A "dividend" without an independent formula is not part of the construction and must not be called one. The test is simple and the same as in the court repository's principles: **who sets the size?** If the authorities do, it is not the protocol, whatever it is called.
+The mechanism of the first line is stated in 047.3: **authorship of the first move is inalienable** — Brexit is stuck to Farage, not to Cameron who called the referendum. Everyone who subsequently names a sum **works on the first mover's monument**.
+
+**The second line is the one the assistant missed entirely, and it is decisive.** To pay a share one must state how much rent there is, what is deducted, and among how many it is divided. **That is an audit of the rent, performed by the state upon itself.** Afterwards the gap between "how much there is" and "how much was given" becomes a public number, and the size chosen has to be defended aloud. Appropriation does not silence the question — it poses it in countable form for the first time.
+
+### Where the trap springs and where it does not
+
+The distinction is single and precise: **the trap springs on the wording, not on the payment.**
+
+A one-off payment before an election with no framing at all is not appropriation of the protocol but what already happens: money is handed out, no arithmetic is named, no question arises. Nothing new.
+
+But the moment **"your share of the subsoil"** is uttered, the counting starts: a share of what, divided among whom, over what period. Those words cannot be half-taken — they drag a number behind them. This is precisely why §7i requires saying "your share" and "a thirteenth salary" rather than "a payment": **the wording is the thing that cannot be appropriated in part**.
+
+### Who pulls the trigger: there are many of them and they need an audience
+
+The architect names the mechanism: "the dumbest bloggers will go there for the hype, because there are many of them and they need an audience — they will go and check."
+
+That is an exact description of how an idea spreads without a champion. A major pro-government commentator weighs consequences and will probably choose "not now" (above). But **the attention market is not made of major figures**: hundreds of small channels compete for the same audience, an anti-elite money topic pays them immediately, and strategic consequences do not concern them — individually they have none.
+
+And "they will go and check" is the key to the whole section: **they check with the calculator** (§7f). Whoever came for the hype opens the count, gets a number about himself, and can no longer not know it. The calculator here is not agitation but **the trap's trigger**: it turns a borrowed slogan into personal arithmetic, and personal arithmetic does not fold back into a slogan.
+
+### What remains a genuine risk
+
+Not appropriation but **its degenerate case**: a payment with no talk of a share. That is exactly what happens now — money before an election, not a word about rent. That variant does not spring the trap because it utters no formulation; but neither does it take anything from the protocol, since it takes nothing of it.
+
+The practical requirement therefore stands, on a different ground: **the formula and the counter are inseparable from the payment** not because the idea would otherwise be stolen but because **a payment without them is not a weak version of the protocol but simply not it**. The test is the same: **who sets the size?**
 
 ### The uncomfortable part: their audience fits better than the liberal one
 
