@@ -74,9 +74,50 @@ And for the first time he acquires a **calculable personal loss**. Today a stole
 
 **Second: the supply side.** Access to a precinct is granted by the same system. Faced with rising motivation to observe, it will tighten accreditation — the cheapest of all its options, and one already used. A mobilised volunteer and an admitted observer are different quantities.
 
-**Third, and this is a design requirement rather than a caveat.** A turnout ceiling exists only if the register of those who exited is published **by territory and before polling day**, not as an aggregate and not retrospectively. An aggregated or late register gives the observer nothing. The requirement must be written into the charter beside the formula, or the effect does not switch on.
+**Third: publication improves the effect but does not switch it on.** The first edition of this point claimed that without territorial publication before polling day the observer gets nothing. The architect's correction:
+
+> "Even if they are not published, the money has still been taken, and it can be checked."
+
+The correction is right, and the error was in stating the condition as binary when the effect is **graded**.
+
+**The register cannot be designed out of existence.** The protocol requires that whoever took the dividend does not vote; for that rule to be enforced, the electoral system must hold, for each precinct, a list of those who exited. The register is not a transparency shopfront that can be removed but a part of the mechanism. And it has a second side, held by banks and the treasury, which the electoral system does not control at all (§3.2).
+
+Hence a conclusion stronger than the former requirement: **even an unpublished register works as a hostage.** The forgery must agree with a document the regime maintains itself, which has an independent financial duplicate, and which outlives whoever maintains it. It may be published later, under different management, or it may leak — but the drawn-in figures will by then be reconciled retrospectively against what the regime itself recorded.
+
+**And without publication the check does not vanish; it changes scale.** Taking the money is a fact that can be said aloud: "I took it" is not a political statement and requires no courage (23b.2). So on a stairwell, on a shift and in a parents' chat people know the order of magnitude among their acquaintances. If the protocol shows 70 % turnout while eleven of the twelve flats on a landing took the money, the discrepancy is visible without any register at all. This is Kuran's common-knowledge mechanism with an important upgrade: a concealed preference is normally unobservable, whereas here it **leaves a trace and can be voiced with impunity**.
+
+| What is published | What the checker has |
+|---|---|
+| by territory, before polling | an arithmetic ceiling on turnout; two numbers to compare |
+| in aggregate or retrospectively | a national ceiling; local discrepancies visible only socially |
+| nothing | "I took it" among acquaintances — an order of magnitude; and the register exists, waiting |
+
+Territorial publication before polling day remains a charter requirement — it moves the check from social to arithmetic. But its absence weakens the effect rather than cancelling it.
 
 **And the price of that requirement, which we are obliged to name ourselves.** A territorial register of exits is simultaneously **a precise target map for the regime**: it shows where the local bosses failed to hold their people. 048i.6c and 056f.1 already record that electoral results are used as a map for mobilisation and personnel decisions; a territorial register supplies a cleaner instrument than the one now available. The mitigation is partial: exiting is a lawful act, and punishing a territory means punishing the exercise of a right, which runs into the foreman test (23b.2). But it does not prevent a district head being dismissed "for poor work", which is what happens already.
+
+### The measure to use: loosening, not a stopped forgery
+
+The architect's second correction concerns the standard of evaluation:
+
+> "For Russia what matters is the mechanism of loosening the regime, not an ideal result."
+
+It is just, and the assistant has just broken the repository's own rule. The point "September 2026 is evidence against" assesses the effect by **whether the forgery was stopped** — that is, against an ideal. 040b.6 names this precisely: the Nirvana fallacy; the comparison must be with the status quo, not with an unattainable ideal.
+
+Measure against the status quo and the picture differs:
+
+| | Now | After adoption |
+|---|---|---|
+| what is needed to doubt a figure | an exit poll, "honest precincts", trust in an opposition analyst | two numbers, one of them financial |
+| who can doubt | the trained | anyone with a calculator |
+| what the doubt rests on | an estimate | a document the regime maintains itself |
+| what the forgery must fake | the distribution | the distribution **and** the financial accounts |
+
+Not one row stops the forgery. All four make it costlier, more visible and less able to survive a change of management — which is loosening in the exact sense.
+
+**And the standard needs a test of its own, or everything counts as success.** What would have to be observed for the loosening claim to be false: the regime adopts the protocol, uses the territorial register of exits as a map for targeted coercion, turnout discipline **rises**, and the need for forgery falls — so the figures become steadier than before. This is not an invented scenario: it follows directly from what is said above about the target map, and it is the only one in which the effect turns negative.
+
+So the weighing is honest rather than one-sided: **one and the same register compromises the count and improves the aiming.** Which of the two prevails is derived from nothing, and there is nothing to assert here.
 
 **Weak point.** The effect is derived rather than observed: there is no case in which a paid exit by one group raised the supply of observers from another, and nowhere to look for one — the mechanism has never been introduced. The claim that "they do not volunteer now because the authorities win almost honestly" is the architect's testimony about a motive rather than a measurement; the assistant did not check statistics on observer numbers by year, and Russian survey data are inadmissible here (23b.3). The most vulnerable part is the assumption that refusing money selects the same people who will spend a day at a precinct: these are two different acts with different costs, and the overlap of the groups is plausible but unshown.
 
