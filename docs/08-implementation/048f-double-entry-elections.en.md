@@ -121,6 +121,51 @@ So the weighing is honest rather than one-sided: **one and the same register com
 
 **Weak point.** The effect is derived rather than observed: there is no case in which a paid exit by one group raised the supply of observers from another, and nowhere to look for one — the mechanism has never been introduced. The claim that "they do not volunteer now because the authorities win almost honestly" is the architect's testimony about a motive rather than a measurement; the assistant did not check statistics on observer numbers by year, and Russian survey data are inadmissible here (23b.3). The most vulnerable part is the assumption that refusing money selects the same people who will spend a day at a precinct: these are two different acts with different costs, and the overlap of the groups is plausible but unshown.
 
+## 4c. "Took it and came anyway": the obvious counter-move and who to catch for it
+
+Section 4b left a hole, and the architect closed it with a question:
+
+> "Even if those who received the money come to vote at the authorities' request, others can check him by the transfer, and that may stop him."
+
+The counter-move is indeed obvious, and the repository did not have it: order the dependent to **take the dividend and turn up all the same**. If it works, flow 1 goes nowhere and the whole analysis in 056 rests on sand.
+
+### Why the move requires the commission's complicity
+
+Under the protocol whoever took the dividend cannot vote: he is in status B, and the list of those who exited lies on the precinct commission's table — a part of the mechanism, not a shopfront (4b). So "took it and came" is never a voter's private trick: he has to be **let through**. The author of the violation is not the man in the queue but the table he is standing in front of.
+
+That changes both whom to catch and with what.
+
+### The check the correction describes does work
+
+Status A or B may by construction be public — secrecy concerns the ballot, not the choice between money and a vote (048h.2). So the question "you took it, why are you in the queue" **does not require knowing how anyone votes** and violates nobody's secrecy.
+
+And the question has a property no political argument has: **it is asked outside the political register**. A man who took the money and voted is not an exemplary citizen doing his duty but someone who took twice. A superior can order attendance; he cannot make the neighbours respect it. Here coercion has no answer for the first time, because the answer would have to be given about something other than politics.
+
+### And that is exactly why it must not be built on
+
+Three objections, and they outweigh the benefit.
+
+**First: it is a denunciation mechanism.** A construction in which neighbours check neighbours and report what they notice is not a neutral instrument. In Russia this social reflex exists, is in use, and is easily redirected: the same thing that catches a double-taker catches everything else. A protocol whose enforcement rests on mutual observation hands the regime a ready-made skill.
+
+**Second, and decisively: the blow lands on the wrong person.** The double recipient is the **instrument** of coercion, not its author. He is poor, which is why he took it, and dependent, which is why he came. The repository's own rule (23b.2) is built the other way round: the foreman test protects the participant and discomfits whoever gives the orders. A mechanism of neighbourly shame does precisely the opposite — the cost falls on the weakest link and the foreman is untouched.
+
+**Third: it is unnecessary.** "Took it and voted" is an **arithmetic** contradiction, not a social one. The treasury paid N people and turnout shows some of them voting: the identity [dividend budget] = [number choosing B] × D fails to balance (§3.2). It is caught by reconciliation, without a single neighbour — and caught where the real author sits.
+
+**Hence the resolution: keep the mechanism, change the addressee. Catch the precinct, not the man.**
+
+### What the regime gets if it issues such an order anyway
+
+| Scale of the order | What results |
+|---|---|
+| to a few | turnout is not restored, flow 1 has left anyway — the move does not solve the problem |
+| to many | the accounting discrepancy becomes mass-scale and self-documenting |
+
+The second row matters more than the first. Mass double counting is not an electoral violation carrying a fine but **embezzlement of budget funds on a large scale** (§3.2), and the traces are left not by the commission but by the banking system, which is not subordinate to the regime. So **the most obvious counter-move turns out to be the most trace-leaving**: to save turnout you have to break the books.
+
+And the man in the queue meanwhile has nothing to prove and nobody to answer to — which is not a concession but the condition of the mechanism not turning into the thing it is built against.
+
+**Weak point.** That neighbourly shame would stop a double recipient is an assumption about motive and has not been tested: there is no case, no measurement, and Russian survey data are inadmissible here (23b.3). The denunciation objection is a risk assessment rather than an observation: the assistant neither sought nor found an example of a protocol whose enforcement through mutual observation degenerated into surveillance. And the arithmetic defence works only if somebody performs the reconciliation and something follows from its result; September 2026 showed that the second does not follow from the first (056f.1). 🟡
+
 ## 5. The hack is not through the formula but before and after it
 
 The base dividend D = M × 1.5 × K cannot be hacked: not one variable is controlled by the city (the median comes from the federal database, inflation from an independent bureau, the coefficients are hard-wired in the statute and change only by referendum); any student can multiply three numbers and get the amount to the cent (048b: the four-agency rule, the 10 % rule). The attack zone is the efficiency bonus B = max(0, Plan − Actual) × 30 % / N: (a) an attack on the estimate — an inflated contract to a relative eats the saving before the figure reaches the formula; (b) dead souls in N — an inflated denominator dilutes everyone's payment, the difference accumulates in front accounts. The defence is not software but social: a dashboard to the standard of corporate reporting plus those very "14,000 free auditors" — accountants, engineers, entrepreneurs with an amplified vote who personally lose money from their bonus. The corrupt official must deceive not an algorithm but a crowd of the city's professional investors.

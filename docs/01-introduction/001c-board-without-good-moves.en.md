@@ -58,6 +58,7 @@ The three figures have one thing in common, and it sets the protocol apart from 
 
 | Who | The moves — and how each ends | Where |
 |---|---|---|
+| The order "take the money and come anyway" | to a few — turnout is not restored; to many — a mass accounting discrepancy, which is no longer an electoral violation but budget embezzlement, with the traces left by banks | 048f.4c |
 | Observers after the first flow leaves | keep them out — turnout above the ceiling stays unexplained; let them in — comparing two numbers is open to anyone. The register cannot be omitted: it is part of the mechanism, and unpublished it works as a hostage | 048f.4b |
 | The two-passenger-flow machine | the loyal must come, the disloyal must not; the payment is universal and so dries both flows at once — and the second arrives **precisely because** the first left: the futility of a vote rested on the compulsory mass. Excluding the dependent means writing dependence into statute and publishing a list of the owned | 056 correction-2026, 23b.2 |
 | Excluding state employees from the payment | give them an equivalent separate payment — they take it and stay away; give them less or nothing — deliver a resentful voter to the urn, told so by his own superior. There is no third form | 056 correction-2026, 057e.3 |
