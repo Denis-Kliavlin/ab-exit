@@ -860,11 +860,42 @@ The assistant requested data on three of this section's assumptions. The result 
 
 So the mass medium §7k called the bridge is **being dismantled as we write**, and the audience is moving into a messenger controlled by the state. The claim that permitted Telegram channels are the only bridge was true when written and is already false.
 
-**Confirmed: circumvention is used on a mass scale.** An all-Russian survey of April 2026, 1,600 respondents: **40 % actively use a VPN** — against 34 % two years earlier; 74 % know what one is; 48 % use a paid one against 15 % in August 2024 [verified on the publication page]. The architect's observation that people watch quietly is supported by these figures: forty per cent is not a marginal group.
+### The architect's methodological correction, and it strikes at the foundation
 
-**Refined, and not in our favour: "everyone knows" is an overstatement.** A survey of the most popular journalists and video bloggers, March 2026 [Levada Center; designated a foreign agent in Russia 🟡]: Solovyov 10 %, Skabeeva 5 %, then single percentages — **and Katz and Varlamov do not appear at all**. A separate study of Telegram audiences: pro-government channels account for 44 % of readers, opposition ones for **14 %** [verified].
+The assistant cited two survey figures: 40 % VPN users and the absence of opposition bloggers from a most-popular list. The architect objected:
 
-So two things must be distinguished: **technical access** to blocked content is high (40 % with a VPN), while **actual consumption** of opposition sources is small. People can reach it and in the mass watch something else. "Everyone knows" is true of the architect's circle and false of the country.
+> "Why are you giving me statistics from Russia, where surveys are answered under fear? They are **irrelevant**. Where do millions of YouTube views come from if people are not circumventing? Where do the Z-channels' views on Telegram come from? VPN reach has been 80–90 % for a long time."
+
+**The objection is methodologically right, and the assistant fell into an internal contradiction.** The whole chapter rests on Kuran: in regimes of this type people systematically conceal preferences, which is exactly why §7b is built around giving them a way to report the truth anonymously. Leaning after that on a survey of those same people is applying an instrument whose uselessness one has just demonstrated.
+
+The refinement needed here: the distortion is **not uniform**. "Do you use a VPN" is less dangerous than "do you watch so-and-so," because using a VPN is not prohibited to a citizen. But the direction of distortion is the same in both cases — **downward**. So 40 % is **a lower bound rather than an estimate**, and the absence of a named foreign agent from what people tell a stranger on the telephone says almost nothing about his audience.
+
+**Hence a rule for the whole chapter, to be held firmly: survey data from Russia do not belong here except marked as a lower bound.** What serves is **behavioural** data — traffic measurements, metered panels, view counts, blocking. They do not ask a person, they observe him.
+
+### What survives the clean-up
+
+Separating the sources shows that the section's load-bearing part was behavioural and stands.
+
+| What | Type of data | Does it stand |
+|---|---|---|
+| Telegram blocking at 95 % on measurement | network measurement | yes |
+| Audiences of Telegram, WhatsApp, Max (33.8 / 22.6 / 69.9 m) | metered panel | yes |
+| YouTube daily reach under throttling | panel | yes |
+| 40 % use a VPN | **survey** | only as a lower bound |
+| Katz absent from the popularity list | **survey** | withdrawn as evidence of reach |
+| 14 % for opposition channels against 44 % pro-government | **survey** | withdrawn |
+
+**And the architect's behavioural argument is stronger than the withdrawn figures.** YouTube has been throttled since August 2024, and its daily reach in the first half of 2026 **grew by 4 %** [panel measurement, verified]. A platform being strangled for two years is growing — that is circumvention observed rather than declared. View counts on channels living on blocked platforms read the same way: a meter counts them, not a respondent.
+
+**But the assistant cannot confirm the 80–90 % figure**, and taking it on trust would be the same error as taking 40 %. The honest formulation: **the share using circumvention is above forty per cent, the true value is unknown, and behavioural data indicate mass use without yielding a percentage.** What would settle it: VPN app download statistics, carrier data on the share of traffic over known circumvention protocols, or a platform's reach before and after blocking on a single panel. None of these was found in open access.
+
+### And the main consequence, which is about the protocol rather than the statistics
+
+The architect's objection is not a remark about source quality but **an argument for the construction itself**, and it should be recorded as such.
+
+If surveys do not work in such a country, then neither do ratings, nor "support for the course," and no sociology will say how many people are against. The protocol answers exactly that: it replaces **asking** with **observing an action**, and makes the action monetary, because money is collected even by those who would not answer a question. The architect put it earlier and more sharply: "surveys are not comparable to money in accuracy at all" (004.4.3b).
+
+By leaning on a survey the assistant applied here precisely the instrument the protocol is built to replace.
 
 ### What follows, and the conclusion is stronger than before
 
