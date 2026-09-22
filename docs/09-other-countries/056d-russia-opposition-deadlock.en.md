@@ -735,9 +735,45 @@ And "they will go and check" is the key to the whole section: **they check with 
 
 ### What remains a genuine risk
 
-Not appropriation but **its degenerate case**: a payment with no talk of a share. That is exactly what happens now — money before an election, not a word about rent. That variant does not spring the trap because it utters no formulation; but neither does it take anything from the protocol, since it takes nothing of it.
+Not appropriation but **its degenerate case**: a payment with no talk of a share — money before an election, not a word about rent. It springs no trap and takes nothing from the protocol.
 
 The practical requirement therefore stands, on a different ground: **the formula and the counter are inseparable from the payment** not because the idea would otherwise be stolen but because **a payment without them is not a weak version of the protocol but simply not it**. The test is the same: **who sets the size?**
+
+### A handout and a share are different acts, not different words
+
+The assistant wrote above that a payment without framing is "exactly what happens now," thereby reducing the difference to wording. The architect objected, and the objection goes deeper than anything preceding it:
+
+> "That is a handout, and it is humiliating. People want the bosses to be **obliged**. They want to make the bosses feel equal — that he is the authority here. And here there is a pretext to **take back what is his, lawfully**. These are not the same thing at all."
+
+Right, and the error was not in a word but in the analysis: **the same money transferred two ways creates opposite relations**.
+
+| | A handout | A share |
+|---|---|---|
+| Who acts | the boss **gives** | the boss **is obliged** |
+| The recipient's position | supplicant | creditor |
+| What is owed afterwards | gratitude | nothing |
+| Can it be withheld | yes, that is the giver's right | no, that is a breach |
+| What the act confirms | the hierarchy, and **confirms it anew every time** | an obligation |
+
+The repository has named this position already — §7 describes the present arrangement as handing out "crumbs from the table" on a "say thank you" basis. But until now it was presented as rhetoric. **In fact it is a mechanism, with three properties money as such does not have.**
+
+**First: the addressee of the feeling is the boss, not the citizen.** The architect puts it exactly: "make the bosses feel equal." This is not about the recipient's self-perception but about **placing the other party in the position of a debtor**. That is a motive of a different kind, and considerably stronger than self-interest.
+
+**Second, and practically important: this motive does not diminish with income.** §5 notes that eleven thousand makes no difference to a Moscow professional, who would decline the sum. But "the bosses are obliged" is not about the sum. It works on anyone who has ever been made to say thank you, and therefore **reaches where money does not**. This is a second payload of the dividend the repository has underrated.
+
+**Third: a lawful pretext is a third option where there are usually two.** Asking is humiliating and rebelling is dangerous; "taking back what is yours, lawfully" is neither. The repository already put this in §7: "you wrote yourselves that we are the beneficiaries — here is the till, ring it up." It is now clear that this is not a quip but **a description of the only available position in which a person is neither supplicant nor rebel**.
+
+Indirect confirmation is self-taxation (§7g): thousands of local referendums in which people vote to **pay themselves**. The money flows the other way and it still happens — because they decide. **What works is not the direction of payment but whose decision it is.**
+
+### And hence the basis for the rules about words
+
+The bans in §7f on "free" and §7i on "freebie" were derived tactically: those words invite ready-made objections. They now have a deeper basis: **both words return the recipient to the supplicant's position**, abolishing precisely what the construction exists for. A handout called a share remains a handout; a share called a freebie becomes one.
+
+**And the test "who sets the size" acquires a second function.** It separates the protocol from a forgery — already recorded. But it also separates a right from a favour: **a payment whose size is set at discretion is humiliating regardless of its name and magnitude**. Worse, it is worse than a plain handout, because it adds disappointed expectation to dependence.
+
+So the formula's independence (001b) is not only protection against manipulation. **It is what makes the payment a right rather than a favour.** One element of the construction carries both functions, which is worth remembering in any conversation about "simplifying" the formula.
+
+**Weak point.** All of this reasons about motives rather than measuring: no measurement of how far "the bosses are obliged" outweighs financial interest exists for Russia or, so far as the assistant knows, anywhere. Self-taxation is offered as an analogy and a weak one: there people pay themselves and the sums are small. And the argument has a reverse side worth holding in mind: the creditor's position is pleasant only while the debt is paid; non-payment of what is owed by right is felt more keenly than the absence of a handout. 🟡
 
 ### The uncomfortable part: their audience fits better than the liberal one
 
