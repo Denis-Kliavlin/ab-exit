@@ -585,11 +585,34 @@ Hence the precise formulation: the collection is finished not to embarrass the a
 
 One detail to dispose of at once. The law does not reward excess: at least forty per cent of signatures are checked, and five per cent defective means refusal regardless of the total (§7g). Doubling also doubles defects in absolute terms. As a **legal** move doubling is pointless; as a **measuring** one it makes complete sense, and that is how it should be presented.
 
-### Dangerous: a signature sheet is a list of people with passport data
+### The architect's correction: there are no dissenters here, and that is a property of the design rather than rhetoric
 
-Here is the principal objection, and it outranks everything above.
+The assistant wrote the preceding paragraph as though signing were self-evidently an act of dissent. The architect objected with a scene that settles it better than any argument:
 
-A federal referendum signature sheet carries full name, date of birth, address, **passport series and number**, and a signature. Collecting two to four million such records means creating a **named list of citizens who publicly supported an initiative**, in a country where participation in unapproved campaigns leads to criminal cases. Collected in an app, it additionally sits in one place and is seized whole.
+> "Where are the dissenters here? A fitter, Vasya, comes to the foreman for advice: I want to receive money at elections, he says, I don't go anyway. And how does the foreman, man to man, explain that going is an expression of disagreement with our successful government — in a country with the largest subsoil wealth per citizen and all that?"
+
+The objection is right, and the assistant made an error of a particular kind: **adopting somebody else's category**. "Dissenter" is a classification the authorities assign; the content of the act does not match it. Vasya is not protesting, he is asking about money.
+
+**And the foreman scene is a working test rather than an illustration.** The foreman is no random figure here: he is the transmission belt of corporate mobilisation, the very link that produced the main result in September 2026 (048i.5f, layer 2). To talk Vasya out of it he must say one of two things:
+
+- "the state does not want to give you your share" — that is, repeat the protocol's argument in his own words;
+- "asking for money is disloyal" — that is, admit aloud that loyalty consists in not asking.
+
+**Both sentences lose, and there is no third.** This is a fork of the kind collected in 001c: a move exists, but every move worsens the position.
+
+**And the strongest part of the objection is its last words.** "The country with the largest subsoil wealth per citizen" is not our thesis but the **official** one: the riches of the subsoil have been a matter of state pride for decades. So the question "where is my share" is asked **from inside the official picture of the world** rather than against it. Vasya is not subverting the propaganda; he is taking it literally. The boast cannot be withdrawn, and the question following from it has no answer.
+
+Hence a rule worth extracting from this chapter as a separate criterion — call it **the foreman test**: a technique is sound if a local boss cannot explain to his own worker why not to do it. The ballot sign (§7b) passes for the same reason, being compatible with coercion. A signature for a money question passes it more cleanly still: the sign has to be explained, the signature does not.
+
+### But the risk remains, and it lies elsewhere
+
+The correction removes the **frame**, not the danger. Three clarifications, and they matter more than the earlier wording.
+
+**First: prosecution follows the organisation, not the content.** The foreign-agent and undesirable-organisation laws attach to **whoever conducts** rather than to what is asked. However innocuous the question, if it is collected by a labelled structure everyone who touched it is exposed. So the question's innocence protects Vasya and does not protect the campaign.
+
+**Second, following directly from the first:** the defence here is the one named in §7e — **having no owner**. A collection without an owner has nobody to designate undesirable. This is another independent confirmation that the main line of defence is the structure rather than the wording.
+
+**Third: a list of millions of identified people is dangerous outside politics too.** A signature sheet carries full name, date of birth, address, **passport series and number**. Such a database is valuable to anyone who obtains it — from fraudsters to anyone else — and that has nothing to do with the signature's political classification. The storage requirement stands in full: count anonymously, and either do not collect personal data at all or do not bring it together in one place (see above).
 
 The architect's instinct to collect "on a blockchain token prototype" is right in direction and wrong in form: **a public immutable ledger is the worst possible store for a list of dissenters**. The opposite property is needed — proving the **count without revealing identities**.
 
