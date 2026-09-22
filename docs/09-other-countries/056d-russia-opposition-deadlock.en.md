@@ -1069,7 +1069,55 @@ The real degenerate case is not the absence of a formula but **a formula whose i
 
 So §7j's test ("who sets the size?") takes a precise form: **who controls the quantities the size is computed from?** And from here it is visible why the formula is tied to median earnings from an independent source rather than to the volume of rent (§7f). That was recorded as protection against manipulation. In fact it is what makes it **unforgeable in a competition of formulas**: a rival whose inputs are his own loses to anyone whose inputs are external — and loses publicly, because the comparison is computed on the same calculator.
 
-**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured, so the input to the mechanism is unconfirmed. And the reasoning about the instability of a payment without a formula is logical: the assistant found no example of a country where a one-off distribution turned into an argument about a rule, while the opposite examples — distributions that provoked no counting at all — are numerous. The argument apparently works only where **somebody has an interest in counting and the means to do it**: that is, with a calculator in existence and with rent whose size is published. 🟡
+### Who will do the counting: the question answers itself
+
+The assistant set it as a condition that "somebody has an interest in counting." The architect removed it in one sentence:
+
+> "Counting the fairness of money paid to me — people love doing that. And imagining: if they had given more, I would have bought…"
+
+Right, and the condition turns out to be met by default: **the interest in counting does not need creating, it would need suppressing**. People count their own money constantly and unprompted; counting somebody else's requires a motive, counting one's own does not.
+
+But the second half of the sentence matters more than the first, and it has a named mechanism. **Value is felt relative to a reference point rather than in absolute terms** (Kahneman and Tversky), and losses are felt more strongly than equal gains. Hence:
+
+- **without a formula** ten thousand roubles is simply ten thousand;
+- **with a computation showing forty**, the same ten thousand is felt as **a loss of thirty**.
+
+So a payer handing out money in a world where a calculator exists **buys not gratitude but a grievance whose size he does not set**. And the more he pays, the more precisely a reference point forms — after which it cannot be given up.
+
+"I would have bought…" is the form that reference point takes: not abstract arithmetic but a specific foregone purchase. It makes the gap personal and vivid — exactly the property §7f wanted when it required measuring in salaries rather than roubles.
+
+**Hence an addition to the calculator's specification (§7f):** show not only the sum and the gap but **what the gap buys**. Not "you were underpaid thirty thousand" but "that is a refrigerator" or "that is six months of utility bills." The unit should be a thing rather than a number.
+
+### Who the disappointment lands on: the assistant assigned blame wrongly
+
+The assistant recorded the risk thus: if the number proves unattainable, the disappointment attaches to whoever named it — "they promised forty and gave ten, so everybody lies." The architect objected:
+
+> "You have forgotten again: the opposition is unkillable in the information field, and people support it. The authorities will come under heavy attack."
+
+The correction is accepted, and the error was a substitution of terms. **A computation is not a promise.** §7f requires outright that the formula be open, the figures changeable and the source of every line given: the calculator says "here is the arithmetic, check it," not "we will pay you this much." Whoever pays is the one who promises.
+
+Hence an asymmetry the analysis lacked:
+
+| | Who names a number | What he owes |
+|---|---|---|
+| The opposition | computes and shows the computation | nothing: it does not pay and promised nothing |
+| The authorities | pay and show no computation | **an explanation, publicly and continuously** |
+
+Blame follows **whoever cannot show his working**. A payer without an open formula loses the argument not because he is wrong but because he is the one who owes an answer.
+
+**And "unkillable in the information field" needs refining, because §7k says otherwise.** Opposition channels are **weak as distributors** — most people do not read them. But they are **indestructible as a source**: they publish from abroad, cannot be closed, and what is published stays available.
+
+For an argument about a formula that is sufficient and nothing more is needed. **Keeping a formula in circulation requires not mass reach but the impossibility of being silenced.** After that others repeat it, and repeat it in the very transmission medium §7k describes as the principal one.
+
+Meanwhile the authorities must hold the line **continuously**: the money has been paid, the question has been asked, and silence is itself an answer. It is a war of attrition the stronger side loses **by construction rather than by strength**.
+
+### What remains of the risk
+
+One thing, and it is an argument about quality rather than blame.
+
+If a number is named **as a promise rather than as a computation** — inflated for effect, with no arithmetic shown — it becomes a promise in fact, and then nothing written above protects it. So the discipline remains, on a different ground: **a defensible number is needed not to avoid blame but to win the competition of formulas** (above). A computation that cannot be checked loses to one that can, regardless of whose number is larger.
+
+**Weak point, and a serious one.** No case is known in which a demand for a resource dividend produced an elite split — the mechanism is derived from general coordination theory rather than observed. "Ninety per cent support" is the architect's assumption; §7l states outright that the effect of an economic offer on a Russian voter has never been measured. The reasoning about the instability of a payment without a formula is logical: no example was found of a one-off distribution turning into an argument about a rule, while distributions provoking no counting are numerous; only the reference-point argument removes that objection, and it rests on laboratory findings never replicated for Russia. The claim that the opposition cannot be silenced is likewise untested: it holds today and is not guaranteed tomorrow. And one condition the architect did not remove remains: **there must be something to count with** — a calculator must exist and rent figures must be published. The first is within our power, the second is not. 🟡
 
 ## 8. Weak point of the case
 
