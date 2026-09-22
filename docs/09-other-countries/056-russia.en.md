@@ -64,6 +64,26 @@ And the machine's two failure modes: **the first group does not come, or comes a
 - **A register of the owned appears.** To exclude, one must enumerate, and a list of those not entitled to the payment is a list of those who are owned — and by construction it is public.
 - **The move fails the foreman test** ([23b.2](../05-empirical-base/023b-evidence-rules.en.md)). The foreman will have to explain to his own worker why the neighbour on his stairwell is paid and he is not — and again there are two answers, both losing: "because you are dependent" or "because your vote is already bought by your wages".
 
+**And a second correction from the architect, which binds the two failures into one.**
+
+> "AB-EXIT breaks both. The burned come precisely because the first group — the loyal state employees — has gone."
+
+Above, the two failure modes are set out as two independent events: flow 1 leaves for the money, flow 2 stays with increased weight. Structurally that is wrong. **The second failure is a consequence of the first**, and the machine breaks not in two places but in one.
+
+**Why demoralisation is parasitic on compulsion.** The message that damps flow 2 is not "the authorities are good", nor even "elections are dirty". Its substantive core is one thing: **your vote will drown**. Drown in what? In the compulsory mass of flow 1 and in the drawn-in remainder. So the campaign of disgust is not self-standing: it rests on a fact produced by compelling the dependent. Remove flow 1 and the claim of futility stops being true.
+
+**The arithmetic, and the repository already has it.** The weight of a vote in the protocol is not a multiplier in the count but a floating quantity, **1/(1 − the share who exited)** (001b). So a stayer's weight is a direct function of how many left: with 40 % out, a ballot weighs 1.67; with 60 %, 2.5. And flow 1 is precisely the most numerous part of those who leave first, because it alone has both the motive (it is poor) and the permission (a lawful excuse against the boss).
+
+**And chiefly: the share who exited is published by a channel the commission does not touch.** It is a banking fact, not a precinct protocol (056c). The burned voter is not required to believe that flow 1 has gone — he can **compute the weight of his own vote before deciding whether to come**. No non-voter has ever had so direct an incentive: he has always been asked to believe in significance rather than to calculate it.
+
+**What this does to the forgery.** Before the protocol, the herded state employee supplied the forgery's load-bearing support: live bodies, live signatures, genuine turnout. The commission had only to redistribute. Afterwards the bodies have left **lawfully and publicly**, and producing turnout means inventing people against a published count of those who exited. Forgery moves from the class of "bend the distribution" into the class of "invent a population", which is another order of effrontery and another order of traces.
+
+**What the repository did not have.** The chain itself is recorded in 019.60.3, but for a **democracy**: recipients of handouts leave for the dividend, the populist's audience thins, the clever candidate becomes viable for the first time, and the burned voter returns because the ballot at last contains someone worthy. In an autocracy the obstacle is different — not the absence of anyone worthy but futility — and so the autocratic version is **stronger**: what leaves is not a group of preference but a group of compulsion, and its departure destroys not a rival electorate but the plausibility base of the forgery.
+
+**The honest threshold, without which the argument fails.** The chain depends on the share who exit being large enough to make drawing-in arithmetically absurd. Where that threshold lies is unknown, and September 2026 showed the slack to be wide: St Petersburg was rewritten from ~20 % to 55 % (056f.1). With a small share exiting, the forgery will digest that too. So the claim "the second flow will come" is conditional: it comes if the first left **noticeably**, and here the observability of the departure matters more than its size.
+
+**Weak point.** The whole chain is derived rather than observed: no case exists anywhere in which a paid departure of the compelled produced an arrival of the demoralised, and this is one of the two assumptions without an analogue (056f.14). The nearest thing available is autumn 1966 in Spain ([057e.3](057e-spain-francoism.en.md)), but there the compelled did not leave — they came and voted disloyally: that is the neighbouring branch of the same failure, not this one. The claim that the core of demoralisation is futility rather than disgust has not been tested by surveys in Russia and, by rule 23b.3, cannot be; the assistant found no behavioural measurement that would distinguish them. And everything set out here concerns a state after the protocol's adoption, which is impossible in today's Russia (056d.8). 🟡
+
 **And the architect's objection, which moves this whole move into another class.**
 
 > "Paying everyone except state employees — that is a revolt. The humiliated would simply destroy such a law. They are already poor and loyal, and now they are not given money either. How would the authorities justify it, other than by an honest admission?"
