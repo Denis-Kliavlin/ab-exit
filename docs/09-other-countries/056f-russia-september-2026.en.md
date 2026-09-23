@@ -110,7 +110,7 @@ That decision requires no instruction and is not prepared for in advance. It is 
 
 The schoolteacher at the commission table is neither a supporter nor an opponent. She is a state employee, she was **assigned** to the election, the work pays little, the result is demanded of her, and refusing the assignment costs more than accepting it. Shulman's loyalist majority (056c) is built exactly this way: loyalty consists not in acting for the authorities but in not participating against them.
 
-And this is what the state gives her today: **threats and occasional handouts**. Neither is a right, both depend on a superior, and both must be earned. That is a precise description of a relationship in which there is no share — only favour (compare the analogue at 056f.7j: a payment without a formula is a handout, not a right).
+And this is what the state gives her today: **threats and occasional handouts**. Neither is a right, both depend on a superior, and both must be earned. That is a precise description of a relationship in which there is no share — only favour (§9: a payment without a formula is a handout, not a right).
 
 ### What the entire current repertoire offers her — and it is zero
 

@@ -60,7 +60,7 @@ The distinction matters for anyone about to act: "cannot reach" is a distributio
 
 The whole classical set of oppositional actions is built the same way: **a person is asked to pay a personal price for a public good.** Observation costs a day and a risk. Protest costs freedom. An open position costs a job. Even voting for the "right" candidate costs the simplicity of not bothering, in exchange for a distant result.
 
-This is Olson's classic problem (019c.25): dispersed benefit against concentrated costs. And it has a consequence that usually goes unsaid:
+This is Olson's classic problem (019c.2): dispersed benefit against concentrated costs. And it has a consequence that usually goes unsaid:
 
 > **The price of participation depends on a person's position; the benefit does not.**
 
