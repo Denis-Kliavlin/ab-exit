@@ -23,7 +23,27 @@ The rules are ordered by what each protects against: the first against substitut
 | Assumption | Nearest confirmed analogue | How far it carries |
 |---|---|---|
 
-The third field is obligatory and must state **a boundary, not praise for the analogue**: precisely how our case differs and where the analogue stops speaking about it. An analogue without a boundary is worse than a caveat, because it passes partial similarity off as confirmation.
+The third field is obligatory and must state **a boundary, not praise for the analogue**: precisely how our case differs. An analogue without a boundary is worse than a caveat, because it passes partial similarity off as confirmation.
+
+**The architect's correction to the rule's first edition:**
+
+> "'Does not carry' means worse by a percentage, not equal to zero."
+
+The remark is right, and the error was in the wording. The first edition wrote the third field as a binary: "carries" or "does not carry". A boundary written that way works as a **cut-off** — and it reinstates precisely the disease the rule was invented against: if every analogue "does not carry", we are back at "no data exist", merely by a longer route.
+
+In fact a difference in conditions is **a discount on the transfer, not its cancellation**. Alaska voted in 1976 in a democracy, and that does not mean its two-to-one margin says nothing about people and rent; it means it says less, and how much less must be stated.
+
+**Hence the requirement for the third field: it is written not as a negation but as three answers.**
+
+| What to state | Why |
+|---|---|
+| **What transfers** — which part of the claim survives the gap | usually the existence of the phenomenon survives while its magnitude suffers; the two must be separated |
+| **Which way the gap shifts it** — does it make the analogue optimistic or pessimistic for us | the most useful field: the direction of the error is almost always knowable even when its size is not |
+| **How much remains** — on an ordinal scale, without invented percentages | "almost entirely · largely · half · direction only · the existence of the phenomenon only · ≈0" |
+
+**The phrase "does not carry" is separately forbidden.** One writes "carries this far". Zero transfer remains an admissible conclusion, but **it must be argued for**, not obtained free of charge by a choice of word.
+
+**And the ban on invented precision holds.** The ordinal scale was chosen precisely because "transfers at 60 %" would be a figure picked at random — the very error that produced this rule. The direction of the shift can be known; percentages cannot, until something is measured.
 
 **Where a caveat is still appropriate.** Where no analogue exists at all. It is then written **once per chapter**, names by name those assumptions that lack an analogue, and is not repeated at each of them. In the September 2026 analysis, after a full enumeration, two such assumptions remained out of six (056f.13).
 
@@ -93,6 +113,8 @@ The order is not arbitrary. Step 1 comes first because someone else's category s
 ## 23b.5. Weak point
 
 The rules are derived from three cases in work on two country chapters, which is few. That they transfer is an assumption resting on the character of the errors rather than on any check of their frequency in the rest of the repository; no continuous revision of older chapters against these three rules has been carried out, and how much text fails them is unknown.
+
+**A debt on the third field.** The requirement to write the boundary as a discount was introduced later than the tables themselves, and two of them — 056f.13 and 057e.5 — are still written in the binary "does not carry" form. They need rewriting; until that is done, their third column must not be read as a cut-off.
 
 Second, and this concerns 23b.1: the rule demands a search for an analogue but supplies no criterion for **when the search is finished**. "Did not find" and "does not exist" differ only by the searcher's diligence, and diligence cannot be checked — precisely that difference produced the false citation which the rule later exposed. The only available defence is to state **where one looked**, so the reader has something to contradict; it is a weak one.
 
