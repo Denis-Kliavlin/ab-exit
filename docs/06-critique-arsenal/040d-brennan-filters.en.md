@@ -16,12 +16,76 @@
 |---|---|---|---|
 | **Epistocracy** | Jason Brennan, "Against Democracy" (2016) | A ballot only for those who pass an economics/politics exam | Whoever writes the test takes the power: the elite filters out the opposition. Direct violation of anti-discrimination constitutions; in the US — the durable association with Jim Crow literacy tests |
 | **Tax census / skin in the game** | Heinlein (literary), Taleb (as principle) | Only net contributors to the budget vote | Open division into patricians and plebeians; disenfranchising dependent strata → street riots; the security apparatus refuses to defend the system, because police and soldiers are themselves state employees |
+| **Qualification and indirect elections** | The Russian Empire, the Duma of 1906; estate and property qualifications across the nineteenth century | The voter elects electors; propertied votes weigh many times more; women and the propertyless excluded | Exclusion by category from birth, uncompensated and irreversible. And empirically pointless: when the filter was removed in 1917 the radicals lost anyway (§1b) |
 | **Engineering of difficulty** (voter suppression) | Practice, not theory | Voting on a workday, fewer polling stations in poor areas, complex registration | A filter not for intellect but for fanaticism: a six-hour queue weeds out the busy engineer but not the unemployed fanatic or the paid activist |
 | **Quadratic voting** | Weyl, Posner; popularised by Buterin | A budget of credits, the n-th vote costs n² | Psychologically unbearable for the mass: nobody sits with a calculator choosing a mayor. It does not remove populists — it changes their tactics |
 | **Sortition / deliberation** | Van Reybrouck, "Against Elections" (2016) | Parliament by lot, like a jury; 500 random citizens hear experts | Legitimacy: a random person answers to nobody; the experts are picked by the organiser; scales to a council, not a state |
 | **Futarchy** | Hanson | Vote on values, bet on methods | Abstract for the ordinary person (see 040b) |
 
 The common denominator: **all methods are top-down exclusion.** The state tells the citizen: "you are stupid / poor / lazy — we take your vote". That breeds hatred and destroys legitimacy, because the decision about a person's worth is made by someone else.
+
+## 1b. The natural experiment of 1906 and 1917: the filter was removed and the result did not change
+
+The architect's question after an analysis of two Russian elections (Maxim Katz, "Can the Russian voter vote?"):
+
+> "The people voted through electors and did not choose radicals. So this restriction resembles what AB-EXIT does by excluding the apathetic — or am I wrong?"
+
+There is a resemblance, but not where it appears to be, and **the analysis contains a direct refutation of the causal part**. The two elections in it form a rare thing: a natural experiment in which the filter was removed while everything else remained.
+
+### Conditions and results
+
+| | Duma, 1906 | Constituent Assembly, November 1917 |
+|---|---|---|
+| Franchise | unequal: property and age qualifications, propertied votes weighted tens of times heavier, women excluded, **elections indirect** — the voter chose electors | **universal, equal, direct, secret**; women voting; from the age of twenty |
+| Peasant share of electors | 42 %, though peasants were the overwhelming majority of the population | proportionate to population |
+| Circumstances | the height of the first revolution | world war, a disintegrating state, land seizures, the Bolsheviks already in power and closing their opponents' papers |
+| Result | Kadets 178 of 497 plus 60 Progressists; Trudoviks 110; an oppositional Duma chaired by a professor of law | **SRs 37.6 % (17.3 m), Bolsheviks 23.3 % (10.7 m)**; 324 seats against 183 of 767 [verified] |
+| Turnout | — | **45.9 m votes, 64 % of those eligible** [verified] |
+
+*Divergence from the analysis:* it gives 39.5 % and 22.5 % on a turnout of 62 % and 48 m voters. The order is the same, the figures slightly different; the consolidated ones are used here.
+
+### Why this refutes rather than confirms
+
+The logic of the experiment is simple. If the moderation of 1906 was **a consequence of the filter**, then removing the filter should have produced a different result.
+
+The filter was removed completely. Conditions were worsened to the limit of what can be imagined: war, hunger, a collapsing state, a maximalist party already in power with propaganda and its opponents' papers shut. November 1917 was **the ideal moment for the theory of a people that elects extremists to come true**.
+
+It did not. The most radical party took **23.3 %** and lost by almost half — and threefold against the SRs with their allies.
+
+So the filter of 1906 **was not the cause** of the moderate outcome. The cause lay elsewhere: the voter voted his interest — the peasant for land, the townsman for the liberals, the national peripheries for autonomy.
+
+### Where the resemblance is real and where it is not
+
+The resemblance the architect rightly sensed: **both arrangements produce an electorate that does not coincide with the population**, and in both the remaining electorate is skewed towards those with more resources or interest. That is the objection about an indirect property qualification, and it cannot be waved away (006, disparate impact).
+
+But the mechanics are opposite, and the difference runs along the line drawn in §1: **exclusion from above against self-selection**.
+
+| | Electors and the qualification, 1906 | The protocol |
+|---|---|---|
+| who decides whom to exclude | the state, by statute, by estate, property and sex | the person himself |
+| is it known in advance who is excluded | yes, by category, from birth | no: it is a choice made each cycle |
+| compensation to the excluded | none | it is the whole point of the mechanism |
+| reversibility | nil: a category cannot be changed | complete: afresh every cycle |
+| what the selection runs on | wealth, estate, sex | a person's own valuation of his vote against a sum |
+| who gains from the exclusion | the propertied, at the expense of the excluded | the self-excluded gets money, the one who stays gets weight |
+
+The elector qualification is a textbook case of the very **top-down exclusion** by which §1 explains the failure of every filter. The protocol runs the other way, and that is not a softening of the wording but a change of sign.
+
+### And a finding against us, which must be recorded first
+
+1917 is evidence **against one of our own arguments**. In 019.60.3 and in the Sapolsky reconstruction (040c) the repository leans on the claim that the present mass electorate structurally produces populists: recipients of handouts outweigh the clever candidate, and so the clever do not enter politics.
+
+The electorate of November 1917 was poorer, less literate and more desperate than any modern one — and it **rejected the maximalist**. So our claim holds not in general but under conditions that must be named: it concerns an electorate offered handouts **within a stable system**, not a poor electorate as such.
+
+The distinction the analysis supplies is what is needed here: voters chose **radical programmes and rejected radical methods**. The SRs demanded the socialisation of land — a programme as radical as they come; their voters did not vote for one-party dictatorship and terror. That is precisely the protocol's profile: **a radical programme with no radical method**, which is historically the profile voters have chosen.
+
+### And the chief lesson, which is not about the filter at all
+
+Both Dumas were dissolved. The Constituent Assembly was dispersed after its first sitting: sailors, a padlock on the door, a guard with machine guns, demonstrations shot.
+
+In both cases **the voter did his part and the failure occurred further down the chain** — where the authorities hold a monopoly. This is the extreme form of what 056f.3b records: techniques end where the opponent counts and decides. 1917 is the harshest known example, and it says nothing about the quality of the voter except that his quality **is not the bottleneck**.
+
+**Weak point.** The experiment is natural rather than designed: between 1906 and 1917 not only the filter changed but everything else — war, revolution, the composition of the parties, the land question — so the conclusion "the filter was not the cause" rests on the removal of the filter coinciding with a **worsening** of all other conditions while the result did not worsen. That is a strong argument but not a flawless one: it remains theoretically possible that the filter held moderation in 1906 while something else held it in 1917. The 1917 figures come from consolidated sources and were not checked against primary returns; the composition of the 1906 Duma is taken from the analysis and was not separately verified. And the transfer to the present is limited: a century, two changes of regime and an entirely different information environment separate that voter from today's. 🟡
 
 ## 2. Brennan: a correct diagnosis, a stillborn prescription
 
