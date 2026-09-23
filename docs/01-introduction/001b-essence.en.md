@@ -38,7 +38,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 - **The social thermostat.** Life gets worse — the mass returns with a vote that now weighs more and fires the managers; it gets better — the mass leaves again. The Check Engine signal: passengers cannot repair the engine but unerringly notice the breakdown (§13.9, 040b.2).
 - **The number is a comprehensible but crude sensor.** The size of the dividend is valuable because it is single, arrives personally and is understood by everyone; as an indicator it is imprecise, but better than none. The real sensor is the share returning with their votes; for those for whom one number is not enough, the candidates will bring the rest in the debates (040b.2b).
 - **The trust barometer.** The share refusing the dividend is the second indicator; countries are comparable only by the pair "D + share of A" (§13.11, 040b.5).
-- **Yin-yang.** Decay runs both ways: an amplified vote is expensive property, its owner starts trading it until the other shareholders unite against him; stability is not the absence of struggle but its flow from state to state (015b.2).
+- **Yin-yang.** Decay runs both ways: an amplified vote is expensive property, its owner starts trading it until the other shareholders unite against him; stability is not the absence of struggle but its flow from state to state (015b.2; at the scale of one household — 019e.5b).
 - **A repeated game.** Elections today are one-shot, where cheating is rational for the incumbent; the protocol satisfies all four of Axelrod's conditions for cooperation: a long shadow of the future, a legible move (the number), cheap retaliation (a tick instead of a revolution), simplicity (013b.3).
 - **The scoreboard as interlingua.** A number needs no translation and no belief — it is received; countries are compared by one figure, and a "special path" stops explaining poverty (040b.4).
 
@@ -105,7 +105,7 @@ An honest list from the sections' "weak points", collected in one place:
 - It does not abolish populism — it deprives it of an audience; the value-driven voter with a strong identity stays with x3 (055d.5).
 - It is designed for electing managers; a one-off constitutional referendum outside the protocol remains a one-way door (055d.8, 013b.3).
 - The dividend is small compared with the losses from bad policy: anger is removed by changing who decides, not by the cheque (055d.9).
-- The first cycle before x10 must be financed in advance; household coercion is not solved by the protocol; a narrow pool of A in a municipality is vulnerable to a cartel (039b.3, 015b.8).
+- The first cycle before x10 must be financed in advance; household coercion is not solved by the protocol, though family voting gets a price for the first time (019e.5b); a narrow pool of A in a municipality is vulnerable to a cartel (039b.3, 015b.8).
 - "A x3 vote" is not a multiplier in the count but the floating arithmetic 1/(1 − the share who exited): every ballot counts as one (033c.9b). The legal wall is not vote weight but payment for non-participation: the US federal contour is closed by §597 (059b.8, 049).
 - The effect figures are model projections; a baseline appears only with a pilot (037b.8). In the dialogues the sums "1,000–1,500 euros" are the model's drift; by the formula, for France ≈ 390 euros, for Britain ≈ £465, for the US ≈ $780 (055d.4).
 

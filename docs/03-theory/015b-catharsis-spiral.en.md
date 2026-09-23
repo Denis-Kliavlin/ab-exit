@@ -179,4 +179,4 @@ The whole section is a model of dynamics, not an observation; no phase is confir
 
 ---
 
-**Related:** §13 (game theory) · 013b (counterintuitive) · 011b (learned helplessness) · 019b (the poor voter's price) · 036d.2 (physics of complex systems) · 040b (07: scoreboard, three generations) · 034b.5 (yin-yang: stability) · 040c.1.5 (scarcity) · 040f.6 (why would the winners steal) · 048d (the forces) · 039b.3 (real strikes) · 059b (Musk: the businessman's ROI)
+**Related:** §13 (game theory) · 013b (counterintuitive) · 011b (learned helplessness) · 019b (the poor voter's price) · 036d.2 (physics of complex systems) · 040b (07: scoreboard, three generations) · 034b.5 (yin-yang: stability) · 040c.1.5 (scarcity) · 040f.6 (why would the winners steal) · 048d (the forces) · 039b.3 (real strikes) · 059b (Musk: the businessman's ROI) · 019e.5b (yin-yang at the scale of one household)

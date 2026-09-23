@@ -30,7 +30,7 @@ Laws against "paying for abstention" were written to fight local corruption — 
 
 ## 5. Yin-yang: why the system is stable
 
-The engineers (yang) cannot turn the country into a brutal cyber-corporation and cut welfare — the mass (yin) will take back its votes and sweep them away. The mass cannot turn on the printing press and hand out empty promises — the vote is temporarily with the engineers, who will not allow it. A self-regulating pendulum: control is not doubled but divided into operational audit (professionals) and quality-of-life control (the mass through the size of its dividend). In detail — 015b.
+The engineers (yang) cannot turn the country into a brutal cyber-corporation and cut welfare — the mass (yin) will take back its votes and sweep them away. The mass cannot turn on the printing press and hand out empty promises — the vote is temporarily with the engineers, who will not allow it. A self-regulating pendulum: control is not doubled but divided into operational audit (professionals) and quality-of-life control (the mass through the size of its dividend). In detail — 015b; at the scale of one household — 019e.5b.
 
 ## 6. The term "state money" dies
 
