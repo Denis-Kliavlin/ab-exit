@@ -82,13 +82,106 @@ But the whole repertoire shares a structure, and it explains why the collapse wa
 
 **Now to the supposition itself, and the answer splits in two.**
 
-**As an action on election day — no, and this must be said plainly.** Smart Voting came with an instruction executable in the booth. The protocol has no such instruction: it requires adoption, by referendum or by law, and neither is available today (§8). An opposition that made the protocol its main proposal before the elections could not have answered the question "what do I do on the twentieth of September," and that objection disposes of the idea in its literal form.
+**As an instruction to a voter in the booth — no, and this must be said plainly.** Smart Voting came with an instruction executable in the booth. The protocol has no such instruction: it requires adoption, by referendum or by law, and neither is available today (§8). An opposition that made the protocol its main proposal before the elections could not have answered the question "what do I mark on the ballot on the twentieth of September".
+
+But **the test "an executable instruction" is set for one addressee — the voter — while an election has a second one, whose decision is built differently**. That is examined in §3c, and it cancels part of the conclusion drawn here.
 
 **As a subject of conversation — yes, and here the architect's position is strong.** By the analysis's own diagnosis, the failure lay not in *how* people voted but in the fact that **they did not come**: "the country passed the test of passive loyalty; it makes no difference why people do not resist." Apathy is not cured by improved booth tactics — tactics answer "how," and the question left unasked was "why bother at all." And here the empty slot becomes visible: **everything the opposition offered was procedural or moral** — honest elections, against the war, against corruption. An offer of the form "here is your share, here is what you personally get" has never been made by anyone — **and the slot stood empty for the whole cycle, with the money and the audience available**. This is §6 of this chapter seen from the other side: not "why won't the opposition take up the protocol" but "what occupies that slot instead" — and the answer is nothing.
 
 **And the supposition has a testable version, closer to hand than it looks.** The protocol requires adoption; the sign in 056d.7b does not. The sign is the one item in the whole construction that could have been announced the day before and performed in the booth without a single change in law. It was not announced; the architect himself regretted this on seeing the election date. So the supposition that the opposition could have spent resources on this and got something **is untested rather than refuted**, and those are different things. A testable version exists and is cheap — hours of video and a single day.
 
 **Weak point.** "Would have been discussed in kitchens" is not a result by this repository's own standards, which elsewhere demand a number. Conversation does not rewrite a precinct protocol or change the composition of the Duma; it changes what people know about one another (056d.7b, East Germany 1989), which works slowly and without guarantees. The relationship "size of payment → participation" has not been measured for Russia, but it has been measured where the payment exists (§13, first row); what has been measured nowhere is the effect of a payment **tied to the act of voting**. 🟡
+
+## 3c. The second addressee: the schoolteacher at the commission table
+
+The architect's objection to §3 and §3b:
+
+> "The protocol would have increased the doubts of state employees and given them cause to think. The schoolteacher on the commission needs money, she is for the authorities — and all they give her is threats and handouts, and they make her work at the elections. And here she can honestly take money, and even the opposition is in favour of giving money to **her** rather than to **them**. And all her colleagues are for it, and the parents are for it, and her husband is for it, and the neighbours are FOR it. And who is against, and why is it illegal or impossible to adopt? Does the opposition offer anything like this now?"
+
+The objection strikes at the construction of the test rather than at its result, and so cannot be dismissed with an adjustment for scale.
+
+### The error was in the choice of addressee
+
+"An executable instruction" is the right test for a voter: he has one action, it is performed in the booth, and for him in September 2026 the protocol indeed offers nothing. But an election has a second person, and **her decision is not a ballot**. A member of a precinct commission decides not "for whom" but "whether to sign what has been written".
+
+That decision requires no instruction and is not prepared for in advance. It is taken at a table, at the end of a long day, looking at the people beside her. Everything that acts on it acts **before** that moment, and through how she understands her own position.
+
+### Her position, without sympathy and without reproach
+
+The schoolteacher at the commission table is neither a supporter nor an opponent. She is a state employee, she was **assigned** to the election, the work pays little, the result is demanded of her, and refusing the assignment costs more than accepting it. Shulman's loyalist majority (056c) is built exactly this way: loyalty consists not in acting for the authorities but in not participating against them.
+
+And this is what the state gives her today: **threats and occasional handouts**. Neither is a right, both depend on a superior, and both must be earned. That is a precise description of a relationship in which there is no share — only favour (compare the analogue at 056f.7j: a payment without a formula is a handout, not a right).
+
+### What the entire current repertoire offers her — and it is zero
+
+| The opposition's technique | What it is **to her** |
+|---|---|
+| Observation | she is the adversary; she is watched, she is caught |
+| Exit polls, "honest precincts" | she is the object of measurement; her work is the thing being exposed |
+| Smart Voting | addressed to her as a voter, not as the person at the table; it does not touch her decision |
+| Boycott, spoiling ballots | nothing |
+| Corruption investigations | about somebody else's wealth; they change nothing in her position and promise her no share |
+
+**The whole repertoire addresses her either as an enemy or not at all.** Not one technique offers her a gain — only risk if she deviates and exposure if she does not. That is the answer to the architect's question: nobody offers anything of the kind at present.
+
+### What the protocol offers — three things, and none of them an instruction
+
+**First: a number about herself.** Not "the authorities steal billions" but "your family's share this cycle is such-and-such". The difference lies not in volume but in the addressee: the first is about someone else's, the second about her own. The calculator (§5) is exactly the translation of an accusation into an account.
+
+**Second: a question her superiors cannot answer aloud.** "Who is against my being paid my share, and why can it not be adopted?" — the foreman test ([23b.2](../05-empirical-base/023b-evidence-rules.en.md)) put not to a fitter but to a head teacher. There are still two answers, both losing: "the state does not want to hand it over" or "asking is disloyal".
+
+**Third, and the architect puts this most strongly: coincidence instead of isolation.** Normally a position against the authorities leaves a person alone within her own circle — the spiral of silence rests on that (056c). Here the circle coincides: colleagues, pupils' parents, husband and neighbours want the same thing, and wanting it requires neither courage nor a political position. For the first time, being in favour of what the opposition proposes **does not remove a person from her milieu but places her in the middle of it**.
+
+### And this explains why September failed in the way it did
+
+§1 recorded against us that the commissions **saw** the genuine result and rewrote it without friction — "seeing is not acting". The conclusion was right and the cause was not named.
+
+The cause is **what exactly they saw**. They saw a fact about strangers: so many unknown people voted otherwise. Such a fact creates no friction, because rewriting takes nothing away from whoever is looking.
+
+Friction is created not by information about others but by **one's own claim, destroyed by that same act**. The protocol gives her precisely that: in signing a rewritten protocol she signs against a sum owed to her family. This does not turn her into a hero — it turns the signature from a dull procedure into a personal loss.
+
+### What it does not give — and the boundary must be held firmly
+
+The likely outcome is **not refusal but a signature with a grievance**. She will sign: refusal costs her job, and the protocol will be rewritten without her. September showed that a grievance is not enough for action, and 048f.4b records the same against us.
+
+But by the standard of comparison with the status quo (048f.4b, 040b.6) a grievance is a result rather than a zero, because the alternative to it is not "refusal" but **the present state, in which she is offered nothing at all**. And that is the only honest way to measure: not "will she break the machine on the twentieth of September" but "does anything change in the position of the drive belt's last link". It does.
+
+### And here is the price she is held at
+
+The architect's refinement, which moves this section from reasoning into arithmetic:
+
+> "Important: the authorities do not maintain all their supporters on large money. In the villages and the regions it is negligible money and fear."
+
+The figure is checkable, and it turned out lower than one might have supposed. At the State Duma elections of autumn 2026 the rates for precinct commission members are: chairman — **63 roubles an hour**, deputy and secretary — 57, **an ordinary member — 45 roubles an hour** [verified against September 2026 publications; the assistant did not open the CEC resolution setting the rates].
+
+Forty-five roubles an hour is **below the statutory minimum wage**, and the lawfulness of that had to be explained separately by the Supreme Court [second-hand: from a publication's headline; the assistant did not read the ruling].
+
+Compute what can be computed. Three-day voting with preparation and an overnight count comes to something like forty hours of work. Forty hours at forty-five roubles is **about 1,800 roubles for the whole election**.
+
+| What | How much |
+|---|---|
+| An ordinary commission member's earnings for the entire campaign | ~1,800 ₽ |
+| The dividend per person per cycle (a repository estimate, unverified) | ~11,000 ₽ |
+| For a family of three | ~33,000 ₽ |
+| Ratio | **roughly twentyfold** |
+
+### Three things follow from that figure
+
+**First: loyalty here is not bought.** Forty-five roubles an hour buys nothing — it merely formalises participation. What holds her is not the pay but the fact that **refusing costs more than agreeing**: her job, her relations with the head teacher, a reputation for being difficult. This is precisely Shulman's definition of the loyalist majority (056c) expressed in money: loyalty consists not in acting for the authorities but in not participating against them being cheaper.
+
+**Second, and chiefly: the regime cannot outbid.** The move "pay our own people more than the protocol promises" runs into scale: it would have to pay the entire drive belt, at every precinct in the country, and not once but every cycle. And the moment it pays, the sum becomes an expectation and cannot be withdrawn, by irreversibility 1 (056). So an attempt to hold the belt with money turns it into **the very institution the whole exercise was meant to prevent**.
+
+**Third: and fear does not need outbidding — it needs bypassing.** The protocol asks her for no courage and does not ask her to refuse anything. It gives her a **lawful ground**, issued by the state itself (056, irreversibility 4). What works against fear is not greater bravery but a piece of paper that removes the need to show any.
+
+### Hence the exact formulation of the asymmetry
+
+The state pays her **forty-five roubles an hour to produce a number**. The protocol offers her family a sum of the order of twenty such earnings — **as a right, not as a fee**, and with the agreement of everyone around her.
+
+This is not a competition between two offers. They are different categories: one is payment for a service that cannot be declined, the other a share that need not be earned. And the regime cannot enter that competition without ceasing to be itself.
+
+**A caveat about the regions, and it favours the architect.** The maximum compensation for time away from one's main job is set by region and in Moscow in 2026 reaches 180,861 roubles for a full month [verified against publications] — but that is **not remuneration, it is reimbursement of forgone salary**, and it is computed from average earnings. In a village where average earnings are a fraction of Moscow's, the reimbursement is a fraction too. So the poorer the territory, the **cheaper** its drive belt is to the regime — and the weightier, for that same person, a fixed dividend computed from the national median rather than from her own wage.
+
+**Weak point.** All of the above reasons about the motives of a person whose motives nobody has measured; the portrait was assembled by the assistant from the repository and from the general description of the loyalist majority, not from data about precinct commission members, which he did not seek. The architect's claim that "all her colleagues are for it, her husband is for it, the neighbours are for it" is an assumption about support for a payment nobody has seen; the nearest confirmed thing available is Alaska's take-up of about 85 % of residents (014), and it says that people take money, not that they speak about it openly where it is promised the label of extremism. And most vulnerable of all: the step from "grievance" to "friction" is shown neither here nor anywhere else, and September 2026 is a direct observation against it. Separately on the commission rates: forty hours of work is the assistant's estimate rather than a norm, and a member's actual hours vary by region and by the number of voting days; the twentyfold ratio rests on a dividend figure flagged as unverified in §5, and changes proportionally with it. 🟡
 
 ## 3b. What the whole opposition cost the authorities — and where the difference lies
 
