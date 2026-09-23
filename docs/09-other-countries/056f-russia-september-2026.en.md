@@ -169,9 +169,61 @@ Compute what can be computed. Three-day voting with preparation and an overnight
 
 **First: loyalty here is not bought.** Forty-five roubles an hour buys nothing — it merely formalises participation. What holds her is not the pay but the fact that **refusing costs more than agreeing**: her job, her relations with the head teacher, a reputation for being difficult. This is precisely Shulman's definition of the loyalist majority (056c) expressed in money: loyalty consists not in acting for the authorities but in not participating against them being cheaper.
 
-**Second, and chiefly: the regime cannot outbid.** The move "pay our own people more than the protocol promises" runs into scale: it would have to pay the entire drive belt, at every precinct in the country, and not once but every cycle. And the moment it pays, the sum becomes an expectation and cannot be withdrawn, by irreversibility 1 (056). So an attempt to hold the belt with money turns it into **the very institution the whole exercise was meant to prevent**.
+**Second: the regime can outbid — but not the people it needs to.** The first edition said here that the regime cannot outbid; that is arithmetically wrong, and the error must be corrected plainly.
+
+The size of a precinct commission is set by statute according to the number of voters: up to 1,001 voters — three to nine members; above two thousand — seven to sixteen [verified against the text of the law]. Precincts number in the tens of thousands and are decreasing [second-hand]. Even on the upper estimate this concerns **hundreds of thousands of people**, not tens of millions.
+
+Raising their remuneration from one and a half or two thousand roubles to thirty thousand comes to **something of the order of ten to thirty billion roubles a cycle**, a small fraction of what the repository estimates the dividend itself to cost (§5). The budget has that money.
+
+**And precisely for that reason the move does not save anything.** What can be bought is **the tellers, not the queue**. The drive belt is not three hundred thousand people at tables but tens of millions of administratively dependent voters who have to be brought in; buying their loyalty by the same logic means paying everyone, and that is the dividend. The outcome of the move: a commission honestly and accurately counting **an empty room**.
 
 **Third: and fear does not need outbidding — it needs bypassing.** The protocol asks her for no courage and does not ask her to refuse anything. It gives her a **lawful ground**, issued by the state itself (056, irreversibility 4). What works against fear is not greater bravery but a piece of paper that removes the need to show any.
+
+### The staffing constraint: where there is nobody left to dismiss
+
+The architect's correction continues, and it changes the geography of the argument:
+
+> "And where you cannot dismiss the last teacher? Somewhere there will be refusal, and they will go looking for half-blind grandmothers — who will agree, but physically cannot stuff ballots. And the grievance will be an angry one, and so will the sabotage."
+
+**A threat of dismissal works only while a replacement exists.** That condition is being met ever less well in the Russian countryside: as of April 2025, **36 % of all open teaching vacancies were in rural schools** (6,574 of 18,287), the shortage traditionally concentrates in rural districts, and teacher numbers have fallen for five years running [verified against publications; the assistant did not open the ministry's primary statistics].
+
+Hence an asymmetry the repository did not have:
+
+> **Coercion is weakest exactly where the demand for compliance is highest.**
+
+It is the rural and small precincts that deliver the results for which the machine exists: §1 cites the Saratov district with precincts showing 99 % turnout and 98 % for a single candidate. And these are the same territories where a head teacher cannot dismiss the only subject teacher, because there is nobody to replace her with and the district would be left without physics.
+
+### Replacement degrades the product, and this is mechanics rather than morals
+
+If the teacher does refuse, the commission has to be staffed by somebody. The statute sets the floor: a small precinct has only **three to nine members** [verified], so the loss of one or two is already a noticeable share of the body.
+
+And here something usually left unsaid must be named: **falsification is labour.** Rewriting a protocol "as if by a ruler" (§1), reconciling the figures, meeting the deadline, producing no discrepancies — that takes literate, quick and organised people. The teacher is exactly that; it is why she is used.
+
+Replacing her with compliant but unfit labour — a pensioner who will agree but cannot keep up and cannot manage — **degrades the quality of the forgery**, not merely its speed. What the regime loses is not loyalty (it never had that) but **skilled coercible labour**, and there is nothing to replace it with: a skilled volunteer for this work is rare, and there is nobody left to compel.
+
+### On sabotage: weaker than stated, and the more reliable for it
+
+"Angry sabotage" is a claim about behaviour nobody has observed, and September 2026 is direct evidence against it: the rewriting happened without friction (§1). It cannot be recorded as a forecast.
+
+But what was stated is not needed. **A withdrawal of discretionary effort** suffices. A forgery rests not on instructions being followed but on people doing **more** than required: staying late, finishing the count, covering, finding solutions in the last hour. Ceasing to do more than required is not sabotage but working to rule; it cannot be punished, because from the outside it is indistinguishable from conscientiousness.
+
+That is the plausible mechanism, and it requires neither courage nor anger — only the absence of a reason to try. A grievance is precisely what removes the reason.
+
+### And the last link: "the budget grows and there will be nothing left to steal"
+
+Here the true must be separated from the overstated.
+
+**It is not true that nothing would be left to steal.** Ten to thirty billion a cycle in commission remuneration is a quantity invisible in a federal budget. It does not consume the rent, and to claim otherwise would be the very stretch that 23b.1 was written against.
+
+**What is true matters more.** Payment for loyalty, converted from fear into money, acquires three properties fear does not have:
+
+| | Fear | Money |
+|---|---|---|
+| visibility | recorded nowhere | a budget line with a name |
+| reversibility | can be relaxed for free | by irreversibility 1, cannot be withdrawn |
+| what it admits | nothing | that turnout is paid for, and therefore not voluntary |
+
+The third row is exactly the "it will become more visible that the authorities pay for loyalty" that the correction points to. This is not the ruin of a budget — it is a **public price list for obedience**, which until now has never had to be named anywhere.
 
 ### Hence the exact formulation of the asymmetry
 
