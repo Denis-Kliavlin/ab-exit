@@ -42,6 +42,58 @@ A ready formula: *"Linz proved that authoritarianism feeds on free apathy. AB-EX
 | 14 | Regimes love mobilisation — political and military | Mobilisation is astronomically expensive: to redirect money to guns the dividend must be cut → an avalanche of refusers votes for peace. A built-in anti-war fuse |
 | 15 | Disputes about terms (fascism/dictatorship/bad democracy) distract from the substance | Labels are irrelevant: the system sees two numbers — the size of the payment and the share of refusers; a smart contract cannot be talked round with terms |
 
+## 2b. The addressee: whom can anything actually be offered
+
+Linz explains **what** authoritarianism lives on (free apathy) and does not answer the practical question: **to whom can an offer be addressed**. The architect's remark fills that gap and generalises the particular case of the commission member (056f.3c) into a principle:
+
+> "The protocol, its introduction or even its discussion works on the regime's supporters and on the controlled and dependent — the people the opposition cannot reach at all and to whom it can offer nothing noticeable except becoming honest fighters."
+
+### A refinement without which the argument misses
+
+"Cannot reach" must be replaced by **"has nothing to offer"**, and that is a strengthening rather than a softening.
+
+Informationally the opposition does reach them: blocked platforms are watched, circumvention is widespread, videos accumulate views (056f.10). The problem is not the channel. The problem is that **the repertoire holds no currency a dependent person can accept**.
+
+The distinction matters for anyone about to act: "cannot reach" is a distribution problem, solvable with money and media. "Nothing to offer" is a design problem, and media do not solve it.
+
+### Why the repertoire holds no such currency — construction, not carelessness
+
+The whole classical set of oppositional actions is built the same way: **a person is asked to pay a personal price for a public good.** Observation costs a day and a risk. Protest costs freedom. An open position costs a job. Even voting for the "right" candidate costs the simplicity of not bothering, in exchange for a distant result.
+
+This is Olson's classic problem (019c.25): dispersed benefit against concentrated costs. And it has a consequence that usually goes unsaid:
+
+> **The price of participation depends on a person's position; the benefit does not.**
+
+For a free city-dweller the price of a day's observation is a day. For a dependent state employee the same price includes her job, her relations with her superior and a conversation at home. The benefit is identical for both — distant and shared. So **one and the same offer is objectively worse for whoever is more dependent**, and the repertoire selects its audience automatically: it is addressed to those who **can afford it**.
+
+Hence a proposition worth holding as a thesis of its own:
+
+| | Addressed to | What it asks | What it gives |
+|---|---|---|---|
+| Observation, protest, an open position | those who can pay | risk, time, a job | a distant shared good |
+| A moral summons ("be honest") | those who already agree | becoming a different person | self-respect |
+| **The protocol** | **those who cannot pay** | **nothing** | **something countable and personal** |
+
+### On "becoming honest fighters" — without mockery, because it is not empty
+
+A moral summons works, and part of history rests on it. But it has a known selection property: it **recruits those already predisposed and repels those with something to lose**. That does not make it useless — it makes it an instrument that by construction cannot reach the majority.
+
+And it has a side effect the remark points at: in calling on a dependent person to become an honest fighter, one **informs him that he is currently dishonest**. A repertoire that otherwise simply fails to notice him begins, at this point, to accuse him. And it offers him no gain whatever.
+
+### What the protocol does — an inversion of the transaction
+
+It **does not ask, it offers**. This is the only item in the whole set for which a dependent person need neither take a risk, nor summon courage, nor declare a position, nor change himself. A share is owed to him, and demanding it is not a political statement (23b.2).
+
+For Linz this is the practical form of his own thesis. Apathy is free while nobody owes the apathetic anything. The protocol makes him **a creditor**, and thereafter what works is not persuasion but an account.
+
+### The honest boundary, and it is substantial
+
+**Today the protocol offers a dependent person not money but a sentence he can say.** Adoption requires a referendum or a law, and neither is available where this argument is most needed (056d.8). The difference between "a share is owed to you" and "you will be paid" must be held, not smudged.
+
+And the strongest objection is not ours, but it must be named first: **an offer contingent on the regime's consent reads to a dependent person as a fantasy**, and he is precisely the most sceptical about promised money, because he has been promised before. The nearest confirmed thing (014) says that people take money that exists; it says nothing about whether they believe in money that does not. The protocol's advantage over the moral summons is **proven by construction and untested in reception**.
+
+**Weak point.** The table above is a classification, not a measurement: the shares of those who "can pay" and those who cannot have not been counted for Russia and, by rule 23b.3, cannot be counted by survey. The claim that a moral summons repels those with something to lose rests on general reasoning about selection rather than on a measurement. And the thesis itself can be tested only by adoption, which means that for the foreseeable future it cannot be tested at all. 🟡
+
 ## 3. Where the table is weaker than it looks
 
 Theses 2, 5, 7, 11, 14 rest on one chain: "bad policy → falling median → falling D → return". The chain works with a data lag (§3) and only if the data source is outside the regime's control (§2). For a regime that *already* controls statistics and the treasury, the table describes not the current but the post-transition state — see 056 (adoption scenario under the current regime) and 057b (Belarus: why discussion matters more than adoption). 🟡

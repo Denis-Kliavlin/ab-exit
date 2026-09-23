@@ -122,7 +122,7 @@ And this is what the state gives her today: **threats and occasional handouts**.
 | Boycott, spoiling ballots | nothing |
 | Corruption investigations | about somebody else's wealth; they change nothing in her position and promise her no share |
 
-**The whole repertoire addresses her either as an enemy or not at all.** Not one technique offers her a gain — only risk if she deviates and exposure if she does not. That is the answer to the architect's question: nobody offers anything of the kind at present.
+**The whole repertoire addresses her either as an enemy or not at all.** This is not peculiar to her case: the general form is in [040i.2b](../06-critique-arsenal/040i-linz-shulman.en.md), which shows why the repertoire is by construction addressed to those who can afford it. Not one technique offers her a gain — only risk if she deviates and exposure if she does not. That is the answer to the architect's question: nobody offers anything of the kind at present.
 
 ### What the protocol offers — three things, and none of them an instruction
 
