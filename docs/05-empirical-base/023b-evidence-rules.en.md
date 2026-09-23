@@ -114,7 +114,7 @@ The order is not arbitrary. Step 1 comes first because someone else's category s
 
 The rules are derived from three cases in work on two country chapters, which is few. That they transfer is an assumption resting on the character of the errors rather than on any check of their frequency in the rest of the repository; no continuous revision of older chapters against these three rules has been carried out, and how much text fails them is unknown.
 
-**A debt on the third field.** The requirement to write the boundary as a discount was introduced later than the tables themselves, and two of them — 056f.13 and 057e.5 — are still written in the binary "does not carry" form. They need rewriting; until that is done, their third column must not be read as a cut-off.
+**What the revision of the tables produced.** Both earlier tables — 056f.13 and 057e.5 — have been rewritten into the new form, and rewriting them changed two readings rather than merely their wording: the Alaskan turnout measurement and East German common knowledge turned out to shift **in both directions at once**, which the binary form had no way of expressing. That is an argument for the rule rather than an ornament: the shape of the field changes the conclusion.
 
 Second, and this concerns 23b.1: the rule demands a search for an analogue but supplies no criterion for **when the search is finished**. "Did not find" and "does not exist" differ only by the searcher's diligence, and diligence cannot be checked — precisely that difference produced the false citation which the rule later exposed. The only available defence is to state **where one looked**, so the reader has something to contradict; it is a weak one.
 

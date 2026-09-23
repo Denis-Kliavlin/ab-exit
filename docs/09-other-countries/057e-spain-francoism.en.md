@@ -81,15 +81,15 @@ The other three conditions read just as practically:
 
 ## 57e.5. How far the analogue carries
 
-By rule 23b.1 — with a boundary, not with praise.
+By rule [23b.1](../05-empirical-base/023b-evidence-rules.en.md) — with a boundary rather than with praise, and the boundary is written as a discount, not as a cut-off.
 
-| Claim | What Spain confirms | Where the analogue ends |
+| Claim | What Spain confirms | What transfers and how much remains |
 |---|---|---|
-| A sterile compulsory channel is captured from inside | the 1966 elections, 70 % new representatives | the capture occurred amid a growing economy, a defected Church and an external partner pressing the regime |
-| A regime fails to foresee the capture of its own procedure | the commissions were tolerated on the expectation of absorbing them | a single case; no special search was made for other attempts that ended otherwise |
-| A demobilising regime survives to a transition | 1975–78 | the transition is explained by four conditions Russia lacks; it does not follow from Spain that a transition will occur |
-| A designated successor gives the elites coordination | 1969 → the pacts of transition | Juan Carlos was a monarch, that is, a bearer of legitimacy external to the regime; Russia has no such source |
-| Emigration works as a valve | 1.3 million, remittances | Spanish émigrés were not declared enemies and they returned |
+| A sterile compulsory channel is captured from inside | the 1966 elections, 70 % new representatives | **Transfers:** both the mechanism and its scale. **The gap:** the capture proceeded amid a growing economy, a defected Church and an external partner pressing the regime — Russia has none of the three → the analogue is **optimistic**. **Remains: the mechanism largely, the magnitude only as an upper bound** |
+| A regime fails to foresee the capture of its own procedure | the commissions were tolerated on the expectation of absorbing them | **Transfers:** the existence of the phenomenon — regimes underestimate their own compulsory procedures. **The gap:** a single case, and no special search was made for attempts that ended otherwise → the direction of the shift is **unknown**, and survivorship selection is possible. **Remains: the existence of the phenomenon only** |
+| A demobilising regime survives to a transition | 1975–78 | **Transfers:** the compatibility of this regime type with a transition. **The gap is decisive:** the transition is explained by four conditions Russia lacks (57e.4) → the analogue is **strongly optimistic**, and "therefore a transition will occur" does not follow from it. **Remains: the existence of the phenomenon only** |
+| A designated successor gives the elites coordination | 1969 → the pacts of transition | **Transfers:** the function of the instrument — a point of assembly lets people prepare for a transition without becoming traitors. **The gap:** Juan Carlos carried legitimacy external to the regime, and Russia has no such source, so the instrument would have to be invented rather than designated. **Remains: the function largely, the means of obtaining it not at all** |
+| Emigration works as a valve | 1.3 million, remittances | **Transfers:** the valve function itself and the order of magnitude. **The gap:** Spanish émigrés were not declared enemies and they returned with Western norms → in Russia the valve works on the way out but not on the way back, so the analogue **overstates** the useful part of the effect. **Remains: half** |
 
 What Spain does **not** supply at all: a case of a payment tied to voting, and a case of an elite split caused by a demand for a share of the rent. These are the same two things left without an analogue in 056f.14, and the Spanish material does not close them.
 
