@@ -437,7 +437,7 @@ The arithmetic is open: at K = 1 % the payment is about 3 % of the rent accruing
 
 Hence a correction to the architect's "a monthly salary or two pensions": those describe not what the formula yields today but **what he wants K to be**. Saying it that way is both more honest and stronger: not "you will be given a monthly salary" but "here is what flows past you, here is what is proposed to be handed over, and here is the slider that decides it."
 
-**Weak point.** Median earnings for Russia were not verified in this calculation: the figure of about 11,000 ₽ is taken from 033c, and working backwards gives an annual median of about 733,000 ₽, which must be confirmed against Rosstat before any calculator is published. The size of bonus B is not estimated at all — it depends on budget savings that do not yet exist. 🟡
+**Weak point.** Median earnings were verified on 24 September 2026: by Rosstat the 2025 median is **65,307 ₽ a month** (73,400 on the broader methodology), that is, about 784,000 ₽ a year and D ≈ 11,750 ₽ at K = 1 % — the repository's ~11,000 is right in order and slightly low [verified against publications]. The earlier caveat, for the record: the figure of about 11,000 ₽ is taken from 033c, and working backwards gives an annual median of about 733,000 ₽, which must be confirmed against Rosstat before any calculator is published. The size of bonus B is not estimated at all — it depends on budget savings that do not yet exist. 🟡
 
 ### The third scale: what it costs the budget as a whole
 
