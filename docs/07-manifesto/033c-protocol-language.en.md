@@ -66,7 +66,7 @@ A useful invariant: at K = 1 % the dividend equals 1.5 % of the annual median wa
 | Germany | ~€45 thousand | ~€680 |
 | United Kingdom | ~£31 thousand | ~£465 |
 | France | ~€26–32 thousand | ~€390–480 |
-| Russia | ~700 thousand roubles | ~11 thousand roubles |
+| Russia | ~784 thousand roubles (Rosstat, 2025 median: 65,307 ₽/month) | ~11.8 thousand roubles |
 | Moldova | ~130–170 thousand lei | ~2–2.5 thousand lei |
 
 For rich countries the examples in the texts ("$1,000", "$1,500") lie in the same order as the formula. For France ("1,000–1,500 euros" in 055b and 048e) the gap is already three to four times, and for Russia ("70–75 thousand roubles, a month's wage" in 056d) — six to seven times: that is not "four working days" but "a month", and corresponds to K of about 6–7 %, not 1 %. These places are marked as illustrations. The coefficient K is a parameter set by the referendum of a specific territory; but arguments built on "a month's wage" must, at K = 1 %, be read as arguments about four days' pay.
