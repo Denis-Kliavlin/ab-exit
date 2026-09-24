@@ -108,6 +108,8 @@ The objection strikes at the construction of the test rather than at its result,
 
 That decision requires no instruction and is not prepared for in advance. It is taken at a table, at the end of a long day, looking at the people beside her. Everything that acts on it acts **before** that moment, and through how she understands her own position.
 
+The composition of this electorate in figures — by sex, age and demography — is gathered in [019e.7](../04-electoral-dynamics/019e-marriage-penalty.md) (Russian only for now); here is one person from it.
+
 ### Her position, without sympathy and without reproach
 
 The schoolteacher at the commission table is neither a supporter nor an opponent. She is a state employee, she was **assigned** to the election, the work pays little, the result is demanded of her, and refusing the assignment costs more than accepting it. Shulman's loyalist majority (056c) is built exactly this way: loyalty consists not in acting for the authorities but in not participating against them.
