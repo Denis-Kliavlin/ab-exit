@@ -37,6 +37,8 @@ What survives of the mechanism. Kuran was never describing immediate action: acc
 
 **Boldness as the only measurable quantity.** The analysis concludes that the result of an authoritarian election is predetermined, but **the degree of brazenness in the fraud is the only thing that indicates the scale of what is intended**. 355 seats and under a hundred for the systemic opposition is a bid for which a constitutional majority is not enough. The observation deserves recording on its own: a wholly drawn number still carries information — just not the information it claims. It says nothing about support and a great deal about plans.
 
+**A correction from Katz's second analysis (24 September): a drawn-in number binds whoever drew it.** A result of 355 seats cannot be sold to the public and does not need to be: the constitutional majority would have survived with fifty fewer. It is addressed to one viewer. But a drawn-in number has a recipient who believes it — and thereafter it works as a mandate: if support for the war has "grown", then more can be demanded, and any argument about the war's price is met with the figure. The analysis calls this a debt pyramid: the more is added, the more must be covered. For the thesis of the examination this means the examination binds not only the examined but the examiner: a system that has written itself such a credit will be bent to service it.
+
 **And the strongest part concerns the thesis of elections as an examination.** In 048i.6c the technique is described after Shulman: elections in an autocracy are the state machine's examination in loyalty, and digitising them abolishes the examination. The analysis gives this an operational form the repository lacked: "electoral mobilisation differs technically in no way from mobilisation to the front — it is exactly the same administrative exercise; the chain of command must on order turn people into loyal voters or into soldiers." And then the conclusion the examination is held for: mobilisation may follow **the electoral map** — the quieter the elections passed and the less plausible the drawn result, the better the local authorities are held to control their territory.
 
 If so, the examination stops being a metaphor: its result is used as a target map. For 048i.6c this strengthens the argument about why the regime clings to paper elections and why digitising them is expensive for it — and it is also a warning about what an excellent grade on that examination brings to the inhabitants of the region that earned it.
@@ -201,6 +203,30 @@ And here something usually left unsaid must be named: **falsification is labour.
 
 Replacing her with compliant but unfit labour — a pensioner who will agree but cannot keep up and cannot manage — **degrades the quality of the forgery**, not merely its speed. What the regime loses is not loyalty (it never had that) but **skilled coercible labour**, and there is nothing to replace it with: a skilled volunteer for this work is rare, and there is nobody left to compel.
 
+### Katz's second analysis: the director is squeezed from both sides, and he pays first
+
+The architect's remark on the second post-election analysis (Maxim Katz, 24 September): "Katz again confirms the dependent electorate, and confirms that the protocol can effectively drive a wedge between the regime's commands and its accountable, dependent executors."
+
+The first — yes, and with details the chapter did not have. The second — no, and this must be recorded precisely: the analysis confirms the **location** of the wedge and at the same time confirms that in September 2026 **there was no wedge**.
+
+**What the analysis adds to the portrait of the dependent.** Three things, all observed.
+
+*Tracking by name.* "This time the managers did not merely persuade en masse but took the trouble to check up on and track each person individually — voted or not." Individual monitoring of turnout is not a future risk of the protocol but the present state of affairs. Public A/B status (048h.2) does not create surveillance that does not exist; it changes what stands behind the tracked act — **a lawful ground** rather than a fault.
+
+*The family multiplier.* "Social media are full of stories of a state-employed mother tearfully begging the whole family to vote, or she will face trouble at work." One dependent person yields several compelled votes: coercion passes through the household. This is 019e seen from the other side — a guarantee tied to one person drags along everyone who depends on her. Under the protocol the same channel runs the other way: a mother with a lawful ground not to come has no need to beg anyone, and the multiplier changes sign.
+
+*A vote so as to be "left alone".* "These are not votes for the war, they are votes so that they and their relatives are left alone." The analysis independently confirms what this section derived: the dependent person has no position — he has a price of non-participation, and it is paid with a tick.
+
+**What the analysis adds to the portrait of the executor — and this is a new link.** "Hundreds of thousands of petty bosses across the country are not landlords in an ivory castle. They are people on low pay with enormous responsibility, who depend entirely on their collectives. A head teacher who pressed, shouted and threatened colleagues still has to work with those people. A collective that has turned against its director will make his work unbearable."
+
+Until now the foreman in this chapter (23b.2) stood as the transmission link between the vertical and the subordinate. The analysis shows the link is **squeezed from both sides**: a demand from above, and from below a collective on which the director depends after the election just as the collective depends on him before it. And he risks his relations with the collective "in the name of the state's will".
+
+Hence the exact location of the wedge. It is not between the director and the state — there the director is defenceless, and that is known. It is **between the director and his own people**, and the director pays for it: a collective that has acquired a question the director cannot answer (23b.2) makes his work unbearable — that is, it exacts from him the very price the analysis describes as an already existing risk.
+
+**And why "confirms that the protocol will drive a wedge" is wrong.** The analysis ends: "The state vertical is loyal and works like ChatGPT. Whatever demands were loaded into it, those are the figures it produced. No failures, no sabotage on the ground, no improvisation." That is a direct observation: the director was squeezed from both sides — and **complied all the same**, because nobody was pressing him from below. There is somewhere to drive the wedge; there was nothing to drive it with.
+
+What was missing was not pressure but **a ground for pressure that the collective can name aloud without becoming the opposition**. The protocol supplies exactly that: "I am owed this, and you are demanding that I give it up." This is not confirmed by the analysis — it is what follows from the analysis once the thing absent in September is substituted in.
+
 ### On sabotage: weaker than stated, and the more reliable for it
 
 "Angry sabotage" is a claim about behaviour nobody has observed, and September 2026 is direct evidence against it: the rewriting happened without friction (§1). It cannot be recorded as a forecast.
@@ -208,6 +234,8 @@ Replacing her with compliant but unfit labour — a pensioner who will agree but
 But what was stated is not needed. **A withdrawal of discretionary effort** suffices. A forgery rests not on instructions being followed but on people doing **more** than required: staying late, finishing the count, covering, finding solutions in the last hour. Ceasing to do more than required is not sabotage but working to rule; it cannot be punished, because from the outside it is indistinguishable from conscientiousness.
 
 That is the plausible mechanism, and it requires neither courage nor anger — only the absence of a reason to try. A grievance is precisely what removes the reason.
+
+Katz's second analysis confirms this outright: "no failures, no sabotage on the ground, no improvisation" — even though the directors, by his own account, were risking their collectives. The link squeezed from both sides complied in full, because there was nothing from below worth not complying for. That is an argument for the weakened formulation above and against "angry sabotage": without a ground from below there will be no working to rule either, and with one, working to rule will suffice.
 
 ### And the last link: "the budget grows and there will be nothing left to steal"
 
