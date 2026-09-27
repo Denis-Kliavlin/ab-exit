@@ -78,6 +78,20 @@ And the sane politician's programme here is not "control is harmful" (an abstrac
 
 The exit rates are a model, not a measurement; their dependence on the sum (a third of a month against a month, 033c.9c) is unmeasured and is the first question for a pilot. The division of the electorate by personal stake is made from indirect signs (self-rated situation, origin of votes), not from a direct question "would you take". For Mecklenburg the repository's two models give opposite signs. In Berlin the share of sitting tenants for whom a cap pays even in the long run (the bill is paid by newcomers and their children) is not counted: with 85 % tenants it may be a majority of those remaining, and there the argument strikes at interest, not at misunderstanding. 🟡
 
+### 6.6. A campaign in Germany: fight for the right to ask, not promise a payment
+
+The wall of § 108b StGB (criminal liability for offering a benefit "for not voting") and the absence of a federal referendum make the promise "I will pay" undeliverable — the first crash point of 6.5 and the Merz effect from the same interview: "you will feel it in your wallet" → they did not → a double minus. The architect's correction turns the wall into the engine: the underdog's promise is honest and different — **"the government has deprived you of the right to dispose of your own vote and has forbidden even asking you; I will fight until it is allowed — courts and whatever it takes."** It is delivered in the first week after nomination, because what is promised is an action, not a sum:
+
+1. filing a Volksbegehren at Land level (Berlin, Brandenburg, Saxony — where the procedure exists);
+2. a lawsuit against applying § 108b to a public offer by the state adopted by a citizens' vote (a test of the "equal" principle of Art. 38 GG: every ballot still counts as one, 033c.9b);
+3. a private vote in one district of ~1,000 people with a real neighbourhood fund and a real fork "€25–30 or a weighted vote" (052; 035 — a private referendum as a poll protected by freedom of speech).
+
+Why this is brighter than any payment and why the government loses on every answer. In Germany vote-buying already exists and is legal: under the party-financing law the state pays parties about €1 for every vote cast for them, of the order of €200 million a year. The question of 033b "why may they and not I?" is here not rhetoric but a budget line. The government's four answers (046.4) — fiscal ("irresponsible", with €200 million to parties), sacred ("the vote is not for sale" — but parties are paid for it), paternalistic ("they'll vote with their wallet"), honest — each becomes a campaign clip; there is no fifth answer. Then Route B works (035): parliament's silence is a scandal, ridicule is "he called you fools", a ban on the private poll is autocracy on camera.
+
+Every word of the promise is verifiable: the ban is real, the fight is real, the outcome is not promised. The candidate does not say "I will give" — he says "I will ask you and will not let them forbid you to answer". For a campaign plan this changes the core of the task: not "how to sell a payment" but **how to sell the right to ask**.
+
+The weak point comes from 022 §67.3: procedural promises are bland ("we'll change the way votes are counted"). Here the process is saved by two elements the centrists never had — a sum in the headline and a named culprit; without either, "I will fight for your right" sounds like RCV. Every piece of material must carry both: €600 and the one who forbade it. 🟡
+
 ---
 
 **Related:** 055 (EU: placeholder) · 055b (France) · 040 (07: media strategy) · 029 (hypocrisy) · 039 (07: opponents) · 056d (Galliamov, Katz) · 033c.7 (greed against stupidity) · 048e (export of truth)
