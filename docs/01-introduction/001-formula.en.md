@@ -38,11 +38,11 @@ politician intervening.
 
 *(The architect's position, 29.09.2026.)* The percentage is not a dogma. The sum must be **important and desirable for those who have no wish to vote**: the apathetic and those who vote on impulse (protest, grievance, "against all"). The protocol's aim is to take them out of the decisive vote without hurting them financially; K is whatever value produces that result.
 
-A balance has to be found here:
+A balance has to be found here — but not a point of rest: for the money some of the uninterested leave, while for the increased weight of the vote others come, and the system keeps moving from cycle to cycle (055c §6.3b, 001b §4). K sets the starting point:
 
 | If K is too small | If K is too large |
 |---|---|
-| The sum is not desirable for the uninterested; they stay in the election, and the protocol does not change who decides. Example: in Saxony-Anhalt at K = 1% (≈€600) the AfD stays first — it loses first place only when more than 73% of its electorate takes the payment (055c §6) | The cost to the budget grows, and B also draws those who have a personal reason to vote but for whom the sum is too large to refuse |
+| The sum is not desirable for the uninterested; they stay in the election, and the protocol does not change who decides. **A populist wins only when the payment is insufficient** (055c §6.3b): in Saxony-Anhalt the AfD loses first place only when more than 73% of its electorate takes the payment | The cost to the budget grows while the effect saturates: exit among the populist's poor base hits its ceiling, and wealthier voters do not leave for the sum — the increased weight of their vote keeps them. In Saxony-Anhalt the step from 1% to 2% takes 4.1 pp off the AfD, the step from 2% to 3% only 2.7 pp for the same added cost (055c §6.3b) |
 
 The working measure is **a sum desirable for 40–50% of the population**. The exit rate is a function of the sum relative to a person's disposable remainder: 90–95% exit comes with a sum of the order of a month's earnings of the lower half (045). Example for Russia: 40–50 thousand ₽ per cycle, about 0.6–0.75 of the median monthly wage (056f §13b).
 

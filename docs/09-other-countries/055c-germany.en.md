@@ -66,6 +66,39 @@ The threshold: the AfD loses first place when its electorate takes D more often 
 
 In Mecklenburg the sign is undetermined: if exit follows motivation, the SPD comes first; if it follows age and money (016 §25: pensioners take 65–85 %), the SPD's elderly base leaves first and the AfD's lead grows. Two rate models in the repository give opposite signs here — this is the first thing a pilot must measure (040.5, KPI No. 1).
 
+### 6.3b. How large K should be: a calculation with the simulator's formula
+
+*(Added 29.09.2026; the conclusion accepted by the architect: "populists win only if the payment is insufficient.")*
+
+Table 6.3 holds exit rates constant. To see what a higher K does, the dependence of the rate on the sum is needed. It already exists in the repository's simulator (`simulation/referendum-lab/model.mjs`, function `estimateElectionChoice`):
+
+```
+logit(p_exit) = a + 1.65·ln(1 + S) − 0.9·civic_utility − sensitivity·1.15·ln(W) − 0.35·ROI
+S = D / monthly_income × liquidity_stress
+W = 1 / (1 − share_taking)
+```
+
+Three properties of the formula decide the outcome. **A hyperbola over the remainder:** the odds of taking grow as (1 + S)^1.65, and S for the poor segment in the simulator's profile is roughly a hundred times that of the rich one, so a higher D barely touches the rich and pulls the poor hard — the poor vote for populists, the well-off for the sensible, and there is no proportional response to the sum. **ROI:** the political stake grows with income and assets and keeps the well-off in A. **The feedback W:** the more take, the more valuable the remaining vote, and some people come back.
+
+The shifts *a* are calibrated to reproduce the rates of table 6.3 at K = 1%; the income profiles of the electorates are an assumption (average household income €2,800 a month; AfD — 0.6 of the median with liquidity stress 1.5; CDU — 1.1 and 0.8; Greens — 1.6 and 0.4; Linke and others — 0.7 and 1.2).
+
+| | Voting, % of roll | Vote weight | AfD exit | CDU exit | Greens exit | **AfD** | CDU | Greens | Linke | SPD |
+|---|---|---|---|---|---|---|---|---|---|---|
+| fact | 78 | 1 | — | — | — | **43.8** | 17.2 | 8.9 | 8.6 | 9.3 |
+| K = 1% | 33.5 | 2.7 | 80% | 40% | 25% | **20.4** | 24.0 | 15.5 | 14.0 | 13.0 |
+| K = 2% | 30.4 | 3.05 | 86% | 41% | 23% | **16.3** | 25.9 | 17.6 | 14.2 | 13.7 |
+| K = 3% | 28.1 | 3.3 | 89% | 43% | 22% | **13.6** | 27.2 | 19.4 | 14.2 | 14.2 |
+
+What follows:
+
+- **A populist wins only if the payment is insufficient.** His base is poor, and at a sufficient sum it takes the money more often than anyone; the AfD keeps first place only below the threshold of 73% exit among its electorate (6.3).
+- **The mainstream does not flee from the sum.** CDU exit barely changes, and Greens exit even falls as the sum grows (25 → 23%): for them the sum is small, and the increased weight of the vote keeps them. The scenario "a large sum will lure the sensible away too" does not arise under the repository's formula.
+- **The effect saturates; the cost does not.** From 1% to 2% the AfD loses 4.1 pp, from 2% to 3% 2.7 pp; the cost grows almost linearly (≈4% of the Land budget at 1%, ≈13% at 3%, 045). For Saxony-Anhalt a sensible starting point is around 2%: the AfD in third place with 16.3%.
+- **Turnout falls gently** (33 → 30 → 28% of the roll), because the rising vote weight brings some people back.
+- **There is no equilibrium — the system keeps moving.** The architect's correction: "for the money some of the apathetic leave, but some come for the vote ×2; that is the essence of AB-EXIT — there is no balance, it always moves." The table is a snapshot of one cycle, not a point of rest: the exit of some raises the vote weight, the higher weight brings in others (in the simulator — core activation and transitions between cycles, `coreActivation`, `cycleTransition`), and their arrival lowers the weight again. Party percentages will fluctuate from cycle to cycle. K sets the starting point; after that the thermostat moves the system (001b §4). That is why an exact percentage is hard to compute: this is not a flaw of the calculation but a property of the mechanism.
+
+The simulator itself marks the formula's coefficients as a hypothesis; the income profiles by party are the assistant's assumption. The shape of the dependence — a hyperbola over the remainder and the well-off held by vote weight — does not depend on these numbers.
+
 ### 6.4. Berlin: populism with a personal stake, and why it is a textbook case, not a boundary
 
 Rent is populism pure and explicit: price = demand / supply; demand is the city's growth, supply is squeezed by the state itself (permits taking years, standards, construction costs, the Mietpreisbremse since 2015), and a party promising to treat the price by controlling the price treats the symptom with the instrument that produces the disease. The analogues are measured: Berlin's Mietendeckel 2020–2021 — rental supply in the regulated segment fell roughly by half in a year, flats went to sale, the court struck it down in April 2021; San Francisco (Diamond, McQuade, Qian 2019) — rental housing supply −15 %, city-wide rents rose. The landlord is a baker with one bakery: bought on credit, renovated, pays tax, competes with tens of thousands like him at 1–2 % net; he cannot jack up the price, and when it rises for everyone that is a shortage of flour, not a cartel of bakers. The populist points at the baker so as not to point at the one who holds the flour.
