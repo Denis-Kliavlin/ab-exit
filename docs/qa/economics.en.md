@@ -13,7 +13,7 @@ General rules of the base — [in the introduction](index.md).
 **Related:** Q-ECO-003, Q-LEG-004
 
 **Answer.** The payment is not a fixed sum but **a share of median income**:
-D = M × 1.5 %, where M is the median from W-2 data via the SSA, the dividend coefficient K = 1 %,
+D = M × 1.5 %, where M is the median from W-2 data via the SSA, the dividend coefficient K (not a dogma: chosen so that the sum is desirable for those who do not wish to vote; 1% is an illustration, see §1),
 the household multiplier 1.5. An independent trust fund pays it, automatically;
 the sitting government can neither set nor change the amount. The key property is
 **self-calibration**: the economy grows → the sum grows, but citizens' incomes grow faster,

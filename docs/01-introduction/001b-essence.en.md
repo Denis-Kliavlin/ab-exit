@@ -12,7 +12,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 
 ## 1. The fork
 
-- **The formula.** D = M × 1.5 × K, where M is the median wage from an independent federal source, K = 1 %. Any student can recompute the sum; not one parameter is controlled by the power for which the election is held (001, 048b, 048f.5).
+- **The formula.** D = M × 1.5 × K, where M is the median wage from an independent federal source, and K is not a dogma: the sum must be desirable for those who have no wish to vote (working measure: for 40–50% of the population; 1% is a starting illustration, 001). Any student can recompute the sum; not one parameter is controlled by the power for which the election is held (001, 048b, 048f.5).
 - **Once per cycle, not monthly.** A lump sum is an event remembered to the cent; its reduction flares in the same interface where the political decision is taken. A monthly drift into UBI is the model's error, not the protocol's (033c.5, 020).
 - **Reversible.** The right returns automatically; the person has not sold his citizenship, he has leased his vote for a cycle (043 §75.5, 015b.5).
 - **Private by default, open by choice.** The A/B status is seen by the person and the treasury (048i.5b); disclosing it is a right, not a duty. Against a boss openness is stronger than secrecy: "yes, I took the money — so what? If you want me to vote for you, pay the same" — blackmail turns into farce (033c.4, 056d.4). Against pressure from one's own — a union, a community — secrecy is stronger: the leader can order but cannot check (018 §31.3).
