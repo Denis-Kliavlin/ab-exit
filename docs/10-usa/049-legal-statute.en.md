@@ -319,7 +319,7 @@ or any variable in the dividend formula.
 **Why REJECTED as the base:**
 
 - K = 1 % is already sufficient to destroy vote-buying (the poor's subjective premium = 400 %, i.e. 1,200 safe lei = 6,000 subjective > 1,700 dirty from Shor)
-- K = 2 % = a loss of legitimacy (78 % take the dividend, only 22 % vote)
+- ~~K = 2 % = a loss of legitimacy (78 % take the dividend, only 22 % vote)~~ — **inverted 28.09.2026 by the architect's position:** 78 % taking is not a loss of legitimacy but the protocol's goal: those vote who came by reason, not by impulse; K is a tuning parameter for this result, not a dogma (055c §6.3, 033c.9c). The only remaining argument against K = 2 % is the budgetary one (next line)
 - K = 2 % = excessively expensive for the budget
 - **Compromise:** K = 1 % as the standard; raising to 2 % — a decision of the local council if savings exist
 

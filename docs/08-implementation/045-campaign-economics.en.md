@@ -59,6 +59,7 @@ Of a turnout of ~80 % this is 12–19 % of votes; **"for" — 81–88 %.** The o
 4. **Combination with big elections** — takes away the opponent's "inconvenient Sunday".
 5. **A frame for chronic non-voters:** "Come once — so as never to come again. And get paid for it."
 6. **A live precedent** (at least one municipality with a real payment) is worth more than any increase of the sum.
+7. **Count the budget by region, not by country.** "1–2 % of the budget" is an average; in a poor region with high exit the share is higher: Saxony-Anhalt at K = 1 % and ~53 % exit — ~€550 million ≈ 4 % of the Land budget, at K = 3 % — ~13 % (055c §6). Show this line next to any K, otherwise "any K for the result" reads as free.
 
 ---
 

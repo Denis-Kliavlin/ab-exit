@@ -158,7 +158,7 @@ The architect asked whether any known channels remain unexamined — carousels a
 
 | Technique | How it works today | What becomes of it after the protocol |
 |---|---|---|
-| Rewriting the results protocol | Figures are changed at the higher commission; no ballots needed | Open votes are summed by tokens independently of the commission (§2); only the secret channel can be rewritten — 5–10 % of votes, bounded by the number of signatures |
+| Rewriting the results protocol — including **after publication**: September 2026, Moscow precinct 248, 224 → 27 two days after entry into the GAS system (056f.1) | Figures are changed at the higher commission; no ballots needed; the posted copy does not get in the way | Open votes are summed by tokens independently of the commission (§2); only the secret channel can be rewritten — 5–10 % of votes, bounded by the number of signatures |
 | Home voting | A mobile ballot box outside the station; people vote "for the grannies" | Pensioners take the sum more often than anyone; their records are closed and nobody can vote for them |
 | Carousel | The same people vote at several stations on absentee and supplementary lists | It needs other people's or "nobody's" records and paper lists not linked to one another; in a single register with record status a second vote produces a conflict at once |
 | Spoiling the opponent's ballots | A second mark is added during the count | Possible only in the secret channel; an open vote cannot be spoiled |

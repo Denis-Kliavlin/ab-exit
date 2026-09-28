@@ -113,6 +113,45 @@ When an academic says "AB-EXIT will create a precedent of citizens' demands", he
 
 > "Let's record what you just said. You object to AB-EXIT because it will create a precedent of citizens' demands. Wait. Professor Shulman calls the growth of civic participation the direction of democracy's reinvention. Brookings publishes reports. What you call the risk of AB-EXIT is **the direct realisation of what the academic establishment publicly demands**. You object because it works **too well**? Then take back the declaration. Say honestly: you don't want more participation. You want the rhetoric of more participation while keeping the current level of control."
 
+## 29.10. The mirror of trust: a runner without a stopwatch, lies without consequences, a word without a price
+
+Added 28 September 2026 after a review with the architect. Surveys of trust in elected power measure the same quantity as non-turnout — from the other side.
+
+### The numbers
+
+| Source | What is measured | Result |
+|---|---|---|
+| OECD Trust Survey 2024 (30 countries, ~60k) | trust in institutions, high/moderately high | police 63 %, courts 54 %, civil service 45 %, government 39 %, **parliament 37 %** (Chile 19 % — Luxembourg 57 %), **parties 24 %** |
+| same | "the system lets people like me have a say" | ~30 %; trust in government among those who feel they have a say **69 %**, among those who do not **22 %**; a gap larger than any by income, education or age |
+| Eurobarometer 103, Spring 2025 (EU-27) | "tend to trust" the national parliament | **37 %** |
+| Gallup, June 2025 (USA) | "great deal / quite a lot" of confidence in Congress | **~10 %** |
+| Valgarðsson & Jennings, BJPS 2025 (3,377 surveys, 143 countries, 1958–2019) | trust trend | parliament **−9 points** over 1990–2019, falling in 36 democracies, rising in 6; police **+13**; courts and civil service stable |
+| Forsa, turn of 2024/2025 (Germany) | trust in the Bundestag | **37 %**, −13 in a year; among AfD supporters 2–3 in 100 |
+| Pew, September 2023 (USA, 8,480) | assessment of the system | "works very well" — **4 %**; "exhausted by politics" 65 %, angry 55 % |
+| Knight Foundation, 2020 (12,000 chronic US non-voters) | why they do not vote | 53 % — "it makes no difference who is elected" (24 % among voters); trust neither the count nor the representation; "not that different from voters" |
+| Bertelsmann, "Prekäre Wahlen" (Germany) | social composition of non-turnout | turnout inequality tripled in 40 years; in low-turnout districts 67 % are precarious milieus, in high-turnout ones 7 %; gap between districts of one city up to 46 points |
+| **Switzerland** (OECD 2024) | the control case | parliament **53 %**, government **62 %**, "have a say" **65 %**, the only country with a majority; federal turnout ~46 % |
+
+What falls is trust not in the state but in **representation**: police and courts rise, parliament and parties fall. People stopped believing not the apparatus but that they are represented.
+
+### A runner without a stopwatch
+
+The architect's objection: if the country chose a runner for the championship and not my runner was chosen, I would not say I distrust him — he is clearly strong, the chances are good. Why then does half the population distrust parliament? Because the runner has three things parliament lacks. **A shared goal**: he runs for the country, his victory is mine automatically; the deputy is distrusted not because he is weak but because people do not believe he runs for them (66 % of AfD supporters — "less than a fair share"; per OECD ~30 % believe the government would refuse a corporation). **A stopwatch**: the runner's result is public and undeniable; nobody sees parliament's result — the police and courts are trusted because their work is visible every day. **No discretion after selection**: the runner is chosen — he runs; the deputy is chosen — for four years he decides for himself (036c.3, Kydland–Prescott: the promise is revised tomorrow because it can be). Distrust is a judgement not of the person but of a position in which one can deceive without consequences. And the country has no championship: nobody forces it to run while there is no scoreboard comparing it with its neighbours (040b.4, 048e). The dividend is the stopwatch; the weighted vote is the lever; the median formula is the shared goal.
+
+### Lies without consequences
+
+Is distrust linked to politicians lying to people's faces with impunity — for which a friend would be dropped? It is, but more precisely than "they lie and nothing happens". Pledges are mostly kept: Thomson, Royed, Naurin et al. (AJPS 2017), 18,743 pledges, 54 campaigns, 12 countries — parties in government fulfil most, single-party cabinets the most; yet voters are sure of the opposite (the "pledge puzzle"). Distrust is caused not by the share but by **the brazenness of specific ones**: Merz's "you will feel it in your wallet" — one, personally verifiable, said to the face — weighs more than nine fulfilled programme items nobody knows about. And lying is not punished — it is rewarded by those who distrust: Hahl, Kim, Zuckerman Sivan (ASR 2018) — when a group considers the system illegitimate, a flagrant liar reads as an authentic champion; 30,573 false or misleading claims in a term (Washington Post) — and re-election. The trusting punish lies; the distrusting vote for them (051 §30.1 — the spiral of lies). A friend is dropped because friendship is a repeated game with a verifiable fact and an exit; politics is a one-shot game every four years with millions, the fact unverifiable, no exit (013b.3). Brazenness is not a vice but the rational strategy of a position without a stopwatch, a return match or a door.
+
+### A word with a price
+
+In survey experiments voters, especially distrusting ones, declare they will punish a broken pledge; in real elections party identity overrides it (Matthieß, Electoral Studies 2022). This is not an obstacle for the protocol but the very thing measured: the gap between stated and done — the 47 % Say-Do Gap of 043 §75.6 — is the signature of a voter without a stake, and the protocol does not close it by persuasion but **monetises** it. Whoever's word diverges from deed takes B; whoever stays in A has paid for the right to keep his word. After the filter, retrospective punishment, which did not work for Achen and Bartels (051 §30.4: no metric), acquires both a metric and an executor. The liar is re-elected by an electorate of liars — not from malice but by symmetry: neither side's word costs anything. The protocol puts a price on the voter's word first; only then does the politician's word acquire one.
+
+### Weak point
+
+All figures are stated preferences (23b.3), question wordings differ (a 0–10 scale, "tend to trust", "great deal / quite a lot"), the 37/37 coincidence is partly accidental; the Valgarðsson–Jennings trend ends in 2019. OECD causality is correlational: those who voted for the party in power trust more (Figure 2.4), part of the 69/22 gap is "my side won", not "a say". Swiss turnout is low partly because of the frequency of votes. Part of distrust is tribal, and a stopwatch only reduces it. Whether those remaining keep the will to punish "their own" — the protocol makes punishment possible, not obligatory. 🟡
+
+**Sources:** OECD Survey on Drivers of Trust in Public Institutions — 2024 Results; Standard Eurobarometer 103 (Spring 2025); Gallup, Confidence in Institutions (June 2025); Valgarðsson V., Jennings W. et al., British Journal of Political Science, 2025; Forsa/RTL-ntv Institutionen-Vertrauensranking 2025; Pew Research Center, "Americans' Dismal Views of the Nation's Politics", 19.09.2023; Knight Foundation, "The 100 Million Project", 2020; Bertelsmann Stiftung, "Prekäre Wahlen", 2013–2017; Thomson R., Royed T., Naurin E. et al., AJPS 61(3), 2017; Naurin E., "Election Promises, Party Behaviour and Voter Perceptions", 2011; Hahl O., Kim M., Zuckerman Sivan E., American Sociological Review 83(1), 2018; Washington Post Fact Checker, 24.01.2021; Matthieß T., Electoral Studies, 2022.
+
 ---
 
 **Source:** written in the claude.ai chat, sessions 31–32, as §96 in v6.55. Moved to file 06 on structural hypocrisy and the arsenal of the elites in v6.56_clean.

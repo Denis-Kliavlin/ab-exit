@@ -196,4 +196,4 @@ Three things, all three already built into 19e.5.
 
 ---
 
-**Related:** 019b (the split of demand: money by law, the vote for justice) · 019c (reform by subtraction) · 018 §31.3 (one can order but cannot check) · 011b (learned helplessness) · 015c §7a (states, not types) · 033c.4 (publicity of status) · 020 (why this is not UBI) · 015b.2, 015b.6d (yin-yang; three states) · 039b.3.3 (kitchen terrorism) · 048h.4 (family voting measured) · 042 (crediting to the account) · 056d.4 (the price of coercion)
+**Related:** 019f (the vector: wearing down men, the peacetime loop) · 019b (the split of demand: money by law, the vote for justice) · 019c (reform by subtraction) · 018 §31.3 (one can order but cannot check) · 011b (learned helplessness) · 015c §7a (states, not types) · 033c.4 (publicity of status) · 020 (why this is not UBI) · 015b.2, 015b.6d (yin-yang; three states) · 039b.3.3 (kitchen terrorism) · 048h.4 (family voting measured) · 042 (crediting to the account) · 056d.4 (the price of coercion)
