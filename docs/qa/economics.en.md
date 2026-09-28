@@ -87,3 +87,29 @@ not a new category of expenditure but **a redirection of an existing one**.
 but does not cover the full volume of payments at a high exit share. If half the country chooses B,
 "redirection" no longer explains it — a separate source will be required.
 For now that is an assumption, not a calculation.
+
+---
+
+### Q-ECO-005 · The state has lived on debt for decades and has not collapsed. So everything is fine?
+
+**Status:** ✅ answered
+**Who asks:** ordinary citizens, taxpayers, depositors
+**Source in the book:** [§34 item 80.4a](../07-manifesto/034-state-as-corporation.md), [§34 item 80.4](../07-manifesto/034-state-as-corporation.md), [056f](../09-other-countries/056f-russia-september-2026.md)
+**Related:** Q-ECO-003, Q-ECO-004
+
+**Answer.** No. The citizen measures the state by himself, but the state has five
+instruments a family or a firm lacks: it prints its own currency, locks creditors in,
+raises income by decree, can fail to pay, and cannot be declared bankrupt. So it does
+not escape the reckoning; it **shifts it** onto business, households and regions.
+When the debt is held by its own citizens, a deposit is an IOU to oneself: it is backed
+by bonds, and the bonds by the same depositor's future taxes. Such a debt is settled by
+debasement, not repayment. The protocol does not take these instruments away from the
+state, but it gives the citizen a personal meter — the dividend, on which inflation is
+visible at once.
+
+**Weak point of the answer.** The claim that the dividend makes money printing visible
+and therefore restrains it is so far logical rather than empirical: no country has
+tested it. Moreover, the strength of the five instruments varies: a country with debt
+in a foreign currency (Greece in the eurozone) lacks the first of them, and there the
+deception ends in default rather than inflation — how the reckoning comes depends on
+the country.

@@ -55,6 +55,34 @@ Second — the citizen who holds these bonds through a pension fund does not und
 
 Third — no politician is interested in the voter starting to ask "where did my taxes go and why is the debt growing". This question would kill the careers of most sitting politicians. Therefore the industry for producing political propaganda (section 78.7 on the $26 billion anger industry) is deliberately structured to switch attention to culture wars, not to fiscal responsibility.
 
+### 80.4a. Why the citizen measures the state by himself — and why that is the main deception
+
+*(Added 2026-09-28.)*
+
+The architect: "The state is the harshest deception for the citizen. The citizen judges the state as he judges himself, and that is already a plain lie: a deception rooted in fiat money and in the limits on how much of it is issued and exchanged."
+
+A family or a firm living on debt at a high rate dies within three to five years. The citizen carries this experience over to the state and draws one of two false conclusions: either "it has not collapsed, so it lives within its means", or "it will collapse tomorrow". Both are wrong, because the state has five instruments that neither a family nor a firm has.
+
+| Firm / family | State |
+|---|---|
+| Cannot print money | Prints the currency in which it has borrowed |
+| A creditor can leave for another borrower | The creditor can be locked in: capital controls, bans on withdrawal, mandatory bond purchases |
+| Income depends on the customer | Income is raised by decree: tax, levy, duty, tariff |
+| Fails to pay — gets sued | Can fail to pay: freeze indexation, delay settlement, and no court sits over it |
+| Can go bankrupt | No court can declare it bankrupt |
+
+Hence the main consequence. **The state does not escape the reckoning; it shifts it** onto those who lack these five instruments: onto business through expensive credit, onto households through inflation and taxes, onto regions through mandates without money. It lives beyond its means at the expense of those who live within theirs.
+
+**An IOU to oneself.** When the public debt is held by the state's own citizens, the chain closes: the citizen's deposit is placed by the bank in government bonds, and the bonds are backed by the same citizen's future taxes. On paper the sum is intact and grows with interest. In reality less stands behind it: whatever was bought with this money and created nothing new (the purest case is military output, which disappears together with its entire price, including the wages paid for it) has already been consumed. The shortfall will be covered by the same holder of the IOU. The chief debtor repays not by returning the money but by debasing it: the money comes back, but it is no longer the same money. This is the "double role" of 80.4 taken to its limit.
+
+**Why the citizen does not see it.** Fiat money looks like property, but in substance it is an IOU from an issuer who decides alone how much to issue and whether it may be exchanged. While issuance and exchange are restricted, the figure in the account feels solid. Official statistics sustain the feeling, because they are prepared by those who benefit from embellishing them. Calibration from history:
+
+- **Greece 2009:** the deficit in the previous government's reporting was about 3.7% of GDP; after Eurostat's revision, 15.4% — roughly four times larger. Under-reporting went back to 1997. Greece lacked the first instrument in the table (its debt was in euros it could not print), so the deception ended in default rather than inflation.
+- **USSR:** lived on oil rent; from the price collapse of 1986 to the break-up of 1991, about five years passed.
+- **Russia 2026:** the deficit was planned at about 3.8 trn ₽; the economist S. Aleksashenko (TV Rain, 27.09.2026) estimates 6–6.5 trn ₽; since 2024 the central bank has provided about 1 trn ₽ a year to finance the deficit. In detail — [056f](../09-other-countries/056f-russia-september-2026.md).
+
+**What the protocol changes.** The protocol does not take these five instruments away from the state. It gives the citizen a meter of his own: the dividend is a personal line on which printing and inflation become visible without an economics degree. A regime whose majority sits on the dividend can neither cut the payment nor print money — inflation cuts the payment's purchasing power ([056e](../09-other-countries/056e-russia-contract-soldiers.md)). A deficit is the finance ministry's argument, not a person's; a price visible in one's own wallet is understood at once ([056f](../09-other-countries/056f-russia-september-2026.md)).
+
 ### 80.5. AB-EXIT as a demand for symmetry
 
 In the light of this asymmetry AB-EXIT is repositioned. It is not "a new radical idea". It is a demand to extend the state's already existing corporate standards to ordinary citizens:
