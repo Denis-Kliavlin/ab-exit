@@ -1323,7 +1323,17 @@ Aleksashenko himself concludes that people will not be able to show their opinio
 
 > All 75% are against the authorities and express it differently: some with a vote, others with money. 85–90% of citizens would support the protocol. At the election the authorities would get 17–30% of the votes. Opponents who choose the money do not weaken themselves — they strip the machine of its turnout.
 
-**Weak point of the calculation.** The survey measured an assessment of damage to the economy, not an intention to vote; equating "sees damage from the war" with "against the authorities" is the architect's reading. The 13–20% threshold shows how weak this conversion can be before the conclusion stops holding. In addition, the sum of 40–50 thousand ₽ diverges from the formula of chapter 01 (K = 1% gives about 11 thousand ₽, §5): this is the architect's decision on K, not yet fixed in the charter of 049.
+**A check on the margin: what if the 75% is halved.** The survey measured an assessment of damage to the economy, not an intention to vote. The architect's objection: "even if you divide by 2, the margin is enough." The check confirms it. Suppose only **37.5%** are against the authorities and the other half are neutral. Then the neutrals (37.5%) together with the non-core part of the loyal (10–15%) make 47.5–52.5% — enough on their own to fill B (40–50%) without touching the opponents of the authorities. Up to 37.5% against the authorities remain in A; for the authorities — the core of 10–15% plus at most 12.5% of the remaining neutrals. **Even in the worst case, 58–79% of votes cast are against the authorities.** And to outvote the core alone, it is enough for every third of these 37.5% to stay in A.
+
+**The sum is not the people's question, and an error in it is cheaper than dictatorship.** 40–50 thousand ₽ diverges from the formula of chapter 01 (K = 1% gives about 11 thousand ₽, §5). The architect's answer: "the size of the payments is not decided by the people; if the people err but bring down the dictator, then there will be a democracy discussing a reduction of the payments — and which is better?" Compared with the present state of affairs:
+
+| | Today | After the protocol with an "overstated" sum |
+|---|---|---|
+| Cost | the war and its expenses; a deficit of 5,644 bn ₽ in 2025 | 440–660 bn ₽ a year — about one year of state support for agriculture (665 bn ₽, §5) |
+| Who decides about money | authorities who cannot be replaced | authorities who can be replaced, plus a referendum on the formula (001b.1) |
+| If the sum turns out to be a mistake | nothing can be corrected | the mistake is discussed and corrected openly, by rule rather than by decree |
+
+An overstated sum is a mistake a democracy can correct. Dictatorship is a mistake that cannot be corrected. Hence for the transition the sum is chosen by a single measure — desirable for 40–50% of the population — and its exact size after the transition becomes the subject of an ordinary open dispute. Synchronisation debt: the charter of 049 and chapter 01 still hold K = 1%; the rule "desirable for 40–50%" has not yet been carried over into them.
 
 ## 14. Weak point of the chapter
 
