@@ -38,7 +38,7 @@ politician intervening.
 
 *(The architect's position, 29.09.2026.)* The percentage is not a dogma. The sum must be **important and desirable for those who have no wish to vote**: the apathetic and those who vote on impulse (protest, grievance, "against all"). The protocol's aim is to take them out of the decisive vote without hurting them financially; K is whatever value produces that result.
 
-A balance has to be found here — but not a point of rest: for the money some of the uninterested leave, while for the increased weight of the vote others come, and the system keeps moving from cycle to cycle (055c §6.3b, 001b §4). The sum is fixed by referendum, and when it changes both sides change at once — those who take the money and those who come back for the weight of the vote:
+A balance has to be found here — but not a point of rest: for the money some of the uninterested leave, while for the increased weight of the vote others come, and the system keeps moving from cycle to cycle (055c §6.3b, 001b §4). The sum is fixed by referendum, and when it changes both sides change at once — those who take the money and those who come back for the weight of the vote. The third moving parameter is the sum itself: it remains a percentage of the median income and adjusts to the economy automatically (see "self-calibration" above). For a person whose income moves with the median, the weight of the sum does not change; it changes for those who grow poorer or richer faster than the rest (055c §6.3b):
 
 | If K is too small | If K is too large |
 |---|---|
