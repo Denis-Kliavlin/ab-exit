@@ -1271,6 +1271,60 @@ An analogue is missing for **two things and only two**: a payment tied to the ac
 
 The earlier repeated caveats are accordingly withdrawn: where "not measured" stood, a row of this table now stands.
 
+## 13b. Consolidation on an external figure: Aleksashenko's 75% and a dividend of 40–50 thousand ₽
+
+*(Added 2026-09-29.)*
+
+**The starting figure is not the architect's assumption.** The economist Sergei Aleksashenko, on TV Rain on 27 September 2026 (["На пороге бедности. Алексашенко — о том, что будет с экономикой в ближайший год"](https://www.youtube.com/watch?v=-XlgX4ROJGc&t=1044s), **timecode 17:24–17:57**), reported the result of a survey conducted in Russia by his team in two rounds with the same outcome: **three quarters of Russians (75%) believe the war is damaging the Russian economy**. The question was indirect — not "for or against the war" but "does it improve or worsen the state of the economy" — so the distortion from fear is smaller than usual. Under the rule of §13 this is a **lower bound**: the distortion in Russian polls runs downward.
+
+Aleksashenko himself concludes that people will not be able to show their opinion: "I would not expect Russians to take to the streets." This is exactly what the protocol answers: it offers two lawful moves, and both express disagreement.
+
+**The architect's reading: all 75% are against the authorities; the only difference is how they express it — with a vote (A) or with money (B).** Whoever takes the money does not vote for the authorities — he stops being raw material for herded turnout.
+
+**The dividend.** The sum follows the architect's rule of 29.09.2026: the dividend can be any amount; the single measure is that it must be important and desirable for 40–50% of the population. For Russia that is **40–50 thousand ₽ per cycle** (≈0.6–0.75 of the median monthly wage of 65,307 ₽, §5). Cost: with 55–66 million recipients, 2.2–3.3 trn ₽ per cycle, i.e. 440–660 bn ₽ a year, about 8–12% of the 2025 deficit (5,644 bn ₽, §5).
+
+**Parameters of the calculation.**
+
+| Parameter | Value | Source |
+|---|---|---|
+| Against the authorities | **≥ 75%** | [Aleksashenko, 27.09.2026, 17:24](https://www.youtube.com/watch?v=-XlgX4ROJGc&t=1044s) (lower bound) |
+| Ideological core of the regime | 10–15% of the electorate, stays in A at any sum | 056e |
+| The rest of the 25% | 10–15%, take B | 056e: administratively dependent and apolitical |
+| Share of B at D = 40–50 thousand ₽ | 40–50% of the electorate | rule "desirable for 40–50%" |
+
+**Consolidation No. 1 — support for the protocol itself in a referendum.**
+
+| Group | What it gets | Position |
+|---|---|---|
+| Against the authorities, vote (A) | vote weight ×1.5–2 | for |
+| Against the authorities, take the money (B) | 40–50 thousand ₽ | for |
+| Loyal out of habit, take the money | 40–50 thousand ₽ | for |
+| Core of the regime (10–15%) | loses its result | against |
+
+**Support for the protocol: 85–90%.** This independently matches the estimate in 013c.5 (against: 10–16%).
+
+**Consolidation No. 2 — the election result after the protocol.** If 40–50% of the electorate goes to B, then of the 25% everyone except the core (10–15%) goes there, and the remaining 25–40% of B are opponents of the authorities who chose the money.
+
+| | Share of the electorate |
+|---|---|
+| B — money | 40–50% |
+| A — against the authorities | **35–50%** |
+| A — for the authorities (core) | 10–15% |
+
+**Against the authorities: 70–83% of votes cast; for the authorities: 17–30%** (today the authorities get 70–80%). The weight of one vote: ×1.5–2.2.
+
+**Safety margin.** For the authorities to lose the majority among those voting, it is enough for **13–20% of the 75%** to stay in A — that is, every fifth to seventh opponent of the authorities. The rest can take the money; the result does not change.
+
+| | Today | After the protocol |
+|---|---|---|
+| 75% against the authorities | dissolved in herded turnout, the vote weighs nothing | vote with weight ×1.5–2.2 or take the money lawfully |
+| Administratively dependent | brought in by the boss, they deliver the regime's result | take B; the machine has no one to bring |
+| The authorities' result | 70–80% | rests on the core: 17–30% of votes |
+
+> All 75% are against the authorities and express it differently: some with a vote, others with money. 85–90% of citizens would support the protocol. At the election the authorities would get 17–30% of the votes. Opponents who choose the money do not weaken themselves — they strip the machine of its turnout.
+
+**Weak point of the calculation.** The survey measured an assessment of damage to the economy, not an intention to vote; equating "sees damage from the war" with "against the authorities" is the architect's reading. The 13–20% threshold shows how weak this conversion can be before the conclusion stops holding. In addition, the sum of 40–50 thousand ₽ diverges from the formula of chapter 01 (K = 1% gives about 11 thousand ₽, §5): this is the architect's decision on K, not yet fixed in the charter of 049.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
