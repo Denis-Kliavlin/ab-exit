@@ -87,7 +87,7 @@ Additionally — a private referendum does not claim legal force. It is a poll, 
 
 **Where Route B works well:**
 
-— Democracies with problems (Poland under PiS, Hungary under Orbán, Turkey). Power is autocratising, but the institutional forms of democracy are preserved. Route B uses these forms against the power itself.
+— Democracies with problems (Poland under PiS, Hungary under Orbán, Turkey). Power is autocratising, but the institutional forms of democracy are preserved. Route B uses these forms against the power itself. Addition of 28.09.2026: in Hungary the form of a private referendum was legitimised by Orbán himself — the "national consultations", postal questionnaires to millions of citizens since 2010, whose results the government declares the will of the people and uses as the basis for laws. The protocol's question is asked in the same form; the power cannot call it illegitimate, and Art. 8(3) of the Fundamental Law (the ban on budget referendums) does not extend to a survey (039, the Orbán case).
 
 — Mature parliamentary democracies (Germany, France, the United Kingdom, Japan, Canada, Australia). Here resistance will be softer (option 4 is more likely), but the media channel is wider too; pressure can be created through major media.
 
