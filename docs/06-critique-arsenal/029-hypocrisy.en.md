@@ -38,6 +38,31 @@ AB-EXIT works differently. The state pays for **exit from the process in this cy
 
 Structurally it is closer to social payments (UBI, pensions, tax credits) than to vote-buying.
 
+### 29.4b. The autocrat already pays — openly, from the budget, for a vote "for"
+
+The "vote-buying" objection has a mirror its authors do not show: those who already buy votes de facto are not us but the people the democrats fear. The price of a vote is not hypothetical; the buyers themselves named it, and it is higher than the dividend.
+
+| country, election | what was paid and when | price per person | scale |
+|---|---|---|---|
+| Hungary, April 2022 | 13th-month pension, personal income tax refund to parents, exemption for under-25s — all paid in February, two months before the vote | 13th pension ≈ €430; tax refund HUF 600bn to 1.9M parents ≈ €850 | family measures 2022 — HUF 3,500bn, 6.2 % of GDP; "the largest handout since 1989" |
+| Russia, September 2021 | one-off 10,000 ₽ to pensioners and 15,000 ₽ to the military, police and cadets — announced a month before the Duma election | ≈ one month's pension | > 500bn ₽ |
+| Turkey, May 2023 | minimum wage doubled within a year, retirement-age requirement scrapped for 2M workers | months of wages | 250bn lira ≈ $13bn in the first year |
+
+The AB-EXIT dividend for Hungary by the formula (median gross ≈ HUF 420,000/month × 12 × 1.5 × K) at K = 1–2 % is **€200–400**. Orbán paid more, and paid for a vote "for", not for exit.
+
+**Who may not, and who may.** The citizen is barred from a referendum on money for his own vote — not by the European Union but by his national constitution: Hungary, Art. 8(3) of the Fundamental Law — no referendum on the budget or taxes; Germany — no federal referendum at all (055c §6.6); Russia — the 2004 law (056f). Nobody barred the ruler from handing out 6.2 % of GDP two months before the ballot. Money in a budget is fungible, and EU cohesion transfers — about 3 % of Hungary's GDP a year — paid for that handout de facto; the freeze under the rule-of-law mechanism arrived in December 2022, **after** the vote. The asymmetry in sum: the people may not decide that their vote is worth money; the ruler may decide that it is, and pay them for a "yes" out of the same common money — his own and Europe's.
+
+Hence hypocrisy in its pure form: **democracies, fending off AB-EXIT, defend exactly what the autocrat introduces at once, only in the distorted form of a bribe.** The difference between the two payments is not that one is "buying" and the other is not. The difference lies in four parameters:
+
+1. **For what.** The autocrat pays for a vote **for himself**; the protocol pays for exit, and no candidate gains an advantage (29.4).
+2. **When.** The autocrat — two months before polling day, once, from the window in front of the ballot box; the protocol — by a formula in the law, every cycle, whoever is in power.
+3. **To whom.** The autocrat — to his own strata: pensioners, families, the security services, compatriots abroad with a postal vote; the protocol — to everyone who chose not to vote, with no list of recipients held by a party.
+4. **Out of what.** The autocrat — out of a deficit to be paid after the election (Hungary: "huge budget risks" in the markets' assessment the same month); the protocol — as a budget line whose size is visible in advance (045.7).
+
+This is also Weber in physical form (29.10): the "credit of trust at the moment of the election" is issued not in words but by a bank transfer eight weeks before the ballot box. And it is the answer to "a pilot is needed": the pilot of buying turnout with budget money has already been run three times, in three countries, with results of 54 %, 50 % and 52 %. The protocol does not introduce a price of the vote — it **takes it away from the autocrat and hands it to the formula**.
+
+Sources: Hungary Today, "Hefty Pension and Tax Handouts … Arrive in February, Weeks Ahead of Election" (2022) and "Govt to Spend HUF 3,500 Billion on Family Support" (2021); Bloomberg, "Orban's 'Huge' Pre-Ballot Tax Breaks Create New Budget Risks" (2021); Meduza, 24.08.2021; Euronews, 31.08.2021; bne IntelliNews, "Erdogan scraps retirement age requirement" (12.2022); Gulf News, "Turkey to set aside $13b for early retirement" (2023); Fundamental Law of Hungary, Art. 8(3); Council of the EU decision under the conditionality mechanism, 15.12.2022.
+
 ## 29.5. Not a tax on the poor and not discrimination
 
 The second objection: "AB-EXIT is a tax on the poor; the poor will sell their vote for money, the rich will keep their influence." Empirically and structurally wrong.
@@ -146,11 +171,29 @@ Is distrust linked to politicians lying to people's faces with impunity — for 
 
 In survey experiments voters, especially distrusting ones, declare they will punish a broken pledge; in real elections party identity overrides it (Matthieß, Electoral Studies 2022). This is not an obstacle for the protocol but the very thing measured: the gap between stated and done — the 47 % Say-Do Gap of 043 §75.6 — is the signature of a voter without a stake, and the protocol does not close it by persuasion but **monetises** it. Whoever's word diverges from deed takes B; whoever stays in A has paid for the right to keep his word. After the filter, retrospective punishment, which did not work for Achen and Bartels (051 §30.4: no metric), acquires both a metric and an executor. The liar is re-elected by an electorate of liars — not from malice but by symmetry: neither side's word costs anything. The protocol puts a price on the voter's word first; only then does the politician's word acquire one.
 
+### The captured instrument: the primary source behind Vakhshtayn
+
+V. Vakhshtayn's interview (September 2026) cites "the UN report 'Trust in a changing world'". Checked against the primary source: it is UNU-WIDER Working Paper 2025/34 "Trust in a changing world: social cohesion and the social contract" (background for the World Social Report 2025), WVS waves 4–7, 1999–2022, 97 countries. What the report contains and what it does not:
+
+- It contains: trust in governments and parliaments "has steadily declined since 1999"; the share answering "no trust at all" rose from 16 % (2005) to almost a quarter (2017–22) — this is the measured size of the burned (011b), and it is growing. The decline is uneven: Latin America −44 %, Africa −32 %, **Europe −5 %** over 2005–2022; rich countries are stable (39 → 40 %).
+- It does not contain: a ranking "parliaments fell the most" (governments and parliaments go as a pair) or "almost half trusted in 1999". By the WVS (via OWID, the same question) the mean across the 68 countries present in both waves is **37 → 34 %**; across 30 democracies 34 → 33 %. The collapse is not global but country-specific: the United States 37 → 15, the Netherlands 55 → 35, Brazil 33 → 16, Poland 30 → 19; **Germany 34 → 39**, Sweden 50 → 63, Switzerland 41 → 58. The crisis of trust in parliament hits constructions without a door (majoritarian two-party systems, broken alternation) and does not hit where the active citizen has somewhere to carry his vote (four referendums a year). This is the Swiss row of the table above, now with a control.
+- Nor does it contain the thesis "Russia and Brazil: the more you trust your own circle, the less you trust institutions" — that is Vakhshtayn's own long-running data, not the report; in the report Russia is in the group where institutional trust **rose**, Brazil where both kinds fell. Cite it as Vakhshtayn.
+
+And the main thing, absent from the interview but present in the same data. Where the autocrat has already arrived, trust in parliament **rises** after him:
+
+| | before | after |
+|---|---|---|
+| Hungary | 32.6 (2004) → **19.3** (2009, a year before Orbán) | 34.7 (2022) |
+| Turkey | 41.9 (2004) | 59.1 (2022) |
+| India | 41.6 (2004) | 67.7 (2022) |
+
+The autocrat arrives in the trough of trust (Hungary 2009: 19 %, after Gyurcsány's "we lied morning, noon and night" — a lie without consequences that finally had one), and then the instrument shows "recovery", because the parliament is now his. The bell the sociologists speak of rings before the autocrat and falls silent after him — not because trust returned, but because the instrument itself has been captured. A poll is an opinion, and opinions can be managed; the dividend is money, and it does not "recover" from a change in the parliament's owner. The last line that even Israel does not yet question is the count itself; double entry (048f) and tokens (048i) protect precisely that.
+
 ### Weak point
 
-All figures are stated preferences (23b.3), question wordings differ (a 0–10 scale, "tend to trust", "great deal / quite a lot"), the 37/37 coincidence is partly accidental; the Valgarðsson–Jennings trend ends in 2019. OECD causality is correlational: those who voted for the party in power trust more (Figure 2.4), part of the 69/22 gap is "my side won", not "a say". Swiss turnout is low partly because of the frequency of votes. Part of distrust is tribal, and a stopwatch only reduces it. Whether those remaining keep the will to punish "their own" — the protocol makes punishment possible, not obligatory. 🟡
+The WVS means in "The captured instrument" are simple country means, unweighted by population; the OWID years (2004/2010/2022) are wave labels, not fieldwork. All figures are stated preferences (23b.3), question wordings differ (a 0–10 scale, "tend to trust", "great deal / quite a lot"), the 37/37 coincidence is partly accidental; the Valgarðsson–Jennings trend ends in 2019. OECD causality is correlational: those who voted for the party in power trust more (Figure 2.4), part of the 69/22 gap is "my side won", not "a say". Swiss turnout is low partly because of the frequency of votes. Part of distrust is tribal, and a stopwatch only reduces it. Whether those remaining keep the will to punish "their own" — the protocol makes punishment possible, not obligatory. 🟡
 
-**Sources:** OECD Survey on Drivers of Trust in Public Institutions — 2024 Results; Standard Eurobarometer 103 (Spring 2025); Gallup, Confidence in Institutions (June 2025); Valgarðsson V., Jennings W. et al., British Journal of Political Science, 2025; Forsa/RTL-ntv Institutionen-Vertrauensranking 2025; Pew Research Center, "Americans' Dismal Views of the Nation's Politics", 19.09.2023; Knight Foundation, "The 100 Million Project", 2020; Bertelsmann Stiftung, "Prekäre Wahlen", 2013–2017; Thomson R., Royed T., Naurin E. et al., AJPS 61(3), 2017; Naurin E., "Election Promises, Party Behaviour and Voter Perceptions", 2011; Hahl O., Kim M., Zuckerman Sivan E., American Sociological Review 83(1), 2018; Washington Post Fact Checker, 24.01.2021; Matthieß T., Electoral Studies, 2022.
+**Sources:** OECD Survey on Drivers of Trust in Public Institutions — 2024 Results; Standard Eurobarometer 103 (Spring 2025); Gallup, Confidence in Institutions (June 2025); Valgarðsson V., Jennings W. et al., British Journal of Political Science, 2025; Forsa/RTL-ntv Institutionen-Vertrauensranking 2025; Pew Research Center, "Americans' Dismal Views of the Nation's Politics", 19.09.2023; Knight Foundation, "The 100 Million Project", 2020; Bertelsmann Stiftung, "Prekäre Wahlen", 2013–2017; Thomson R., Royed T., Naurin E. et al., AJPS 61(3), 2017; Naurin E., "Election Promises, Party Behaviour and Voter Perceptions", 2011; Hahl O., Kim M., Zuckerman Sivan E., American Sociological Review 83(1), 2018; Washington Post Fact Checker, 24.01.2021; Matthieß T., Electoral Studies, 2022. Added 28.09.2026: UNU-WIDER WP 2025/34 "Trust in a changing world" (for the World Social Report 2025); UN DESA Policy Brief 108; Our World in Data, "Trust in institutions (WVS)", confidence in parliament; V. Vakhshtayn, interview 25.09.2026.
 
 ---
 

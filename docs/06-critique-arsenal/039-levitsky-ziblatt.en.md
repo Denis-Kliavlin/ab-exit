@@ -27,10 +27,34 @@ The second recount: **forbearance acquires a price.** Their "unwritten rule not 
 
 The third: their own historical material works for the mechanism — each of their cases began with the authoritarian **cheaply buying the aggrieved** (Chávez — oil populism, Orbán — national grievance, Trump — the rage of the rust belt). AB-EXIT is a counter-bid at the same auction: the state outbids the price for the same voter, legally, by formula, forever.
 
+## Orbán as a control case (28 September 2026)
+
+The thesis heard in every conversation about "the death of democracies": through ordinary elections, on the Orbán pattern, hidden autocrats arrive, with a sleeping majority on security populism they demolish the institutions and drift into autocracy — and the protocol protects against this "with a large margin". The core is right and is already in this file (the wave is a product; the base is bought out before the door). "With a margin" — no. A recount on Hungary.
+
+**Two strata of the sleeping majority.** Fear is not a stake but an induced state; only the one who loses personally has a stake (001b §3). The populist deliberately breeds the suggestible and deliberately extends the vote to them, knowing they are easier to manage: in 2010 Orbán gave citizenship and the vote to ~1M ethnic Hungarians abroad — postal voting, 94 % for Fidesz, ~300,000 votes. For rural Transylvania the dividend is a month's wage, and there is no stake in Hungary at all. The reserve the autocrat built with his own hands leaves first.
+
+**The Fidesz-2022 breakdown** (54 % of votes at 69.5 % turnout = 37.5 % of the electorate), by income and dependence on the budget, not by stated motive:
+
+| stratum | % of electorate | remains |
+|---|---|---|
+| clientele: public works, KESMA, state contracts, party activists | 7–9 | 7–9 |
+| concrete fear: the 2015 border counties, villages near reception centres | 2–3 | 2–3 |
+| Hungarians abroad | 2–2.5 | 0–0.5 |
+| abstract fear (Soros, Brussels) + need: villages, pensioners — those who were paid the 13th pension (029.4b) | 23–25 | 5–8 |
+| **total** | **37.5** | **14–20** |
+
+The opposition, 24 % of the electorate — urban, better off, votes by voice rather than by fear — keeps ~70 % → 17; Mi Hazánk 4 → 2. Result: Fidesz **42–51 %** instead of 54 %. The two-thirds vanishes in every scenario, a simple majority is in doubt. Everything turns on the row "abstract fear + need" — whether 5 or 8 remain; the test: how many of them took the 13th pension **and** went to vote — that is the upper bound of those whom fear will hold without money.
+
+**The door the protocol does not close.** In 2010 Fidesz took 52.7 % of votes at 64 % turnout — and 68 % of seats: the two-thirds came from the mixed formula, not from the voter, and the constitution was rewritten with that norm. The protocol counts votes, not mandates; at 45 % and the same formula Fidesz can still take more than half the seats. To Levitsky's third blow ("you are treating the wrong address") this is the second address the protocol does not treat: the electoral formula.
+
+**The instrument is captured first** — the Hungary/Turkey/India table in 029.10: the autocrat arrives in the trough of trust (19 % in 2009), and after him trust in parliament "rises". Polled trust stops being a bell as soon as the parliament changes owner; the dividend does not.
+
+**Weak point.** The thermostat measures the economy, not freedom. Orbán 2010–2019 delivered growth in real median wages — the dividend would have shown him five stars. Against an autocrat with a good economy (Singapore, early Orbán) the thermostat does not work; only alternation works, and that it does not measure. And the "abstract fear + need" stratum is split 5/8 by the German proportion (055c §6.3), while the Hungarian rural voter is poorer and more budget-dependent — so more likely to take, and the 42–51 % estimate for Fidesz is overstated, not understated. 🟡
+
 ## Verdict (reconstruction)
 
 > "For twenty years we explained that democracies die from the weakness of norms. This mechanism is the first attempt to replace a norm that cannot be held with an incentive that cannot be circumvented. We are not sure it will work. But we are forced to admit: all our prescriptions are addressed to the conscience of elites — this one alone is addressed to their calculator. History votes for the calculator."
 
 ---
 
-**Related:** 034 (Fraenkel) · 038 (self-verification) · 048b (the economics of dumbing-down) · 048c (the science of the rational killing of a nation) · §9 · §13.9 · 13b.3 · 056c
+**Related:** 034 (Fraenkel) · 029.4b (the autocrat already pays) · 029.10 (the captured instrument) · 038 (self-verification) · 048b (the economics of dumbing-down) · 048c (the science of the rational killing of a nation) · §9 · §13.9 · 13b.3 · 056c
