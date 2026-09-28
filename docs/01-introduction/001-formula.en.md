@@ -48,6 +48,18 @@ The working measure is **a sum desirable for 40–50% of the population**. The e
 
 The sum is not the people's question, and an error in it is cheaper than dictatorship. A democracy can later correct an overstated K openly; dictatorship offers no such possibility (056f §13b). What stays fixed is something else: K, like the whole formula, is set by referendum, not by the sitting government.
 
+### Why one number has so many consequences
+
+*(Added 29.09.2026 following the architect's remarks: "strange — so many complex calculations and consequences from one percentage figure"; "simplicity gives a good chance of similar results — one number here and there.")*
+
+**The complexity lives not in the rule but in people.** For the citizen the protocol is simple: one number, two buttons, a decision in a minute. Each person computes only his own case — whether this money matters more to him than the vote. The complex calculations (those who take, those who come back for the vote weight, the sum following the median — 055c §6.3b) are needed only by someone who wants to predict in advance what everyone will decide together. The payment algorithm itself learns nothing and a year later does exactly what it did on day one (033); what changes is not the rule but the response of millions to it. The quality of governance is a property that cannot be derived from a single voter (Anderson, 036d); a market price likewise conveys knowledge that no single participant has (Hayek, 013e).
+
+**This is a class of mechanisms, not an exception.** A central bank's key rate is one number on which loans, the exchange rate, prices and elections depend; economists spend years computing its consequences and still get them wrong, yet no one asks the borrower to understand macroeconomics — he decides only whether to take the loan. A market price is one number behind which stand the decisions of all buyers and sellers. The protocol is built the same way: a one-line rule, with the result assembled from personal decisions. Hence the protection against manipulation: if the mechanism required complex calculations from the citizen, it would be easy to steer — "complicated is when they steal" (033c); that is why an opponent will first of all try to kill the simplicity (040c).
+
+**Simplicity makes the rule transferable.** A complex system cannot be transplanted into another country without distortion: every detail grows local exceptions. One number and two buttons carry over as they are — this is how independent central banks spread around the world, one of the reforms where the rule changed and behaviour adjusted by itself (015c). The same number makes countries directly comparable: the scoreboard does not need translating and does not need to be believed — it is received (040b.4). The authorities have almost no knobs to turn: the sum is approved by referendum, the median comes from an independent source (001b §1, 048f.5).
+
+**The same shape, different percentages.** One number gives the same shape of result, not the same figures. A rate works in the same direction everywhere — a higher rate, a dearer loan — but shifts each economy in its own way. So here: a populist loses everywhere if the payment is sufficient, because his base is poor and takes the money more often than the rest (055c §6.3b), and party shares change only through the difference in how readily different electorates take the money. The final figures in Saxony-Anhalt and in Russia will differ, because the people differ and so does what is left in their pockets.
+
 The specific source of median data, the legal route to adoption and the source that funds
 the trust are the three things tuned per country. They are covered in **Part IV (country
 implementations)**, not here.
