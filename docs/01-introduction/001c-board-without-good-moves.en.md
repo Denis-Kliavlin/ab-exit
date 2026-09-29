@@ -48,17 +48,12 @@ Everything else starts from it. The A/B fork (001b §1) is possible only because
 
 For the opponent this too is a fork. Keeping the "empty places" on the roll means keeping raw material for stuffing that now shows up as an anomaly and has live witnesses. Cleaning them out means losing the last resource for forgery.
 
-## 3b. The forks of recent days: rolls, counting, the sign
+## 3b. The forks of recent days: rolls and counting
 
 | Position | The opponent's moves — and how each ends | Where analysed |
 |---|---|---|
 | The late payment | stuff a ballot for an "empty place" — acquire a witness who was paid to turn up; do not stuff — be left without the resource for stuffing | 048i.5b |
 | Dirty rolls | clean them — lose the reserve of records for forgery; do not clean — every surplus record costs the treasury money and becomes evidence | 048i.5b |
-| The sign on the ballot | keep paper — the sign stays: a referendum on any question laid on the table before one's own apparatus; go over to the machine — lose the ritual, the apparatus's exam and one's own base's faith in the figure | 048i.6c, 056d.7b |
-| The invitation in a debate | stay silent — the invitation stands; forbid one's voters to put the sign — come out against a harmless idea; support it — the idea becomes common property | 048i.6c |
-| Banning the sign | ban a particular sign — it is changed within a day; describe the only permitted one — spoil the ballots of one's own elderly supporters | 048i.6c |
-
-**What "the sign" is.** The last three rows concern the technique analysed in 048i §6c. A candidate who cannot put the protocol to a referendum asks voters on election day to put, in the box of their candidate and in addition to the usual mark, a common sign — for example a letter: **A** — "I support the protocol and would take the sum", **B** — "I support the protocol and would stay to vote". Those who do not support the protocol make the usual mark. The ballot stays valid: most countries' rules require not a particular form of mark but a clear intention of the voter, so the sign is written right in the box, not beside it. The sign goes in the box of *one's own* candidate, whoever that is, so the technique is detached from the candidate and shows support for the idea across parties. The result is a referendum without a referendum: the ballots are unfolded in front of the commission and observers from all parties, and everyone who counts sees how many people support the idea. Banning a particular sign is useless — it is changed within a day to any other, as long as it is common to all; the only reliable countermeasure — moving from paper to machines — costs an electoral autocracy its ritual, the exam of its own apparatus and its supporters' faith in the figure (048i §6c, 056d §7b). The technique's status is a working assumption of the architect, not part of the protocol. 🟡
 
 ## 4. Politicians and parties
 
@@ -137,7 +132,17 @@ For the opponent this too is a fork. Keeping the "empty places" on the roll mean
 
 One row of the catalogue is built the other way round: locked inside it is not an opponent of the protocol but those who today fight the authorities by the old rules (056d.1). To vote for establishment spoilers is to lend the election legitimacy; to boycott is to dry up turnout in favour of the dependent electorate; to spoil the ballot is useless, because the percentage is counted from valid ones. This is a true zugzwang, and the opposition of many countries has sat in it for years.
 
-It is telling that the way out was found by the same method on which the whole catalogue is built: not by a new move on the old board but by changing what counts as a move. A sign in a valid ballot (§3b, the rows on the sign) chooses none of the three losing branches — it votes and informs at once. That is how the protocol works as a whole: it does not offer the citizen a better move in a game where he has no good ones, but adds to the board a square that was not there before.
+It is telling that the way out was found by the same method on which the whole catalogue is built: not by a new move on the old board but by changing what counts as a move. A sign in a valid ballot (§8b) chooses none of the three losing branches — it votes and informs at once. That is how the protocol works as a whole: it does not offer the citizen a better move in a game where he has no good ones, but adds to the board a square that was not there before.
+
+## 8b. The sign on the ballot — an auxiliary technique, not the main fork
+
+| Position | The opponent's moves — and how each ends | Where analysed |
+|---|---|---|
+| The sign on the ballot | keep paper — the sign stays: a referendum on any question laid on the table before one's own apparatus; go over to the machine — lose the ritual, the apparatus's exam and one's own base's faith in the figure | 048i.6c, 056d.7b |
+| The invitation in a debate | stay silent — the invitation stands; forbid one's voters to put the sign — come out against a harmless idea; support it — the idea becomes common property | 048i.6c |
+| Banning the sign | ban a particular sign — it is changed within a day; describe the only permitted one — spoil the ballots of one's own elderly supporters | 048i.6c |
+
+**What "the sign" is.** The rows above concern the technique analysed in 048i §6c. A candidate who cannot put the protocol to a referendum asks voters on election day to put, in the box of their candidate and in addition to the usual mark, a common sign — for example a letter: **A** — "I support the protocol and would take the sum", **B** — "I support the protocol and would stay to vote". Those who do not support the protocol make the usual mark. The ballot stays valid: most countries' rules require not a particular form of mark but a clear intention of the voter, so the sign is written right in the box, not beside it. The sign goes in the box of *one's own* candidate, whoever that is, so the technique is detached from the candidate and shows support for the idea across parties. The result is a referendum without a referendum: the ballots are unfolded in front of the commission and observers from all parties, and everyone who counts sees how many people support the idea. Banning a particular sign is useless — it is changed within a day to any other, as long as it is common to all; the only reliable countermeasure — moving from paper to machines — costs an electoral autocracy its ritual, the exam of its own apparatus and its supporters' faith in the figure (048i §6c, 056d §7b). The technique's status is a working assumption of the architect, not part of the protocol. 🟡
 
 ## 9. Weak point of the section
 
