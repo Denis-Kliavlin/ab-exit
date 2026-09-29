@@ -24,15 +24,41 @@ Chess has exact words for such positions, and they describe three different arra
 
 The three figures have one thing in common, and it sets the protocol apart from ordinary political struggle: in none of the positions below is the opponent attacked. Nothing is taken from him, nothing is forbidden him, he is not exposed. Only the price of his habitual move changes — as in "reform by subtraction" (019c). A chess player would call this positional play: the game is won not by a combination but because the opponent has run out of useful moves.
 
-## 3. The forks of recent days: counting, rolls, the sign
+## 3. The main fork: free abstention stops being a choice
+
+*(Added 29.09.2026 following the architect's correction: "before, a voter could vote or not turn up; with the payment we in effect impose on him a choice without a choice — he almost always takes part in the election: either he takes the money or he votes. This is the very first fork.")*
+
+Everything else starts from it. The A/B fork (001b §1) is possible only because this one has already worked.
+
+| | Today | After the protocol |
+|---|---|---|
+| Vote | free; the vote weighs 1/N | the vote weighs more (×2–×3) |
+| Do not vote | free, silently, nobody sees | for money and on record: exit is a transaction at the treasury (056e §3) |
+| Do nothing | ordinary abstention, 40–50% of the roll | lawful, but worse than both options at once: neither money nor weight |
+
+**A choice without a choice — but without coercion.** Nobody forbids the old option: one can still stay away and take nothing. It simply becomes dominated — worse than both new buttons at once — and a person who thinks about it for even a minute will not choose it. So almost everyone takes part in the election: some with a vote, others with a record at the treasury. Both "vote for free" and "abstain for free" lose from the day the formula is said out loud (048g §6).
+
+**Whoever takes the money has not dropped out; he controls his own cancelled vote.** His vote is officially cancelled and cannot appear in the ballot box: a ballot in his name is a double spend, exposed by reconciling the treasury statement with the box, without catching commission members red-handed (056e §3). The number of those who took the money sets a published ceiling on turnout: the roll minus those who exited (048f).
+
+**Whoever did nothing is a risk zone that needs special control.** The architect: "those who do nothing are a glaring risk zone; it is such an illogical choice that this is exactly where all the machinations can be — that is where one must study carefully and search." After the protocol, inaction stops being the norm and becomes an anomaly, and an anomaly is where forgery hides. The "empty places" (on the roll, did not take the sum, did not come to vote) are the only raw material for stuffing that the person himself does not check; they enter the forgery-ceiling formula directly (048i §5b). So control is concentrated precisely here:
+
+- **the late payment** at a 20–30% discount: anyone in whose name a ballot was stuffed can come for the sum after the election — and hear "you voted"; stuffing acquires a witness with a personal interest (048i §5b);
+- **reconciling the remainder** after the first cycle: records for which nobody came either before or after the election are a ready list for checking against those who left and those who died; the protocol cleans the rolls as a by-product (048i §5b);
+- **comparing precincts**: today 40–50% abstention surprises nobody; after the protocol a precinct where the share of "did nothing" is markedly higher than its neighbours' and than in past cycles is a signal to check first.
+
+For the opponent this too is a fork. Keeping the "empty places" on the roll means keeping raw material for stuffing that now shows up as an anomaly and has live witnesses. Cleaning them out means losing the last resource for forgery.
+
+## 3b. The forks of recent days: rolls, counting, the sign
 
 | Position | The opponent's moves — and how each ends | Where analysed |
 |---|---|---|
+| The late payment | stuff a ballot for an "empty place" — acquire a witness who was paid to turn up; do not stuff — be left without the resource for stuffing | 048i.5b |
+| Dirty rolls | clean them — lose the reserve of records for forgery; do not clean — every surplus record costs the treasury money and becomes evidence | 048i.5b |
 | The sign on the ballot | keep paper — the sign stays: a referendum on any question laid on the table before one's own apparatus; go over to the machine — lose the ritual, the apparatus's exam and one's own base's faith in the figure | 048i.6c, 056d.7b |
 | The invitation in a debate | stay silent — the invitation stands; forbid one's voters to put the sign — come out against a harmless idea; support it — the idea becomes common property | 048i.6c |
 | Banning the sign | ban a particular sign — it is changed within a day; describe the only permitted one — spoil the ballots of one's own elderly supporters | 048i.6c |
-| The late payment | stuff a ballot for an "empty place" — acquire a witness who was paid to turn up; do not stuff — be left without the resource for stuffing | 048i.5b |
-| Dirty rolls | clean them — lose the reserve of records for forgery; do not clean — every surplus record costs the treasury money and becomes evidence | 048i.5b |
+
+**What "the sign" is.** The last three rows concern the technique analysed in 048i §6c. A candidate who cannot put the protocol to a referendum asks voters on election day to put, in the box of their candidate and in addition to the usual mark, a common sign — for example a letter: **A** — "I support the protocol and would take the sum", **B** — "I support the protocol and would stay to vote". Those who do not support the protocol make the usual mark. The ballot stays valid: most countries' rules require not a particular form of mark but a clear intention of the voter, so the sign is written right in the box, not beside it. The sign goes in the box of *one's own* candidate, whoever that is, so the technique is detached from the candidate and shows support for the idea across parties. The result is a referendum without a referendum: the ballots are unfolded in front of the commission and observers from all parties, and everyone who counts sees how many people support the idea. Banning a particular sign is useless — it is changed within a day to any other, as long as it is common to all; the only reliable countermeasure — moving from paper to machines — costs an electoral autocracy its ritual, the exam of its own apparatus and its supporters' faith in the figure (048i §6c, 056d §7b). The technique's status is a working assumption of the architect, not part of the protocol. 🟡
 
 ## 4. Politicians and parties
 
@@ -111,7 +137,7 @@ The three figures have one thing in common, and it sets the protocol apart from 
 
 One row of the catalogue is built the other way round: locked inside it is not an opponent of the protocol but those who today fight the authorities by the old rules (056d.1). To vote for establishment spoilers is to lend the election legitimacy; to boycott is to dry up turnout in favour of the dependent electorate; to spoil the ballot is useless, because the percentage is counted from valid ones. This is a true zugzwang, and the opposition of many countries has sat in it for years.
 
-It is telling that the way out was found by the same method on which the whole catalogue is built: not by a new move on the old board but by changing what counts as a move. A sign in a valid ballot (§3, first row) chooses none of the three losing branches — it votes and informs at once. That is how the protocol works as a whole: it does not offer the citizen a better move in a game where he has no good ones, but adds to the board a square that was not there before.
+It is telling that the way out was found by the same method on which the whole catalogue is built: not by a new move on the old board but by changing what counts as a move. A sign in a valid ballot (§3b, the rows on the sign) chooses none of the three losing branches — it votes and informs at once. That is how the protocol works as a whole: it does not offer the citizen a better move in a game where he has no good ones, but adds to the board a square that was not there before.
 
 ## 9. Weak point of the section
 

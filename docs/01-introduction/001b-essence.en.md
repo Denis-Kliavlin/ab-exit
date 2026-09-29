@@ -12,6 +12,7 @@ Before every election every citizen has two buttons. **A — "I vote"**: the vot
 
 ## 1. The fork
 
+- **The first fork — before A/B.** Today a person has two free options: vote or silently stay away. The payment makes silent abstention dominated: staying away and taking nothing is lawful but worse than both buttons at once, so almost everyone takes part — with a vote or with a record at the treasury. Whoever takes the money does not drop out but controls his cancelled vote: a ballot in his name is a double spend. Whoever did nothing is an anomaly and a zone of special control: that is where the raw material for stuffing lies (001c §3, 048i §5b, 056e §3).
 - **The formula.** D = M × 1.5 × K, where M is the median wage from an independent federal source, and K is not a dogma: the sum must be desirable for those who have no wish to vote (working measure: for 40–50% of the population; 1% is a starting illustration, 001). Any student can recompute the sum; not one parameter is controlled by the power for which the election is held (001, 048b, 048f.5).
 - **Once per cycle, not monthly.** A lump sum is an event remembered to the cent; its reduction flares in the same interface where the political decision is taken. A monthly drift into UBI is the model's error, not the protocol's (033c.5, 020).
 - **Reversible.** The right returns automatically; the person has not sold his citizenship, he has leased his vote for a cycle (043 §75.5, 015b.5).

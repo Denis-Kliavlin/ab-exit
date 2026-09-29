@@ -64,6 +64,8 @@ Any forgery of the result is made out of records that nobody but the commission 
 
 **The ceiling on forgery = (secret ballots + those who neither took the sum nor turned up) / all votes cast.**
 
+Hence a rule of control which the architect stated separately (29.09.2026): "those who do nothing are a glaring risk zone; it is such an illogical choice that this is exactly where all the machinations can be." After the protocol, staying away and taking nothing is a choice worse than both buttons at once (001c §3), so the "empty places" are not a norm but an anomaly, and they must be checked first: by the late payment, by reconciling the remainder, and by comparing the share of "did nothing" with neighbouring precincts and past cycles.
+
 An example with a hundred people on the roll (the shares are notional):
 
 | | Today | After the protocol |
