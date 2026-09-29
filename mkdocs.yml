@@ -182,6 +182,7 @@ plugins:
             "40h. Просвещение: Робеспьер, Беккариа, Бентам": "40h. Enlightenment: Robespierre, Beccaria, Bentham"
             "40i. Линц и Шульман": "40i. Linz and Shulman"
             "40j. Кант": "40j. Kant"
+            "40k. Штраус и Хау": "40k. Strauss and Howe"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -307,6 +308,7 @@ nav:
       - "40h. Просвещение: Робеспьер, Беккариа, Бентам": 06-critique-arsenal/040h-enlightenment.md
       - "40i. Линц и Шульман": 06-critique-arsenal/040i-linz-shulman.md
       - "40j. Кант": 06-critique-arsenal/040j-kant.md
+      - "40k. Штраус и Хау": 06-critique-arsenal/040k-strauss-howe.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Философский манифест": 07-manifesto/033-manifesto.md

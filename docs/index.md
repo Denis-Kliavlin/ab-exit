@@ -120,6 +120,7 @@
 - [40h. Просвещение: Робеспьер, Беккариа, Бентам](06-critique-arsenal/040h-enlightenment.md)
 - [40i. Линц и Шульман: авторитаризм и апатия](06-critique-arsenal/040i-linz-shulman.md)
 - [40j. Кант: народ дьяволов и цена акта](06-critique-arsenal/040j-kant.md)
+- [40k. Штраус и Хау: мир без термостата](06-critique-arsenal/040k-strauss-howe.md)
 
 ## Часть II — Социальная архитектура
 

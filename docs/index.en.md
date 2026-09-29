@@ -124,6 +124,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [40h. Enlightenment: Robespierre, Beccaria, Bentham](06-critique-arsenal/040h-enlightenment.md)
 - [40i. Linz and Shulman](06-critique-arsenal/040i-linz-shulman.md)
 - [40j. Kant](06-critique-arsenal/040j-kant.md)
+- [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 
 ## Part II — Social Architecture
 
