@@ -33,6 +33,20 @@ This is the repository's rule "do not measure the world after by the yardsticks 
 - **Cohorts instead of strata.** Nomads (burned pragmatists) are the first to take B and the first to come back for weight; Heroes are the first to demand weight. A recount of 045.3 by cohort is a task for a sociologist.
 - **A Hero without a war.** An archetype given a vote weighted tenfold instead of a trench is no longer their archetype. The plot of the Crisis-climax loses its protagonist.
 
+## 4b. Five arguments they would raise — and the architect's answers
+
+The assistant reconstructed five objections on their behalf and marked three as open. The architect removed all three with the same move: each had been taken from the world before.
+
+| Their argument | The architect's answer |
+|---|---|
+| **Archetypes are made by childhood, not by institutions.** The thermostat corrects power but not how children are raised; the generational wave will run even under the protocol | Adults in the world after are different: not humiliated, with agency and a weighted vote (019f, 015c §7a). Different adults raise differently. Upbringing is not outside the thermostat but downstream of the adults' state |
+| **A reading is not an action.** There is a number once a cycle, but who acts on it? A conformist High generation looks at the stars and does not go | A four-year cycle is **five corrections within one generation**. Stagnation has nowhere to accumulate; and the thermostat acts by itself through the share of B and the weight of the vote, without anyone's decision (13.9) |
+| **No Bretton Woods without a Crisis.** A Crisis is the only time of great collective deeds; a society that repairs itself in small portions loses the capacity for a leap | Crises remain — people will worry, fret and argue. What disappears is not the crisis but its **catastrophic nature**: surgery after penicillin did not go away, sepsis did. Great deeds get done without a collapse |
+| **The trap of the High.** A system that never lets institutions decay never lets them renew either; a perpetual High is a conformist Singapore | The reverse: where those with a stake and weight vote, **the most radical ideas get a chance of realisation for the first time** by a rational route rather than by revolt (021: the centrist void; 013b: counter-intuitive results). Renewal stops requiring an Awakening |
+| **The external blow.** Wars, pandemics, climate come from outside and do not consult the thermostat | True, and not a weakness: the protocol answers not the blow but the power's reaction to the blow — and makes it measurable within the same cycle |
+
+The upshot of the table: their theory has no argument against the protocol that is not a description of the world without a thermostat. That is §3 carried to its end.
+
 ## 5. Verdict (reconstruction)
 
 > "You brought a Fourth Turning norm in the vocabulary of the Third. The institution is right, the window is right, the name is wrong. And if you are right, then we described not laws but a disease — and you brought the cure, after which our book becomes the history of medicine."
