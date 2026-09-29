@@ -112,8 +112,18 @@ Each section is self-contained — you can read it straight through as a book (u
 - [37. The Seventh AI](06-critique-arsenal/037-seventh-ai.md)
 - [37b. Grok, Round Two: the $10,000 Bounty and Forecast Drift](06-critique-arsenal/037b-grok-round-two.md)
 - [38. Gaaze: Sociology of the Operator](06-critique-arsenal/038-gaaze-operator.md)
+- [38b. Gaaze: Biopolitics and the Stop-Loss](06-critique-arsenal/038b-gaaze-supplement.md)
 - [39. Levitsky-Ziblatt: Gatekeepers](06-critique-arsenal/039-levitsky-ziblatt.md)
 - [40. The Eighth AI: Grok's Verdict](06-critique-arsenal/040-eighth-ai-grok.md)
+- [40b. Hanson and Futarchy](06-critique-arsenal/040b-hanson-futarchy.md)
+- [40c. Sapolsky and Nash](06-critique-arsenal/040c-sapolsky-nash.md)
+- [40d. Brennan and the Catalogue of Filters](06-critique-arsenal/040d-brennan-filters.md)
+- [40e. Ayn Rand: Atlas](06-critique-arsenal/040e-rand-atlas.md)
+- [40f. Acemoglu: Three Rounds](06-critique-arsenal/040f-acemoglu-three-rounds.md)
+- [40g. Russian Thought on Power and People](06-critique-arsenal/040g-russian-thinkers.md)
+- [40h. Enlightenment: Robespierre, Beccaria, Bentham](06-critique-arsenal/040h-enlightenment.md)
+- [40i. Linz and Shulman](06-critique-arsenal/040i-linz-shulman.md)
+- [40j. Kant](06-critique-arsenal/040j-kant.md)
 
 ## Part II — Social Architecture
 
