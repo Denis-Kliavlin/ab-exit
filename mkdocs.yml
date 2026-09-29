@@ -181,6 +181,7 @@ plugins:
             "40g. Русская мысль о власти и народе": "40g. Russian Thought on Power and People"
             "40h. Просвещение: Робеспьер, Беккариа, Бентам": "40h. Enlightenment: Robespierre, Beccaria, Bentham"
             "40i. Линц и Шульман": "40i. Linz and Shulman"
+            "40j. Кант": "40j. Kant"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -305,6 +306,7 @@ nav:
       - "40g. Русская мысль о власти и народе": 06-critique-arsenal/040g-russian-thinkers.md
       - "40h. Просвещение: Робеспьер, Беккариа, Бентам": 06-critique-arsenal/040h-enlightenment.md
       - "40i. Линц и Шульман": 06-critique-arsenal/040i-linz-shulman.md
+      - "40j. Кант": 06-critique-arsenal/040j-kant.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Философский манифест": 07-manifesto/033-manifesto.md
