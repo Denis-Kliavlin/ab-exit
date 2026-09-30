@@ -68,6 +68,22 @@ From the principle "we do not change the voting system" follows the answer to th
 
 Fourteen articles, each from existing norms, with the source number: the formula and the source; the percentage and its setting by debate and referendum; the window, immediate payment, the premium for the early; two buttons, the finality of exit and the cancelled vote; the person who chose nothing as the controller and the late payment until the next election; protection of the dividend; the counter; the status of exit and precinct figures; the budget identity and three channels; courts; coercion and vote-buying; two levels of decision and change no more than once per cycle; rollback locks; the ballot line and transitional provisions for a pilot. As a separate line — the principle "the right to a payment, not the methods". The target length is nine pages (006b §3, the Nakamoto row). Country settings — the median, the source of the money, the number of payments, the legal route — go in a separate annex at the end.
 
+## 4b. The article "Sanctions" — a draft ladder after Ostrom
+
+Ostrom's principle: violators are punished in steps — mildly the first time, harder on repetition, out for a system — and by the users themselves or by those accountable to them. The norms exist in the repository, each in its own section; here they are set in order. Nothing new is introduced.
+
+**The zero rung — the voters, without the legal part.** The architect: "a power that cheats will at once be thrown in the bin by those who did not take the 700 dollars, or will be forced to justify and defend itself, and that too gives information to the voters." Those who remain forgo the sum for the vote, they have a horizon and a threefold weight; cheating before their eyes costs the power the next election without any court, and the self-justification is information in itself (035 §84.3: four responses of the power, all losing). The legal ladder below is for what elections do not reach: a single commission, a single buyer, a single liar.
+
+| Who | What | First time | Repeat | System |
+|---|---|---|---|---|
+| A citizen | claimed "I did not vote" for the late payment, but voted (048i §5b) | return of the sum | a fine | as a false statement |
+| A precinct commission | a ballot for someone who exited — a double spend (048f §4c) | a re-run at the precinct for the paper channel when the divergence threshold is exceeded (048i §5b, 048j §4) | dissolution of the commission | mass double counting — embezzlement of budget funds |
+| A vote-buyer, a coercer | pressure on the choice, vote-buying (019d §4b, 048h §6) | the buyer investigated by money flows, not the person | criminal | — |
+| The power | delayed the payment, stopped the counter, changed the methodology (048g §3b) | a court within days, standing for anyone affected, open data as evidence (048j §5) | automatic recalculation by a rule written in advance (048g §3c) | the referendum lock: repeal only by a vote against one's own money (048g §6b) |
+| The data source | divergence from the control sources above 10 % (002 §2.3) | an audit by the judiciary, publication within 90 days | replacement of the source (the four-agency rule, 049 §8) | the calculation continues while at least one publishes |
+
+Three of Ostrom's rules met here: the record and the precinct are punished, not the person — "the choice itself is never grounds for suspicion"; the users themselves watch — parallel counting, tokens, the person who chose nothing as the controller; the court is cheap and fast — 048j.
+
 ## 5. Weak point
 
 The inventory was compiled by reading everything, but the sorting "norm or argument" is a judgement: some provisions stand in their sources as a move in a dispute rather than as an article, and in assembling the charter each will have to be reworded. Five of the twelve decisions hand the question to experts — the median, the choice among several percentages, the number of payments, price or quantity, fund or budget; the charter will be short precisely because those answers are not in it, and the first critic will call them blanks. 🟡
