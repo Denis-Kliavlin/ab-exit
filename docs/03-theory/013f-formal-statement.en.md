@@ -14,7 +14,7 @@
 
 There are N citizens. Each knows privately:
 
-- *v* — the stake: how much he values influence on this cycle's outcome, in money;
+- *v* — the stake: everything for which he is willing to forgo the payment in this cycle, in money — influence on the outcome, taxes that threaten him or are promised to him, the wish to be among the voters. The motive does not matter; the willingness to pay does (040l §3);
 - *c* — the cost of taking part: time, travel, studying the question. For simplicity it is the same for all; a personal *c* makes the threshold personal and changes none of the theorems.
 
 The mechanism offers three actions. **A** — a vote; its weight is *w* = 1/(1 − β), where β is the share who took the sum. **B** — the sum *D*. **Nothing** — zero.

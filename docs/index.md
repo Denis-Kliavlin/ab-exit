@@ -123,6 +123,7 @@
 - [40i. Линц и Шульман: авторитаризм и апатия](06-critique-arsenal/040i-linz-shulman.md)
 - [40j. Кант: народ дьяволов и цена акта](06-critique-arsenal/040j-kant.md)
 - [40k. Штраус и Хау: мир без термостата](06-critique-arsenal/040k-strauss-howe.md)
+- [40l. Фукуяма: последний человек, скука и цена жеста](06-critique-arsenal/040l-fukuyama.md)
 
 ## Часть II — Социальная архитектура
 

@@ -127,6 +127,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [13f. A Formal Statement: Four Theorems and Two Assumptions](03-theory/013f-formal-statement.md)
    - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
+- [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)
 
 ## Part II — Social Architecture
 
