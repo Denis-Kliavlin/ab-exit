@@ -204,6 +204,7 @@ plugins:
             "48i. Три канала и параллельный подсчёт": "48i. Three Channels and a Parallel Count"
             "48j. Суды и подгонка по месту": "48j. Courts and Local Tuning"
             "48k. Опись норм и расхождения": "48k. Inventory of Norms and Discrepancies"
+            "48l. Дворовой пилот": "48l. The Courtyard Pilot"
             "55b. Франция": "55b. France"
             "55c. Германия": "55c. Germany"
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
@@ -362,6 +363,7 @@ nav:
       - "48i. Три канала и параллельный подсчёт": 08-implementation/048i-three-channels-parallel-count.md
       - "48j. Суды и подгонка по месту": 08-implementation/048j-courts-and-local-tuning.md
       - "48k. Опись норм и расхождения": 08-implementation/048k-charter-inventory.md
+      - "48l. Дворовой пилот": 08-implementation/048l-courtyard-pilot.md
   - "IV. Страновые имплементации":
     - "Глава 9. Кейсы: другие страны":
       - "53. Молдова": 09-other-countries/053-moldova.md

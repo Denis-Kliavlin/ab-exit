@@ -64,7 +64,7 @@ The consequence for the formal statement (013f). No separate "value of the gestu
 
 The position of 2026 is assembled from reviews and the open beginnings of the texts; the assistant has not read the full memoir, and if its closed part contains a reform proposal of his own, the comparison will have to be redone. The estimate "the truly bored are below one per cent" is the architect's judgement, not a measurement; there is one way to measure it — to see in a pilot how many of the well-off forgo the payment for the sake of a vote "against". 🟡
 
-**Sources:** Fukuyama F., "Boredom at the End of History", Persuasion, 2024; reviews of *In the Realm of the Last Man*: Quillette, 07.09.2026, Washington Monthly, 30.08.2026, Foreign Policy, 25.09.2026; the Jacobin interview, September 2026 (open part); Stanford FSI, "Rethinking Bureaucracy: Delegation and State Capacity in the Modern Era"; Fukuyama F., "Why American Governments Can't Get Things Done", Persuasion.
+**Sources:** Fukuyama F., "Boredom at the End of History", Persuasion, 2024; reviews of *In the Realm of the Last Man*: Quillette, 07.09.2026, Washington Monthly, 30.08.2026, Foreign Policy, 25.09.2026; the Jacobin interview, September 2026 (open part); Stanford FSI, "Rethinking Bureaucracy: Delegation and State Capacity in the Modern Era"; Fukuyama F., "Why American Governments Can't Get Things Done", Persuasion. Hungarian facts checked on 01.10.2026: Simonovits A., "The Mandatory Private Pension Pillar in Hungary: An Obituary", ISSR 2011 (about HUF 3 trillion, 2010–11); the 27 % VAT rate since 2012 (EU VAT rates); the 2010 crisis taxes on banks, energy, telecoms and retail (EUobserver; Telecompaper); windfall taxes from 1 July 2022 (S&P Global; IBFD).
 
 ---
 

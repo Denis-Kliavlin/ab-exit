@@ -99,3 +99,31 @@ the sum must be noticeable, but not so large as to become an offer that cannot b
 and the specific numbers are calibrated for the US. The threshold at which the incentive becomes
 coercive (Q-ETH-004) is computed nowhere — so it cannot be shown that 1.5 % lies below it.
 The final values are set by referendum in any case, but the opening proposal needs better grounding.
+
+---
+
+### Q-GAM-005 · You call the protocol incentive-compatible. Where is the theorem?
+
+**Status:** ✅ answered
+**Who asks:** academics, referees
+**Source in the book:** [013f "A Formal Statement"](../03-theory/013f-formal-statement.md)
+**Related:** Q-GAM-001, Q-GAM-002, Q-GAM-006
+
+**Answer.** The word was imprecise: for Myerson it is a property of a mechanism with messages, while in the protocol nobody reports anything — the type shows in the act. Five statements are proved: "nothing" is dominated at any positive sum; the thermostat equilibrium exists and is unique (a fixed point of a decreasing map); exactly those with a stake above the threshold vote, and the exit share rises with the sum with damping; a stakeless person's vote cannot be bought for less than the sum; a group above the size threshold dissolves into individuals. Two assumptions: an impulse is not a stake, and money is worth the same to everyone (removed by replacing the stake with the stake in one's own money). The stake is defined as everything for which a person is willing to forgo the sum — the motive does not matter, the willingness to pay does.
+
+**Weak point of the answer.** Uniqueness rests on the threshold depending on the exit share only through the weight of the vote; under herding there may be several points — the first thing a referee will check, and only a pilot can answer.
+
+---
+
+### Q-GAM-006 · Feddersen and Pesendorfer proved that it pays the uninformed to abstain. Why pay, then?
+
+**Status:** ✅ answered
+**Who asks:** economists, voting theorists
+**Source in the book:** [013f §1b](../03-theory/013f-formal-statement.md)
+**Related:** Q-GAM-005, Q-ELE-002
+
+**Answer.** Their theorem is the direct predecessor: the departure of the uninformed improves the decision. But their equilibrium does not arrive in life: a person does not consider himself uninformed, and he is brought in; he does not feel the gain of staying home. The protocol makes it tangible — as money. And the protocol's criterion is wider: theirs removes the uninformed, ours whoever has no horizon. The button at the election is a test of the horizon by an act: money now or influence on what comes later. Knowledge enters the stake as a component, not as a condition: whoever has a horizon and does not know stays and, having stayed, finds out, because he paid for his ticket.
+
+**Weak point of the answer.** The claim "whoever stays will find out" rests on accuracy-incentive experiments and on those mobilised by an incentive; there is no direct measurement for those self-selected by stake.
+
+---

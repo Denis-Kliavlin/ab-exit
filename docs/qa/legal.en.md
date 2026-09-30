@@ -114,3 +114,18 @@ weighs more because some people exited"). And the philosophical version of the o
 equality that requires activation is no longer an uncontested core
 ([§34](../06-critique-arsenal/034-fraenkel.md), blow 3). The real legal wall is not vote weight
 but payment for non-participation (Q-LEG-003).
+
+---
+
+### Q-LEG-006 · How much is paid, who decides, and what is actually written in the charter?
+
+**Status:** ✅ answered
+**Who asks:** lawyers, legislators, authors of the referendum text
+**Source in the book:** [048k "Inventory of Norms and Decisions"](../08-implementation/048k-charter-inventory.md), [049](../10-usa/049-legal-statute.md)
+**Related:** Q-LEG-002, Q-LEG-004, Q-ECO-001
+
+**Answer.** There is no sum — there is a percentage of the median income; for a country it turns into a sum, but it must be set as a percentage. The percentage is determined by open debate and a referendum, even with ten options; one may launch with any, and change it no more than once per cycle, by a simple majority. The median and the averaging period are a country setting for economists. Chose the money — received it at once and entered the counter at once; no way back, or there would be collusion. Secrecy is for the ballot, exit is not specially hidden. Everyone who has a vote today is entitled to the money: the voting system is not changed before adoption. Each level of government pays at its own elections. Whoever chose nothing is the controller, his money waits until the next election. The principle: the protocol gives the right to a payment as an incentive, not the methods of arranging it.
+
+**Weak point of the answer.** Five of the twelve decisions hand the question to experts, and the charter will be short precisely because those answers are not in it; the first critic will call them blanks.
+
+---

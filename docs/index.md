@@ -176,6 +176,7 @@
 - [48i. Три канала и параллельный подсчёт: деньги, открытый голос, тайный бюллетень](08-implementation/048i-three-channels-parallel-count.md)
 - [48j. Суды и подгонка по месту: чего протокол не описывает и почему](08-implementation/048j-courts-and-local-tuning.md)
 - [48k. Опись норм и одиннадцать расхождений: заготовка единого устава](08-implementation/048k-charter-inventory.md)
+- [48l. Дворовой пилот: живые деньги против взвешенного голоса](08-implementation/048l-courtyard-pilot.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 

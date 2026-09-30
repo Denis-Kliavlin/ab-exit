@@ -64,7 +64,7 @@
 
 Позиция 2026 года собрана по рецензиям и открытым началам текстов; полных мемуаров ассистент не читал, и если в закрытой части есть его собственное предложение реформы, сравнение придётся пересчитать. Оценка «настоящих скучающих меньше процента» — суждение архитектора, а не замер; измерить её можно одним способом — посмотреть в пилоте, сколько обеспеченных отказалось от выплаты ради голоса «против». 🟡
 
-**Источники:** Fukuyama F., «Boredom at the End of History», Persuasion, 2024; рецензии на «In the Realm of the Last Man»: Quillette, 07.09.2026, Washington Monthly, 30.08.2026, Foreign Policy, 25.09.2026; интервью Jacobin, сентябрь 2026 (открытая часть); Stanford FSI, «Rethinking Bureaucracy: Delegation and State Capacity in the Modern Era»; Fukuyama F., «Why American Governments Can't Get Things Done», Persuasion.
+**Источники:** Fukuyama F., «Boredom at the End of History», Persuasion, 2024; рецензии на «In the Realm of the Last Man»: Quillette, 07.09.2026, Washington Monthly, 30.08.2026, Foreign Policy, 25.09.2026; интервью Jacobin, сентябрь 2026 (открытая часть); Stanford FSI, «Rethinking Bureaucracy: Delegation and State Capacity in the Modern Era»; Fukuyama F., «Why American Governments Can't Get Things Done», Persuasion. Венгерские факты сверены 01.10.2026: Simonovits A., «The Mandatory Private Pension Pillar in Hungary: An Obituary», ISSR 2011 (около 3 трлн форинтов, 2010–11); ставка НДС 27 % с 2012 года (EU VAT rates); кризисные налоги 2010 года на банки, энергетику, связь и торговлю (EUobserver; Telecompaper); налоги на сверхприбыль с 1 июля 2022 года (S&P Global; IBFD).
 
 ---
 

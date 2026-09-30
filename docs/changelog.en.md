@@ -6,6 +6,37 @@ Format: based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [September–October 2026] — work in Claude Code, commits 21.09–01.10.2026
+
+The log was not kept since June; below is a summary from the commit history. Every section exists in Russian and English.
+
+### Added
+
+- **01 Introduction:** 001c "A Board Without Good Moves" — the catalogue of forks; the main fork "free abstention stops being a choice".
+- **02 History:** 006b "Predecessors in the Genre and What Remains" — five designs of a whole state before 1926, ten works of the last hundred years, ten closest by content, the roadmap of gaps.
+- **03 Theory:** 013f "A Formal Statement" — five theorems, two assumptions, the predecessor Feddersen–Pesendorfer, the Kydland–Prescott map; 015b, 015c — states not types, the sign of the thermostat.
+- **04 Electoral Dynamics:** 019e "The Marriage Penalty", 019f "The Vector: Wearing Down Men", 019g "The Second Wave of Exit".
+- **05 Empirical Base:** 023b "Rules for Handling Evidence", 023c "Compulsory Voting", 023d "Democracy Vouchers", 023e "Deliberation and Assemblies", 023f "Money at Elections".
+- **06 Critique Arsenal:** 029.4b "The Autocrat Already Pays", 029.10 "The Mirror of Trust", 039 "Orbán as a Control Case", 040i "Linz and Shulman", 040j "Kant", 040k "Strauss and Howe", 040l "Fukuyama".
+- **08 Implementation:** 048f "Double-Entry Elections", 048g "Rollback", 048h "Secrecy, Verifiability, Coercion", 048i "Three Channels and Parallel Counting", 048j "Courts and Local Tuning", 048k "Inventory of Norms and Eleven Discrepancies: the architect's decisions, the sanctions ladder", 048l "The Courtyard Pilot".
+- **09 Other Countries:** 055c "Germany" (§6 — the September 2026 state elections), 056d–056f "Russia", 057b "Belarus", 057c "Iran", 057d "Venezuela", 057e "Spain in the 1960s".
+- **10 USA:** 059–059f — presidents, Musk and Milei, the "Trump dividend", candidates, the underdog campaign.
+- **Q&A:** a full English mirror; entries Q-ETH-005, Q-SOC-006–008, Q-ELE-005–006, Q-GAM-005–006, Q-LEG-006, Q-IMP-005.
+
+### Changed
+
+- **The architect's twelve charter decisions** (048k §3, 30.09.2026): a percentage, not a sum; debate → referendum; no more than once per cycle; payment at once; no way back; late discount 20–30 %; the right for everyone with a vote; each level pays at its own elections; the savings bonus removed; whoever chose nothing is the controller. Dated amendments in 002, 004, 018, 033b, 042, 048h, 048i, 049, Q-IMP-002.
+- **Vocabulary:** a populist is a position relative to the voter, not a label; the top means the creators; the filter is by length of horizon; "dividend" is a word everyone likes (033c §9d).
+- **036 §85.8:** the June self-rating re-read — what holds and what does not; irreversibility restated: no precedent of a referendum-locked payment repealed by referendum.
+- **023 §23.2:** the sentence "populists regularly win in Australia" withdrawn.
+- **Translations:** every chapter received an English mirror (143 files by 24.09.2026).
+
+### Fixed
+
+- A false citation in 014 removed; line-number references replaced by section numbers; indexes synchronised (38b, 40b–40l, 19e–19g, 23c–23f).
+
+---
+
 ## [v6.56_clean] — 2026-06-10
 
 ### Fundamental architecture changes

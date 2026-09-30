@@ -82,3 +82,31 @@ rather than moral satisfaction.
 intensity of preference: it benefits most those who already have more resources for
 political participation. The mechanism is neutral; access to the use of the strengthened
 vote is not.
+
+---
+
+### Q-ELE-005 · Australia has fined non-voters for a hundred years and all is well. How is the protocol better than compulsory voting?
+
+**Status:** ✅ answered
+**Who asks:** supporters of compulsory voting, political scientists
+**Source in the book:** [023c "Compulsory Voting"](../05-empirical-base/023c-compulsory-voting.md)
+**Related:** Q-ELE-001, Q-SOC-004
+
+**Answer.** The same lever with the opposite sign. A $20 fine has kept turnout above 90 % for a century — a small price steers mass behaviour, an argument for "launch with any percentage". But full turnout does not cure the horizon: pensions rose right after 1924, an attempt to touch retirees' concessions was punished in 2019, housing in Sydney costs 13.8 annual incomes, trust in parliament has not risen in a quarter of a century. Next to its twins — New Zealand and Canada without compulsion — the only measurable result of the fine is the turnout figure. Australia shows what happens when everyone is driven to the ballot box: power for the middle of everyone, including the third that does not care. The protocol leads that third out with money. Fowler measured that adding the third shifted policy by 7–10 points — a mirror lower bound for the protocol's effect.
+
+**Weak point of the answer.** Compulsion in Australia is combined with preferential voting, and the parties' centrism may be a consequence of the latter; their contributions cannot be separated on one country.
+
+---
+
+### Q-ELE-006 · People will never vote for money at elections — Arizona rejected a voter lottery two to one.
+
+**Status:** ✅ answered
+**Who asks:** campaign staffs, journalists
+**Source in the book:** [023f "Money at Elections"](../05-empirical-base/023f-money-at-elections.md), [059c](../10-usa/059c-trump-5000-and-critics.md)
+**Related:** Q-LEG-001, Q-ELE-002
+
+**Answer.** In 2006 Arizona rejected the purchase of turnout by lottery from a private person — the opposite of the protocol: paid for coming, to a random person, as a gimmick. In twenty years the taboo was lifted by practice: Musk's million-a-day draw before the 2024 election was not stopped by the court, and the candidate won; in 2026 the sitting president promised five thousand to everyone. The word "bribery" was uttered every time, and every time it cost less. The protocol does not need to prove that money is admissible — it needs to prove that its money goes for refusal, not for a vote, to everyone, by a formula. Field experiments also give a threshold: small sums do not move behaviour.
+
+**Weak point of the answer.** The three events come from one country; there has not yet been a referendum on payment for exit anywhere.
+
+---

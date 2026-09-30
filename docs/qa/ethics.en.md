@@ -81,3 +81,18 @@ of the median) so as not to be "an offer that cannot be refused".
 bioethics in discussions of paying donors and trial participants, and there it is treated
 as serious. The answer "the sum is small" is quantitative, and therefore vulnerable: in a crisis
 even a small sum becomes decisive. **A section is needed.**
+
+---
+
+### Q-ETH-005 · Kant: the vote is part of dignity, and dignity has no price. Doesn't a payment for non-participation strip dignity?
+
+**Status:** ✅ answered
+**Who asks:** philosophers, Kantians, legal theorists
+**Source in the book:** [040j "Kant"](../06-critique-arsenal/040j-kant.md), [029.4](../06-critique-arsenal/029-hypocrisy.md)
+**Related:** Q-ETH-001, Q-ETH-002, Q-LEG-001
+
+**Answer.** The objection is removed with Kant's own weapon. To forbid a citizen to dispose of his vote for his own moral good is "the greatest despotism" of paternal care (1793); right may not prescribe virtue. "Price or dignity" applies to the person, not to the deed: the right to vote is not alienated, the price is put on the act for one cycle. And voting as a process — listen, study, travel, tick — is by composition of actions a working day, while the vote-as-dignity, in an existential choice, is by the stake model never sold. Kant would sign as a jurist and keep silent as a moralist.
+
+**Weak point of the answer.** Kant applied the "right vs act" distinction to labour and property, not to voting; the transfer is ours, and it holds for an election-as-measure, not an election-as-fork, while the line between them is drawn after the vote.
+
+---

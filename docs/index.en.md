@@ -228,3 +228,4 @@ United States is one country case among others, not the frame of the document.*
 *© 2026 Denis Klyavlin · AB-EXIT™ · CC BY-NC-SA 4.0 · denis@ab-exit.com*
 
 - [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
+- [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)

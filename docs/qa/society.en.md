@@ -109,3 +109,44 @@ helps only where courts work. The size of the phenomenon in the target countries
 of observations, Albania 2025 — 11 %; for the EU and US the measured pressure is the employer's,
 not the family's (048h.4). The reading of the architect's formulation "Yin-Yang. The balance of
 family life" belongs to the assistant.
+
+---
+
+### Q-SOC-006 · Strauss and Howe: crises come every 80 years by the laws of the saeculum. Won't the protocol fail to cancel that?
+
+**Status:** ✅ answered
+**Who asks:** readers of *The Fourth Turning*, futurologists
+**Source in the book:** [040k "Strauss and Howe"](../06-critique-arsenal/040k-strauss-howe.md)
+**Related:** Q-SOC-007, Q-META-003
+
+**Answer.** The saeculum has one engine: institutions lose feedback and are repaired only by collapse, because there is no continuous channel of correction. The protocol puts correction into every cycle — the number on the account, the exit share, the weight of the vote — and the Crisis as a reset mechanism ceases to be needed. Their theory is true the way medicine before penicillin was true. What remains of it is a calendar for one use — the Crisis window to enter the door — and a vocabulary. All five arguments they would raise turned out to be descriptions of the world without a thermostat.
+
+**Weak point of the answer.** The weakness of the world after is not the return of the saeculum but resistance: pathologies that did not exist before the cure — substitution of the median's source, corruption of the register, the wording of the question. They can be tested only in that world.
+
+---
+
+### Q-SOC-007 · Fukuyama: people revolt against liberal democracy out of boredom and a thirst for recognition. Won't money fail to lead them away?
+
+**Status:** ✅ answered
+**Who asks:** political scientists, readers of *The End of History*
+**Source in the book:** [040l "Fukuyama"](../06-critique-arsenal/040l-fukuyama.md), [013f](../03-theory/013f-formal-statement.md)
+**Related:** Q-SOC-006, Q-ELE-002
+
+**Answer.** His "last man" is our apathetic and our burned: boredom from a weightless vote, not from satiety. The "sated bored rebel" falls apart: a populist always threatens the well-off — by a tax, a levy or a contract to a crony — so they have a stake; the truly bored are below one per cent; between money and a free gesture most take the money; and whoever stayed has already shown himself. Fukuyama's blind spot: he idealised the form, universal equal suffrage, and so looked for breakdowns anywhere but in the voter; he had no defence against the free mass in any of his books.
+
+**Weak point of the answer.** The 2026 position is assembled from reviews and the open parts of the memoir; if its closed part contains a reform proposal of his own, the comparison must be redone.
+
+---
+
+### Q-SOC-008 · The "lying-flat generation" has refused to work and to have children. Who created this, and what does the protocol change?
+
+**Status:** ✅ answered
+**Who asks:** sociologists, employers, demographers
+**Source in the book:** [019g "The Second Wave of Exit"](../04-electoral-dynamics/019g-second-wave-of-exit.md), [016 §25](../04-electoral-dynamics/016-age-economics.md)
+**Related:** Q-SOC-004, Q-SOC-007, Q-ECO-003
+
+**Answer.** It was created by policy for a stakeless majority: school, press, budget and regulation aim at the middle, creators are not needed — the middle envies them, the ruler fears them, the official cannot be bothered — and suppressing them with prohibitions costs nothing, because "the apathetic have no café". The calculation "the creators will carry everyone" is written into budgets and has failed: first the active left the elections, now they leave the economy. Checked against data: the median German voter is 52, the top tenth pays 60–70 % of income tax, school reforms lift the middle and drop the strong, 21 % of the employed are engaged. The protocol leads the free mass out, the number on the account rates stagnation, the electorate grows younger by itself, and being clever begins to pay.
+
+**Weak point of the answer.** The share of non-political causes — automation and world competition — is not estimated, and without it one cannot say what part of the generation the protocol will bring back.
+
+---

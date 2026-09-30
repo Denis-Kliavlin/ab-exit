@@ -84,3 +84,18 @@ Romania 2024 is cited as proof of the helplessness of the current system of prot
 the target, the next target is **the A/B choice itself**: a campaign for mass exit in the
 right region gives the same effect as a turnout campaign, but cheaper and more legally.
 That scenario is not examined in §44.
+
+---
+
+### Q-IMP-005 · All of this is estimates. Where is the pilot?
+
+**Status:** 🟡 plan
+**Who asks:** everyone — experts, donors, journalists
+**Source in the book:** [048l "The Courtyard Pilot"](../08-implementation/048l-courtyard-pilot.md), [045 §45.7](../08-implementation/045-campaign-economics.md)
+**Related:** Q-IMP-001, Q-META-002
+
+**Answer.** A courtyard, an association or a village of 500–1,000 adults with a fund of its own and a real question. Two buttons, a sum by the yardstick "from what sum would 40–50 % forgo the right to decide", a time scale with a premium for the early and a late payment at a discount, a counter by building, the weight of the vote by arithmetic, a control courtyard with an ordinary vote, two rounds. Run by an independent institute on a plan published in advance; payments through a notary; open data. Measured: the share taking the money and its age profile, those refusing the sum to vote "against", those returning for the late payment, the shift of opinions among those who remain on Fishkin's model, recognition of the result by those who exited, and the simplicity of the rule. A fund of 15 thousand euros per thousand people plus 10–15 thousand for the institute.
+
+**Weak point of the answer.** A stake in a courtyard is not a stake in a national election; the shape of the dependence and the sign carry over, not the number. A courtyard has no thermostat — the quality of the decision will be judged by observers, not by a number on an account.
+
+---
