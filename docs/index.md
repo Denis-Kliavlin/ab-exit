@@ -85,6 +85,9 @@
 
 23. [⭐ Сравнительная эффективность: единицы vs десятки процентов](05-empirical-base/023-quantitative-comparison.md)
 23b. [Правила обращения с доказательствами](05-empirical-base/023b-evidence-rules.md)
+   - [23c. Обязательное голосование: сто лет зеркального опыта](05-empirical-base/023c-compulsory-voting.md)
+   - [23d. Ваучеры демократии: бюджетные деньги под политическое решение](05-empirical-base/023d-democracy-vouchers.md)
+   - [23e. Делиберация и гражданские ассамблеи: качество без двери](05-empirical-base/023e-deliberation-assemblies.md)
 24. [Норвегия как естественный эксперимент](05-empirical-base/024-norway.md)
 25. [Грузия и Саакашвили](05-empirical-base/025-georgia.md)
 26. [Хантингтон и Тоффлер](05-empirical-base/026-huntington-toffler.md)
