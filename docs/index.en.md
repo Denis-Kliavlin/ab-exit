@@ -130,6 +130,7 @@ Each section is self-contained — you can read it straight through as a book (u
    - [23c. Compulsory Voting: A Hundred Years of the Mirror Experiment](05-empirical-base/023c-compulsory-voting.md)
    - [23d. Democracy Vouchers: Public Money for a Political Decision](05-empirical-base/023d-democracy-vouchers.md)
    - [23e. Deliberation and Citizens' Assemblies: Quality Without a Door](05-empirical-base/023e-deliberation-assemblies.md)
+   - [23f. Money at Elections: From Arizona to Trump in Twenty Years](05-empirical-base/023f-money-at-elections.md)
 - [13f. A Formal Statement: Four Theorems and Two Assumptions](03-theory/013f-formal-statement.md)
    - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)

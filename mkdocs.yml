@@ -112,6 +112,7 @@ plugins:
             "23c. Обязательное голосование": "23c. Compulsory Voting"
             "23d. Ваучеры демократии": "23d. Democracy Vouchers"
             "23e. Делиберация и ассамблеи": "23e. Deliberation and Assemblies"
+            "23f. Деньги на выборах": "23f. Money at Elections"
             "24. Норвегия": "24. Norway"
             "25. Грузия": "25. Georgia"
             "26. Хантингтон и Тоффлер": "26. Huntington and Toffler"
@@ -290,6 +291,7 @@ nav:
       - "23c. Обязательное голосование": 05-empirical-base/023c-compulsory-voting.md
       - "23d. Ваучеры демократии": 05-empirical-base/023d-democracy-vouchers.md
       - "23e. Делиберация и ассамблеи": 05-empirical-base/023e-deliberation-assemblies.md
+      - "23f. Деньги на выборах": 05-empirical-base/023f-money-at-elections.md
       - "24. Норвегия": 05-empirical-base/024-norway.md
       - "25. Грузия": 05-empirical-base/025-georgia.md
       - "26. Хантингтон и Тоффлер": 05-empirical-base/026-huntington-toffler.md
