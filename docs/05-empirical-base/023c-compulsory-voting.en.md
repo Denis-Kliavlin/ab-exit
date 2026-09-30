@@ -19,7 +19,7 @@ Australia introduced compulsory voting at federal elections by an act of 1924 �
 | Turnout 2025 | 90.7 % |
 | Informal ballots 2025 | 5.5 % |
 | One Nation (Hanson), first preferences 2025 | 6.4 % |
-| Populist federal government in a hundred years | never |
+| A party labelled populist in the federal government in a hundred years | never; by position (033c, the architect's vocabulary: a populist is whoever works for the stakeless majority) — every government, because everyone votes: pensions rose after 1924, retirees' concessions were defended in 2019, "stop the boats" in 2013 was the ruling coalition's slogan, not Hanson's |
 | Would vote even if not compelled (2022 survey) | 77 % |
 | Support compulsory voting (2022) | 69 % |
 | Failure-to-vote notices after the 2022 election | 1,268,907 |
@@ -32,7 +32,7 @@ Australia introduced compulsory voting at federal elections by an act of 1924 �
 
 ## 3. A correction to the repository's earlier text
 
-023 §23.2 read: "populist parties regularly win in Australia; the effect on quality is close to zero or negative". The first is false: the populist party gets 6 % and has never formed a government. The second does not hold in that form: Australia is well governed and went almost thirty years without a recession. What the repository said correctly: compulsion raises external costs by Buchanan and Tullock (013 §13.3), it is feasible — the only alternative implemented at the scale of a country (019 §61.2) — and it does not cure apathy but masks it.
+023 §23.2 read: "populist parties regularly win in Australia; the effect on quality is close to zero or negative". The first is false by label — the party with that name gets 6 % and has never formed a government — and beside the point by position: when both big parties play the populist, a separate party with the label is not needed. The second does not hold in that form: Australia is well governed and went almost thirty years without a recession. What the repository said correctly: compulsion raises external costs by Buchanan and Tullock (013 §13.3), it is feasible — the only alternative implemented at the scale of a country (019 §61.2) — and it does not cure apathy but masks it.
 
 ## 4. Ten points of comparison
 
@@ -41,7 +41,7 @@ Australia introduced compulsory voting at federal elections by an act of 1924 �
 | 1 | The lever | a fine for non-turnout, $20 | a payment for a declared exit |
 | 2 | Turnout | 91 %, a hundred years running | 30–40 % voting, the rest exited for money |
 | 3 | Whom it adds to the ballot box | those who would not have come without compulsion — 23 % by survey, plus 5.5 % spoiled ballots: almost a third | nobody; it leads that third out with money |
-| 4 | Populism | 6 % in a hundred years, never a government: parties pull to the centre because everyone votes | the populist's base leaves first (055c §6.3) |
+| 4 | Populism | by label 6 %, by position both big parties: they pull to the centre of everyone including the compelled, and adopt Hanson's agenda themselves | the populist's base leaves first (055c §6.3) |
 | 5 | Whom parties work for | the median of everyone including the compelled: pensions rose after 1924, the "retiree tax" sank a reform in 2019 | the median of those with a horizon |
 | 6 | The horizon of power | unchanged: at 91 % turnout the older voter decides as at 60 % | grows younger by itself (016 §25) |
 | 7 | Housing | 13.8 annual incomes at full turnout: the owner majority votes in full | the closed ladder hits the median and the payment (019g) |
