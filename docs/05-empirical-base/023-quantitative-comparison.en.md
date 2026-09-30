@@ -23,7 +23,7 @@ This section shows the difference quantitatively. Without it the comparison stay
 
 **Lowering the voting age to 16** (Austria since 2007). Zeglovits & Aichholzer 2014: adolescents vote at the same rate as adults. A gain of roughly **2–4 %**.
 
-**Compulsory voting** (Australia, Belgium). The strongest mechanism by effect — **+25–35 % turnout**. But it is **not a solution to apathy and populism**. A compelled electorate includes a huge share of random, protest and emotional votes. Populist parties regularly win in Australia. The effect on quality is close to zero or negative (Brennan, "The Ethics of Voting", 2011).
+**Compulsory voting** (Australia, Belgium). The strongest mechanism by effect — **+25–35 % turnout**. But it is **not a solution to apathy and populism**: a compelled electorate includes those who would not have come without a fine (about 23 % in Australia by the 2022 survey), plus 5–6 % of spoiled ballots. *Correction of 30.09.2026:* the earlier sentence "populist parties regularly win in Australia" is not borne out — One Nation received 6.4 % in 2025, and there has never been a populist federal government. Full turnout pulls the parties to the centre, but it is the centre of everyone including the compelled; it does not change the horizon of power (pensions, housing, the 2019 election) and creates no trust in parliament (28 % by the WVS). In detail — 023c.
 
 **Ranked Choice Voting** (Maine since 2018, Alaska since 2022). Alaska 2022: the moderate Mary Peltola beat the populist Sarah Palin thanks to the redistribution of second choices. A local effect. The structural effect on populism — **0–3 % on average**.
 
@@ -45,7 +45,7 @@ This section shows the difference quantitatively. Without it the comparison stay
 | Postal voting | +2–7 % | 0 % | 0 % |
 | Automatic registration | +2–3 % | 0 % | 0 % |
 | Lowering the voting age | +2–4 % | 0–2 % | 0 % |
-| Compulsory voting | +25–35 % | 0 % or ⬇️ | 0 % or ⬇️ |
+| Compulsory voting | +25–35 % | 0 % (the centre of everyone, the horizon unchanged) | 0 %: populists neither grow nor fall |
 | Ranked Choice Voting | 0 % | +2–5 % | +0–3 % locally |
 | Open primaries | 0 % | +5–8 % | +3–5 % |
 | Citizens' assemblies | 0 % | +5–10 % locally | 0 % |

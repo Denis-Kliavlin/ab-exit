@@ -2,7 +2,7 @@
 
 **Chapter:** 05 — Empirical Base
 **File:** 05_023c · v1 · 30 September 2026 (session 30.09.26)
-**Source:** the architect's decision "gather everything already in the repository into separate chapters"; consolidated from 013 §13.3, 019 §61.2, 023 §23.2–23.3; figures checked against primary sources on 30.09.2026.
+**Source:** the architect's decision "gather everything already in the repository into separate chapters"; consolidated from 013 §13.3, 019 §61.2, 023 §23.2–23.3; on the architect's instruction "check every fact on Australia as the anti-AB-EXIT and go through ten points of comparison" rewritten on 30.09.2026 with a correction of the earlier text of 023.
 
 ---
 
@@ -10,41 +10,64 @@
 
 Compulsory voting is the only reform among those compared that solves the same problem with the same lever, only with the opposite sign: a price is attached to non-turnout, but it is a fine, not a payment. The repository has three paragraphs on it in three chapters. They are gathered here because this is the longest experiment in history in steering turnout by price.
 
-## 2. What happened
+## 2. What happened — facts checked on 30.09.2026
 
-Australia introduced compulsory voting at federal elections by an act of 1924 — after turnout fell from 71 % in 1919 to 59.4 % in 1922. At the very first election under the new rule, in 1925, 91.4 % voted. The level has held for a hundred years. The fine in 1924 was two pounds; today it is 20 Australian dollars. Belgium has applied the same rule for longer, since 1893.
+Australia introduced compulsory voting at federal elections by an act of 1924 — after turnout fell from 71 % in 1919 to 59.4 % in 1922. At the very first election under the new rule, in 1925, 91.4 % voted. Belgium has applied the same rule since 1893.
 
-## 3. What the repository already says
+| Fact | Figure |
+|---|---|
+| Turnout 2025 | 90.7 % |
+| Informal ballots 2025 | 5.5 % |
+| One Nation (Hanson), first preferences 2025 | 6.4 % |
+| Populist federal government in a hundred years | never |
+| Would vote even if not compelled (2022 survey) | 77 % |
+| Support compulsory voting (2022) | 69 % |
+| Failure-to-vote notices after the 2022 election | 1,268,907 |
+| Of these, valid excuses accepted | 287,074 |
+| The fine | £2 in 1924; $20 today |
+| Effect of introduction (Fowler, 2013) | turnout +24 points, Labor +7–10 points, pension spending rose |
+| The 2019 election | Labor lost on the "retiree tax": in booths where the over-60s exceed 15 %, swings of up to 15 points |
+| Sydney, house price to income (2024) | 13.8 — second in the world after Hong Kong |
+| Trust in parliament by the WVS | 30 % in 1998, 28 % in 2022 |
 
-- **The effect on turnout is the strongest of all known reforms:** plus 25–35 percentage points (023 §23.2).
-- **The effect on the quality of the decision is zero or negative.** A compelled electorate includes random, protest and emotional votes; the apathetic are driven to the polling station, where they vote at random or for the loudest (023 §23.2, 019 §61.2).
-- **By Buchanan and Tullock compulsion raises external costs** — it imposes participation on the unwilling; the protocol does the reverse: nobody leaves or enters against his will (013 §13.3).
-- **Feasible but counterproductive:** of all the alternatives it is the only one actually implemented at the scale of a country, and it does not cure but strengthens what the protocol is directed against (019 §61.2).
+## 3. A correction to the repository's earlier text
 
-## 4. The comparison
+023 §23.2 read: "populist parties regularly win in Australia; the effect on quality is close to zero or negative". The first is false: the populist party gets 6 % and has never formed a government. The second does not hold in that form: Australia is well governed and went almost thirty years without a recession. What the repository said correctly: compulsion raises external costs by Buchanan and Tullock (013 §13.3), it is feasible — the only alternative implemented at the scale of a country (019 §61.2) — and it does not cure apathy but masks it.
 
-| | Compulsory voting | The protocol |
-|---|---|---|
-| The lever | a fine for non-turnout | a payment for a declared exit |
-| Who pays | the person to the state | the state to the person |
-| What happens to the apathetic | comes and votes without a stake | receives money and does not vote |
-| The composition of the voters | widens with the uninterested | narrows to those with a stake |
-| Freedom of choice | participation is imposed | both options are voluntary |
-| Record-keeping | the state knows every non-voter and sends notices | the state knows everyone who took the sum |
+## 4. Ten points of comparison
 
-## 5. What to take from it
+| # | | Australia | The protocol |
+|---|---|---|---|
+| 1 | The lever | a fine for non-turnout, $20 | a payment for a declared exit |
+| 2 | Turnout | 91 %, a hundred years running | 30–40 % voting, the rest exited for money |
+| 3 | Whom it adds to the ballot box | those who would not have come without compulsion — 23 % by survey, plus 5.5 % spoiled ballots: almost a third | nobody; it leads that third out with money |
+| 4 | Populism | 6 % in a hundred years, never a government: parties pull to the centre because everyone votes | the populist's base leaves first (055c §6.3) |
+| 5 | Whom parties work for | the median of everyone including the compelled: pensions rose after 1924, the "retiree tax" sank a reform in 2019 | the median of those with a horizon |
+| 6 | The horizon of power | unchanged: at 91 % turnout the older voter decides as at 60 % | grows younger by itself (016 §25) |
+| 7 | Housing | 13.8 annual incomes at full turnout: the owner majority votes in full | the closed ladder hits the median and the payment (019g) |
+| 8 | Trust in parliament | did not rise in a quarter of a century at full turnout | measured in money, not by a poll (029.10) |
+| 9 | The turnout industry | not needed: everyone comes | not needed: the apathetic are led out |
+| 10 | Administration | 1.3 million notices and 287 thousand excuses processed in one cycle | the register of those who took the sum is a machine of the same class |
 
-**A small price steers mass behaviour.** Twenty dollars have kept turnout above ninety per cent for a century. This is an argument for the architect's decision of 30.09.2026 "the main thing is to launch with any percentage" (048k §3): people's threshold of sensitivity to the price of participation is low.
+## 5. What Australia proves
 
-**The administrative machine already exists.** The Australian commission has for a hundred years kept a register of non-voters by name and sent out millions of notices. A register of those who took the sum is a task of the same class, not a new one; the objection "this cannot be administered" is removed by existing practice.
+**Full turnout does not cure the horizon.** Pensions, housing and 2019: with 91 % voting the same older owner decides as with 60 %. Labor was punished for touching retirees' concessions, and punished precisely in the booths where retirees are many.
 
-**The sign of the lever decides everything.** At the same price a fine adds votes without a stake to the ballot box; a payment removes them. Australia is the control experiment: the same instrument with the opposite sign gives the opposite composition.
+**Full turnout creates no trust.** Parliament is trusted as little as in countries with half the turnout.
+
+**Full turnout neither strengthens the populists nor weakens them.** When everyone votes, parties pull to the middle; but it is the middle of everyone including the compelled, that is, below the middle of the willing. The populist keeps his six per cent, and the big parties quietly adopt his agenda.
+
+**A small price steers mass behaviour.** Twenty dollars have kept turnout above ninety per cent for a century. An argument for the decision "the main thing is to launch with any percentage" (048k §3).
+
+**The record-keeping machine exists.** A hundred years of recording non-voters by name, a million notices per cycle. The objection "a register of those who took the sum cannot be administered" is removed by practice.
+
+In one sentence: Australia is what happens when everyone is driven to the ballot box — centrism, the rule of the old, expensive housing, low trust and a third of ballots from people who did not want to. The protocol is what happens if that same third is led out with money.
 
 ## 6. Weak point
 
-The estimate "the effect on quality is zero or negative" rests on Brennan (2011) and on reasoning about the composition of the electorate, not on a direct measurement; the claim in 023 §23.2 that in Australia "populist parties regularly win" is stronger than what federal election results show, and it should be either backed with figures or softened. 🟡
+Australia has combined compulsion with preferential voting since 1918, and the parties' centrism may be a consequence of the latter rather than the former; their contributions cannot be separated on one country. The estimate "a third in the ballot box did not want to be" adds a survey of intentions to the share of spoiled ballots, and these are only partly the same people. 🟡
 
-**Sources:** Australian Electoral Commission, "Compulsory voting in Australia"; Parliament of Australia, Parliamentary Library, "Compulsory voting"; Commonwealth Electoral Act 1924; ABC News, "Turnout at Australian Elections 1901–1925"; Brennan J., *The Ethics of Voting*, 2011.
+**Sources:** Australian Electoral Commission, "Participation in the 2025 federal election", "Compliance & Enforcement Activities", "Compulsory voting in Australia"; Parliament of Australia, Parliamentary Library, "2025 Australian Federal Election"; Fowler A., "Electoral and Policy Consequences of Voter Turnout: Evidence from Compulsory Voting in Australia", QJPS, 2013; Australian Election Study 2019 and 2022; Canberra Times, "Massive swings against Labor in franking credit seats", 2019; Demographia International Housing Affordability 2024; World Values Survey via Our World in Data, "Trust in institutions".
 
 ---
 
