@@ -67,6 +67,20 @@ The theorems hold under two conditions, and their place is in the statement, lik
 
 **Assumption 2 — money is worth the same to everyone.** In §2 the utility of money is linear. To a poor person a rouble is dearer; the repository's simulator accounts for this with a hyperbola over the remainder (055c §6.3b). In the rigorous model *v* is replaced by *v/u′(m)* — the stake in the person's own money — and theorems 2–4 survive that replacement.
 
+## 4b. Rules rather than discretion: a map onto Kydland and Prescott
+
+Kydland and Prescott (1977) showed that a power deciding afresh each period loses to a power bound by a rule, even if it is clever and well-meaning — because people foresee the temptation to depart from the promise, and the promise stops working. They have three parts; the protocol has all three and two more.
+
+| In Kydland and Prescott | In the protocol |
+|---|---|
+| The temptation to depart once people have believed | the pre-election handout, the promise without a price (029.4b, 029.10) |
+| A rule that cannot be changed in the current period | the formula in the law; the percentage only by referendum and no more than once per cycle (048k §3) |
+| An observable quantity | the median and the number on everyone's account |
+| **Memory** — for them rational expectations, that is, people who remember and calculate; in life 47 % of promises unkept without consequences (029.10) | **built into the rule:** the number on the account with its trend and the comparison with the neighbours (049) remembers for the voter; the audit is not the power's report on itself but a sum it cannot rewrite. The architect: "a promise is disbelieved only if the voters do not remember it; after AB-EXIT the number remembers — that is the disease 'before': with antibiotics in every pharmacy there is no sepsis from a scratch" |
+| **Punishment** — for them external, through expectations | built in: depart — inflation a cycle later — the median down — the payment down for the very clientele (039), and the vote of the deceived weighs three times more |
+
+The gain from tying one's hands, in their sense, is the list of policies impossible today not for lack of willing politicians but because they cannot be believed: pension reform (burdening the present for the unborn), opening construction (the owners decide), reducing debt (the voter does not care). All three become possible not because a good politician arrives but because a voter with a horizon can be trusted and a number cannot be lied to. The illustration is 023c §7: Australia's rent tax (discretion) was rewritten in six weeks and repealed in four years; a payment by formula (a rule) is repealed only by a majority voting against its own money, 7–12 % for rollback (048g).
+
 ## 5. The task for an economist
 
 A 10–15-page note in mechanism theory: the primitives of §2; theorems 1–4 with full proofs; comparative statics in *D*, *c* and the shape of *F*; the extension to assumption 2; a check against the simulator (`simulation/referendum-lab/model.mjs` — a logit version of the same model). A referee should be given not "we are incentive-compatible" but "here is the fixed point, here are the conditions, refute them".
