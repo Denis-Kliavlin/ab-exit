@@ -53,6 +53,8 @@ The section also records one specific observation: AB-EXIT surpasses the nearest
 
 — Dependence on one political party (Vote-by-mail became "Democratic" — a ceiling on support). — Complex technical concepts without a simple explanation (Quadratic Voting, Liquid Democracy). — Control by one actor (Worldcoin as Altman's project). — Absence of a first real adoption (Liquid Democracy outside the Pirate Party).
 
+> **Review of 01.10.2026.** Sections 85.5 and 85.7 are the June 2026 wording, before the charter decisions (048k), the Australian check (023c) and the analysis of Arizona (023f). Re-read with the same rigour; what holds and what does not is in 85.8. The text below is kept as it stands.
+
 ### 85.5. AB-EXIT vs the whole class of reforms — structural superiority in the combination of parameters
 
 Comparing AB-EXIT with one idea taken separately (for example, Plurality) shows superiority in several respects. But a more precise analysis shows that AB-EXIT surpasses the WHOLE class of studied reforms in a unique combination of parameters that none of the ten ideas of section 85.2 has.
@@ -174,3 +176,28 @@ Many reforms pass the first barrier but not the second. AB-EXIT is unique in tha
 This turns AB-EXIT not merely into "a reform with the best starting set of parameters" but into **a reform that stays after adoption**. Most reforms of the 20th–21st centuries are battles that must be fought continuously. AB-EXIT is a battle that is decided once and takes hold.
 
 ---
+
+### 85.8. Re-read on 01.10.2026: where the rating holds and where it does not
+
+On the architect's instruction: "after the Australian check this looks like advertising; go through it with the same rigour."
+
+| # | The June rating | What the check showed | Verdict |
+|---|---|---|---|
+| 1 | Clarity: "money or a ×3 vote", five seconds | Five seconds — true. "×3" is not a charter norm, the weight arises from arithmetic (033c §9b); Arizona showed that the opponent's first word is "bribery", and it must be answered with that, not with one's own slogan (023f) | Holds with a correction |
+| 2 | Material incentive: "about 300 dollars on world average" | The size is a percentage of the median, the yardstick "desirable to 40–50 %" (048k §3); 300 dollars contradicts both this and the "month's wage" of 045; small sums do not move behaviour (023f §4) | The number does not hold, the principle does |
+| 3 | Mechanism: two routes, "ready for most of the world" | Route A passed in Seattle (023d) and lost in Arizona (023f); Route B has been tested nowhere | Holds as a plan, not as a fact |
+| 4 | Universality: "works even in semi-authoritarian systems" | 039: after the autocrat the protocol works as a question, not as a payment; in Hungary the door is shut by Art. 8(3) | Does not hold in this form |
+| 5 | Complementarity: remove the apathetic — deliberation works better | Logical, not measured; 023e calls it an assumption | Holds as a hypothesis |
+| 6 | Irreversibility: "not a single precedent of a mass payment being abolished", "the probability of rollback is close to zero" | The precedent is in the repository itself: Alaska 2016 — the governor cut the dividend by veto, the court stripped the formula of protection (014 §14.3b); Hungary 2010 took the private pension savings (029.4b). 048g gives rollback 7–12 %, not zero | Does not hold; contradicts two chapters |
+
+Separately, on facts and language:
+
+- "This is not self-praise — it is an operational fact" — a rating one gives oneself cannot be a fact; to be read as the assistant's estimate of June 2026.
+- "Macron emasculated the convention's proposals" — 023e: 146 of 149 accepted, about a hundred implemented in full or in part; what is true is that the recommendations bound nobody.
+- "Oregon 2028 ten times more likely after a pilot" — a multiplier from nowhere.
+- "RCV in seven states" — at state level in two (Maine, Alaska), the rest cities; to be checked before citing.
+- "The formula is fixed in a smart contract" — the 049 charter does not contain this, and by the decision "the right, not the methods" (048k §3) it should not; the lock is the referendum, not code.
+
+What holds without correction: the analysis of the ten ideas (85.2), the six patterns of success (85.3), the four patterns of failure (85.4), the five consequences (85.6) except the multiplier. That part is written more strictly than the self-rating, and it remains in use.
+
+**Weak point of the review.** The review was made against the repository and the three checks of this week; the ten ideas themselves were not re-verified on 01.10.2026, and the figures of 85.2 may have gone stale in four months. 🟡
