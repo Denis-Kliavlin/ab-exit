@@ -27,6 +27,8 @@ An honest admission for AB-EXIT (we say it first): the stupidity of the populati
 
 ## 48b.4. The honest boundary
 
+> **Addition of 30.09.2026 (019g §8).** The boundary stands, but it is incomplete. The protocol does not make people cleverer — it makes being clever pay. The architect: today "there is no incentive to be clever if you suffer for it, because policy is aimed at pleasing the average"; after the protocol the clever person with a long horizon does not take the money, votes, the power works for those who vote, and he becomes more successful — "and that stimulates being clever and educated". The side road in the paragraph below acquires a direct incentive.
+
 AB-EXIT does not make people cleverer and does not promise to: it makes their stupidity useless to predators. Growing cleverer, if it happens, will come by a side path — through the un-switchable sensor that cycle after cycle teaches one to link the quality of governance to a personal number (the mechanics of re-learning — 02_011b, circuit 5). The difference from the "vaccine" of §9: the vaccine protects the system from the tyrant; this section is about the system also not generating in the government any demand for the raw material of tyranny.
 
 ---
