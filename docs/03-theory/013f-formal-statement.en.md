@@ -10,6 +10,12 @@
 
 §13 calls the protocol *incentive-compatible*. In Myerson that is a property of a mechanism with **messages**: the agent reports his type, and the truth is the best reply. In the protocol nobody reports anything: a person makes a choice, and the type shows in the act. That is a different class — a self-selection mechanism — and what needs proving is not the revelation principle but four statements, each simpler and each rigorous.
 
+## 1b. The predecessor: the theorem of profitable abstention
+
+The nearest proven result is Feddersen and Pesendorfer, "The Swing Voter's Curse" (American Economic Review, 1996). A voter who does not know which of two candidates is better affects the outcome only when the others are split evenly; but then his random vote cancels, with probability one half, the vote of someone who knew. So it pays him to abstain and hand the decision to the informed — even at zero cost of going to the polls — and the outcome is better than under universal voting. The departure of the uninformed improves the decision: for them it is a theorem, not an assumption.
+
+What they lack. In life their equilibrium does not arrive: the uninformed vote anyway — a person does not consider himself uninformed, and he is brought in. The theorem says it pays him to stay home, but he does not feel that gain; the protocol makes it tangible — as money on the account. And the protocol's criterion is different and wider: their voter leaves because he does not know; ours because he has no horizon (§2, the definition of the stake). Knowledge enters the stake as one component, not as a condition: a person may know and have no horizon — then he leaves; he may have a horizon and not know — then he stays and, having stayed, finds out (BJPS: the mobilised acquire information when participation is worth it). Theorems 2–4 are their result carried over from being informed to willingness to pay, and supplied with the price at which it is realised.
+
 ## 2. The setting
 
 There are N citizens. Each knows privately:
