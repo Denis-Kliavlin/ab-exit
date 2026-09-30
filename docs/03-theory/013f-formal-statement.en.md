@@ -14,7 +14,7 @@
 
 There are N citizens. Each knows privately:
 
-- *v* — the stake: everything for which he is willing to forgo the payment in this cycle, in money — influence on the outcome, taxes that threaten him or are promised to him, the wish to be among the voters. The motive does not matter; the willingness to pay does (040l §3);
+- *v* — the stake: everything for which he is willing to forgo the payment in this cycle, in money — influence on the outcome, taxes that threaten him or are promised to him, the wish to be among the voters. The motive does not matter; the willingness to pay does (040l §3); in substance it is the future a person takes into account: for whoever "later" does not exist the stake is small and he takes the sum; whoever has a horizon does not. The architect: "that is exactly why he takes the money at the election; and if there is a horizon, he does not" (019g §8). The button is a test of the horizon by an act;
 - *c* — the cost of taking part: time, travel, studying the question. For simplicity it is the same for all; a personal *c* makes the threshold personal and changes none of the theorems.
 
 The mechanism offers three actions. **A** — a vote; its weight is *w* = 1/(1 − β), where β is the share who took the sum. **B** — the sum *D*. **Nothing** — zero.
