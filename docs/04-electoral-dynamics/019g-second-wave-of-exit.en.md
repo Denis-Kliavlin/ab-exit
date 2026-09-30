@@ -61,6 +61,8 @@ The second half of the paradox: the apathetic person pays after all, only withou
 
 The result is a prohibition with properties ideal for power: the one it hits is in the minority; the one who pays for it does not understand what for; and it is called protection.
 
+A prohibition has a third beneficiary too — the incumbent large player. The architect: "this is the basics of economics and of monopoly — to raise the barrier to entering the market; all of it was proven long ago without us." A large chain can afford the inspections, a small café cannot, so the large ones themselves ask to "tighten the rules for the sake of safety". Economics describes this as regulatory capture (Stigler, 1971) and as the strategy of raising rivals' costs (Salop and Scheffman, 1983). Power, the official and the monopolist each get their own from one prohibition; the one who pays is the creator just entering.
+
 ## 7. The check against data
 
 | Link | What the data show |
