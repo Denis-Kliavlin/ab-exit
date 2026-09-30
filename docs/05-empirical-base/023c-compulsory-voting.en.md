@@ -96,13 +96,13 @@ The rent is enough to buy politics, and in 2010 this was shown in pure form. The
 |---|---|---|
 | Pre-election handout | 6.2 % of GDP in the quarter before the 2022 vote (029.4b) | 2022: 250 dollars to six million recipients and the fuel excise halved a month before the election, about 0.4 % of GDP; 2024: 300 dollars to every household; 2019: a tax offset of up to 1,080 dollars |
 | Pensioners | the 13th-month pension | pension spending rose right after 1924 (Fowler); an attempt to touch concessions was punished in 2019 |
-| Housing | purchase subsidies for families — prices up | interest deductions for investors, a capital-gains discount, first-buyer grants: demand subsidies under restricted supply; Sydney 13.8 annual incomes |
+| Housing | purchase subsidies for families — prices up | interest deductions for investors, a capital-gains discount, first-buyer grants: demand subsidies under restricted supply; Sydney 13.8 annual incomes. The architect: "if the authorities allocate the land and let only their own build, then all this subsidy money goes to the banks and the developers — it is help to buy oneself slavery, not housing". Under a closed supply the subsidy goes entirely into the price, and the buyer is left with a thirty-year loan (019f: the mortgage in the remainder table); the developer is the same hanger-on at power as the rent owner in the row below |
 | Rent | sectoral taxes on banks and retail, state contracts for cronies | the rent left to the owners, the super-profits tax buried |
 | Debt | 73 % of GDP | 34 % net |
 | Courts, the count, the constitution | captured (039) | independent, untouched |
 | Alternation | sixteen years | seven prime ministers from 2007 to 2022 |
 
-The disease is one: power works for the middle of everyone including the compelled, and yields to the owners. The difference is in the locks. Orbán removed those that protect the count, the court and alternation; Australia keeps them. That is why its populism by position remains chronic and mild rather than spiralling: handouts more than ten times smaller than Orbán's, debt half as large, prime ministers changed so often that nobody grows into the chair.
+The disease is one: power works for the middle of everyone including the compelled, and yields to the owners — and when it "helps" the middle, the money passes through its hands to those same owners. The difference is in the locks. Orbán removed those that protect the count, the court and alternation; Australia keeps them. That is why its populism by position remains chronic and mild rather than spiralling: handouts more than ten times smaller than Orbán's, debt half as large, prime ministers changed so often that nobody grows into the chair.
 
 Upshot: full turnout gives the same as partial — power for the middle and for the owners. What separates Australia from Hungary is not the voter but the locks on power. Neither gives a horizon.
 
