@@ -46,6 +46,7 @@
 ### Глава 2. История, философия и парадигмальный сдвиг
 
 6. [2500 лет одной проблемы](02-history/006-2500-years.md)
+   - [6b. Предшественники по жанру и что дописать](02-history/006b-predecessors-and-gaps.md)
 7. [Совместимость с религиями](02-history/007-religions.md)
 8. [Say-Do Gap](02-history/008-say-do-gap.md)
 9. [Вакцина против 10 типов тиранов](02-history/009-vaccine-tyrants.md)
@@ -61,6 +62,7 @@
 - [13c. Референдум до запуска как игра: три равновесия, кто против в %](03-theory/013c-referendum-game.md)
 - [13d. Выборы как измерительный прибор: сравнение «до» и «после» по Байесу](03-theory/013d-bayes-elections.md)
 - [13e. Законы экономики в политике: почему системе не нужны умные участники](03-theory/013e-economics-in-politics.md)
+- [13f. Формальная постановка: четыре теоремы и два допущения](03-theory/013f-formal-statement.md)
 14. [Поведенческая экономика и Alaska Permanent Fund Dividend](03-theory/014-alaska-pfd.md)
 15. [Honest Politicians Thesis (PNAS 2020)](03-theory/015-honest-politicians.md)
 - [15b. Спираль катарсиса: инь уходит, ян приходит](03-theory/015b-catharsis-spiral.md)
@@ -165,6 +167,7 @@
 - [48h. Тайна, проверяемость и цена принуждения: немецкий суд и зеркальная атака](08-implementation/048h-secrecy-verifiability-coercion.md)
 - [48i. Три канала и параллельный подсчёт: деньги, открытый голос, тайный бюллетень](08-implementation/048i-three-channels-parallel-count.md)
 - [48j. Суды и подгонка по месту: чего протокол не описывает и почему](08-implementation/048j-courts-and-local-tuning.md)
+- [48k. Опись норм и одиннадцать расхождений: заготовка единого устава](08-implementation/048k-charter-inventory.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 

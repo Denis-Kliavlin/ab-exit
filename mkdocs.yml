@@ -74,6 +74,7 @@ plugins:
             "5. Пятый класс отношений": "5. The Fifth Class of Relations"
             "Глава 2. История и парадигмальный сдвиг": "Chapter 2. History and the Paradigm Shift"
             "6. 2500 лет проблемы": "6. 2,500 Years of One Problem"
+            "6b. Предшественники и что дописать": "6b. Predecessors and What Remains"
             "7. Совместимость с религиями": "7. Compatibility with Religions"
             "8. Say-Do Gap": "8. Say-Do Gap"
             "9. Вакцина против тиранов": "9. A Vaccine Against Tyrants"
@@ -87,6 +88,7 @@ plugins:
             "13c. Референдум до запуска как игра": "13c. The Pre-Launch Referendum as a Game"
             "13d. Выборы как измерительный прибор: Байес": "13d. Elections as a Measuring Instrument: Bayes"
             "13e. Законы экономики в политике": "13e. The Laws of Economics in Politics"
+            "13f. Формальная постановка": "13f. A Formal Statement"
             "53b. Молдова в цифрах": "53b. Moldova in Figures"
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
@@ -195,6 +197,7 @@ plugins:
             "48h. Тайна, проверяемость и цена принуждения": "48h. Secrecy, Verifiability and the Price of Coercion"
             "48i. Три канала и параллельный подсчёт": "48i. Three Channels and a Parallel Count"
             "48j. Суды и подгонка по месту": "48j. Courts and Local Tuning"
+            "48k. Опись норм и расхождения": "48k. Inventory of Norms and Discrepancies"
             "55b. Франция": "55b. France"
             "55c. Германия": "55c. Germany"
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
@@ -243,6 +246,7 @@ nav:
       - "5. Пятый класс отношений": 01-introduction/005-fifth-class.md
     - "Глава 2. История и парадигмальный сдвиг":
       - "6. 2500 лет проблемы": 02-history/006-2500-years.md
+      - "6b. Предшественники и что дописать": 02-history/006b-predecessors-and-gaps.md
       - "7. Совместимость с религиями": 02-history/007-religions.md
       - "8. Say-Do Gap": 02-history/008-say-do-gap.md
       - "9. Вакцина против тиранов": 02-history/009-vaccine-tyrants.md
@@ -256,6 +260,7 @@ nav:
       - "13c. Референдум до запуска как игра": 03-theory/013c-referendum-game.md
       - "13d. Выборы как измерительный прибор: Байес": 03-theory/013d-bayes-elections.md
       - "13e. Законы экономики в политике": 03-theory/013e-economics-in-politics.md
+      - "13f. Формальная постановка": 03-theory/013f-formal-statement.md
       - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
       - "15. Honest Politicians": 03-theory/015-honest-politicians.md
       - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
@@ -344,6 +349,7 @@ nav:
       - "48h. Тайна, проверяемость и цена принуждения": 08-implementation/048h-secrecy-verifiability-coercion.md
       - "48i. Три канала и параллельный подсчёт": 08-implementation/048i-three-channels-parallel-count.md
       - "48j. Суды и подгонка по месту": 08-implementation/048j-courts-and-local-tuning.md
+      - "48k. Опись норм и расхождения": 08-implementation/048k-charter-inventory.md
   - "IV. Страновые имплементации":
     - "Глава 9. Кейсы: другие страны":
       - "53. Молдова": 09-other-countries/053-moldova.md

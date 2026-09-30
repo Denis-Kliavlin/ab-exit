@@ -124,6 +124,8 @@ Each section is self-contained — you can read it straight through as a book (u
 - [40h. Enlightenment: Robespierre, Beccaria, Bentham](06-critique-arsenal/040h-enlightenment.md)
 - [40i. Linz and Shulman](06-critique-arsenal/040i-linz-shulman.md)
 - [40j. Kant](06-critique-arsenal/040j-kant.md)
+- [13f. A Formal Statement: Four Theorems and Two Assumptions](03-theory/013f-formal-statement.md)
+   - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 
 ## Part II — Social Architecture
@@ -216,3 +218,5 @@ United States is one country case among others, not the frame of the document.*
 [Changelog](changelog.md)
 
 *© 2026 Denis Klyavlin · AB-EXIT™ · CC BY-NC-SA 4.0 · denis@ab-exit.com*
+
+- [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
