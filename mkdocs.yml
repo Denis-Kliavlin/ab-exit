@@ -102,6 +102,7 @@ plugins:
             "19d. Рыночная цена голоса": "19d. The Market Price of a Vote"
             "19e. Штраф за мужа": "19e. The Marriage Penalty"
             "19f. Вектор: изведение мужчин": "19f. The Vector: Wearing Down Men"
+            "19g. Вторая волна выхода": "19g. The Second Wave of Exit"
             "20. AB-EXIT сильнее UBI": "20. AB-EXIT Is Stronger Than UBI"
             "21. Пустота центристов": "21. The Centrist Void"
             "22. Консенсусная тема": "22. The Consensus Theme"
@@ -279,6 +280,7 @@ nav:
       - "19d. Рыночная цена голоса": 04-electoral-dynamics/019d-market-price-of-vote.md
       - "19e. Штраф за мужа": 04-electoral-dynamics/019e-marriage-penalty.md
       - "19f. Вектор: изведение мужчин": 04-electoral-dynamics/019f-men-vector.md
+      - "19g. Вторая волна выхода": 04-electoral-dynamics/019g-second-wave-of-exit.md
       - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
       - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
       - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
