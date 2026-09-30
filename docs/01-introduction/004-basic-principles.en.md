@@ -214,6 +214,8 @@ So the text put to the referendum includes not only the sum and the right to cho
 
 ### 4.8. The two payment phases
 
+> **Amendment of 30.09.2026 (048k §3).** The second phase — the efficiency bonus — is removed: the protocol has one payment. The first is made precise: whoever chose the money receives it at once and enters the counter at once; "a day before the election" is no longer the deadline. The text below is kept as the earlier wording.
+
 **Phase 1: base dividend (D\_base)** \= M × 1.5 × K. Paid one day before the election from
 a fund formed in advance.
 

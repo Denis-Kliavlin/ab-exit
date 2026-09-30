@@ -50,7 +50,7 @@ When the system cannot defeat AB-EXIT in open battle, it will try to lead it and
 In the text of the citizen-initiated statute five parameters must be fixed immovably, whose change requires a new referendum, not a decision of the legislature:
 
 1. Data source: the W-2 median from the SSA. Only.
-2. Formula: D = M × 1.5 × 1 %. Without additional coefficients and indices.
+2. Formula: D = M × 1.5 × K, where K is the percentage adopted by referendum (amendment of 30.09.2026, 048k §3). Without additional coefficients and indices.
 3. Method of payment: automatic crediting to a bank account.
 4. Reversibility cycle: every 4 years the choice is made anew.
 5. Absence of preconditions: no commissions, no approvals, no vetoes.

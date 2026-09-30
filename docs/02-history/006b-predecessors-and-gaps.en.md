@@ -47,15 +47,15 @@ State as of 30.09.2026. The first six rows are the list of 20.09; the last three
 
 | # | Gap | State | Where |
 |---|---|---|---|
-| 1 | **A text that can be adopted.** *The Federalist* had a constitution; our norms are scattered across chapters | Open. An inventory of 78 norms and eleven discrepancies between layers is ready; assembly awaits the architect's decisions | 048k |
+| 1 | **A text that can be adopted.** *The Federalist* had a constitution; our norms are scattered across chapters | The discrepancies were decided by the architect on 30.09.2026 (048k §3); what remains is to write the nine-page text itself on the skeleton of 048k §4 | 048k |
 | 2 | **A formal model.** Buchanan, Vickrey, Posner have mathematics | Closed in the part that can be closed without a referee: a setting, four theorems, two assumptions | 013f |
 | 3 | **Pilot data.** Alaska has forty years | Open. A courtyard experiment is proposed: 500–1,000 residents, a live fund, real money against a weighted vote on a real question of the courtyard — instead of buying opinions | — |
 | 4 | Beyond elections: courts, minority rights, the security forces | Closed as a design decision | 048j, 013e §5, 048d |
 | 5 | **A short book.** *Progress and Poverty* was read by workers | Open; the architect's decision. The seed is 001b | — |
 | 6 | Criticism not written by us | Half closed: three letters from Tsikhanouskaya's Office (057b), line-by-line analyses of outside analysts (056f); no commissioned external review | 057b, 056f |
-| 7 | **The seat formula.** The protocol counts votes, not mandates (039: 52.7 % of votes → 68 % of seats) | Open. The minimal answer: the protocol is compatible with any formula and does not replace it | 039 |
+| 7 | **The seat formula.** The protocol counts votes, not mandates (039: 52.7 % of votes → 68 % of seats) | Closed by the decision of 30.09.2026: "we do not change the voting system before adoption" — mandates are counted as today | 039, 048k §3 |
 | 8 | Showing the number to people: the one-year change next to the three-year base | Handed to economists and sociologists (decision of 28.09); the charter is not to be amended until then | 039 |
-| 9 | The charter in 049 holds "K = 1 %", chapters 001 and 055c hold "any value that gives the result" | Resolved by assembling a single text (item 1) | 048k |
+| 9 | The charter in 049 holds "K = 1 %", chapters 001 and 055c hold "any value that gives the result" | Closed: the size is set as a percentage of the median, decided by debate and referendum (048k §3); 049 and 002 carry an amendment note | 048k |
 
 ## 6. Three constructive additions from the table in §3
 
@@ -63,11 +63,13 @@ State as of 30.09.2026. The first six rows are the list of 20.09; the last three
 2. **The default (Thaler).** One article of the charter: the status of the person who chose nothing. The assistant's recommendation is A by default: the right is kept, the money is not received, the record stays "empty" and falls into the zone of control (001c §3).
 3. **The fund as property (Alaska).** A separate fund outside the budget — against the argument "there is no money this year"; the conclusion from the 2016 veto (014 §14.3b), which the repository does not yet draw.
 
+**The architect's decisions of 30.09.2026 on these three.** The fork "price or quantity" and "fund or budget" are methods, and the protocol gives the right to a payment, not the methods: both questions go to experts. The default is decided: the person who chose nothing keeps his vote, he is the controller, and his money waits for him until the next election (048k §3).
+
 And two reinforcements: build the formal model as Vickrey and Myerson did, with conditions of applicability after Coase (013f); fit the single charter into nine pages, as Nakamoto did.
 
 ## 7. Weak point
 
-The selection of the ten works is the assistant's: Rawls (the veil of ignorance, 1971) and Hirschman (1970) are not in it, the first as a non-mechanism, the second as the centre of 036c; a dispute over the list is legitimate. The recommendations of §6 are proposals, not decisions: "A by default" and the fork "price or quantity" change the construction and await the architect's word. 🟡
+The selection of the ten works is the assistant's: Rawls (the veil of ignorance, 1971) and Hirschman (1970) are not in it, the first as a non-mechanism, the second as the centre of 036c; a dispute over the list is legitimate. The roadmap shows the state on one date and goes stale with every item closed; it must be checked against 048k and the changelog, not the other way round. 🟡
 
 ---
 

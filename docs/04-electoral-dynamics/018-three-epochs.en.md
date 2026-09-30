@@ -179,6 +179,8 @@ Even if $2,000 passed: the formula D = W2_M × 1.5 × X %. Chuck can change X. C
 
 ### 34.6. Five protections of the protocol
 
+> **Amendment of 30.09.2026 (048k §3).** Two of the five protections are lifted: the eight-year cooling-off is replaced by the rule "change no more than once per cycle", and the cap of 3 % of the budget is removed — the size is set as a percentage of the median for the result, and the budget share is printed on the ballot (045.7).
+
 First: a constitutional lock — the formula into the state constitution, a change = 2/3 of the legislature + a referendum. Second: a ceiling of 3 % of the budget — $2,000 is physically impossible without breaching the ceiling. Third: a cooling period of 8 years — no change of the formula earlier than 2 cycles after introduction. Fourth: an impact assessment on the ballot — "$2,000 = police −40 %, schools −30 %" right before "YES/NO", impossible not to read. Fifth: two-stage voting with 6 months between stages — the first emotional, the second rational after discussion and data. A supermajority is not fair for a referendum; instead a simple majority with information and cooling.
 
 ### 34.7. How to talk to the apathetic — stories, not formulas

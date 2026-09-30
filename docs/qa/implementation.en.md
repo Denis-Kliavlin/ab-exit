@@ -25,6 +25,8 @@ between two databases that are today kept separate deliberately.
 
 ### Q-IMP-002 · Isn't a register of those who chose B a disclosure of political behaviour?
 
+> **Amendment of 30.09.2026 (048k §3).** The architect's decision: secrecy is for the ballot; exit from voting is not specially hidden, but neither is it published by name — precinct figures are visible. Getting the money is not complicated for the sake of secrecy.
+
 **Status:** 🟡 open
 **Who asks:** privacy specialists, human-rights advocates — **a strong objection**
 **Source in the book:** not examined

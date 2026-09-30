@@ -62,7 +62,7 @@
 | Stars | Condition |
 | :---- | :---- |
 | ★☆☆☆☆ | The dividend FELL by more than 10 % |
-| ★★☆☆☆ | The dividend fell by up to 10 % |
+| ★★☆☆☆ | The dividend fell by 5–10 % |
 | ★★★☆☆ | The dividend is stable (±5 %) |
 | ★★★★☆ | The dividend grew by 5–15 % |
 | ★★★★★ | The dividend grew by more than 15 % |
@@ -90,6 +90,8 @@ Section 2: DATA SOURCE
 Primary: Social Security Administration
 
 W-2 wage data aggregated by ZIP code.
+
+> **Amendment of 30.09.2026 (048k §3).** Section 3 below reflects the earlier wording. The architect's decision: the size is set as a percentage of the median, determined by open debate and a referendum; there is no fixed 1 %; the council's power to raise K is removed; the percentage may be changed no more than once per cycle, by a simple majority.
 
 Section 3: COEFFICIENT K
 
@@ -126,6 +128,8 @@ within 30 days of SSA publication.
 Dividend paid no later than 1 day
 
 before election.
+
+> **Amendment of 30.09.2026 (048k §3).** Section 6 is struck: the bonus for budget savings is removed, the protocol has one payment. The number and frequency of payments is a question for experts.
 
 Section 6: EFFICIENCY BONUS
 

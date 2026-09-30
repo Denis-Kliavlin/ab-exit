@@ -2,7 +2,7 @@
 
 **Chapter:** 08 — Implementation
 **File:** 08_048k · v1 · 30 September 2026 (session 29.09.26)
-**Source:** the architect's decision "to close the gaps one by one"; the first gap of the roadmap (006b §5) — a text that can be adopted. A full inventory of normative provisions across all chapters (145 Russian files, 78 provisions) and a cross-check of the layers against each other. This is a handover document: it is not the charter but what the charter is assembled from.
+**Source:** the architect's decision "to close the gaps one by one"; the first gap of the roadmap (006b §5) — a text that can be adopted. A full inventory of normative provisions across all chapters (145 Russian files, 78 provisions) and a cross-check of the layers against each other. This is a handover document: it is not the charter but what the charter is assembled from. The architect's decisions on all the discrepancies were entered on 30.09.2026 (§3).
 
 ---
 
@@ -40,33 +40,37 @@ Each line is a norm as it stands in its source.
 
 **The referendum.** The sum and the formula in the text of the ballot (045 §45.7). No quorum (045 §45.7). The line: "both rights — to vote and not to vote — are preserved for ever; change is possible only by a new referendum" (045 §45.6).
 
-## 3. Eleven discrepancies
+## 3. Eleven discrepancies — the architect's decisions
 
-"Decided" means the architect's position is already recorded; the rest is the assistant's recommendation awaiting a decision.
+All eleven were closed on 30 September 2026. The cross-cutting principle that settles half of them: **the protocol gives the right to a payment as an incentive, not the methods of arranging it.** The methods are a task for experts and for each country.
 
-| # | Discrepancy | Layers | State |
-|---|---|---|---|
-| 1 | **K** | 049, 002, 042: "1 %, fixed; the council may raise it to 2 % without a referendum" ↔ 001, 001b, 055c: "any value that gives the result" | **Decided** (26–29.09): the sum is any; the yardstick is that it be desirable to 40–50 % of the population; it is fixed by referendum. The council's power to change K is to be removed — it contradicts the five parameters |
-| 2 | Who decides the sum | "the referendum" ↔ 056f §13b: "the sum is not a question for the people" | Recommendation: compatible — economists compute K for the goal, the referendum fixes it |
-| 3 | The amendment procedure | 2/3 at a referendum (002, 049) ↔ a simple majority, an 8-year cooling-off and a cap of 3 % of the budget (018 §34.6) ↔ a new initiative (042) | Recommendation: a simple majority; not earlier than after two cycles; drop the cap (at K = 3 % in Saxony-Anhalt it is 13 % of the budget) and instead print the budget share on the ballot next to K (045.7) |
-| 4 | The median | a three-year CPI-adjusted average (049) ↔ annual (001, 056f); "federal" (001b) ↔ "by ZIP" (049) | Recommendation: the base is the three-year average; the territory is the jurisdiction that adopted the charter; "federal" refers to the source, not the territory. Showing the one-year change is an open question for economists (039) |
-| 5 | Privacy of A/B | "strictly confidential" (004) ↔ "may be public" (048h) ↔ "cannot be secret" (Q-IMP-002) | **Decided** (21.09): private by default, disclosure is a right; only precinct aggregates are published. 048h and Q-IMP-002 to be brought into line |
-| 6 | The payment date | a day before the election ↔ "at once" for the early ↔ "within 30 days" | Recommendation: three cases of one scale — early at once with a premium, ordinary no later than a day before the election, late within 30 days after at a discount |
-| 7 | Reversibility within the window | an early payment is irreversible (004 §4.9) ↔ switching B→A against coercion (048h §6) | Recommendation: money received is irreversible; a declaration without payment is reversible until the window closes, the last one counts |
-| 8 | The late discount | a half ↔ 20–30 % | Recommendation: 20–30 %, a pilot parameter |
-| 9 | The circle of recipients | "everyone without exceptions" ↔ "resident citizens" (053) ↔ "the country's law decides" (048i) | Recommendation: everyone on the jurisdiction's electoral roll; the roll defines the circle |
-| 10 | The cycle | 4 years ↔ 5 years ↔ "every year" (033b) | Recommendation: once per election of the jurisdiction, whatever its cycle; "every year" in 033b is an error |
-| 11 | The efficiency bonus | present in 004 and 049, nowhere else | Recommendation: an optional module of the charter |
+| # | Discrepancy | Decision |
+|---|---|---|
+| 1 | **The size of the payment** | There is no sum — there is **a percentage of the median income**; for a country it turns into a sum, but it must be set as a percentage. Any that gives the result; the yardstick is that it be desirable to 40–50 % of the population |
+| 2 | Who decides the percentage | First an open debate: the people with the populists pull towards the maximum, the economists towards the norm so as not to go bankrupt; "these will be the most epic debates in every country". Then a referendum, even with ten options; the procedure for choosing among several is worked out by lawyers and sociologists. The size itself is secondary: "the main thing is to launch with any", then correct by referendum in either direction. What matters is the change of paradigm. The council's power to change K (049, 002) is removed |
+| 3 | How often to change | No more than once per cycle: "it should not be changed too fast, so as not to make a farce; there must be a cycle to evaluate the results". A simple majority. The eight-year cooling-off and the cap of 3 % of the budget (018 §34.6) are lifted |
+| 4 | Which median and over what period | Not a norm of the protocol but a country setting: "a task for professional economists to find the balance". The charter keeps only the independence of the body that computes the median and an open methodology |
+| 5 | Secrecy of exit | Secrecy is for the ballot. Exit from voting was never particularly hidden; there is no need to hide it specially, nor to push in that direction at the cost of the effectiveness of exit and of the money. Status is not published by name, precinct figures are visible; if protecting secrecy complicates getting the money, simplicity wins |
+| 6 | When the money arrives | **Precision of the incentive matters: chose — received at once and entered the counter at once.** The early get a premium of 5–10 % on top; those who chose nothing get a late payment at a discount |
+| 7 | Can one change one's mind | No. Took the money — exited for good. If a return were allowed there would be collusion: take the money en masse, then go and vote, and the count loses its meaning. The switching norm of 048h §6 is removed; against coercion there remain the notification, the period for contesting, the provisional ballot and the criminal offence |
+| 8 | The late discount | 20–30 %, the exact number is found in a pilot |
+| 9 | Who is entitled | "We do not change the voting system before adoption. Perhaps later." Everyone who has a vote today is entitled to the money. The question of the vote is in essence a question of taxes, and it was settled long ago: resident or non-resident, how long one must stay in the country; a paid vote lives by the same logic |
+| 10 | The cycle and several elections | The cycle is the one the jurisdiction has today. Each level of government pays at its own elections from its own median and its own budget; the percentage is approved separately at each level |
+| 11 | The bonus for budget savings | Removed. One payment for now. A second payment or spread payments (once a year instead of once a cycle) is a question of how the incentive is arranged, "once and much, or regularly but less"; for discussion and for experts |
 
-Minor points needing no decision: the star scale in 049 describes the interval from −10 to −5 % twice; 042 §73.6 writes "1 %" where K should stand.
+A twelfth decision concerns the person who chose nothing (006b §6): **he keeps his vote, and he is the controller.** His money waits for him until the next election; by coming for it at any moment of the cycle he checks whether someone "voted" on his record. The witness against stuffing (048i §5b) works for the whole cycle, not for thirty days.
+
+By the same principle "the right, not the methods" two more questions of 006b §6 go to experts: whether to fix the percentage or a target exit share (the Dales fork), and whether to pay from a budget line or from a separate fund.
+
+From the principle "we do not change the voting system" follows the answer to the gap about the seat formula (006b §5, item 7): mandates are counted as they are counted today; the protocol does not enter into it.
 
 ## 4. The skeleton of the charter
 
-Fifteen articles, each from existing norms, with the source number: the formula and the source; the sum and how it is set; the window, the time scale, payment; two buttons and the cancelled vote; the default for a person who chose nothing (006b §6); protection of the dividend; the counter; privacy; the budget identity and three channels; courts; coercion and vote-buying; two levels of decision and the amendment procedure; rollback locks; optional modules — the efficiency bonus, several elections per cycle, a fund outside the budget; the ballot line and transitional provisions for a pilot. The target length is nine pages (006b §3, the Nakamoto row). What is specific to one country — the data source, the legal route — goes in a separate annex at the end.
+Fourteen articles, each from existing norms, with the source number: the formula and the source; the percentage and its setting by debate and referendum; the window, immediate payment, the premium for the early; two buttons, the finality of exit and the cancelled vote; the person who chose nothing as the controller and the late payment until the next election; protection of the dividend; the counter; the status of exit and precinct figures; the budget identity and three channels; courts; coercion and vote-buying; two levels of decision and change no more than once per cycle; rollback locks; the ballot line and transitional provisions for a pilot. As a separate line — the principle "the right to a payment, not the methods". The target length is nine pages (006b §3, the Nakamoto row). Country settings — the median, the source of the money, the number of payments, the legal route — go in a separate annex at the end.
 
 ## 5. Weak point
 
-The inventory was compiled by reading everything, but the sorting "norm or argument" is a judgement: some provisions stand in their sources as a move in a dispute rather than as an article, and in assembling the charter each will have to be reworded. Nine of the eleven discrepancies are closed only by the assistant's recommendation; the charter cannot be assembled before the architect decides — otherwise it would fix a choice nobody made. 🟡
+The inventory was compiled by reading everything, but the sorting "norm or argument" is a judgement: some provisions stand in their sources as a move in a dispute rather than as an article, and in assembling the charter each will have to be reworded. Five of the twelve decisions hand the question to experts — the median, the choice among several percentages, the number of payments, price or quantity, fund or budget; the charter will be short precisely because those answers are not in it, and the first critic will call them blanks. 🟡
 
 ---
 

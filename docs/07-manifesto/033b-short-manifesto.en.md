@@ -18,7 +18,7 @@ Now look at what happens when you don't vote. Nothing. Nobody notices you. You a
 
 AB-EXIT does one thing: it puts a price tag on your vote. Your price tag.
 
-Before every election — two options. Button A: you go and vote as before — but your vote weighs more, because some people have exited. Up to twice as much. Button B: you officially say "this time — without me" — and the state pays you. Not the party. Not the channel. You. One and a half per cent of your country's median wage, every year. A month's wages for five minutes in an app — once a cycle.
+Before every election — two options. Button A: you go and vote as before — but your vote weighs more, because some people have exited. Up to twice as much. Button B: you officially say "this time — without me" — and the state pays you. Not the party. Not the channel. You. A percentage of your country's median wage — which one is decided by open debate and a referendum. In order of magnitude, a month's wages for five minutes in an app, once per election.
 
 Next cycle you choose again. Nothing is taken away. Ever.
 

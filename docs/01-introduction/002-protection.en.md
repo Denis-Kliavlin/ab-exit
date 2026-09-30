@@ -61,6 +61,8 @@ auditor is appointed by the judicial branch; results are public within 90 days.
 
 ## 2.4. K \= 1% (the dividend coefficient)
 
+> **Amendment of 30.09.2026 (048k §3).** 1 % is an illustration, not a norm. The percentage of the median is determined by open debate and a referendum; the council's power to raise it without a referendum is removed; it may be changed no more than once per cycle.
+
 - Fixed in the statute
 - The local representative body may raise it to 2% on two conditions: the previous
   cycle's savings exceed the cost of AB-EXIT threefold, **and** two-thirds of the body

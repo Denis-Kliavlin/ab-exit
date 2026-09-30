@@ -58,6 +58,8 @@ Coercion. The open channel gives a boss what he wanted: proof. But the compariso
 
 ## 5b. The arithmetic of the ceiling: tokens plus the register of those who took the sum
 
+> **Amendment of 30.09.2026 (048k §3).** The term of the late payment is not thirty days but the whole cycle. The architect's decision: the person who chose nothing "is our controller, and his money waits for him until the next election". By coming for it at any moment he checks whether anyone voted on his record. The 20–30 % discount stays.
+
 The architect's summing-up: "votes with a token become verifiable — that is the most important thing; and if control of those who took the money is added, the amount of manipulation falls sharply, mathematically." This can be written as one formula and worked through on an example.
 
 Any forgery of the result is made out of records that nobody but the commission can check. After the protocol there are two kinds of such records: secret ballots and "empty places" — people who are on the roll, did not take the sum and did not come to vote. Everything else is checked by the person himself: whoever took the sum sees the payment, whoever voted openly holds a token.
