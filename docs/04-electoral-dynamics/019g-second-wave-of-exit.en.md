@@ -97,22 +97,26 @@ A prohibition has a third beneficiary too — the incumbent large player. The ar
 
 **Debt is the horizon of the apathetic voter.** Kovalev's sixth conclusion: the debt was taken from a future that has refused to pay. The assistant asked whether the protocol says anything about accumulated debt. The architect: "this is the horizon of the apathetic, and if they have left, the power has become different. The apathetic understand nothing about the national debt, or how and who pays it; they simply see social payments growing, they do not care at whose expense, they do not even care that they themselves pay the interest on that same debt, and the country's default is all the same to them, because in essence they have nothing that can be taken away." And this is not blindness but a forecast: "that is how they think — that it will not touch them; they have no experience or skills to predict and calculate it; and yes, they will suffer later, but that will be later." "Later" lies beyond their horizon — the same selection by length of horizon as in 055c §6.4. Borrowing from the future costs nothing to someone who has nothing to lose: the benefit is visible, the price is not, and he pays the interest through prices by the same bill without a sender as for the prohibitions (§6). After the protocol those vote who have savings, a home, a business and forty years ahead; the country's solvency becomes, for the first time, a personal stake of the majority of voters. The old debt is not a question for the protocol: another power, chosen by other people, will deal with it.
 
+**The creators already exist.** Kovalev's eighth conclusion: education has stopped paying, people leave the fields that demand long discipline. The assistant asked about the time lag: the rules change in a cycle, while the engineers and doctors who were not trained will not appear for another ten to fifteen years. The architect: there is some truth in it, "but they exist now too, there is simply no incentive and they are being crushed; and they will learn quickly — most skills and professions can be learned in one to five years, given the will and the mind". This is not a shortage of people but an idle reserve: the 62 % of the employed who work by the book, the educated young lying flat, and those who left. The response to an open ladder comes within one or two cycles, not a generation.
+
 **The protocol is the first instrument that works on inaction.** A fine and deprivation do not work on the lying-flat generation: one cannot punish by taking away what a person has given up himself. What remains is payment — and weight for those who decided to stay.
 
-## 9. Ten conclusions from the video
+## 9. Ten conclusions from the video: the outcome of the analysis
 
-A list for further analysis.
+| # | Kovalev's conclusion | Where the answer is |
+|---|---|---|
+| 1 | The contract is broken, the refusal of effort is rational | §4, §6; housing — §8 "The electorate grows younger by itself", 016 §25 |
+| 2 | A revolution without leaders or manifestos: protest by inaction | §4: Hirschman's exit, the second wave (036c) |
+| 3 | Action can be taxed, inaction cannot | §8: true both ways; the protocol is the first instrument that works on inaction |
+| 4 | One cannot punish by taking away what a person gave up himself | §8: a fine does not work, payment and weight remain |
+| 5 | The elites live by the electoral cycle; old men rule | §8: the electorate grows younger without qualifications, power's horizon comes from the voter's |
+| 6 | The debt was taken from a future that has refused to pay | §8: debt is the horizon of the apathetic voter |
+| 7 | The family has become a refuge; the man is not valued as the provider | 019f (the remainder after child support and rent), 019e (the marriage penalty) |
+| 8 | Education has stopped paying | §8: the creators already exist, the ladder is closed; a response within one or two cycles |
+| 9 | Trust moves into small circles; power will go to the organised | 015c §7b: bringing in the indifferent is broken, the group's own turnout is weakened, the burned return; 029.10 |
+| 10 | The remedy is purely personal | §1: advice on how to exit more comfortably; the author does not touch the arrangement |
 
-1. The contract is broken, and the refusal of effort is rational.
-2. A revolution without leaders or manifestos: protest by inaction.
-3. Action can be taxed, inaction cannot.
-4. One cannot punish by taking away what a person has given up himself; a rating is useless against them.
-5. The elites live by the quarterly report and the electoral cycle.
-6. The debt was taken from a future that has refused to pay.
-7. The family has turned from an economic union into a refuge; the man is no longer valued as the provider (019f, 019e).
-8. Education has stopped paying; people leave the fields that demand long discipline.
-9. Trust moves into small circles; power will go to the organised (029.10).
-10. The author's remedy is purely personal — advice on how to exit more comfortably.
+Common to all ten: Kovalev describes a system that receives no signal until it collapses — the same one as Strauss and Howe (040k) and Fukuyama (040l). His lying-flat generation is the apathetic and the burned at the scale of a whole life, not of one Sunday.
 
 ## 10. Weak point
 
