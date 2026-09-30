@@ -53,6 +53,12 @@ Neither income nor stated motive nor education enters the threshold — only the
 
 The dividend is a lower bound on the market price of a bought vote (019d). Pre-election handouts (029.4b) are *b*, and they were above *D*: the buyer paid by this theorem without knowing it.
 
+**Theorem 5 — the group-size threshold.** Let a group of *N* members receive on winning a collective benefit *B*, shared equally, and vote as a bloc with a chance π of deciding the outcome. A member stays to vote if *(B/N)·w·π* > *D + c*, that is, if *N* < *N\** = *B·w·π/(D + c)*. Groups above the threshold dissolve into individuals, each of whom takes the sum; groups below it hold.
+
+*Proof.* Directly from the comparison of utilities in §2 with the personal stake *v* replaced by the share of the collective benefit *B/N* multiplied by π. ∎
+
+Two corollaries. First: the big machines dissolve first — in a union of a hundred thousand each member's share is negligible, the gain accrues to all regardless of his vote, while the sum is his alone (015c §7b, Olson's reversal). Second: the threshold falls as *D* rises — the higher the percentage, the more groups dissolve. A boundary of the theorem, not its price: a small group with a large share and a high π — a parish in a district of five hundred — remains, as it remains today; the protocol has nothing to do with it, and the others receive the sum and the right to return next cycle (015c §7b: "if the rest are content, what is bad about it").
+
 ## 4. Two assumptions
 
 The theorems hold under two conditions, and their place is in the statement, like zero transaction costs in Coase.
