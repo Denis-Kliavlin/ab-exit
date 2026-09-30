@@ -63,7 +63,50 @@ Australia introduced compulsory voting at federal elections by an act of 1924 �
 
 In one sentence: Australia is what happens when everyone is driven to the ballot box — centrism, the rule of the old, expensive housing, low trust and a third of ballots from people who did not want to. The protocol is what happens if that same third is led out with money.
 
-## 6. Weak point
+## 7. Whom to compare with, what it lives on, what it does
+
+The architect's questions: Australia is alone on its continent — what is it to be compared with; what does the country live on — subsoil or labour; how do its governments' actions differ from Orbán's.
+
+**Whom to compare with.** A twin across the strait and two relatives by design.
+
+| Country | Voting | Turnout | A party labelled populist | Upshot |
+|---|---|---|---|---|
+| Australia | compulsory, preferential, single-member districts | 91 % | 6 %, never in government | both big parties play the populist |
+| New Zealand | voluntary, proportional | 77.5 % (2023) | New Zealand First — in government in 1996, 2017 and 2023 | the labelled populist sits in cabinet |
+| Belgium | compulsory, proportional | 88 % (2024) | Vlaams Belang 13.8 % | compelled, but with proportionality — large |
+| Norway, Canada | voluntary | 62–77 % | small | resource democracies for comparison by income |
+
+Whether a labelled party enters government is decided not by compulsion but by the electoral formula: with single-member preferential districts the two big parties eat the populist's agenda themselves, with proportionality he gets his seat. Compulsion answers only for who is in the ballot box.
+
+**What it lives on.** Labour with a large resource top-up that the state does not take.
+
+| | Figure |
+|---|---|
+| Mining in GDP (2023) | 13.6 % |
+| Employed in mining | 1.6 % |
+| Resources and energy in goods exports | 60–70 % |
+| Natural resource rents, share of GDP (World Bank) | 13.4 % — above Norway (10 %), below Russia (18.5 %) |
+| Services in GDP | about 70 % |
+
+The rent is enough to buy politics, and in 2010 this was shown in pure form. The Rudd government proposed a super-profits tax on mining; the industry spent 22 million dollars on advertising in six weeks; the prime minister was removed by his own party; the tax was rewritten so that instead of 3 billion a year it raised about 200 million, and in 2014 it was repealed. Gas companies for years paid no income tax on income of 138 billion dollars; Chevron began paying resource rent only in 2025. The country lives on labour, the rent goes to the owners, and a power that tries to touch it is replaced within a month — "power submits to the owners" (019g) at 91 % turnout.
+
+**What the government does — next to Orbán.**
+
+| Action | Orbán | Australia |
+|---|---|---|
+| Pre-election handout | 6.2 % of GDP in the quarter before the 2022 vote (029.4b) | 2022: 250 dollars to six million recipients and the fuel excise halved a month before the election, about 0.4 % of GDP; 2024: 300 dollars to every household; 2019: a tax offset of up to 1,080 dollars |
+| Pensioners | the 13th-month pension | pension spending rose right after 1924 (Fowler); an attempt to touch concessions was punished in 2019 |
+| Housing | purchase subsidies for families — prices up | interest deductions for investors, a capital-gains discount, first-buyer grants: demand subsidies under restricted supply; Sydney 13.8 annual incomes |
+| Rent | sectoral taxes on banks and retail, state contracts for cronies | the rent left to the owners, the super-profits tax buried |
+| Debt | 73 % of GDP | 34 % net |
+| Courts, the count, the constitution | captured (039) | independent, untouched |
+| Alternation | sixteen years | seven prime ministers from 2007 to 2022 |
+
+The disease is one: power works for the middle of everyone including the compelled, and yields to the owners. The difference is in the locks. Orbán removed those that protect the count, the court and alternation; Australia keeps them. That is why its populism by position remains chronic and mild rather than spiralling: handouts more than ten times smaller than Orbán's, debt half as large, prime ministers changed so often that nobody grows into the chair.
+
+Upshot: full turnout gives the same as partial — power for the middle and for the owners. What separates Australia from Hungary is not the voter but the locks on power. Neither gives a horizon.
+
+## 8. Weak point
 
 Australia has combined compulsion with preferential voting since 1918, and the parties' centrism may be a consequence of the latter rather than the former; their contributions cannot be separated on one country. The estimate "a third in the ballot box did not want to be" adds a survey of intentions to the share of spoiled ballots, and these are only partly the same people. 🟡
 
