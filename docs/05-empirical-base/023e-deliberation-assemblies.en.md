@@ -48,7 +48,7 @@ Deliberation is the only reform among those compared whose effect has been measu
 
 ## 6. Weak point
 
-The coincidence of the Irish assembly with the referendum is one case on one question; it does not follow that a small interested group always decides as the whole country does, still less that it decides better. The shift of opinions after deliberation was measured in people selected at random and given materials from both sides; those self-selected by stake are given no such materials, and carrying the result over to them is an assumption. 🟡
+The coincidence of the Irish assembly with the referendum is one case on one question; it does not follow that a small interested group always decides as the whole country does, still less that it decides better. The shift of opinions after deliberation was measured in people selected at random and given materials from both sides; those self-selected by stake are given no such materials. Correction of 01.10.2026: this does not make the transfer an assumption — a stake, as the accuracy-incentive experiments show (Bullock et al. 2015; Prior et al. 2015), cuts partisan bias by more than half, and the informed vote differently from the uninformed (Bartels 1996; Lau, Redlawsk); what remains is only that a "correct vote" in those studies is measured against the person's own preferences, not against the quality of policy. 🟡
 
 **Sources:** Fishkin J., work on deliberative polling since 1988; Stanford Deliberative Democracy Lab; Citizens' Assembly (Ireland), report on the Eighth Amendment, 2017; results of the referendum of 25.05.2018; Convention citoyenne pour le climat, final report, June 2020, and the official implementation count; Ackerman B., Fishkin J., *Deliberation Day*, 2004.
 
