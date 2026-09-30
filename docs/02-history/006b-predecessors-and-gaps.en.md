@@ -37,6 +37,23 @@ From the same list of 20.09 but already within the last hundred years: Hayek, *L
 | **Thaler and Sunstein, *Nudge*** (2008) | The default option decides more than the choice | Auto-enrolment, reversibility (036) | **No default is set:** what happens to the person who chose nothing |
 | **Nakamoto, "Bitcoin"** (2008) | Honesty pays better than attack; a double spend is visible without a trusted party | A ballot in the name of someone who took the sum is a double spend (048f, 001c §3) | **Nine pages.** A protocol that changed an industry fitted into one document with one formula |
 
+## 3b. The closest by content: ten projects and where they are closed
+
+A second cut of 30.09.2026 — not by level of conception but by content: where participation is paid for or fined, the composition of voters or the weight of the vote is changed. Three were already in the repository in fragments and are gathered into chapters; seven were absent and were analysed one by one.
+
+| Project or idea | What they had and we did not | Where closed |
+|---|---|---|
+| Compulsory voting, Australia (1924) | a hundred years of recording non-voters; the same lever with the opposite sign | 023c |
+| Democracy vouchers, Seattle (2015–17) | a referendum won and a court case won | 023d |
+| Deliberation and assemblies (Fishkin, Ireland) | a measured effect on the quality of decisions | 023e |
+| The theorem of profitable abstention (Feddersen and Pesendorfer, 1996) | a proven theorem; the protocol is wider — by horizon, not by knowledge | 013f §1b |
+| Abstention buying (Cox and Kousser, 1981; Nichter, 2008) | the secret ballot itself moved the market to buying abstention: non-turnout is verifiable, the choice is not | 048h §5 |
+| The voter lottery, Arizona (2006) | the only referendum on money at elections — lost; the taboo lifted by practice in twenty years | 023f |
+| Field experiments paying for turnout (Panagopoulos, 2013) | a threshold of sensitivity to the sum | 023f §4 |
+| Vote markets (Hasen, 2000; Freiman, 2014) | three classes of objection — equality, efficiency, inalienability | 029.4 |
+| Storable votes (Casella), Demeny voting | another currency of compensation — weight instead of money | not our question: a method, and the protocol gives the right, not the methods (048k §3); age — 016 §25 |
+| Voucher privatisation (1992–94) | a whole country's lesson about a one-off transferable share | not needed: "privatisation was two generations ago, nobody remembers it, and everyone likes the word 'dividends'" (033c §9d) |
+
 ## 4. How the protocol differs from all of them
 
 Almost every work describes what the arrangement should be and leaves open who will make it so and why. The protocol analyses the path itself: who raises the subject and what the first mover gets; why silence is impossible; what rollback looks like and who stands guard (048g); what each opponent does and why he loses (001c). *The Federalist* comes closest, but it defended a text already written. The second feature is one lever for everything: from a single payment follow the composition of the voters, the count, the rolls, the levies and the rollback.

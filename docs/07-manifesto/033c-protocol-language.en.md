@@ -73,6 +73,12 @@ For rich countries the examples in the texts ("$1,000", "$1,500") lie in the sam
 
 What depends on this. The forecasts of the exit share and of referendum support were made for illustrative sums; the sensitivity of exit to the size of D has not been measured, and that is the first question for a pilot: at what sum a person with a short horizon (040c.1.5) takes the money. The budget estimate "1–2 % of the budget" (045, 055b.8) is computed from the formula, not from the illustrations. 🟡
 
+## 9d. "Dividend" — a word everyone likes
+
+The assistant proposed writing in a comparison with the voucher privatisation of 1992–94: in Russia, Moldova and the Czech Republic "a paper from the state to everyone for a share" would recall how that ended. The architect: "privatisation was two generations ago, nobody remembers it; but every day there is the word 'dividends', and everyone likes it — it is like passive income from successful investments."
+
+Hence a rule of the vocabulary. The word "dividend" is not to be explained or defended — it already carries the required meaning: a share of what works, arriving regularly and without effort from the recipient. Do not drag along "voucher", "cheque", "compensation" or "benefit": the first two are dead, the latter two humiliate (056d §7j: a handout and a share are different acts). The difference from a voucher, if someone asks after all, in three words: not one-off, not transferable, with the price on the ballot (037, the article on protection of the dividend).
+
 ## 10. Weak point of the vocabulary
 
 Minted formulas work in a pitch and break in court: "market census" is a gift to an opponent who will quote it in a discrimination suit; "they sell" — in jurisdictions where selling a vote is criminal — requires the construction "revocable lease/deposit", not "sale" (§45, 049). The vocabulary for the people and the vocabulary for the statute are two different documents. 🟡
