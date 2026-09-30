@@ -104,6 +104,19 @@ The rent is enough to buy politics, and in 2010 this was shown in pure form. The
 
 The disease is one: power works for the middle of everyone including the compelled, and yields to the owners — and when it "helps" the middle, the money passes through its hands to those same owners. The difference is in the locks. Orbán removed those that protect the count, the court and alternation; Australia keeps them. That is why its populism by position remains chronic and mild rather than spiralling: handouts more than ten times smaller than Orbán's, debt half as large, prime ministers changed so often that nobody grows into the chair.
 
+**Thimblerig: seven prime ministers, one policy.** The architect: "the alternation of prime ministers — did they do the same thing or change policy radically? Perhaps it is thimblerig, with never a pea under any cup." Four of the six changes in 2007–2022 were intra-party coups, not elections. On everything that concerns the owners and the middle, policy did not change: the mining rent tax was buried under Labor and repealed under the Coalition, the investors' deduction and the capital-gains discount were touched by nobody, pension concessions were touched by nobody, "stop the boats" was the position of both blocs. It swung only where the owners are not affected: the carbon tax was introduced in 2012 and repealed in 2014. The lock of alternation protects against growing into the chair, as with Orbán, and does not protect against policy for the owners: "the customer is the same" (019g).
+
+**"Australia is always good because there is nobody to compare with."** The architect: "Poland and Germany can be compared, they are alike, while Australia is alone and always good." There is someone to compare with — New Zealand and Canada, the same settler resource democracies of the same legal family without compulsion; Australia's only difference from its twins is the fine for non-turnout.
+
+| | Australia (compulsion) | New Zealand | Canada |
+|---|---|---|---|
+| Turnout | 91 % | 77 % | 62–67 % |
+| Trust in parliament by the WVS, early 2000s → 2022 | 30 → 28 | 14 → 40 | 39 → 44 |
+| Housing, price to income, worst city | Sydney 13.8 | Auckland about 8 | Vancouver about 12 |
+| A party labelled populist in government | never | three times | never |
+
+The only measurable result of compulsion is turnout. Australia's trust in parliament is below both twins and the only one falling; housing is just as unaffordable; policy for the middle and the owners is the same. "Always good" is the effect of having no neighbour at the table: next to New Zealand the good turns out to be a common property of rich settler countries, and the particular — only the turnout figure.
+
 Upshot: full turnout gives the same as partial — power for the middle and for the owners. What separates Australia from Hungary is not the voter but the locks on power. Neither gives a horizon.
 
 ## 8. Weak point
