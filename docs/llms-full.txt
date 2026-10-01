@@ -404,6 +404,21 @@ The difference runs from eight times to over a hundred.
 
 **And why it does not matter to the protocol.** The architect, 02.10.2026: "it does not even matter to us". The exit share is not a premise the protocol rests on but a reading it produces. If many take it, those indifferent to the outcome leave and the rest decide. If few take it, people value the vote above the payment: the rule has cost little, and something nobody knew about the value of a vote has become known. Both outcomes are a result. The pilot records two limits: if fewer than a quarter take it, the payment is too small; if more than three-quarters, nobody is left to decide (048l §5). But these are limits of the sum, not of the protocol. The architect: "that is not a question for the protocol but a question for the sum; people will simply want to raise it, not to remove the protocol". A wrongly chosen percentage is corrected by referendum once per cycle (048m, Article 3); the rule itself stays. From below this works simply: few take it — it gets raised. From above it is harder, because the recipients must vote for the reduction; that is an open question (040m §4, the first). To a candidate the number still matters: his arithmetic depends on it (question 10).
 
+## The free rider at the referendum: who will come to vote for the rule
+
+A second objection from the same clean chat (Grok, 02.10.2026). The one who wants the payment will not go to the referendum on introducing the rule: the payment will be his whether he went or not, and his one ballot decides nothing. Work is arranged differently — miss the shift and there is no money; here staying away does not burn the cheque.
+
+**What is correct in the objection.** The difference from work is real. And the claim "almost everyone will be in favour" (048g §6b) does not mean "almost everyone will come".
+
+**Why it is weaker than it sounds.** This argument is the paradox of voting, and it proves too much: by it nobody should vote today either, because one vote never decides anything. Yet people vote. The architect: "they go and vote today for the promises of people unknown to them; that is how politics works; and here there is a simple formula and real money". A model that does not explain present turnout does not predict turnout at the referendum either; numbers built on it are unsupported.
+
+**What the protocol itself answers.**
+
+- **There is no quorum** (048m, Article 14). One who stays home does not vote "against"; those who come decide. The free rider does not sink the referendum.
+- **A fork for the machine.** To defeat the rule the incumbent must bring its people to the polling station. But the ballot is secret, and the question is about the money of the very person brought in. If it brings them, it gets votes "for": this has already happened, when a public-sector employee under his boss's eye clicked the wrong thing (056f §13d). If it does not bring them, the burned (011b §11b.2c) and those who want their vote to count for more decide.
+
+**What nobody knows.** How many will come. The estimate of referendum turnout in 08/045 is unsupported, as are the objector's numbers.
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.

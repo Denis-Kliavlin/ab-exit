@@ -81,6 +81,8 @@ The architect put the same underdog question in a new Grok chat, asking it to wo
 
 **Where it went beyond the sources.** "5–15 % of those who turn out" and "a few per cent of the city" are its own estimates, presented as a practical range. The candidate's ceiling of ten per cent is taken as fixed, though it was measured before the candidate had this theme. The four examples are an unconditional income financed by a new tax, that is, a different design.
 
+**The second objection — the free rider.** As the conversation went on, the model built a calculation by which those who want the payment will not come to the referendum, because the cheque does not depend on their turning out. In substance the argument is the paradox of voting; the numbers in the calculation are its own. The analysis and the answer are in 048n: there is no quorum, and one brought in by the machine votes "for" in a secret ballot about his own money. The architect argued with it for six turns and did not persuade it: the model held to its scheme without answering the point that people go and vote today as well.
+
 **What this means for preparing the data.** The first adviser got the rules wrong and promised victory; this one restated the rules exactly and denied victory. The difference between them lies in what each read, not in the quality of the models: the first answered from old chapters, the second from the exact-answers sheet and the chapter for a candidate.
 
 ## 6. Weak point
