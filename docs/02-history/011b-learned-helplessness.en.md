@@ -54,6 +54,26 @@ Scholarship has several names for him, each taking one side.
 
 **How this differs from circuit 3.** To the burned one the system says "you were right". To the meek it says nothing — it lets him go. The therapy here is not recognition but permission.
 
+## 11b.2c. The compressed spring: the fury of the burned
+
+The architect, 02.10.2026: "every AI underestimates the fury of the burned. They have been humiliated and cornered for years. And here is a chance — the first in their lives; and there are many of them, and they will not miss it. It is a compressed spring".
+
+**Why it is not seen.** Fury is not in any poll. A poll asks "will you vote", and the burned one honestly answers "no", because he is indeed not going to this election. The spring is visible only at the moment it is released — which is why an AI that reads polls does not see it either.
+
+**Where it has been released.** Three cases in which the question was real and the outcome not predetermined.
+
+| Vote | Turnout | Compared with |
+|---|---|---|
+| Scotland, 2014, the independence referendum | 84.6 % | a record for Britain since 1910 |
+| Poland, 2023, the parliamentary election | 74.4 % | 61.7 % in 2019; a record since 1989 |
+| Britain, 2016, the referendum on leaving the EU | 72.2 % | 66.2 % at the 2015 election |
+
+In all three, people came who had not voted before, and nobody predicted them in such numbers.
+
+**What it means for the protocol.** A referendum on introducing the rule is the same case: the question is real, concerns each person, and the outcome is not predetermined. The fourth circuit of the therapy (§11b.3) describes why the burned one will return; this section, with what force. In the candidate's arithmetic it is the number *r* (048n, question 10).
+
+**The weak point of the image.** Among non-voters the burned are one of three states, and nobody has measured their share. And the spring releases wherever it wants: in Britain it struck not in the direction expected by those who released it.
+
 ## 11b.3. The mechanism of therapy: five circuits
 
 **Circuit 1 — the first guaranteed experience of contingency.** Button B is the first political action in a person's life with one-hundred-per-cent, fast, personal feedback: pressed → the money arrived → in the app, in days rather than years, to you rather than to "the country". By Seligman this is exactly a mastery experience: the link "my action → my result" in a domain where it never existed. Importantly, it is the fact of the link that is therapeutic, not its content — helplessness is cured not by persuasion that "the system is good" but by the experience that **in this system my actions have consequences**.
