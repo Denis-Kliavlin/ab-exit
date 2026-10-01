@@ -1400,6 +1400,22 @@ Two properties none of the moves on her list has:
 
 **Weak point of the move.** The power knows how to capture words and may pay a "dividend" for turnout — it does this better than anyone. The repository's answer: payment for a vote and payment for exit are opposite signs of the thermostat (029.4b): the first drives the apathetic to the box, the second leads them away. But capturing the word before adoption is a real threat, and it is also an argument for urgency: while "dividend" still means exit, not turnout.
 
+## 13f. The Bonya case, April 2026: the channel of §13e has already worked — with the wrong question
+
+Facts. On 14.04.2026 the blogger Viktoria Bonya (Monaco, 16 years outside Russia; Forbes list of the richest bloggers) posted a ~19-minute address to Putin on Instagram, blocked in Russia: over 20 million views and a million likes within a day. On 15.04 Peskov confirmed that the Kremlin had watched the video and "work is under way"; Solovyov attacked; on 16.04 she thanked Putin and Peskov in tears and told TV Rain and the BBC "I am not with you". Five topics: the flood in Dagestan, fuel oil in Anapa, the seizure of cattle near Novosibirsk, the blocking of Telegram and Instagram, the Chekalin case; plus a request to create a "direct platform" for complaints to the president. The frame: "the people fear you", "the governors lie", "the power serves the people, not the reverse". The architect: "if this case is laid over the protocol — what do we get? She spoke of things the people do not even much need; what if her address had been about the protocol".
+
+**The channel of §13e is proved empirically.** A non-opposition carrier, zero organisation, a blocked network — and an obligatory Kremlin answer within a day. A question that does not pass through the ballot box the power is forced to answer; this is an April fact, not a hypothesis.
+
+**How her questions were closed — with words.** "Work is under way" cost nothing, and within a week the hype was over: the topics were local, a flood in Dagestan concerns Dagestan. The question "pay for the vote, you take it anyway" cannot be closed with words: the answer is either 2.2–2.8 trillion (§13d) or a refusal — the first public pricing of the vote by the Kremlin. "Work is under way" becomes the meme "when are the 30,000?" and is renewed every polling day, because the money has not come. One question instead of five, and one for everybody, not for a region.
+
+**Her main thesis is our instrument.** "The governors lie, the president does not know" — this is "the folder" (§13d) and the captured instrument (029.10). She asks for a "direct platform", that is, voice upwards (036c, Hirschman); the thermostat is the same instrument but honest for the top as well: the number who took the sum can be drawn neither by a governor nor by the e-voting operator (048d §4). She asked for what the protocol already has.
+
+**Her million likes are the protocol's audience.** The apolitical, without a kitchen, those the populists hold; the word "dividend" was made for them (033c §9d), and even a blocked network reaches them.
+
+**What we would have got.** An address about payment for the vote can be called neither opposition (she herself: "I am not with you") nor foreign-agent; one video sows the millions of questions of §13e — a carrier of 041 at zero cost.
+
+**Weak point — the carrier.** She gave thanks in tears for having been watched: a carrier satisfied by attention is bought with attention. The protocol needs from the carrier not loyalty but the question, and the question outlives the carrier: it cannot be "watched and closed". The second risk is from §13e: a one-off payment "following the address" and "we have paid".
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
