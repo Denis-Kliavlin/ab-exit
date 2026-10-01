@@ -79,7 +79,7 @@ The suspicion is correct. To this question the AI adviser replied with a calcula
 **How to count correctly.** A city: 100,000 voters; the mayor 25,000, the underdog 10,000, 60,000 do not vote. After the protocol is adopted the outcome is set by two numbers, both unknown in advance:
 
 - *a* — what share of the mayor's votes are not convinced but brought in: the dependent, the bussed, those voting for a trifle. They take the payment and leave (015c §7b; 011b).
-- *r* — how many non-voters come back and vote for the underdog. These are the burned: they return for the vote and do not take the payment. These are the burned: they return for the vote and do not take the payment.
+- *r* — how many non-voters come back and vote for the underdog. These are the burned: they return for the vote and do not take the payment. The architect holds that everyone underestimates this number: the burned have been humiliated for years and will not miss the first real chance (011b §11b.2c — "the compressed spring" and three cases in which it was released).
 
 The underdog wins if 10,000 + *r* > 25,000 × (1 − *a*).
 
