@@ -102,7 +102,7 @@ Three consequences. First: the protocol does not need Downs's calculation in eit
 
 Weak point. The model of states rests on grievance turning into return rather than into a deeper exit ("nothing can be changed anyway" — 011b). Both forces act: impoverishment makes the sum more attractive, grievance brings people back to the polling station; the second sets the direction of the thermostat, and 015b.6b, which first recorded it by the first ("worse government — more exit"), was reconciled with this on 21 September 2026. Which force is larger, and for whom, is measured by a pilot: by asking the returned and those who took the sum for their reason (004 §4.3b). 🟡
 
-Addition of 01.10.2026: a third state has been added — **the acquiescent** (*tikhonya*): dependent on the power, honest, but too weak to oppose it openly (011b §11b.2b).
+Addition of 01.10.2026: a third state has been added — **the meek** (*tikhonya*): dependent on the power, honest, but too weak to oppose it openly (011b §11b.2b).
 
 ## 7b. A small pool and organised groups: what the protocol breaks and what remains
 
