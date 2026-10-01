@@ -6,8 +6,8 @@
 
 Before every election, every citizen gets two buttons:
 
-- 🟢 **A — "I vote."** Your vote now weighs more, because others left. You actually matter.
-- 🔵 **B — "I exit."** You leave. Officially, voluntarily, honestly. The state (not a party, not an oligarch) pays you. Automatically. Every 4 years — choose again.
+- 🟢 **A — "I vote."** Your ballot counts as one, like everyone's. Because others left, it is a larger share of the total.
+- 🔵 **B — "I exit."** You leave. Officially, voluntarily, honestly. The state (not a party, not an oligarch) pays you. Automatically. At every election — choose again.
 
 > *"$200" and the floating rate are hypothetical examples only. AB-EXIT is a protocol of choice (A or B), not a fixed amount. Parameters are determined by referendum in each specific country or state.*
 
@@ -22,6 +22,8 @@ The living text of the protocol is the documentation site **[docs.ab-exit.com](h
 - [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/)
 - [If you are an underdog — a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/)
 
+**For a candidate.** The protocol is a rule adopted by referendum, not a campaign technique, and it promises nobody a victory. What it gives a challenger is a question no rival asks — "the vote is already paid for, to parties and contractors; why not to the voter himself?" — and, after adoption, an electorate from which the votes brought in by an incumbent's machine have mostly left. A candidate never pays voters and cannot enact it himself. Details: [a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/).
+
 The `en/` and `ru/` folders and the `v6.53*` files in the root are an archive of earlier versions (spring–summer 2026). Sums such as "$200" or "$780" and phrases such as "your vote weighs triple" in them are worked examples from before 30 September 2026: the current norm is a percentage of the median income approved by referendum, and the weight of a vote is arithmetic, not a rule.
 
 ---
@@ -30,7 +32,7 @@ The `en/` and `ru/` folders and the `v6.53*` files in the root are an archive of
 
 **1. Floating Rate.** Compensation = small % of national median income. Self-calibrating: economy grows → amount grows but citizens get richer faster → incentive weakens. Formula locked by referendum.
 
-**2. Vote Weighting.** Every citizen who takes the money shrinks the electorate. If 50% exit → each remaining vote counts double. Refusing the payment gives you mathematically doubled influence.
+**2. One ballot, one vote.** Every ballot counts as one; there is no multiplier for anyone. If half the electorate sits out, each ballot cast is twice as large a share of the total — equally for every voter, whoever they vote for.
 
 **3. Full Autonomy.** Payments are automatic, under a rule adopted by referendum; whether the money comes from a budget line or a separate fund is a country setting. Sitting government cannot control, set, or change the amount. Changes require a new referendum.
 
@@ -40,7 +42,7 @@ The `en/` and `ru/` folders and the `v6.53*` files in the root are an archive of
 
 **6. Cyclicity.** Choice resets every 4 years. Unhappy with the government? Come back and vote them out. Politicians know this from day one.
 
-**7. Democratic Legitimacy.** The mechanism is introduced by the highest act of democracy — a direct referendum (80% voted YES in the model). Can only be repealed by another referendum.
+**7. Democratic Legitimacy.** The mechanism is introduced by a direct referendum of all citizens, by simple majority, with no quorum and no supermajority. It can be changed or repealed only by another referendum — not by a decree and not by an elected body.
 
 ---
 
