@@ -385,6 +385,8 @@ The objection came from a clean chat with another AI (Grok, 02.10.2026; analysis
 
 **What nobody knows.** How many people will refuse the payment for the sake of the vote. That is the one thing the pilot measures (048l), and until it is run the dispute over "whether people want money or greater weight" is not settled by argument.
 
+**And why it does not matter to the protocol.** The architect, 02.10.2026: "it does not even matter to us". The exit share is not a premise the protocol rests on but a reading it produces. If many take it, those indifferent to the outcome leave and the rest decide. If few take it, people value the vote above the payment: the rule has cost little, and something nobody knew about the value of a vote has become known. Both outcomes are a result. There is one limit, recorded in the pilot: if fewer than a quarter take it, the payment is too small; if more than three-quarters, nobody is left to decide (048l §5). To a candidate the number still matters: his arithmetic depends on it (question 10).
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.
