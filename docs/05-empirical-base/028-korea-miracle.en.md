@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 51.1. Anatomy of a catastrophe — the facts
 
 Dan River Mills was founded in 1882. The largest textile enterprise in the South. At its peak = 14,000 workers in a city of 40,000. After NAFTA (1995) — lay-offs; by 2006 — complete closure. Median household income fell from $44,357 to $32,935 (−26 %). The murder rate tripled. Food-stamp recipients: 5,000 → 13,000. Schools lost accreditation. The population stagnates while the rest of Virginia grows (4M → 8M over the same years).

@@ -24,6 +24,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - **Academic** → [13. Game Theory](03-theory/013-game-theory.md) → [12. The Jheringian Tradition](03-theory/012-jhering.md) → [15. Honest Politicians (PNAS 2020)](03-theory/015-honest-politicians.md)
 - [15b. The Catharsis Spiral: Yin Leaves, Yang Arrives](03-theory/015b-catharsis-spiral.md)
 - **Citizen** → [1. The Core Formula](01-introduction/001-formula.md) → [11. From Obligation to Choice](02-history/011-paradigm-choice.md)
+- **Underdog candidate** → [48n. A Candidate's Ten Questions](08-implementation/048n-underdog-questions.md) → [48m. The Charter](08-implementation/048m-charter.md)
 - **Politician / advisor** → [23. Comparative Effectiveness](05-empirical-base/023-quantitative-comparison.md) → [21. The Centrist Void](04-electoral-dynamics/021-centrist-void.md)
 - **Investor / tech** → [23. Comparative Effectiveness](05-empirical-base/023-quantitative-comparison.md) → [31. The Elite Split](06-critique-arsenal/031-elites-split.md) → [32. Fragmentation of the Tech Elite](06-critique-arsenal/032-tech-fragmentation.md)
 - [33. Henry George and the Rent Problem](06-critique-arsenal/033-henry-george.md)
@@ -178,6 +179,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
 - [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)
 - [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)
+- [48n. If You Are an Underdog: A Candidate's Ten Questions](08-implementation/048n-underdog-questions.md)
 
 ## Part IV — 🌍 Country Implementations
 

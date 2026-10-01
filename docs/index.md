@@ -24,6 +24,7 @@
 - **Академик** → [13. Теория игр](03-theory/013-game-theory.md) → [12. Иерингианская традиция](03-theory/012-jhering.md) → [15. Honest Politicians (PNAS 2020)](03-theory/015-honest-politicians.md)
 - [15b. Спираль катарсиса: инь уходит, ян приходит](03-theory/015b-catharsis-spiral.md)
 - **Гражданин** → [1. Основная формула](01-introduction/001-formula.md) → [11. От обязанности к выбору](02-history/011-paradigm-choice.md)
+- **Кандидат-андердог** → [48n. Десять вопросов кандидата](08-implementation/048n-underdog-questions.md) → [48m. Устав](08-implementation/048m-charter.md)
 - **Политик / советник** → [23. Сравнительная эффективность](05-empirical-base/023-quantitative-comparison.md) → [21. Пустота центристов](04-electoral-dynamics/021-centrist-void.md)
 - **Инвестор / tech** → [23. Сравнительная эффективность](05-empirical-base/023-quantitative-comparison.md) → [31. Раскол элит](06-critique-arsenal/031-elites-split.md) → [32. Фрагментация tech-элиты](06-critique-arsenal/032-tech-fragmentation.md)
 
@@ -178,6 +179,7 @@
 - [48k. Опись норм и одиннадцать расхождений: заготовка единого устава](08-implementation/048k-charter-inventory.md)
 - [48l. Дворовой пилот: живые деньги против взвешенного голоса](08-implementation/048l-courtyard-pilot.md)
 - [48m. Устав AB-EXIT: текст, который можно принять](08-implementation/048m-charter.md)
+- [48n. Если вы андердог: десять вопросов кандидата](08-implementation/048n-underdog-questions.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 

@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 46.1. Ivan's two worlds
 
 Successful Ivan: at home teaches his daughter "be honest", outside the fence gives bribes for a permit. Switching × 4 times/day × 365 = 1,460 a year. Cognitive dissonance = the mismatch between beliefs and actions = stress = alcohol. "Sober = two people. Drunk = zero. Zero is easier." Three paths for his daughter Masha — all break her: A) dad is honest and loses = "honesty = losing, I won't be like dad"; B) dad gives a bribe = "dad's a hypocrite, I'll do as he does, not as he says"; C) dad fights 6 months for the permit = "honesty is too expensive, $50K for $200". The system reproduces dishonesty through good people in a bad system.

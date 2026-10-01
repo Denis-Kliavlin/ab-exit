@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 31.1. The discovery: AB-EXIT solves not one but three problems
 
 Up to this section AB-EXIT was treated as a filter of the apathetic. Analysis showed that this is only the surface effect. With one formula AB-EXIT solves three different problems at three different depths, and the third layer is described in no academic work.

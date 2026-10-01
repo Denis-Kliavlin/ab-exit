@@ -13,13 +13,24 @@ Before every election, every citizen gets two buttons:
 
 ---
 
+## Where the current text is
+
+The living text of the protocol is the documentation site **[docs.ab-exit.com](https://docs.ab-exit.com/)** (source: the `docs/` folder). Start with:
+
+- [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/)
+- [If you are an underdog — a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/)
+
+The `en/` and `ru/` folders and the `v6.53*` files in the root are an archive of earlier versions (spring–summer 2026). Sums such as "$200" or "$780" and phrases such as "your vote weighs triple" in them are worked examples from before 30 September 2026: the current norm is a percentage of the median income approved by referendum, and the weight of a vote is arithmetic, not a rule.
+
+---
+
 ## How It Works
 
 **1. Floating Rate.** Compensation = small % of national median income. Self-calibrating: economy grows → amount grows but citizens get richer faster → incentive weakens. Formula locked by referendum.
 
 **2. Vote Weighting.** Every citizen who takes the money shrinks the electorate. If 50% exit → each remaining vote counts double. Refusing the payment gives you mathematically doubled influence.
 
-**3. Full Autonomy.** Payments are automatic from an independent trust fund. Sitting government cannot control, set, or change the amount. Changes require a new referendum.
+**3. Full Autonomy.** Payments are automatic, under a rule adopted by referendum; whether the money comes from a budget line or a separate fund is a country setting. Sitting government cannot control, set, or change the amount. Changes require a new referendum.
 
 **4. Anti-Coercion.** Any attempt by parties, employers, or third parties to pressure a citizen's choice is a criminal offense.
 

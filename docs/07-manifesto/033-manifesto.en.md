@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 77.1. Why this section
 
 In the course of the adversarial testing of the AB-EXIT concept through Gemini Pro an unusual phenomenon occurred: the evaluator, at two different points of one dialogue, publicly admitted that it had no substantive objections left, and agreed that the proposed architecture is robust against the attacks it had itself constructed. This is not "a good evaluation"; it is stronger — it is an empirical observation that the project has no vulnerabilities at the strategic level accessible to an LLM critic with access to political-science data.

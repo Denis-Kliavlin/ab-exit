@@ -6,6 +6,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ## 1. The US electoral trap
 
 A two-party monopoly and voting "for the lesser evil": millions vote not out of love for a party but out of fear that the worse one wins; principled outsiders finish second because their supporters fear "throwing away the vote" (the spoiler effect). The protocol gives a legal exit: "you like neither elephants nor donkeys — take your taxes back as a dividend and don't take part in the circus"; once the swamp of apathy is drained, independent leaders with sincere support from the active beat the party dinosaurs.

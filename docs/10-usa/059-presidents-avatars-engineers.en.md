@@ -6,6 +6,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ## 1. The matrix: avatar (front end) and engineer (CEO)
 
 Strip away the party husk and presidents fall into two systemic categories. **Avatars** — obedient interfaces hired by the elites and party bosses to calm the masses while real control stays with the "back end". **Engineers** — managers who tried to repair the system itself and were destroyed by it for lacking the skills of mass hypnosis. Any system shapes the species best adapted to its survival rules; in a model where 100 % have an equal vote regardless of involvement, the survival resource is the emotions of the masses (the limbic system: fear, hope, anger, sympathy), and selection runs on one criterion — the ability to hack it. The architect's correction: "laws are created by a mass of people and are changed by them — that is exactly what AB-EXIT was created for": laws are the climate; to change the species of politicians you must change the climate, and in a democracy only the mass itself can do that — by being offered a deal the limbic system will not refuse. The mass votes for the protocol for the sake of the cheque and, without understanding what it is doing, changes the apex predator: avatars die out, because an auditor cannot be hypnotised with a smile.

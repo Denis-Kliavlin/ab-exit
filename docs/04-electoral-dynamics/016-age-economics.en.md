@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 23.1. The ballot initiative bypasses the entire elite
 
 Suppose the ENTIRE elite is against AB-EXIT: all politicians (they lose the machine), all parties (they lose control), all consultants (a $26B industry), all unions (they lose influence), all lobbyists (advertising is useless), some lawyers and academics. The whole elite. So what?
