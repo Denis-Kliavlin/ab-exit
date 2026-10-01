@@ -64,10 +64,17 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "A candidate promises the payment if he wins."  RIGHT: that would be vote-buying; the protocol prohibits payment for a vote or for turnout.
 - WRONG: "A mayor or president can enact it by decree."  RIGHT: only a referendum.
 - WRONG: "It is proved that an underdog wins 66 % to 33 %."  RIGHT: that was a role-play. No pilot has been run; all outcome numbers are estimates.
-- WRONG: "The protocol raises turnout."  RIGHT: turnout rises at the referendum on adopting it; at elections under it, some people take the payment and do not vote.
+- WRONG: "The protocol raises turnout."  RIGHT: turnout rises at the referendum on adopting it; at elections under it, some people take the payment and do not vote - mostly those with no stake of their own, so a lower count of ballots does not by itself hurt a challenger.
 - WRONG: "The choice is reversible."  RIGHT: it is final within one election and made anew at the next.
 - WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
+
+WHAT IT GIVES A CHALLENGER - HONESTLY
+- Before adoption: a question no rival asks - "the vote is already paid for, to parties and contractors; why not to the voter himself?" It reaches non-voters and leaves the favourites without a good reply: to agree is to adopt the challenger's theme, to object is to defend taking the vote for nothing.
+- At the referendum on adopting the rule: people who never vote turn out, because they are voting on their own money.
+- At elections after adoption: those who leave are mostly voters with no stake of their own, including voters brought in by an incumbent's machine; those who come back are people who had given up on voting. Fewer ballots are cast, but the incumbent's bloc shrinks most.
+- Whether a challenger wins depends on two numbers nobody knows in advance: what share of the incumbent's vote is brought in rather than convinced, and how many non-voters return (Part 3, question 10, gives the arithmetic).
+- So: a chance that a standard campaign from ten per cent does not have. Not a guarantee, and not something that can be done in two months - adopting the rule takes a referendum.
 
 WHAT IS NOT KNOWN
 - No pilot data exist. The formal statement has sketched proofs and named assumptions and awaits an economist.
@@ -93,10 +100,17 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «Кандидат обещает выплату, если победит».  ВЕРНО: это был бы подкуп; плата за голос и за явку протоколом запрещена.
 - НЕВЕРНО: «Мэр или президент введёт указом».  ВЕРНО: только референдум.
 - НЕВЕРНО: «Доказано, что андердог выигрывает 66 % против 33 %».  ВЕРНО: это была ролевая игра. Пилота не было; все числа об исходе - оценки.
-- НЕВЕРНО: «Протокол поднимает явку».  ВЕРНО: явка растёт на референдуме о его введении; на выборах по протоколу часть людей берёт выплату и не голосует.
+- НЕВЕРНО: «Протокол поднимает явку».  ВЕРНО: явка растёт на референдуме о его введении; на выборах по протоколу часть людей берёт выплату и не голосует - прежде всего те, у кого нет собственной ставки, поэтому меньшее число бюллетеней само по себе претенденту не вредит.
 - НЕВЕРНО: «Выбор обратим».  ВЕРНО: в пределах одних выборов он окончателен, на следующих делается заново.
 - НЕВЕРНО: «Взявший деньги лишается прав».  ВЕРНО: он сохраняет все прочие права и голосует на референдумах о самом правиле.
 - НЕВЕРНО: «72 часа» - правило.  ВЕРНО: это непроверенная догадка о первых днях кампании.
+
+ЧТО ЭТО ДАЁТ ПРЕТЕНДЕНТУ - ЧЕСТНО
+- До принятия: вопрос, которого нет ни у одного соперника, - «за голос уже платят, партиям и подрядчикам; почему не самому избирателю?» Он доходит до не голосующих и оставляет фаворитов без хорошего ответа: согласиться - значит принять тему претендента, возразить - значит защищать право брать голос даром.
+- На референдуме о введении правила: приходят и те, кто никогда не голосует, потому что голосуют о собственных деньгах.
+- На выборах после принятия: уходят прежде всего избиратели без собственной ставки, в том числе приведённые машиной действующей власти; возвращаются те, кто раньше махнул рукой. Бюллетеней становится меньше, но сильнее всего сжимается блок действующей власти.
+- Победит ли претендент, зависит от двух чисел, которых заранее не знает никто: какая доля голосов власти приведена, а не убеждена, и сколько не голосующих вернётся (часть 3, вопрос 10 - арифметика).
+- Итог: шанс, которого нет у обычной кампании с десяти процентов. Не гарантия и не дело двух месяцев - чтобы ввести правило, нужен референдум.
 
 ЧЕГО НЕ ЗНАЕТ НИКТО
 - Данных пилота нет. Формальная постановка содержит наброски доказательств и названные допущения и ждёт экономиста.
