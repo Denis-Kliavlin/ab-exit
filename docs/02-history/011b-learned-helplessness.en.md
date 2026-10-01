@@ -35,7 +35,7 @@ Conscience sets him apart from the apathetic; not having left sets him apart fro
 
 **What holds him.** The architect: "and the main thing — the power can intimidate him by semi-lawful methods so that he does what they need; but these are almost lawful methods that can be concealed and cannot be proved". A superior's hint, a list of those who came, a talk about the bonus, the holiday voucher, the place in the queue leave no trace; there is nothing to complain of and nobody to complain to. So no rule on coercion protects the meek: a rule requires proof, and there is none.
 
-**On the name.** The architect's decision of 01.10.2026: the Russian term is *tikhonya*. "The lost sheep" was considered and rejected (lost means strayed, and this person has not strayed). The English rendering is "the meek"; the literal "the quiet one" and the colder "the acquiescent" were rejected.
+**On the name.** The architect's decision of 01.10.2026: the Russian term is *tikhonya*. "The lost sheep" was considered and rejected (lost means strayed, and this person has not strayed). The English rendering is "the meek"; the literal "the quiet one" was rejected, and so was "the acquiescent" — the architect: "that one is submissive, while this one is against, but he will not take risks or resist by force".
 
 Scholarship has several names for him, each taking one side.
 
