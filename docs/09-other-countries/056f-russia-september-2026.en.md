@@ -1499,6 +1499,20 @@ Two effects beyond the line: hundreds of thousands of commission members — the
 
 **Weak point.** The "invalid" line is inside the count (§13e) and can be understated; so the sign is a demonstration to commissions and observers, and the measure stays outside. The analogues — the "accordion" in Belarus 2020 and "Noon" in 2024 — the power ignored; the sign has what they lacked: a number in the protocol. 🟡
 
+## 13j. The contract between people and power: the protocol does not break it, it prices it
+
+The architect, 01.10.2026: "the contract between the people and the power — 'you stay out of politics, and we do not stop you living well'. Does the protocol break this social contract unnoticed? The people go into politics in order to live well".
+
+**The contract already exists and is already paid.** "Loyalty in exchange for welfare" has been described since the 2000s; in 2014 the price was replaced by Crimea, in 2022 the state began openly paying for the most political participation there is — the service contract. The premise "politics is not paid for" has been dropped by the power itself. The protocol says it aloud: "you stay out of politics" — button B, "you live well" — D. The same contract with a signature under every clause.
+
+**What changes — who sets the price.** Today the contract is a monopsony: one buyer of loyalty, the price set unilaterally and by mood (indexation, 10,000 to pensioners before the 2021 election, "Million Prizes" in 2020). The protocol moves the price to the median and makes it a rule (048k §3). The power keeps everything it wanted — the mass that stays out; it loses one thing — the right to decide what that is worth. That is the unnoticed break: the contract remains, and bargaining appears where there never was any.
+
+**Where it tears.** The contract rested on politics and the good life being alternatives. The question "where are my 30,000" glues them together: a demand phrased as performance of the contract — "we stay out, pay us for staying out". It cannot be punished by the power's own definition (it is not politics, §13e); to refuse is to admit the contract is one-sided. The power is in the position of an employer to whom the worker has brought a bill for the first time.
+
+**Hirschman (036c).** The contract bought loyalty — a state without price or term. The protocol replaces it with exit — an act with a price and a term of one cycle. Those who take the money are honest performers of the contract; those who remain have left it for politics, and their weight is paid for by the former (033c §9b). The population divides exactly along the contract's line, both sides get what they want, and the power loses the ability to count both sides as its own.
+
+**Weak point.** The power can perform the contract its own way — a one-off payment before the election and the words "we pay". The answer is §13e and §13h: a one-off payment is the power's price at the power's time; the question insists on a rule, and after the first one-off payment it sounds louder, because the sum has already been acknowledged.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
