@@ -102,6 +102,8 @@ Three consequences. First: the protocol does not need Downs's calculation in eit
 
 Weak point. The model of states rests on grievance turning into return rather than into a deeper exit ("nothing can be changed anyway" — 011b). Both forces act: impoverishment makes the sum more attractive, grievance brings people back to the polling station; the second sets the direction of the thermostat, and 015b.6b, which first recorded it by the first ("worse government — more exit"), was reconciled with this on 21 September 2026. Which force is larger, and for whom, is measured by a pilot: by asking the returned and those who took the sum for their reason (004 §4.3b). 🟡
 
+Addition of 01.10.2026: a third state has been added — **the quiet one**: the dependent person who is brought in and today has no right to abstain (011b §11b.2b).
+
 ## 7b. A small pool and organised groups: what the protocol breaks and what remains
 
 The objection. The nearest real analogue of an election in which only the motivated vote already exists: American off-cycle municipal elections with 15–20 % turnout. Sarah Anzia's research shows that they are won not by pragmatists but by organised groups — unions of teachers and municipal employees; where school boards are elected off-cycle, teachers' salaries are higher. Her mechanism has two parts: group members with a large personal stake turn out whatever the date, and their efforts to mobilise and persuade others yield more when turnout is low.

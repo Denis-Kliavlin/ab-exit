@@ -19,6 +19,32 @@ Two subtypes from the repository are two stages of one syndrome. **The apathetic
 
 Hence why traditional campaigns of "go and vote, your vote matters" **aggravate** the syndrome: they demand the repetition of a non-contingent action (one more session of shock) and simultaneously gaslight the experience ("it only seems to you that nothing changes"). The burned man hears: "you jumped badly — jump again". Seligman showed that this deepens passivity.
 
+## 11b.2b. A third state: the quiet one
+
+Added on 1 October 2026 on the architect's instruction: "you brought into the discussion a notion — loyal, but not an activist of the regime. He would gladly live by conscience, but he is weak and dependent; he is an honest and good person, simply weak and conformist. I would call him 'the quiet one'. For him there is today no way to live lawfully and simply not take part in elections. This notion must be fixed, like the burned".
+
+The apathetic one never tried, the burned one tried and left; both have the right not to go. **The quiet one** is the one who lacks that right: he depends on an employer or superiors, he is brought in, and he performs. It is a state, not a type (015c §7a): a person is quiet while dependent.
+
+| | Tried to influence | May stay away | What he does today |
+|---|---|---|---|
+| Apathetic | no | yes | stays away or comes for a trifle |
+| Burned | yes, more than once | yes | sits in the kitchen |
+| Quiet | immaterial | **no** | comes and performs |
+
+Scholarship has several names for him, each taking one side.
+
+| Term | Author | What it names |
+|---|---|---|
+| Preference falsification | T. Kuran, 1995 | the public word diverges from private opinion because of pressure, not conviction |
+| The greengrocer, "living within a lie" | V. Havel, 1978 | puts in his window a slogan he does not believe, to be left in peace |
+| Acting "as if" | L. Wedeen, 1999 | performs the ritual of loyalty without belief; performance is enough for the regime |
+| Being "vnye" (outside) | A. Yurchak, 2005 | neither activist nor dissident: reproduces the form and lives his own life |
+| The administratively dependent voter | Frye, Reuter, Szakonyi, 2014 | votes because he depends on an employer; in a survey after the 2011 election a quarter of employees reported such pressure |
+
+**What the protocol gives him that none of the authors did.** Havel's greengrocer has two moves: keep the sign or take it down and become a dissident. In Kuran the lie collapses only by cascade, when the first brave show the rest they are not alone. Both exits demand courage, which the quiet one by definition lacks. Button B is a third move: take the sign down lawfully, for money and without becoming a hero; the treasury record does not let him be written back in (056f §13j, 048m Art. 5 and 10). The counter is the cheap honest signal whose absence Kuran held to be the cause of the suddenness of revolutions: the number who exited per precinct shows private opinion for the first time at no risk to the person. And the test in practice has already happened: the public-sector employee under his boss's eye clicked the wrong thing (056f §13d) — the quiet one performs the turnout but not the choice.
+
+**How this differs from circuit 3.** To the burned one the system says "you were right". To the quiet one it says nothing — it lets him go. The therapy here is not recognition but permission.
+
 ## 11b.3. The mechanism of therapy: five circuits
 
 **Circuit 1 — the first guaranteed experience of contingency.** Button B is the first political action in a person's life with one-hundred-per-cent, fast, personal feedback: pressed → the money arrived → in the app, in days rather than years, to you rather than to "the country". By Seligman this is exactly a mastery experience: the link "my action → my result" in a domain where it never existed. Importantly, it is the fact of the link that is therapeutic, not its content — helplessness is cured not by persuasion that "the system is good" but by the experience that **in this system my actions have consequences**.
