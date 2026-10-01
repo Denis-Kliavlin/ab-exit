@@ -6,6 +6,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). "About four working days" in §9c is an example at a small percentage; in other chapters the example reaches a month's earnings. There is no norm on the size, there is a percentage approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. Why a vocabulary
 
 In a dialogue two hundred thousand words long the model slid again and again into someone else's vocabulary — of the paternalist state, of UBI, of purchase and sale, of ideal democracy — and was caught again and again. This section records nine formulations on which the protocol's defence against moralists rests, and explains why each alternative is not a synonym but an error.

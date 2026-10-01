@@ -76,9 +76,9 @@ plugins:
             "Глава 2. История и парадигмальный сдвиг": "Chapter 2. History and the Paradigm Shift"
             "6. 2500 лет проблемы": "6. 2,500 Years of One Problem"
             "6b. Предшественники и что дописать": "6b. Predecessors and What Remains"
-            "7. Совместимость с религиями": "7. Compatibility with Religions"
-            "8. Say-Do Gap": "8. Say-Do Gap"
-            "9. Вакцина против тиранов": "9. A Vaccine Against Tyrants"
+            "7. Жидкая демократия через дивиденд": "7. Liquid Democracy Through the Dividend"
+            "8. Индустрия на $26 миллиардов, построенная на апатиках": "8. A $26 Billion Industry Built on the Apathetic"
+            "9. Новый мир выборов": "9. The New Electoral World"
             "10. Парадигмальный сдвиг": "10. The Paradigm Shift"
             "11. От обязанности к выбору": "11. From Duty to Choice"
             "11b. Терапия выученной беспомощности": "11b. Learned Helplessness Therapy"
@@ -94,7 +94,7 @@ plugins:
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
             "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
-            "16. Возрастная экономика": "16. Age Economics"
+            "16. Почему AB-EXIT неостановим": "16. Why AB-EXIT Is Unstoppable"
             "17. Прагматики vs идеологи": "17. Pragmatists vs Ideologues"
             "18. Три эпохи демократии": "18. Three Epochs of Democracy"
             "19. Цена плохого управления": "19. The Cost of Bad Governance"
@@ -105,8 +105,8 @@ plugins:
             "19f. Вектор: изведение мужчин": "19f. The Vector: Wearing Down Men"
             "19g. Вторая волна выхода": "19g. The Second Wave of Exit"
             "20. AB-EXIT сильнее UBI": "20. AB-EXIT Is Stronger Than UBI"
-            "21. Пустота центристов": "21. The Centrist Void"
-            "22. Консенсусная тема": "22. The Consensus Theme"
+            "21. Лицемерие священности и избирательная защита": "21. The Hypocrisy of Sacredness and Selective Protection"
+            "22. Пустота центристов": "22. The Centrist Void"
             "Глава 5. Эмпирическая база": "Chapter 5. Empirical Base"
             "23. Количественное сравнение": "23. Quantitative Comparison"
             "23b. Правила обращения с доказательствами": "23b. Rules for Handling Evidence"
@@ -116,9 +116,9 @@ plugins:
             "23f. Деньги на выборах": "23f. Money at Elections"
             "24. Норвегия": "24. Norway"
             "25. Грузия": "25. Georgia"
-            "26. Хантингтон и Тоффлер": "26. Huntington and Toffler"
-            "27. Исчезающий класс": "27. The Disappearing Class"
-            "28. Корейское чудо": "28. The Korean Miracle"
+            "26. Почему AB-EXIT = уникальная идея": "26. Why AB-EXIT = a Unique Idea"
+            "27. Парадокс терпения диктатора": "27. The Paradox of the Dictator's Patience"
+            "28. Дэнвил, Вирджиния": "28. Danville, Virginia"
             "Глава 6. Критика и арсенал элит": "Chapter 6. Critique and the Elites' Arsenal"
             "29. Структурное лицемерие": "29. Structural Hypocrisy"
             "30. Арсенал элит": "30. The Elites' Arsenal"
@@ -137,7 +137,7 @@ plugins:
             "40. Восьмой AI: вердикт Grok": "40. The Eighth AI: Grok's Verdict"
             "II. Социальная архитектура": "II. Social Architecture"
             "Глава 7. Манифест и стратегия": "Chapter 7. Manifesto and Strategy"
-            "33. Философский манифест": "33. Philosophical Manifesto"
+            "33. Двойная капитуляция Gemini Pro": "33. The Double Capitulation of Gemini Pro"
             "33b. Короткий манифест": "33b. Short Manifesto"
             "34. Государство как корпорация": "34. The State as a Corporation"
             "35. Маршрут B": "35. Route B"
@@ -150,7 +150,7 @@ plugins:
             "Глава 8. Универсальные принципы запуска": "Chapter 8. Universal Launch Principles"
             "41. Портрет носителя": "41. Carrier Portrait"
             "42. Ядовитая пилюля": "42. The Poison Pill"
-            "43. Капитуляция Gemini": "43. The Gemini Capitulation"
+            "43. Рыночный ценз: справедливый и добровольный": "43. A Fair and Voluntary Market Qualification"
             "44. Election interference": "44. Election Interference"
             "45. Экономика кампании": "45. Campaign Economics"
             "46. Детонаторы: Великобритания": "46. Detonators: UK"
@@ -162,14 +162,14 @@ plugins:
             "Глава 9. Кейсы: другие страны": "Chapter 9. Country Cases"
             "Глава 10. Кейс: США": "Chapter 10. Country Case: United States"
             "45. Правовая база США": "45. US Legal Base"
-            "46. Oregon initiative": "46. Oregon Initiative"
+            "46. Портрет правильного носителя AB-EXIT": "46. Portrait of the Right Bearer of AB-EXIT"
             "47. State-by-state": "47. State-by-State"
-            "48. W-2 источник данных": "48. W-2 Data Source"
+            "48. Развёрнутая формула с усреднением": "48. The Expanded Formula with Averaging"
             "48b. W-2 через SSA: детали источника": "48b. W-2 via SSA: Source Detail"
             "48c. Таймлайн данных и модернизация IRS": "48c. Data Timeline and IRS Modernisation"
-            "49. Юридический устав": "49. Legal Statute"
-            "50. Кейс Danville": "50. The Danville Case"
-            "51. Church Street": "51. Church Street"
+            "49. SMS гражданину": "49. The SMS to the Citizen"
+            "50. Раскол личности": "50. The Split Personality"
+            "51. Гражданская война, третья партия и треугольник": "51. Civil War, a Third Party and the Triangle"
             "52. $676 Challenge": "52. The $676 Challenge"
             "58. Кризис аффордабилити 2026": "58. The 2026 Affordability Crisis"
             "53. Молдова": "53. Moldova"
@@ -192,6 +192,7 @@ plugins:
             "40j. Кант": "40j. Kant"
             "40k. Штраус и Хау": "40k. Strauss and Howe"
             "40l. Фукуяма": "40l. Fukuyama"
+            "40m. Аудит холодного читателя": "40m. The Cold-Reader Audit"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -258,9 +259,9 @@ nav:
     - "Глава 2. История и парадигмальный сдвиг":
       - "6. 2500 лет проблемы": 02-history/006-2500-years.md
       - "6b. Предшественники и что дописать": 02-history/006b-predecessors-and-gaps.md
-      - "7. Совместимость с религиями": 02-history/007-religions.md
-      - "8. Say-Do Gap": 02-history/008-say-do-gap.md
-      - "9. Вакцина против тиранов": 02-history/009-vaccine-tyrants.md
+      - "7. Жидкая демократия через дивиденд": 02-history/007-religions.md
+      - "8. Индустрия на $26 миллиардов, построенная на апатиках": 02-history/008-say-do-gap.md
+      - "9. Новый мир выборов": 02-history/009-vaccine-tyrants.md
       - "10. Парадигмальный сдвиг": 02-history/010-paradigm-shift.md
       - "11. От обязанности к выбору": 02-history/011-paradigm-choice.md
       - "11b. Терапия выученной беспомощности": 02-history/011b-learned-helplessness.md
@@ -277,7 +278,7 @@ nav:
       - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
       - "15c. Смена знака, а не +5 %": 03-theory/015c-sign-change.md
     - "Глава 4. Электоральная динамика":
-      - "16. Возрастная экономика": 04-electoral-dynamics/016-age-economics.md
+      - "16. Почему AB-EXIT неостановим": 04-electoral-dynamics/016-age-economics.md
       - "17. Прагматики vs идеологи": 04-electoral-dynamics/017-pragmatics-ideologues.md
       - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
       - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
@@ -288,8 +289,8 @@ nav:
       - "19f. Вектор: изведение мужчин": 04-electoral-dynamics/019f-men-vector.md
       - "19g. Вторая волна выхода": 04-electoral-dynamics/019g-second-wave-of-exit.md
       - "20. AB-EXIT сильнее UBI": 04-electoral-dynamics/020-stronger-than-ubi.md
-      - "21. Пустота центристов": 04-electoral-dynamics/021-centrist-void.md
-      - "22. Консенсусная тема": 04-electoral-dynamics/022-consensus-theme.md
+      - "21. Лицемерие священности и избирательная защита": 04-electoral-dynamics/021-centrist-void.md
+      - "22. Пустота центристов": 04-electoral-dynamics/022-consensus-theme.md
     - "Глава 5. Эмпирическая база":
       - "23. Количественное сравнение": 05-empirical-base/023-quantitative-comparison.md
       - "23b. Правила обращения с доказательствами": 05-empirical-base/023b-evidence-rules.md
@@ -299,9 +300,9 @@ nav:
       - "23f. Деньги на выборах": 05-empirical-base/023f-money-at-elections.md
       - "24. Норвегия": 05-empirical-base/024-norway.md
       - "25. Грузия": 05-empirical-base/025-georgia.md
-      - "26. Хантингтон и Тоффлер": 05-empirical-base/026-huntington-toffler.md
-      - "27. Исчезающий класс": 05-empirical-base/027-disappearing-men.md
-      - "28. Корейское чудо": 05-empirical-base/028-korea-miracle.md
+      - "26. Почему AB-EXIT = уникальная идея": 05-empirical-base/026-huntington-toffler.md
+      - "27. Парадокс терпения диктатора": 05-empirical-base/027-disappearing-men.md
+      - "28. Дэнвил, Вирджиния": 05-empirical-base/028-korea-miracle.md
     - "Глава 6. Критика и арсенал элит":
       - "29. Структурное лицемерие": 06-critique-arsenal/029-hypocrisy.md
       - "30. Арсенал элит": 06-critique-arsenal/030-elites-arsenal.md
@@ -331,9 +332,10 @@ nav:
       - "40j. Кант": 06-critique-arsenal/040j-kant.md
       - "40k. Штраус и Хау": 06-critique-arsenal/040k-strauss-howe.md
       - "40l. Фукуяма": 06-critique-arsenal/040l-fukuyama.md
+      - "40m. Аудит холодного читателя": 06-critique-arsenal/040m-cold-reader-audit.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
-      - "33. Философский манифест": 07-manifesto/033-manifesto.md
+      - "33. Двойная капитуляция Gemini Pro": 07-manifesto/033-manifesto.md
       - "33b. Короткий манифест": 07-manifesto/033b-short-manifesto.md
       - "33c. Язык протокола": 07-manifesto/033c-protocol-language.md
       - "34. Государство как корпорация": 07-manifesto/034-state-as-corporation.md
@@ -351,7 +353,7 @@ nav:
     - "Глава 8. Универсальные принципы запуска":
       - "41. Портрет носителя": 08-implementation/041-carrier-portrait.md
       - "42. Ядовитая пилюля": 08-implementation/042-poison-pill.md
-      - "43. Капитуляция Gemini": 08-implementation/043-gemini-capitulation.md
+      - "43. Рыночный ценз: справедливый и добровольный": 08-implementation/043-gemini-capitulation.md
       - "44. Election interference": 08-implementation/044-election-interference.md
       - "45. Экономика кампании": 08-implementation/045-campaign-economics.md
       - "46. Детонаторы: Великобритания": 08-implementation/046-detonators-uk.md
@@ -390,14 +392,14 @@ nav:
       - "57e. Испания: франкизм 1960-х": 09-other-countries/057e-spain-francoism.md
     - "Глава 10. Кейс: США":
       - "45. Правовая база США": 10-usa/045-us-legal-base.md
-      - "46. Oregon initiative": 10-usa/046-oregon-initiative.md
+      - "46. Портрет правильного носителя AB-EXIT": 10-usa/046-oregon-initiative.md
       - "47. State-by-state": 10-usa/047-state-by-state.md
-      - "48. W-2 источник данных": 10-usa/048-w2-data-source.md
+      - "48. Развёрнутая формула с усреднением": 10-usa/048-w2-data-source.md
       - "48b. W-2 через SSA: детали источника": 10-usa/048b-w2-source-detail.md
       - "48c. Таймлайн данных и модернизация IRS": 10-usa/048c-data-timeline-us.md
-      - "49. Юридический устав": 10-usa/049-legal-statute.md
-      - "50. Кейс Danville": 10-usa/050-danville-case.md
-      - "51. Church Street": 10-usa/051-church-street.md
+      - "49. SMS гражданину": 10-usa/049-legal-statute.md
+      - "50. Раскол личности": 10-usa/050-danville-case.md
+      - "51. Гражданская война, третья партия и треугольник": 10-usa/051-church-street.md
       - "52. $676 Challenge": 10-usa/052-676-challenge.md
       - "58. Кризис аффордабилити 2026": 10-usa/058-affordability-2026.md
       - "59. Аватары и инженеры": 10-usa/059-presidents-avatars-engineers.md

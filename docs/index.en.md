@@ -48,7 +48,7 @@ Each section is self-contained — you can read it straight through as a book (u
 
 ### Chapter 1. Introduction and the Core Formula
 
-1. [The Core Formula D = M × 1.5%](01-introduction/001-formula.md)
+1. [The Core Formula: a Percentage of the Median](01-introduction/001-formula.md)
 - [1b. AB-EXIT in One Chapter: the Essence and All the Important Logic](01-introduction/001b-essence.md)
 - [1c. A Board with No Good Moves: Half a Hundred Zugzwangs of the Protocol](01-introduction/001c-board-without-good-moves.md)
 - [1d. Exact Answers: What the Protocol Asserts and What It Does Not](01-introduction/001d-exact-answers.md)
@@ -139,6 +139,7 @@ Each section is self-contained — you can read it straight through as a book (u
    - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 - [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)
+- [40m. The Cold-Reader Audit: Thirty-Seven Findings and Five Unanswered Questions](06-critique-arsenal/040m-cold-reader-audit.md)
 
 ## Part II — Social Architecture
 
@@ -180,7 +181,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [48i. Three Channels and a Parallel Count: Money, an Open Vote, a Secret Ballot](08-implementation/048i-three-channels-parallel-count.md)
 - [48j. Courts and Local Tuning: What the Protocol Does Not Describe, and Why](08-implementation/048j-courts-and-local-tuning.md)
 - [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
-- [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)
+- [48l. The Courtyard Pilot: Live Money and a Real Decision](08-implementation/048l-courtyard-pilot.md)
 - [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)
 - [48n. If You Are an Underdog: A Candidate's Ten Questions](08-implementation/048n-underdog-questions.md)
 

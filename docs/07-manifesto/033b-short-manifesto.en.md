@@ -6,6 +6,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). "A month's wages", "~$676" and "up to twice" are examples: the size of the payment is set by a percentage approved by referendum, and "twice" is arithmetic when half exit, not a rule. The exact-answers sheet 1d and the charter 048m are in force.*
+
 You have never been paid for your vote.
 
 But it is paid for. To everyone except you.

@@ -7,6 +7,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). The council's right to raise the coefficient (§2.4) and the fixed multiplier 1.5 in the statute (§2.5) have been removed: the percentage is set and changed only by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 The formula in §1 rests on a single number: the jurisdiction's median wage. Where that
 number comes from determines the stability of the whole protocol — substitute the source
 and you can kill the mechanism without touching another line of the law (see

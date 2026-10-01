@@ -6,6 +6,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). The shares who stay in §4 and the shares who refuse the sum in §7 were calculated at different times and at different sums and are not reconciled with each other (040m, finding 5). There is one guide: a payment desirable to 40–50 % of the population. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The old model
 
 The value of one vote V = 1/N, where N is the number who turned up. The utility of participation U = p·B − C: p — the probability that the vote decides the outcome, ≈ 0; B — the benefit of "your" result; C — the cost of going. For the mass of people U < 0, and they do not vote for free. Any political-technology trick — advertising, GOTV, fear, charisma — moves C or briefly raises the emotional B, that is, moves the person *inside the same function*. The playing field remains V = 1/N. That is a tool, not a new system.

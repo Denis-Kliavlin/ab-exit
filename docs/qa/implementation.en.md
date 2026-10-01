@@ -5,6 +5,8 @@ General rules of the base — [in the introduction](index.md).
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). In entries Q-IMP-001 and Q-IMP-002 "a transfer from the trust" and "to weigh the votes" are the earlier wording: the budget pays under law, ballots are not weighted; on the secrecy of choice B see Article 9 of the charter. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### Q-IMP-001 · How is it technically determined who chose A and who chose B?
 
 **Status:** 🔁 contested

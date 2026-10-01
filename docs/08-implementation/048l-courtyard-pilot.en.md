@@ -1,4 +1,4 @@
-# 48l. The Courtyard Pilot: Live Money Against a Weighted Vote
+# 48l. The Courtyard Pilot: Live Money and a Real Decision
 
 **Chapter:** 08 — Implementation
 **File:** 08_048l · v1 · 1 October 2026 (session 01.10.26)
@@ -32,9 +32,9 @@ What the pilot does not test and must not promise: the shift of parties, the fat
 
 - **The question** is formulated by the courtyard's board and approved by the meeting before the pilot is announced, so that the protocol is not suspected of choosing the topic.
 - **The sum.** It cannot be derived from the country's formula — a courtyard has no median. Instead the sum is set by the yardstick of 048k §3: a preliminary survey of residents "from what sum would you forgo the right to decide this question", and the sum at which 40–50 % would forgo it is taken. The reference for Moldova is 25–30 euros. Thus the pilot also tests the yardstick itself.
-- **Two buttons.** Through an app and through a paper sheet at the notary. The declaration window is two weeks, closing two days before the vote (004 §4.1).
+- **Two buttons.** Through an app and through a paper sheet at the notary. The declaration window is two weeks, closing by default five days before the vote; for a courtyard the term may be shorter (048m, Article 6).
 - **The time scale** (048k §3): the first three days — payment at once with a 5–10 % premium; the rest of the window — payment at once without a premium; whoever chose nothing and did not vote — the money waits until the courtyard's next decision, at a 20–30 % discount.
-- **The weight of the vote** — 1/(1 − exit share), computed automatically (033c §9b).
+- **The count** — every ballot counts as one; the number 1/(1 − exit share) is published as a reference showing by how much the share of one vote has grown (033c §9b).
 - **The counter** — daily, public, by building or entrance (004 §4.7).
 - **The vote** of those who remain — an ordinary meeting or paper ballot by the courtyard's rules; the protocol does not change them (048k §3).
 - **A control courtyard** — a neighbouring one of the same size, deciding the same kind of question by an ordinary vote in the same period. Without it any result is an anecdote.

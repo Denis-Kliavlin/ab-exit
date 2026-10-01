@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.3 · 1 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.4 · 1 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -146,7 +146,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 
 1. On the charter — its introduction, repeal, the percentage and any provision of the core — all citizens decide by referendum, including those who chose B. No quorum is set.
 2. Those who govern are elected by those voting in the given election.
-3. Elected bodies may not alter the charter, the size of the payment, the circle of recipients or the procedure of choice.
+3. Elected bodies may not introduce, repeal or alter the charter, the size of the payment, the circle of recipients or the procedure of choice.
 4. The charter does not alter the procedure of other referendums or the allocation of seats.
 
 *Source: 048g §6b, 045 §45.7, 048k §3.*
@@ -180,7 +180,8 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 | Number of payments | one per cycle or several smaller | economists and sociologists |
 | Source of money | a budget line or a separate fund | financiers |
 | Choice among several percentages | the referendum procedure | lawyers and sociologists |
-| Legal route | a law, a constitutional amendment, a private referendum (045, 035) | lawyers |
+| Legal route | the legal form in which the referendum is held and its result enacted — a law or a constitutional amendment; a private referendum without legal force as a preliminary step (08/045, 07/035) | lawyers |
+| Source of the early premium | whether the discount on late payments covers it, and when (Article 6) | financiers |
 | Thresholds of Articles 10 and 11 | channel divergence, anomaly | from the pilot (048l) |
 | The court's time limit | how many days for the six disputes of Article 12 | lawyers |
 | An election not held on time | how and to whom to pay (Article 6) | lawyers and economists |
@@ -215,7 +216,7 @@ The party's manifesto is three values and a mission: a state where "the power se
 
 ## Weak point
 
-The text is assembled from norms written as arguments, and a country's lawyer will rewrite every article for his own legal system; the draft tests completeness, not wording. The ten rows of the annex are blank spaces the first critic will name, and the thresholds of Articles 10 and 11 have nowhere to come from before the pilot. Article 1 forbids replacing the core with a parameter, but it cannot itself settle a dispute over what the core is: the court under Article 12 will, and the court is the last to benefit from the protocol (048j §3). 🟡
+The text is assembled from norms written as arguments, and a country's lawyer will rewrite every article for his own legal system; the draft tests completeness, not wording. The eleven rows of the annex are blank spaces the first critic will name, and the thresholds of Articles 10 and 11 have nowhere to come from before the pilot. Article 1 forbids replacing the core with a parameter, but it cannot itself settle a dispute over what the core is: the court under Article 12 will, and the court is the last to benefit from the protocol (048j §3). 🟡
 
 ---
 

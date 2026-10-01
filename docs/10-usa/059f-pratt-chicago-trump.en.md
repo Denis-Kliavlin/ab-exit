@@ -6,6 +6,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ## 1. The referendum by state
 
 The model's first estimate in the "old frame": West Virginia — passes, 53–57 % for (high habitual non-attendance; low incomes, $1,000 is felt more strongly than in California; weaker progressive infrastructure able to quickly hang the "buying the poor" label; an anti-elite background — "money for you, not for parties and consultants"); Ohio — a coin toss; California and New York — probably not. What knocks the result down: the "vote buying" label hung before the idea settles as "money for what you already don't do"; a collapse of turnout among the apathetic.

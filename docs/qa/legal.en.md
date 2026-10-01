@@ -5,6 +5,8 @@ General rules of the base — [in the introduction](index.md).
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). In entry Q-LEG-002 "the choice is reversible" means: at the next election; within one election choice B is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### Q-LEG-001 · Isn't this vote-buying?
 
 **Status:** ✅ answered

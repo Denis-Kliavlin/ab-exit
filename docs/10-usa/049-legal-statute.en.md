@@ -7,6 +7,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). The municipal statute in this chapter is the version from before the decisions of 30.09.2026: the bonus in the SMS, K = 1 % and the council's right to change the coefficient have been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ┌──────────────────────────────────────┐
 
 │ AB-EXIT Dividend 2028                │

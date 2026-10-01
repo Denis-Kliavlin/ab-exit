@@ -5,6 +5,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). "An escrow or trust before the referendum", the 30-day payment term and "weighted votes" are the earlier wording: the budget pays under law, the payment arrives at once after the choice, ballots are not weighted. The shares of opponents and turnout are estimates at a small percentage. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 45.1. Methodological foundation: zero-price statistics do not apply
 
 All historical non-turnout statistics describe a world where non-turnout was **free**. Habit is a behavioural phenomenon of zero price: it governs choice when nothing is at stake. An AB-EXIT referendum hangs on a one-off action a sum of the order of **a month's wages of the lower half of the distribution** — and no "habit" of that scale exists: a person who gets up to an alarm 24 times a month for a rate of X/hour comes once for a rate of 200X/hour (at a physical polling station) or 40,000X (two minutes in an app).

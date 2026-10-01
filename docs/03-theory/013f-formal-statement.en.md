@@ -1,4 +1,4 @@
-# A Formal Statement: Four Theorems and Two Assumptions
+# A Formal Statement: Five Theorems and Three Assumptions
 
 **Chapter:** 03 — Theoretical Foundations (paired with §13)
 **File:** 03_013f · v1 · 30 September 2026 (session 29.09.26)
@@ -27,7 +27,7 @@ The mechanism offers three actions. **A** — a vote; its weight is *w* = 1/(1 �
 
 The utility of A: *v·w/N − c*. The utility of B: *D*. That is the whole model.
 
-## 3. Four theorems
+## 3. Five theorems
 
 **Theorem 1 — the dominated void.** With *D* > 0 the action "nothing" is worse than B for every type.
 
@@ -58,6 +58,26 @@ The dividend is a lower bound on the market price of a bought vote (019d). Pre-e
 *Proof.* Directly from the comparison of utilities in §2 with the personal stake *v* replaced by the share of the collective benefit *B/N* multiplied by π. ∎
 
 Two corollaries. First: the big machines dissolve first — in a union of a hundred thousand each member's share is negligible, the gain accrues to all regardless of his vote, while the sum is his alone (015c §7b, Olson's reversal). Second: the threshold falls as *D* rises — the higher the percentage, the more groups dissolve. A boundary of the theorem, not its price: a small group with a large share and a high π — a parish in a district of five hundred — remains, as it remains today; the protocol has nothing to do with it, and the others receive the sum and the right to return next cycle (015c §7b: "if the rest are content, what is bad about it"). And the small group has a problem of its own — it is small: in isolation it cannot build a factory or a large store, and in a large city it is insignificant; it can capture only what is not worth capturing. Fanatics are a problem of society in general, not of elections and not of the protocol.
+
+## 3b. Correction of 01.10.2026: the unit in which the stake is measured
+
+The cold-reader audit (040m) found an error of units in the setting of §2. The stake *v* is defined as a person's willingness to pay for taking part, that is, it is already a personal quantity; yet in the utility it is written as *v·w/N*, as if it were a total gain divided by the number of voters. Written that way, the threshold *v\** = *N(D + c)*(1 − β) for a million voters and a payment of seven hundred runs to hundreds of millions, and the model predicts that almost nobody votes.
+
+This is the well-known paradox of voting: on the calculation "my vote will decide the outcome" nobody would vote today either, without any payment — and yet people vote. So people value taking part not through the chance of deciding the outcome, and it is that valuation which must be counted.
+
+**The corrected form.** *v* is how much a person is willing to pay for his vote at ordinary weight; *w* = 1/(1 − β) is by how much the share of one vote has grown. The utility of A: *v·w − c*. Then:
+
+- the threshold: *v\**(β) = *(D + c)*(1 − β);
+- Theorem 2: β = *F*(*(D + c)*(1 − β)), the proof is the same;
+- Theorem 3: the direct effect *F′*·(1 − β) is divided by 1 + *F′*·*(D + c)*;
+- Theorem 4: *b* ≥ *D + c − v·w*;
+- Theorem 5 does not change: there *N* is the size of the group and *B/N* the member's share of the common gain.
+
+An example: *D + c* = 700, half have exited — the threshold is 350. The one who stays values his vote, at ordinary weight, above 350.
+
+**A third assumption missing from §4.** The form *v·w* supposes that a person values his vote in proportion to its share. If the value grows more weakly, the thermostat's feedback is weaker but its sign is the same. This too is for the economist.
+
+**Correction to Theorem 1.** After the decision of 30.09.2026 one who chose nothing keeps the vote and may receive the payment later at a discount (048k §3, the twelfth decision; 048m, Article 6). So "nothing" is no longer dominated: it is an option — to wait until polling day and decide — and its price is the discount of 20–30 %. Theorem 1 holds for the first version, in which "nothing" gave zero.
 
 ## 4. Two assumptions
 

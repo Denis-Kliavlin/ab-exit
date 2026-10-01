@@ -6,6 +6,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). Five refinements to this chapter. The formula is written as a percentage of the median, D = p × M; each level of government has its own median; "automatic crediting" means automatic entry in the register, while the payment is chosen by the person (§7). Choice B is not published by name but is not specially concealed (§1). "Reversible" means: at the next election; within one election choice B is final (§0). "1–2 % of the budget" was computed at a small percentage (§8). "The zone of real victory" and "a x3 vote" are an estimate and arithmetic, not a promise and not a multiplier (§9). The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. In one sentence
 
 Before every election every citizen has two buttons. **A — "I vote"**: the vote stays, and it weighs more because some people have left. **B — "I take the money"**: the citizen officially, voluntarily and reversibly exits the election for one cycle and receives a dividend from the state, automatically, by a formula that cannot be touched without a new referendum. After a cycle — the choice anew. That is all. The rest is consequences.

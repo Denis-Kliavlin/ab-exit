@@ -7,6 +7,8 @@
 
 ---
 
+*Note of 01.10.2026 after audit 040m. The blockchain and smart contract in §78 are one implementation option: the charter requires only open code. The "capitulation" of an AI model in a dialogue is not proof of the absence of errors (§77.7).*
+
 *Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
 
 ### 77.1. Why this section

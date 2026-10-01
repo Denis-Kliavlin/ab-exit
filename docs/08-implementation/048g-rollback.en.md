@@ -6,6 +6,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). "$1,000 or a x3 vote" is an example. The shares for rollback (7–12 %) and for retention (85–90 %) are unsourced estimates; the rows of the table in §4 add up to more than the total and need recalculating (040m, finding 9). The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Base estimate
 
 After launch, rolling back is harder than not adopting, but not impossible.

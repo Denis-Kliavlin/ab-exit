@@ -42,13 +42,13 @@ Two caveats. A mayor cannot introduce the protocol by decree: a local referendum
 
 ### 5. "Will activists who like the idea help me, or will people be against?"
 
-Both. Those to whom the protocol gives something will help: the burned, to whom it returns the meaning of a vote; the meek, to whom it gives an exit; those who want their vote to weigh more. Against, at the referendum — by the repository's estimate, 7–12 %: the machines and their core, principled opponents, those who lose status (048g §4; 08/045).
+Both. Those to whom the protocol gives something will help: the burned, to whom it returns the meaning of a vote; the meek, to whom it gives an exit; those who want their vote to weigh more. Against, at the referendum on introduction — by the repository's estimates, from 9 to 16 %: the machines and their core, principled opponents, those who lose status (08/045 §45.6; 001b). For repeal after the first cycle — 7–12 % (048g §4).
 
 Expect an attack not on the content but on you personally: a sum is hard to refute, a person is easy (056f §13g).
 
 ### 6. "And if I have no money — can I raise it? Will money be given for the protocol?"
 
-Unknown: there is no precedent. Three things can be said firmly. The payment to voters is made by the jurisdiction's budget under law, not by the candidate; you need money only for the campaign and the lawyers (048m, Article 2). The cheapest test is a pilot in a courtyard or village, of the order of 30–35 thousand euros (048l). And the donor's motive is named in 059e §1: to be the first to finance a rule that others will then adopt.
+Unknown: there is no precedent. Three things can be said firmly. The payment to voters is made by the jurisdiction's budget under law, not by the candidate; you need money only for the campaign and the lawyers (048m, Article 7 and the annex). The cheapest test is a pilot in a courtyard or village, of the order of 30–35 thousand euros (048l). And the donor's motive is named in 059e §1: to be the first to pay for the campaign for a rule that others will then adopt. A donor pays for signature collection, lawyers and explanation; he never pays the payments to voters.
 
 Raise and spend strictly under campaign-finance law, with a lawyer.
 
@@ -66,7 +66,7 @@ And one rule without exceptions: you promise not money for your victory but a re
 
 ### 9. "You said the protocol gives a chance of winning. Read it again — is that true?"
 
-True to the extent it is written down. Proved formally, under two assumptions named in the text itself: who takes the sum and how the weight of the rest changes (013f §3–4). Tested on data: nothing so far — there has been no pilot (048l). Everything else is estimates, and at the end of each chapter there is a section on the weak point saying which ones.
+True to the extent it is written down. What is written down formally is not "who will win" but "who stays to vote and who takes the payment": the one who values his vote above the payment stays (013f). It is a statement with sketched proofs and named assumptions; the full proofs are for an economist to write, and one of the assumptions says outright that where money is worth different amounts to poor and rich, selection runs partly by income too. Tested on data: nothing so far — there has been no pilot (048l). Everything else is estimates, and at the end of each chapter there is a section on the weak point saying which ones.
 
 A chance, not a guarantee.
 
@@ -79,7 +79,7 @@ The suspicion is correct. To this question the AI adviser replied with a calcula
 **How to count correctly.** A city: 100,000 voters; the mayor 25,000, the underdog 10,000, 60,000 do not vote. After the protocol is adopted the outcome is set by two numbers, both unknown in advance:
 
 - *a* — what share of the mayor's votes are not convinced but brought in: the dependent, the bussed, those voting for a trifle. They take the payment and leave (015c §7b; 011b).
-- *r* — how many non-voters come back and vote for the underdog.
+- *r* — how many non-voters come back and vote for the underdog. These are the burned: they return for the vote and do not take the payment. These are the burned: they return for the vote and do not take the payment.
 
 The underdog wins if 10,000 + *r* > 25,000 × (1 − *a*).
 
@@ -89,7 +89,7 @@ The underdog wins if 10,000 + *r* > 25,000 × (1 − *a*).
 | 40 % | 15,000 | more than 5,000 — one in twelve |
 | 60 % | 10,000 | it is enough to keep his own |
 
-For simplicity the calculation leaves out the other candidates and the fact that some of the underdog's own voters will take the payment too.
+For simplicity the calculation leaves out the other candidates (the remaining 5,000 votes) and the fact that some of the underdog's own voters will take the payment too.
 
 **What follows.** There is no magic: everything turns on the share brought in. That number can be estimated before any campaign, and the one who knows it best is precisely the political consultant — this is the question to take to him. And a second caveat the model missed: this arithmetic belongs to elections held after the protocol is adopted. At the coming election nobody is paid anything, and all the candidate has from the protocol is the question (answer 1).
 

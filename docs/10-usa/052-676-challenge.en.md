@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+
 ### 90.1. Purpose of the section
 
 This section records the operational plan of a viral launch campaign for AB-EXIT through a social-media challenge. The strategy is developed with regard to the current cultural trends of 2025–2026 and an empirical analysis of ten successful viral campaigns of the last 20 years.

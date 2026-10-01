@@ -38,7 +38,7 @@
 
 ### Глава 1. Введение и базовая формула
 
-1. [Основная формула D = M × 1.5%](01-introduction/001-formula.md)
+1. [Основная формула: процент от медианы](01-introduction/001-formula.md)
 - [1b. AB-EXIT в одной главе: сущность и вся важная логика](01-introduction/001b-essence.md)
 - [1c. Доска без хороших ходов: полсотни цугцвангов протокола](01-introduction/001c-board-without-good-moves.md)
 - [1d. Точные ответы: что протокол утверждает и чего не утверждает](01-introduction/001d-exact-answers.md)
@@ -135,6 +135,7 @@
 - [40j. Кант: народ дьяволов и цена акта](06-critique-arsenal/040j-kant.md)
 - [40k. Штраус и Хау: мир без термостата](06-critique-arsenal/040k-strauss-howe.md)
 - [40l. Фукуяма: последний человек, скука и цена жеста](06-critique-arsenal/040l-fukuyama.md)
+- [40m. Аудит холодного читателя: тридцать семь находок и пять вопросов без ответа](06-critique-arsenal/040m-cold-reader-audit.md)
 
 ## Часть II — Социальная архитектура
 
@@ -180,7 +181,7 @@
 - [48i. Три канала и параллельный подсчёт: деньги, открытый голос, тайный бюллетень](08-implementation/048i-three-channels-parallel-count.md)
 - [48j. Суды и подгонка по месту: чего протокол не описывает и почему](08-implementation/048j-courts-and-local-tuning.md)
 - [48k. Опись норм и одиннадцать расхождений: заготовка единого устава](08-implementation/048k-charter-inventory.md)
-- [48l. Дворовой пилот: живые деньги против взвешенного голоса](08-implementation/048l-courtyard-pilot.md)
+- [48l. Дворовой пилот: живые деньги и настоящее решение](08-implementation/048l-courtyard-pilot.md)
 - [48m. Устав AB-EXIT: текст, который можно принять](08-implementation/048m-charter.md)
 - [48n. Если вы андердог: десять вопросов кандидата](08-implementation/048n-underdog-questions.md)
 

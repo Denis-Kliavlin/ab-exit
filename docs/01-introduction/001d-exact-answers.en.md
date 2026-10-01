@@ -22,10 +22,10 @@ The repository was written over half a year and holds layers of different dates:
 
 **The money**
 
-6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2).
+6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
 7. The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).
 8. The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).
-9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m).
+9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones.
 10. The payment cannot be seized, set off, taxed or counted in awarding benefits (Art. 8).
 
 **The votes**
@@ -37,7 +37,7 @@ The repository was written over half a year and holds layers of different dates:
 
 **Introduction and amendment**
 
-15. The protocol is introduced only by a referendum in which all citizens take part, including those who take the payment. It is neither introduced nor altered by decree or by a decision of an elected body (Art. 14).
+15. The protocol is introduced and repealed only by a referendum in which all citizens take part, including those who take the payment. It is neither introduced nor altered by decree or by a decision of an elected body (Art. 14).
 16. Payment for turnout, for a vote, or for a vote of a particular content is prohibited by the protocol (Art. 1).
 
 **Verification**
@@ -47,8 +47,8 @@ The repository was written over half a year and holds layers of different dates:
 
 **What is known and what is not**
 
-19. Proved formally under two stated assumptions: the payment is taken by those to whom the outcome of the election matters less than its size (013f). There are no pilot data; a pilot is described but has not been run (048l).
-20. All numbers on shares, turnout and election outcomes in the repository are estimates and worked examples. The protocol promises nobody victory in an election (048n).
+19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).
+20. All numbers on exit shares, opponents, turnout and election outcomes in the repository are estimates and worked examples made at different times and at different sums; they differ between chapters. The protocol promises nobody victory in an election (048n).
 
 ## Frequent misreadings
 
@@ -63,6 +63,10 @@ The repository was written over half a year and holds layers of different dates:
 | "The underdog wins 66 % against 33 %" | a role-play in 059e | statement 20; the calculation is in 048n, question 10 |
 | "The 72-hour phenomenon" | a hypothesis about the first days of a campaign in 059e; the term is notional | neither a rule nor a forecast |
 | "This is vote-buying" | an outward resemblance | the payment is not for a vote but for forgoing one, not by a candidate but by the budget, not in secret but under law (029; 048m, Art. 1) |
+| "The vote is weighted in the count" | the words "weighted vote", "weight *w*" in 013f, 045, 048l | the weight is a reference number, ballots are not multiplied: statements 11 and 12 |
+| "The choice is reversible" | the word "reversible" in 001b and the Q&A | reversible at the next election; within one election it is not: statements 2 and 3 |
+| "Choice B is secret" | 004 §4.7, 001b §1 | statement 14 |
+| "A blockchain is required" | 07/033 §78 | the charter requires only open code (Art. 15) |
 | "One who took the money loses rights" | — | statements 2 and 5; he votes in referendums on the protocol itself (Art. 14) |
 
 ## Weak point

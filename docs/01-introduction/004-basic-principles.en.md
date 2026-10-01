@@ -7,6 +7,8 @@
 
 ---
 
+*An early-draft layer (note of 01.10.2026 after audit 040m). In §4.7 the "strict confidentiality" of the choice and the reference to "Article XIV" are the earlier wording: Article 9 of the charter is in force. In §4.8 the efficiency bonus and payment "one day before the election" have been removed: the payment arrives at once after the choice. The "rating" scale in §4.3 is to be read by change, not by level: the level depends on the approved percentage (§4.3b). In §4.9 the covering of the early premium by the late discount has not been calculated and is left to financiers. The closing of the window is a parameter, five days by default. The exact-answers sheet 1d and the charter 048m are in force.*
+
 > **On the numbers in this section.** All amounts are in generic units for an economy with
 > a median wage of roughly 40,000 units/year: a dividend of about 600 units per cycle.
 > Substitute your own economy's median — the proportions hold.
