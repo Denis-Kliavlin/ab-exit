@@ -935,6 +935,8 @@ And a fourth row the first version lacked — **private channels and reposts**; 
 
 **Third, and this is the main omission: permitted Telegram channels are the only bridge.** They are inside the country, unlabelled, reachable without a VPN, and they compete with each other for the same audience. An anti-elite money topic pays them immediately, and individually they have no strategic consequences to weigh — the very mechanism the architect described in §9 ("there are many of them and they need an audience"). The idea's route to a mass reader runs **through them rather than through opposition platforms**.
 
+**Correction of 01.10.2026 to the second and third (§13l).** Both were written on the model of Smart Voting, and the model does not fit: there the label hit the content — the instrument was for the opposition's candidates. The content of the money question is the voter's own money, and a label does not stick to it; the Bonya case showed that an attack on the person does not refute the sum and produces a second wave (§13g). The architect: "the protocol does not care who raises it". So "not free" and "the only bridge" are to be read as a judgement about speed, not about admission: a labelled source may hold back the pick-up, it cannot close the entry, and any channel may raise the question.
+
 ### A fourth platform, larger than the previous three
 
 The architect adds what the table lacked entirely: "and there are many ordinary private channels, and sometimes Russians post, not knowing better, what they take to be permitted by the authorities."
