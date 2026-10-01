@@ -1546,7 +1546,9 @@ The opposition's whole repertoire is tactics with a date: smart voting, "Noon", 
 - **An entrance from any side.** For the left — a dividend to the poor; for the liberal — a filter against populism; for the patriot — an honest number for the top (§13g); for the public-sector employee — an alibi (§13j); for business — the thermostat. One idea, five doors, and none requires changing camp first.
 - **An answer to "and what do you propose?"** — the question on which the opposition has been losing to the core electorate for twenty years.
 
-**Weak point.** An idea that needs no leader gives leaders no reason to carry it: a media politician lives by a personal audience, and §13i assigns him a role without a face. Only their own advantage can unite them — hype brings views, and by the window (§13j) each needs a ready answer to "what comes after". Outwardly a faceless question, inwardly a common answer.
+**There is no name in the protocol — and that is a race, not an obstacle.** The first version named as the weak point: an idea without a leader gives leaders no reason to carry it. The architect: "they will find where to write their name in; but not to hitch oneself to such a rocket is to make a present of it to a competitor; nobody is going to ask their will here". Correct: the idea travels in the core electorate without them (§13i), and each has only the choice "with it" or "past it". The name writes itself in — "I said it first", "my calculation of the sum", "my bill" — and the protocol does not change for it: the right, not the methods.
+
+**Weak point.** The race for the name may split the idea itself into versions — "my dividend" against "yours", with different sums and conditions. The protection is one text of the rule on one page (048k §4) against which any version is checked; until it exists, versions multiply freely.
 
 ## 14. Weak point of the chapter
 
