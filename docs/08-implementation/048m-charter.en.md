@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.1 · 1 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.2 · 1 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -13,6 +13,10 @@ Text in square brackets is a **parameter**: the jurisdiction fills it in through
 ---
 
 ## THE CHARTER
+
+### Terms
+
+**Jurisdiction** — a state, region or municipality that has adopted the charter. **Cycle** — the term between regular elections of the given level of government. **Register** — the list of all who hold the right to vote in the given election; **record** — the register's line on one citizen. **Window** — the period within which choice A or B is made. **Payment** — the sum D under Article 2. **Treasury** — the body that makes the payment and keeps its accounts. **Precinct** — the smallest unit for which data are published.
 
 ### Preamble
 
@@ -156,6 +160,13 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 
 *Source: 045 §45.6–45.7, 004 §4.7b, 048l, 057c §6.*
 
+### Article 16. The citizen's rights under the charter
+
+1. A citizen has the right: (a) to vote; (b) to take the payment instead of voting; (c) to choose nothing and keep the vote; (d) to receive the late payment under Article 6; (e) to check whether a ballot has been cast or a payment taken under his record; (f) to receive a conditional ballot under Article 11; (g) to go to court under Article 12; (h) to take part in any referendum on the charter whatever choice he has made.
+2. The charter imposes no duties on the citizen. The payment is neither a gift nor a benefit and creates no obligations of the recipient towards the jurisdiction or its bodies.
+
+*Source: Articles 5, 6, 11, 12, 14; 056f §13j.*
+
 ---
 
 ## Annex. Country settings
@@ -180,10 +191,27 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 - **The seat formula** — "we do not change the voting system before adoption".
 - **The household coefficient 1.5** — dissolved in the percentage: the earlier form D = M × 1.5 × K is a particular case of D = p × M.
 
+## A package of three documents, and a comparison with a party charter
+
+At the architect's suggestion the charter (11 pages) and the manifesto (2 pages) of the party Peaceful Russia, adopted by its founding congress in Berlin on 12–13 June 2026, were read for analogy. It is the charter of an organisation, not of a rule, so as a legal model it fits poorly; three things are taken from it: the block of terms, the article on rights (their longest section; ours is Article 16 with the line on the absence of duties) and the packaging itself in three documents of different weight. The protocol already has this triple: the ballot line (Article 15) — the short manifesto (033b) — the charter.
+
+The contrast is more useful.
+
+| | The party charter | This charter |
+|---|---|---|
+| What it regulates | an organisation: membership, congress, council, bureau | a rule |
+| The aim on elections | elections free and controlled by society — without a mechanism | the mechanism of control: the counter and reconciliation of two records (Articles 9, 10) |
+| Who sets procedure | in most cases the central council | none of the elected (Article 14) |
+| General vote | consultative; the council sets the questions and procedure | the referendum is obligatory and decides by itself |
+| Control | audit and arbitration work by a procedure the council writes | the court under Article 12; the procedure is in the charter itself |
+| Amendment | two-thirds of congress delegates | all citizens, no more than once per cycle |
+
+The party's manifesto is three values and a mission: a state where "the power serves the people and changes regularly by their will". That is a "for" without a mechanism (056f §13k), and for the protocol not a competitor but a ready place: the aim on controlled elections is empty exactly where the protocol fits, and the party's declared line of work — political education — coincides with the role in 056f §13i.
+
 ## Weak point
 
 The text is assembled from norms written as arguments, and a country's lawyer will rewrite every article for his own legal system; the draft tests completeness, not wording. The seven rows of the annex are blank spaces the first critic will name, and the thresholds of Articles 10 and 11 have nowhere to come from before the pilot. Article 1 forbids replacing the core with a parameter, but it cannot itself settle a dispute over what the core is: the court under Article 12 will, and the court is the last to benefit from the protocol (048j §3). 🟡
 
 ---
 
-**Related:** 048k (inventory, decisions, sanctions ladder) · 006b §5 (roadmap) · 049 (charter for a municipality) · 048f (double entry) · 048g (rollback) · 048h (secrecy and coercion) · 048i (three channels) · 048j (courts) · 048l (the pilot) · 037 (protection of the dividend) · 042 (five parameters) · 056f §13k (core and parameters)
+**Related:** 048k (inventory, decisions, sanctions ladder) · 006b §5 (roadmap) · 049 (charter for a municipality) · 048f (double entry) · 048g (rollback) · 048h (secrecy and coercion) · 048i (three channels) · 048j (courts) · 048l (the pilot) · 037 (protection of the dividend) · 042 (five parameters) · 056f §13k (core and parameters) · 033b (the short manifesto)
