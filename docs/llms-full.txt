@@ -379,6 +379,23 @@ The objection came from a clean chat with another AI (Grok, 02.10.2026; analysis
 | What the one who does not take it gets | nothing, only the bill | a larger share for his vote in the decision |
 | To whom it is addressed | in Hamburg — to two thousand participants in an experiment | to every voter |
 
+**Two arguments from the architect, 02.10.2026.** "There are no people there who are for the vote, and they come on top as a percentage. And that is income for everyone, every year, and large as a percentage of income, not once in four years."
+
+*The second group in favour.* For an unconditional income only the one who wants money votes yes; the one who pays is given nothing but the bill, and votes no. Under the protocol the one who does not take the payment gets a larger share for his vote: "yes" has two motives and two groups, and the second is the very people who in Switzerland and Oregon were against. None of the four cases had this.
+
+*The size.* Brought to one four-year cycle per person:
+
+| | Over four years |
+|---|---|
+| Switzerland, 2,500 francs a month | about 120,000 francs |
+| Yang, 1,000 dollars a month | 48,000 dollars |
+| Oregon, about 1,600 dollars a year | about 6,400 dollars |
+| The protocol, the repository's worked examples | from 700–800 dollars to a month's earnings |
+
+The difference runs from eight times to over a hundred.
+
+*The assistant's caveat.* It does not follow from the difference in size that opponents are fewer by the same factor: nobody knows how the share "against" depends on the sum. And the protocol has an opponent the unconditional income did not have — the one for whom the vote is sacred and payment for not taking part looks like bribery; the repository estimates him at 9–16 %, and that too is an estimate (08/045 §45.6).
+
 **What points the other way.** In Alaska in 1999, in an advisory vote, 83 % refused to hand the earnings of the fund that pays the dividend over to the budget. Money that already arrives people defend; a promise of money three steps away they do not believe. That is the real content of the objection: the weak point is not the payment but the length of the chain "elect me — then a referendum — then the next election".
 
 **What follows for a candidate.** Support for the rule at a referendum and votes for the one who champions it do not coincide: initiatives often pass where the candidates who back them lose. So the ten steps above lead to a referendum, not to the office, and the repository contains not a single number on support for a candidate. Numbers such as "5–15 %" from one AI and "25–40 %" from another are equally unsupported.
