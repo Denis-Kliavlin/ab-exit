@@ -1513,6 +1513,16 @@ The architect, 01.10.2026: "the contract between the people and the power — 'y
 
 **Weak point.** The power can perform the contract its own way — a one-off payment before the election and the words "we pay". The answer is §13e and §13h: a one-off payment is the power's price at the power's time; the question insists on a rule, and after the first one-off payment it sounds louder, because the sum has already been acknowledged.
 
+**Not a victory but an undermining.** The architect: "talk among the people has already started — and is there much talk among the people about smart voting, and did the power ever publicly take notice of it? This is not a victory over the power but one more way to undermine it; perhaps it will be decisive, perhaps something more is needed". To smart voting the power replied in 2021 with repression and in silence — removed the app, blocked the site; in the core electorate it was not discussed at all. Bonya was answered in words and within a day (§13f). Repression answers a threat inside the count; words answer a question from one's own.
+
+What more is needed. The question creates demand; what makes the undermining decisive is the supply side, and of its three parts none is ready:
+
+1. **A live precedent** — the pilot (048l), preferably outside Russia: before it the sum is a word, after it a fact any blogger will cite.
+2. **The text of the rule on one page** — the charter (048k §4): once the talk has started, people need something to point at.
+3. **A window** — the moment when contenders compete for the core electorate. The question does not open the window; it ensures that in the window the first contender picks up a ready demand, because it is already popular and already costed. An autocrat pays willingly (029.4b) — the question sets what for.
+
+The question is not a lever but a charge that lies there and grows dearer; it will go off from someone else's spark.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
