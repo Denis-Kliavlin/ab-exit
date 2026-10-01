@@ -1438,6 +1438,22 @@ What follows for the spread.
 
 **Weak point.** The split over Bonya rested on her questions costing the Kremlin nothing: supporting her was free even for Kolyasnikov. The money question costs 2.2–2.8 trillion, and some of the supporters will step back when they grasp the price; how many, only the first carrier will show.
 
+## 13h. The populist's weapon, but smarter: an arsenal of comparisons for the people
+
+The architect, 01.10.2026: "here one can fight the populists with their own weapon, but smarter: a deputy is paid 150,000 roubles a month for lunches, and I cannot be given 30,000 once in four years — and similar beautiful but not quite honest comparisons for the people".
+
+**The rule.** All the figures are honest; only the juxtaposition is not: a month against four years, a lunch against the dividend. That is the "smarter": the populist's figures lie, ours lie only in scale, and checking every figure works for us. The second difference: the populist promises out of a budget he will distribute himself; the protocol's question asks not for a handout but for a rule (048k §3, "the right, not the methods"). All the comparisons have one form: the vote is already paid for, only not to the one who votes (029.4b).
+
+| Comparison | Figures (2025–2026) |
+|---|---|
+| "A deputy gets my four-year dividend in one working day" | a State Duma deputy's pay ~520,000 roubles a month ≈ 23,600 per working day; the dividend of 30,000 once in four years = 625 a month |
+| "For my vote the parties are paid, I am not" | 152 roubles per vote a year = 608 per cycle; United Russia in 2025 — 4.3 billion of state support (§13c) |
+| "Counting my vote costs 212 roubles, the vote itself — zero" | 23.28 billion roubles for the 2026 Duma election / ~110 million voters |
+| "625 roubles a month — and on this 'work is under way'" | Peskov's reply to Bonya's address (§13f) |
+| "The money exists: the dividend is two months of the line 'defence and security'" | 16.8 trillion a year = 1.4 trillion a month; the dividend 2.2–2.8 trillion (§13d) |
+
+The last row follows the rule of §13g: "the money exists", not "instead of the war". The word is "dividend" (033c §9d); the addressee is the middle and the party till, not the top (§13g). The arsenal is replenished by country: each has its own deputy, its own party payment and its own bill for the count.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
