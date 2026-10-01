@@ -1414,6 +1414,8 @@ Facts. On 14.04.2026 the blogger Viktoria Bonya (Monaco, 16 years outside Russia
 
 **What we would have got.** An address about payment for the vote can be called neither opposition (she herself: "I am not with you") nor foreign-agent; one video sows the millions of questions of §13e — a carrier of 041 at zero cost.
 
+**"And this is only one blogger of thousands"** (the architect). This changes not the scale but the risk. One carrier is bought with attention or switched off; a thousand are not. Bonya had five topics; a thousand bloggers have a thousand topics, each closed with words. With the protocol the thousand have one question with one word (033c §9d): the answers add up to one count, and "work is under way" cannot be said a thousand times. No coordination is needed — the blogger has an incentive of his own: 20 million views are money, the question about the 30,000 is monetisable content. The large group gets a focal question without organisation (015c §7b).
+
 **Weak point — the carrier.** She gave thanks in tears for having been watched: a carrier satisfied by attention is bought with attention. The protocol needs from the carrier not loyalty but the question, and the question outlives the carrier: it cannot be "watched and closed". The second risk is from §13e: a one-off payment "following the address" and "we have paid".
 
 ## 14. Weak point of the chapter
