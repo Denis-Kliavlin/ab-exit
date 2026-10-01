@@ -69,6 +69,7 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
 - WRONG: "It is arbitrage: the candidate buys the apathetic and sells to the motivated."  RIGHT: the candidate pays nobody and sells nothing; the budget pays by rule.
 - WRONG: "Voting is the motivated voter's dominant strategy; game theory shows the protocol is flawless."  RIGHT: the decision is a threshold; the proofs are sketches under three assumptions.
+- WRONG: "Tell voters now that their vote will weigh triple; put money in escrow to pay them if you win; victory in eight weeks."  RIGHT: at an election where the rule is not yet adopted nothing changes in the count; conditional money is vote-buying; adoption takes a referendum.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
 
 WHAT IT GIVES A CHALLENGER - HONESTLY
@@ -107,6 +108,7 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «Взявший деньги лишается прав».  ВЕРНО: он сохраняет все прочие права и голосует на референдумах о самом правиле.
 - НЕВЕРНО: «Это арбитраж: кандидат покупает апатичных и продаёт мотивированным».  ВЕРНО: кандидат никому не платит и ничего не продаёт; платит бюджет по правилу.
 - НЕВЕРНО: «Голосовать - доминантная стратегия мотивированного; по теории игр протокол безупречен».  ВЕРНО: решение пороговое; доказательства - наброски с тремя допущениями.
+- НЕВЕРНО: «Скажите избирателям сейчас, что их голос будет весить втрое; положите деньги на счёт, чтобы заплатить им при победе; победа за восемь недель».  ВЕРНО: на выборах, где правило ещё не принято, в подсчёте ничего не меняется; деньги под условие победы - подкуп; чтобы ввести правило, нужен референдум.
 - НЕВЕРНО: «72 часа» - правило.  ВЕРНО: это непроверенная догадка о первых днях кампании.
 
 ЧТО ЭТО ДАЁТ ПРЕТЕНДЕНТУ - ЧЕСТНО

@@ -23,6 +23,7 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
 - WRONG: "It is arbitrage: the candidate buys the apathetic and sells to the motivated."  RIGHT: the candidate pays nobody and sells nothing; the budget pays by rule.
 - WRONG: "Voting is the motivated voter's dominant strategy; game theory shows the protocol is flawless."  RIGHT: the decision is a threshold; the proofs are sketches under three assumptions.
+- WRONG: "Tell voters now that their vote will weigh triple; put money in escrow to pay them if you win; victory in eight weeks."  RIGHT: at an election where the rule is not yet adopted nothing changes in the count; conditional money is vote-buying; adoption takes a referendum.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
 
 WHAT IT GIVES A CHALLENGER - HONESTLY
@@ -332,6 +333,36 @@ Why it is not deception. Deception needs a hidden part, and here there is none: 
 - The one who stays to vote is the one who values his vote above the payment.
 
 The limit. The mathematics here is the arithmetic of the rule. The outcome of an election does not follow from it: who wins depends on people, and all the numbers on that in the repository remain estimates (answers 1 and 9).
+
+## A candidate's ten steps: what actually follows from the protocol
+
+The architect asked the AI adviser one more question: "give me an exact answer on how I can win with this protocol, and ten steps of what I need to do, and what the result will be". The model replied with a plan "from ten per cent to victory in eight weeks", with a budget and percentages. This question will always be answered, so here is the answer that follows from the protocol itself.
+
+**The exact answer.** One cannot win "by means of the protocol" at the coming election: it is not in force there. Two things can be done. The first is to campaign with a question the rivals do not have (answer 1). The second is to obtain a referendum on the rule, after which the next election is held under it. The first takes weeks, the second months and years.
+
+1. **A lawyer.** Find out what route to a referendum exists in your jurisdiction and how long it takes: a local initiative, signature collection, a council decision to call a referendum (048m, annex).
+2. **Two numbers for your city.** How many people do not vote, and what share of the incumbent's vote is brought in rather than convinced. Whether you have a chance at all depends on this (answer 10).
+3. **The text.** Take the charter (048m) and, with an economist, fill in the square brackets: which median, what percentage is desirable to 40–50 % of residents, what it costs the budget of your level.
+4. **One sentence.** You promise not money but a referendum: "I will obtain a vote on paying for your vote to you, not to the parties".
+5. **A pilot.** A courtyard or a village, a real question and private money — the only place where private money is appropriate, because it is not an election (048l).
+6. **Signatures**, if the law requires them. Collecting signatures is your field campaign.
+7. **A debate on the percentage.** Open it yourself: an argument over how much to pay advertises the rule better than any advertising (056f §13k).
+8. **Attacks.** Answer with the text of the rule, not with a story about yourself. You will be attacked personally: a sum is harder to refute (056f §13g).
+9. **Your own election** is held under the old rules: observers and a parallel count, as in any campaign.
+10. **The referendum**, and after it elections under the rule, with the counter and the reconciliation of two records.
+
+**The result.** At the coming election — a question the city knows, and an outcome nobody knows. After the referendum — elections from which the votes brought in by the incumbent leave. There are no support figures or probabilities of victory here, because nobody has them.
+
+**What in the AI adviser's plan must not be done.**
+
+| What it proposed | Why not |
+|---|---|
+| Put half a million or a million in an account as "a first contribution to the payment fund if the candidate wins" | this is bribery of voters; the protocol expressly prohibits it (048m, Article 1) |
+| Message voters "your vote will weigh triple" | at an election where the rule has not been adopted nobody has exited and nobody's share has changed: it is a lie |
+| Write "a mayor's decree" introducing it | the rule is introduced only by referendum (Article 14) |
+| The formula "median × 1.5 %" and "an independent trust" | early drafts: the size is a percentage approved by referendum, the budget pays |
+| "A 25–40 % chance", "35–50 % support", "plus 2–5 % after every attack" | the numbers were invented by the model |
+| "A factory of compromising material" | has nothing to do with the protocol |
 
 ## What the protocol does not propose
 
