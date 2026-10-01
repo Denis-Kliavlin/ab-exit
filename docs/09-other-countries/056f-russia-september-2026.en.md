@@ -1576,7 +1576,7 @@ The architect's question of 01.10.2026: "find on the site what they plan to do o
 
 - **"What comes after".** They themselves write that the transition is not guaranteed and the electoral system is destroyed; the manifesto has one line on it, about honest and transparent rules. The protocol is the content of that line.
 - **A message for the majority.** Their programme requires the listener first to agree about the war; the protocol does not. Without the core electorate the window will open for someone else.
-- **A safe task for the network.** A network without a task is a list of names. "Ask in your own bubble where my 30,000 are" is an assignment that is lawful and does not expose the participant.
+- **A safe task for the network.** A network without a task is a list of names. "Ask in your own bubble where my 30,000 are" is an assignment that is lawful and safe, but not because the participant is unseen. The architect's correction: "it does expose the participant, but he may just as well be for the power, and if asked he will confirm exactly that". The protection lies not in secrecy but in indistinguishability: the same question is asked by the power's supporter, its opponent and the indifferent alike, so no list of friends and foes can be drawn from it.
 
 **Where it will not fit.** Their identity is values, and payment for exit will look to them like bribery (029). For the protocol they are dangerous as a face: a centre abroad is an address, and the label will stick to the question (§13g, §13i). They need the protocol more than it needs them: fit as a customer for "what comes after", as lawyers and educators; unfit as a carrier.
 
