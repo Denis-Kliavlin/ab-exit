@@ -168,6 +168,33 @@ And the man in the queue meanwhile has nothing to prove and nobody to answer to 
 
 **Weak point.** That neighbourly shame would stop a double recipient is an assumption about motive and has not been tested: there is no case, no measurement, and Russian survey data are inadmissible here (23b.3). The denunciation objection is a risk assessment rather than an observation: the assistant neither sought nor found an example of a protocol whose enforcement through mutual observation degenerated into surveillance. And the arithmetic defence works only if somebody performs the reconciliation and something follows from its result; September 2026 showed that the second does not follow from the first (056f.1). 🟡
 
+## 4d. Double entry in nature and engineering: control by comparison, not by supervision
+
+The architect's question of 01.10.2026: "compare the duality of AB-EXIT's double entry with natural phenomena and other spheres — double entry in bookkeeping, DNA, two-sex reproduction; this is the ideal structure for control at a reasonable cost of control."
+
+All these systems share one principle. Supervision is expensive, because it needs a third party — an inspector, an observer, an auditor — who in turn must be checked. Comparison costs almost nothing: two records of one event held by two different owners, and an error in either shows up by itself as a mismatch, without an inspector.
+
+| System | Two records | How they differ | How an error is found | Cost of control |
+|---|---|---|---|---|
+| Double-entry bookkeeping (Pacioli, 1494) | debit and credit | one operation in two accounts | the balance does not add up | arithmetic, no auditor |
+| DNA | two strands of the helix | complementary, not copies: A against T, G against C | damage to one strand is repaired from the other; enzymes look for mismatched pairs | a comparing enzyme, not a third strand |
+| Two-sex reproduction | two parents | two different genomes for every gene | a harmful mutation in one is covered by the other's copy; the harmful is cleaned out on recombination | "the twofold cost of sex" — and nature pays it |
+| Bank and client | the statement and one's own book | two owners with opposite interests | reconciliation | reconciliation instead of audit |
+| Nuclear launch, a large payment | two keys, two signatures | two people, not one twice | one cannot | a second person |
+| Aviation | two pilots, two computers of different types | different, so as not to err alike | divergent readings | a second unit |
+| Sight, hearing | two eyes, two ears | offset | depth is born of the difference | a second organ |
+| **The protocol** | the treasury: who took the sum; the ballot box: who voted | **different currencies with different owners** | a ballot for someone who took the sum is a double spend; the turnout ceiling = the roll minus those who exited | reconciliation of two registers instead of observers |
+
+**The protocol's main difference — the record lies with millions of owners.** The architect's correction: "the money is not only with the bank as a report and data for control, but also in the person's wallet — and there he is already the controller." For the bank the record is a report, for the commission a protocol, but the person has the money in his wallet and knows himself whether he received it. Everyone has his own line and a personal interest in defending it: "I was paid" or "I was not paid, yet there is a ballot for me in the box". The one who chose nothing is the controller for exactly this reason: his line waits for him all cycle (048k §3). Nature has the same construction: the full genome lies in every cell, not in one store; one copy can be corrupted, all of them cannot.
+
+Three consequences.
+
+**A copy is not a second record** (§4). The strands of DNA are complementary, not identical; the parents' genomes differ; the interests of bank and client are opposed. Two identical copies with one owner catch no error — he corrupts both. The second record must be in another currency and with another owner; remote e-voting with a single operator is a single strand (056f §13d).
+
+**Double entry catches the error; a third record locates it.** A parity bit finds an error; triple redundancy in avionics also locates it by a two-against-one vote. The treasury against the ballot box says "it does not add up"; the tokens of the open channel say at which precinct (048i). Nature never grew a third strand because it is expensive; the protocol's third record is cheap because the citizens themselves hold it.
+
+**The cost of sex.** Reproduction by two parents is twice as expensive as asexual reproduction, and nature pays, because without the comparison of two genomes errors accumulate to extinction. This is the answer to "the protocol is expensive": it is expensive the way sex is, and it pays for itself the same way — instead of an industry of supervision, which is itself bribable, there remains a reconciliation that cannot be bribed.
+
 ## 5. The hack is not through the formula but before and after it
 
 The base dividend D = M × 1.5 × K cannot be hacked: not one variable is controlled by the city (the median comes from the federal database, inflation from an independent bureau, the coefficients are hard-wired in the statute and change only by referendum); any student can multiply three numbers and get the amount to the cent (048b: the four-agency rule, the 10 % rule). The attack zone is the efficiency bonus B = max(0, Plan − Actual) × 30 % / N: (a) an attack on the estimate — an inflated contract to a relative eats the saving before the figure reaches the formula; (b) dead souls in N — an inflated denominator dilutes everyone's payment, the difference accumulates in front accounts. The defence is not software but social: a dashboard to the standard of corporate reporting plus those very "14,000 free auditors" — accountants, engineers, entrepreneurs with an amplified vote who personally lose money from their bonus. The corrupt official must deceive not an algorithm but a crowd of the city's professional investors.
