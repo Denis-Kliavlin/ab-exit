@@ -1434,7 +1434,9 @@ What follows for the spread.
 4. **The bots are a counter.** The doubling of the comment norm is a measurable sign of a hit and a free metric of spread.
 5. **"Interests people more than the war"** — a demand signal from the war audience: a domestic money question outranks the war. The dividend of 5–7 % (§13d) is to be presented not as "instead of the war" but as "the money exists".
 
-**Weak point.** The Z-bloggers supported her because her complaints matched their anti-bureaucratic line; the vote is the top's sacred thing, and Podolyaka's "rocking" will be heard more often. The answer lies in the frame: "you take the vote anyway — pay for it" does not say the elections are fake; it says the vote is worth something.
+**The architect's correction to the first version of this section.** I wrote "the vote is the top's sacred thing, and 'rocking' will be heard more often". The architect: "no: the people's bloggers, the ones not bought, will at once raise that the parties are paid and the people get no money — what has the sanctity of the vote to do with it when there is nothing to eat". Correct: "the sanctity of the vote" is the vocabulary of the count, and the protocol's question does not belong to the count. A people's blogger will not say "the elections are fake"; he will say: "152 roubles for every vote are paid to the parties by law (§13c), and to the people — nothing". It is the same anti-bureaucratic line of the Z-milieu, only the addressee is not the governor but the party till, and "rocking" cannot close it: the figure comes from the law on parties, not from opposition media.
+
+**Weak point.** The split over Bonya rested on her questions costing the Kremlin nothing: supporting her was free even for Kolyasnikov. The money question costs 2.2–2.8 trillion, and some of the supporters will step back when they grasp the price; how many, only the first carrier will show.
 
 ## 14. Weak point of the chapter
 
