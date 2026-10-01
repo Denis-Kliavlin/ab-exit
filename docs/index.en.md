@@ -229,3 +229,4 @@ United States is one country case among others, not the frame of the document.*
 
 - [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
 - [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)
+- [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)

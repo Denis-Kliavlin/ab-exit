@@ -177,6 +177,7 @@
 - [48j. Суды и подгонка по месту: чего протокол не описывает и почему](08-implementation/048j-courts-and-local-tuning.md)
 - [48k. Опись норм и одиннадцать расхождений: заготовка единого устава](08-implementation/048k-charter-inventory.md)
 - [48l. Дворовой пилот: живые деньги против взвешенного голоса](08-implementation/048l-courtyard-pilot.md)
+- [48m. Устав AB-EXIT: текст, который можно принять](08-implementation/048m-charter.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 

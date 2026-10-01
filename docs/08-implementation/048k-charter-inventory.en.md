@@ -68,6 +68,8 @@ From the principle "we do not change the voting system" follows the answer to th
 
 Fourteen articles, each from existing norms, with the source number: the formula and the source; the percentage and its setting by debate and referendum; the window, immediate payment, the premium for the early; two buttons, the finality of exit and the cancelled vote; the person who chose nothing as the controller and the late payment until the next election; protection of the dividend; the counter; the status of exit and precinct figures; the budget identity and three channels; courts; coercion and vote-buying; two levels of decision and change no more than once per cycle; rollback locks; the ballot line and transitional provisions for a pilot. As a separate line — the principle "the right to a payment, not the methods". The target length is nine pages (006b §3, the Nakamoto row). Country settings — the median, the source of the money, the number of payments, the legal route — go in a separate annex at the end.
 
+*The text on this skeleton was written on 01.10.2026 — chapter 48m.*
+
 ## 4b. The article "Sanctions" — a draft ladder after Ostrom
 
 Ostrom's principle: violators are punished in steps — mildly the first time, harder on repetition, out for a system — and by the users themselves or by those accountable to them. The norms exist in the repository, each in its own section; here they are set in order. Nothing new is introduced.
