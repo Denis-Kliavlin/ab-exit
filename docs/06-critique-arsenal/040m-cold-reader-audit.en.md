@@ -50,6 +50,7 @@ These are the auditor's questions, given close to his words. They are not for th
 2. **The size.** Which percentage is meant? The site sets side by side four working days, one and a half per cent of the annual median, two-thirds of a month's earnings and a month's earnings; what does each cost as a share of the budget of the level that pays?
 3. **Several levels.** If each level of government pays at its own elections, how many payments a year does a citizen receive, and does "share of the budget" refer to the cycle or the year?
 4. **Who remains.** If the poor take the payment more often because money is worth more to them, in what measurable way does the remaining electorate differ from one selected by income, and what pilot result would make the claim of selection by stake be abandoned?
+6. **The rule and the candidate.** How does support for the rule at a referendum turn into votes for the candidate who champions it? The repository gives an estimate of the first and no estimate at all of the second (the clean Grok's question, §5c).
 5. **The home page.** The claims "0 structural contradictions" and "tested by six AIs" stand beside an inventory of eleven discrepancies and a chapter in which an AI adviser invented a rule. Should they stay as they are?
 
 ## 5. What the site does well
@@ -69,6 +70,18 @@ The architect: "we must make simple models see the protocol correctly". A simple
 The main lesson: a simple model opens exactly the pages it was linked to and goes no further. So the first pages themselves must be exact, and the all-in-one file is a reserve for those who go further. Asked about game theory in the second attempt, the model said neither "dominant strategy" nor "arbitrage" nor "flawless".
 
 The package is built by `scripts/build_llms.py` from three pages: 1d, 048m and 048n; after editing any of them the script must be run again.
+
+## 5c. A clean Grok, 02.10.2026
+
+The architect put the same underdog question in a new Grok chat, asking it to work without history. This is the first model of another family to read the site after the corrections.
+
+**What it read correctly — everything.** Only a referendum introduces the rule; the budget pays, not the candidate; the payment is a percentage of the median, D = p × M, and "$780" and "1.5 %" are called worked examples; there is no multiplier — "the share of every remaining vote grows equally for all candidates"; the underdog arithmetic is given with both caveats; promising "a triple vote" before adoption is called a lie, and money conditional on victory is called bribery. None of the first AI adviser's errors.
+
+**What it objected.** Wanting to take the payment and voting for the candidate are different numbers; against — four failures of live money at the ballot. The objection is correct in substance and has been entered in 048n with an analysis.
+
+**Where it went beyond the sources.** "5–15 % of those who turn out" and "a few per cent of the city" are its own estimates, presented as a practical range. The candidate's ceiling of ten per cent is taken as fixed, though it was measured before the candidate had this theme. The four examples are an unconditional income financed by a new tax, that is, a different design.
+
+**What this means for preparing the data.** The first adviser got the rules wrong and promised victory; this one restated the rules exactly and denied victory. The difference between them lies in what each read, not in the quality of the models: the first answered from old chapters, the second from the exact-answers sheet and the chapter for a candidate.
 
 ## 6. Weak point
 

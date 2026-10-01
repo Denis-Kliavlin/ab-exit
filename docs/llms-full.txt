@@ -364,6 +364,27 @@ The architect asked the AI adviser one more question: "give me an exact answer o
 | "A 25–40 % chance", "35–50 % support", "plus 2–5 % after every attack" | the numbers were invented by the model |
 | "A factory of compromising material" | has nothing to do with the protocol |
 
+## Wanting the payment and voting for the candidate are different numbers
+
+The objection came from a clean chat with another AI (Grok, 02.10.2026; analysis in 040m §5c). The candidate asked: "I propose a payment to all residents, and this is my main idea; how many will support me?" The answer: wanting to take the money and voting for you are different numbers, and the repository does not count the second. This is correct, and it should be known before a campaign begins.
+
+**What was cited against.** Four cases in which live money lost at the ballot: Switzerland in 2016 — 23.1 % for an unconditional income; Oregon in 2024, Measure 118, a payment to everyone from a new tax on companies — 22.5 % for; Hamburg in October 2025, a basic-income experiment — 37.3 % for; Andrew Yang with a thousand dollars a month dropped out of the primaries.
+
+**How these cases differ from the protocol.**
+
+| | The four cases | The protocol |
+|---|---|---|
+| What is offered | a large regular payment to everyone | a small payment once per cycle to one who does not vote in that election |
+| Who pays | a new tax or the whole economy; people voted against the price | the budget, in the amount of a percentage the voters themselves approve |
+| What the one who does not take it gets | nothing, only the bill | a larger share for his vote in the decision |
+| To whom it is addressed | in Hamburg — to two thousand participants in an experiment | to every voter |
+
+**What points the other way.** In Alaska in 1999, in an advisory vote, 83 % refused to hand the earnings of the fund that pays the dividend over to the budget. Money that already arrives people defend; a promise of money three steps away they do not believe. That is the real content of the objection: the weak point is not the payment but the length of the chain "elect me — then a referendum — then the next election".
+
+**What follows for a candidate.** Support for the rule at a referendum and votes for the one who champions it do not coincide: initiatives often pass where the candidates who back them lose. So the ten steps above lead to a referendum, not to the office, and the repository contains not a single number on support for a candidate. Numbers such as "5–15 %" from one AI and "25–40 %" from another are equally unsupported.
+
+**What nobody knows.** How many people will refuse the payment for the sake of the vote. That is the one thing the pilot measures (048l), and until it is run the dispute over "whether people want money or greater weight" is not settled by argument.
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.
