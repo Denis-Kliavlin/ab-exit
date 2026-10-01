@@ -17,6 +17,7 @@ Before every election, every citizen gets two buttons:
 
 The living text of the protocol is the documentation site **[docs.ab-exit.com](https://docs.ab-exit.com/)** (source: the `docs/` folder). Start with:
 
+- [Everything in force, in one file](https://docs.ab-exit.com/llms-full.txt) — for AI readers and for anyone who wants the rules without the history
 - [Exact answers — what the protocol asserts and what it does not](https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/)
 - [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/)
 - [If you are an underdog — a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/)

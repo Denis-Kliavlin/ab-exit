@@ -1,0 +1,253 @@
+{
+  "name": "AB-EXIT",
+  "authoritative_pages": [
+    "https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/",
+    "https://docs.ab-exit.com/en/08-implementation/048m-charter/"
+  ],
+  "statements": [
+    {
+      "id": 1,
+      "en": "Before an election everyone entitled to vote has two equal rights: to vote, or to take a payment and not vote in that election (048m, Art. 5).",
+      "ru": "Перед выборами у каждого, кто имеет право голоса, два равных права: голосовать или взять выплату и на этих выборах не голосовать (048m, ст. 5)."
+    },
+    {
+      "id": 2,
+      "en": "The choice is made anew at every election. One who took the payment chooses again next time; nobody took his right to vote away (Art. 5).",
+      "ru": "Выбор делается заново на каждых выборах. Взявший выплату на следующих выборах снова выбирает; право голоса у него никто не отнимал (ст. 5)."
+    },
+    {
+      "id": 3,
+      "en": "Within a single election one who took the payment cannot change his mind (Art. 5).",
+      "ru": "В пределах одних выборов взявший выплату передумать не может (ст. 5)."
+    },
+    {
+      "id": 4,
+      "en": "One who chose nothing keeps the vote. If he did not vote, he may receive the payment later, at a discount (Art. 6).",
+      "ru": "Кто ничего не выбрал, сохраняет голос. Если он не голосовал, он может получить выплату позже, со скидкой (ст. 6)."
+    },
+    {
+      "id": 5,
+      "en": "The protocol imposes no duties on the citizen (Art. 16).",
+      "ru": "Обязанностей протокол на гражданина не возлагает (ст. 16)."
+    },
+    {
+      "id": 6,
+      "en": "There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).",
+      "ru": "Фиксированной суммы нет. Размер выплаты — процент от медианного дохода юрисдикции (ст. 2). Примеры в других главах расходятся от четырёх рабочих дней до месячного заработка; это предмет дебатов, а не норма. Ориентир один: выплата должна быть желанна для 40–50 % населения (ст. 3)."
+    },
+    {
+      "id": 7,
+      "en": "The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).",
+      "ru": "Процент устанавливает референдум после открытых дебатов и меняет его не чаще раза за цикл (ст. 3)."
+    },
+    {
+      "id": 8,
+      "en": "The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).",
+      "ru": "Платит бюджет юрисдикции по закону. Кандидат, партия или частное лицо избирателям не платят никогда (ст. 1, 2)."
+    },
+    {
+      "id": 9,
+      "en": "Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. \"1–2 % of the budget\" in early chapters was computed at a small percentage and does not apply to higher ones.",
+      "ru": "Из строки бюджета или из отдельного фонда — решает страна; протокол этого не предписывает (приложение к 048m). Стоимость за цикл равна проценту, умноженному на медиану и на число взявших выплату. «1–2 % бюджета» в ранних главах посчитано при малом проценте и к более высоким не относится."
+    },
+    {
+      "id": 10,
+      "en": "The payment cannot be seized, set off, taxed or counted in awarding benefits (Art. 8).",
+      "ru": "Выплату нельзя арестовать, зачесть, обложить налогом или учесть при назначении пособий (ст. 8)."
+    },
+    {
+      "id": 11,
+      "en": "One ballot — one vote. There are no multipliers or coefficients for anyone (Art. 1, 5).",
+      "ru": "Один бюллетень — один голос. Множителей и коэффициентов нет ни для кого (ст. 1, 5)."
+    },
+    {
+      "id": 12,
+      "en": "\"The weight of a vote grows\" is arithmetic, not a rule: if half as many people vote, each vote is twice as large a share. This is the same for everyone who votes, whoever they vote for (001b).",
+      "ru": "«Вес голоса растёт» — арифметика, а не правило: если голосует вдвое меньше людей, каждый голос составляет вдвое большую долю. Это одинаково для всех, кто голосует, за кого бы они ни голосовали (001b)."
+    },
+    {
+      "id": 13,
+      "en": "The protocol does not change how seats are allocated (Art. 14).",
+      "ru": "Порядок подсчёта мандатов протокол не меняет (ст. 14)."
+    },
+    {
+      "id": 14,
+      "en": "The secrecy of the ballot is preserved in full. The choice \"take the payment\" is not published by name, but is not specially concealed; numbers by precinct are published (Art. 9).",
+      "ru": "Тайна бюллетеня сохраняется полностью. Выбор «взять выплату» поимённо не публикуется, но специально не прячется; публикуются числа по участкам (ст. 9)."
+    },
+    {
+      "id": 15,
+      "en": "The protocol is introduced and repealed only by a referendum in which all citizens take part, including those who take the payment. It is neither introduced nor altered by decree or by a decision of an elected body (Art. 14).",
+      "ru": "Протокол вводит и отменяет только референдум, в котором участвуют все граждане, включая тех, кто берёт выплату. Указом или решением избранного органа он не вводится и не меняется (ст. 14)."
+    },
+    {
+      "id": 16,
+      "en": "Payment for turnout, for a vote, or for a vote of a particular content is prohibited by the protocol (Art. 1).",
+      "ru": "Плата за явку, за голос или за голос определённого содержания протоколом запрещена (ст. 1)."
+    },
+    {
+      "id": 17,
+      "en": "On every day of the window a counter is published: how many chose to vote, how many took the payment, how many have not chosen — by precinct (Art. 9).",
+      "ru": "Каждый день окна публикуется счётчик: сколько выбрали голосовать, сколько взяли выплату, сколько не выбрали — по участкам (ст. 9)."
+    },
+    {
+      "id": 18,
+      "en": "Two independent records are reconciled: the treasury's (who received the payment) and the commission's (who voted). A ballot for someone who received the payment is the commission's violation, not the citizen's (Art. 10).",
+      "ru": "Сверяются две независимые записи: казначейства (кто получил выплату) и комиссии (кто голосовал). Бюллетень за получившего выплату — нарушение комиссии, а не гражданина (ст. 10)."
+    },
+    {
+      "id": 19,
+      "en": "What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).",
+      "ru": "Формально записано, кто остаётся голосовать: тот, кто ценит свой голос дороже выплаты (013f). Это постановка с набросками доказательств и названными допущениями, ожидающая экономиста; исход выборов из неё не выводится. Данных пилота нет; пилот описан, но не проведён (048l)."
+    },
+    {
+      "id": 20,
+      "en": "All numbers on exit shares, opponents, turnout and election outcomes in the repository are estimates and worked examples made at different times and at different sums; they differ between chapters. The protocol promises nobody victory in an election (048n).",
+      "ru": "Все числа о долях выхода, противников, явке и исходе выборов в репозитории — оценки и расчётные примеры, сделанные в разное время при разных суммах; между главами они расходятся. Победу на выборах протокол никому не обещает (048n)."
+    }
+  ],
+  "misreadings_en": [
+    {
+      "wrong": "\"One who refuses the money gets a vote multiplier\"",
+      "where_it_comes_from": "the words \"the vote weighs triple\" in pitches and worked examples",
+      "right": "statements 11 and 12"
+    },
+    {
+      "wrong": "\"The payment is $780\" (or 1.5 % of the median, £465, 30,000 roubles)",
+      "where_it_comes_from": "worked examples for particular countries in chapters 02–05 and 10",
+      "right": "statements 6 and 7"
+    },
+    {
+      "wrong": "\"A trust pays\"",
+      "where_it_comes_from": "an early version of the README and of chapter 08",
+      "right": "statement 9"
+    },
+    {
+      "wrong": "\"The candidate promises a payment if he wins\"",
+      "where_it_comes_from": "an addition by the AI adviser; it is not in the repository",
+      "right": "statements 8 and 16"
+    },
+    {
+      "wrong": "\"A mayor or president will sign a decree\"",
+      "where_it_comes_from": "the same",
+      "right": "statement 15"
+    },
+    {
+      "wrong": "\"The protocol raises turnout\"",
+      "where_it_comes_from": "at the referendum on introduction those who usually stay away come too; at elections under the protocol some people take the payment and do not vote",
+      "right": "048g §6b; 045"
+    },
+    {
+      "wrong": "\"The underdog wins 66 % against 33 %\"",
+      "where_it_comes_from": "a role-play in 059e",
+      "right": "statement 20; the calculation is in 048n, question 10"
+    },
+    {
+      "wrong": "\"The 72-hour phenomenon\"",
+      "where_it_comes_from": "a hypothesis about the first days of a campaign in 059e; the term is notional",
+      "right": "neither a rule nor a forecast"
+    },
+    {
+      "wrong": "\"This is vote-buying\"",
+      "where_it_comes_from": "an outward resemblance",
+      "right": "the payment is not for a vote but for forgoing one, not by a candidate but by the budget, not in secret but under law (029; 048m, Art. 1)"
+    },
+    {
+      "wrong": "\"The vote is weighted in the count\"",
+      "where_it_comes_from": "the words \"weighted vote\", \"weight *w*\" in 013f, 045, 048l",
+      "right": "the weight is a reference number, ballots are not multiplied: statements 11 and 12"
+    },
+    {
+      "wrong": "\"The choice is reversible\"",
+      "where_it_comes_from": "the word \"reversible\" in 001b and the Q&A",
+      "right": "reversible at the next election; within one election it is not: statements 2 and 3"
+    },
+    {
+      "wrong": "\"Choice B is secret\"",
+      "where_it_comes_from": "004 §4.7, 001b §1",
+      "right": "statement 14"
+    },
+    {
+      "wrong": "\"A blockchain is required\"",
+      "where_it_comes_from": "07/033 §78",
+      "right": "the charter requires only open code (Art. 15)"
+    },
+    {
+      "wrong": "\"One who took the money loses rights\"",
+      "where_it_comes_from": "—",
+      "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
+    }
+  ],
+  "misreadings_ru": [
+    {
+      "wrong": "«Отказавшийся от денег получает множитель голоса»",
+      "where_it_comes_from": "слова «голос весит втрое» в питчах и расчётных примерах",
+      "right": "утверждения 11 и 12"
+    },
+    {
+      "wrong": "«Выплата — $780» (или 1,5 % медианы, £465, 30 000 ₽)",
+      "where_it_comes_from": "расчётные примеры для отдельных стран в главах 02–05 и 10",
+      "right": "утверждения 6 и 7"
+    },
+    {
+      "wrong": "«Платит траст»",
+      "where_it_comes_from": "ранняя редакция README и глав 08",
+      "right": "утверждение 9"
+    },
+    {
+      "wrong": "«Кандидат обещает выплату, если победит»",
+      "where_it_comes_from": "добавление ИИ-советника; в репозитории этого нет",
+      "right": "утверждения 8 и 16"
+    },
+    {
+      "wrong": "«Мэр или президент подпишет указ»",
+      "where_it_comes_from": "то же",
+      "right": "утверждение 15"
+    },
+    {
+      "wrong": "«Протокол поднимает явку»",
+      "where_it_comes_from": "на референдуме о введении приходят и те, кто обычно не ходит; на выборах по протоколу часть людей берёт выплату и не голосует",
+      "right": "048g §6b; 045"
+    },
+    {
+      "wrong": "«Андердог выигрывает 66 % против 33 %»",
+      "where_it_comes_from": "ролевая игра в 059e",
+      "right": "утверждение 20; расчёт — 048n, вопрос 10"
+    },
+    {
+      "wrong": "«Феномен 72 часов»",
+      "where_it_comes_from": "гипотеза о первых днях кампании в 059e; срок условный",
+      "right": "не правило и не прогноз"
+    },
+    {
+      "wrong": "«Это покупка голосов»",
+      "where_it_comes_from": "внешнее сходство",
+      "right": "платят не за голос, а за отказ от него, не кандидат, а бюджет, не тайно, а по закону (029; 048m, ст. 1)"
+    },
+    {
+      "wrong": "«Голос взвешивается при подсчёте»",
+      "where_it_comes_from": "слова «взвешенный голос», «вес *w*» в 013f, 045, 048l",
+      "right": "вес — справочное число, бюллетени не умножаются: утверждения 11 и 12"
+    },
+    {
+      "wrong": "«Выбор обратим»",
+      "where_it_comes_from": "слово «обратимо» в 001b и Q&A",
+      "right": "обратим на следующих выборах; в пределах одних — нет: утверждения 2 и 3"
+    },
+    {
+      "wrong": "«Выбор B — тайна»",
+      "where_it_comes_from": "004 §4.7, 001b §1",
+      "right": "утверждение 14"
+    },
+    {
+      "wrong": "«Нужен блокчейн»",
+      "where_it_comes_from": "07/033 §78",
+      "right": "устав требует только открытого кода (ст. 15)"
+    },
+    {
+      "wrong": "«Взявший деньги лишается прав»",
+      "where_it_comes_from": "—",
+      "right": "утверждения 2 и 5; он голосует на референдумах о самом протоколе (ст. 14)"
+    }
+  ]
+}

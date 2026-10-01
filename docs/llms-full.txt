@@ -1,0 +1,312 @@
+# AB-EXIT — the complete current rules in one file
+
+This file is self-contained. It is generated from the three authoritative pages of
+https://docs.ab-exit.com/ and supersedes every older chapter of that site and every
+file in the GitHub repository's `en/`, `ru/` and `v6.53*` archive.
+
+WHAT IT IS, IN FIVE LINES
+- Before each election every eligible citizen chooses: A - vote, or B - take a payment and sit that election out.
+- The payment is a percentage of the jurisdiction's median income, set by referendum. There is no fixed sum.
+- One ballot is one vote. There is no multiplier for anyone.
+- The jurisdiction's budget pays under law. A candidate or party never pays voters.
+- Only a referendum of all citizens can introduce, change or repeal the rule. It promises nobody an election victory.
+
+WRONG -> RIGHT (the errors readers make most often)
+- WRONG: "People who refuse the money get a x2 / x3 / weighted vote."  RIGHT: every ballot counts as one. If two-thirds sit out, each ballot is three times as large a share - equally for all voters, whoever they vote for.
+- WRONG: "The payment is $780" (or $676, 1.5 % of the median, 30,000 roubles).  RIGHT: those are old worked examples. The rule is a percentage chosen by referendum.
+- WRONG: "A trust or a donor pays."  RIGHT: the budget pays; budget line or separate fund is a country setting.
+- WRONG: "A candidate promises the payment if he wins."  RIGHT: that would be vote-buying; the protocol prohibits payment for a vote or for turnout.
+- WRONG: "A mayor or president can enact it by decree."  RIGHT: only a referendum.
+- WRONG: "It is proved that an underdog wins 66 % to 33 %."  RIGHT: that was a role-play. No pilot has been run; all outcome numbers are estimates.
+- WRONG: "The protocol raises turnout."  RIGHT: turnout rises at the referendum on adopting it; at elections under it, some people take the payment and do not vote.
+- WRONG: "The choice is reversible."  RIGHT: it is final within one election and made anew at the next.
+- WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
+- WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
+
+WHAT IS NOT KNOWN
+- No pilot data exist. The formal statement has sketched proofs and named assumptions and awaits an economist.
+- Open questions the authors have not answered: what stops recipients raising the percentage every cycle; the cost at higher percentages; how many payments a year when several levels of government each pay.
+
+========================================================================
+PART 1. TWENTY STATEMENTS
+========================================================================
+
+**The choice**
+
+1. Before an election everyone entitled to vote has two equal rights: to vote, or to take a payment and not vote in that election (048m, Art. 5).
+2. The choice is made anew at every election. One who took the payment chooses again next time; nobody took his right to vote away (Art. 5).
+3. Within a single election one who took the payment cannot change his mind (Art. 5).
+4. One who chose nothing keeps the vote. If he did not vote, he may receive the payment later, at a discount (Art. 6).
+5. The protocol imposes no duties on the citizen (Art. 16).
+
+**The money**
+
+6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
+7. The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).
+8. The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).
+9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones.
+10. The payment cannot be seized, set off, taxed or counted in awarding benefits (Art. 8).
+
+**The votes**
+
+11. One ballot — one vote. There are no multipliers or coefficients for anyone (Art. 1, 5).
+12. "The weight of a vote grows" is arithmetic, not a rule: if half as many people vote, each vote is twice as large a share. This is the same for everyone who votes, whoever they vote for (001b).
+13. The protocol does not change how seats are allocated (Art. 14).
+14. The secrecy of the ballot is preserved in full. The choice "take the payment" is not published by name, but is not specially concealed; numbers by precinct are published (Art. 9).
+
+**Introduction and amendment**
+
+15. The protocol is introduced and repealed only by a referendum in which all citizens take part, including those who take the payment. It is neither introduced nor altered by decree or by a decision of an elected body (Art. 14).
+16. Payment for turnout, for a vote, or for a vote of a particular content is prohibited by the protocol (Art. 1).
+
+**Verification**
+
+17. On every day of the window a counter is published: how many chose to vote, how many took the payment, how many have not chosen — by precinct (Art. 9).
+18. Two independent records are reconciled: the treasury's (who received the payment) and the commission's (who voted). A ballot for someone who received the payment is the commission's violation, not the citizen's (Art. 10).
+
+**What is known and what is not**
+
+19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).
+20. All numbers on exit shares, opponents, turnout and election outcomes in the repository are estimates and worked examples made at different times and at different sums; they differ between chapters. The protocol promises nobody victory in an election (048n).
+
+========================================================================
+PART 2. THE CHARTER
+========================================================================
+
+In the charter, text in [square brackets] is a parameter each jurisdiction fills in; everything else is the core.
+
+### Terms
+
+**Jurisdiction** — a state, region or municipality that has adopted the charter. **Cycle** — the term between regular elections of the given level of government. **Register** — the list of all who hold the right to vote in the given election; **record** — the register's line on one citizen. **Window** — the period within which choice A or B is made. **Payment** — the sum D under Article 2. **Treasury** — the body that makes the payment and keeps its accounts. **Precinct** — the smallest unit for which data are published.
+
+### Preamble
+
+A citizen has the right to vote and the right not to vote. This charter makes the second right as real as the first: whoever does not vote in a given election receives a payment for it, and whoever votes forgoes it. The charter grants the right to the payment; the ways of arranging it are determined by each jurisdiction.
+
+### Article 1. Core and parameters
+
+1. The core of the charter consists of: (a) two equal rights — to vote and to take the payment; (b) payment for exit from voting, not for taking part in it; (c) one ballot — one vote, with no coefficients of any kind; (d) a public counter; (e) reconciliation of two independent records — the treasury's and the electoral commission's; (f) amendment of the charter only by a referendum in which all citizens take part.
+2. Parameters are the values in square brackets and the settings of the annex.
+3. No parameter may be set so as to cancel a provision of the core. Payment for turnout, for a vote, or for a vote of a particular content is not a parameter and is prohibited by this charter.
+
+### Article 2. The payment
+
+1. The payment D equals [p] per cent of the jurisdiction's median income M: D = p × M. The size is set only as a percentage, never as a sum.
+2. The median is calculated by a body independent of the executive, by an open methodology and from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
+3. A divergence between sources of more than [10] per cent triggers an audit with an auditor from the judiciary; the result is published within [90] days.
+4. The recalculation rule for a change of methodology is recorded before the change.
+5. No official may influence the variables of the formula.
+6. The size of D is published no later than [30] days before polling day.
+
+### Article 3. Setting and changing the percentage
+
+1. The percentage p is set by referendum after open debate. Several values may be put to the referendum; the procedure for choosing among several is determined by the jurisdiction's law.
+2. The percentage is changed by referendum, by simple majority, and no more often than once per electoral cycle.
+3. The guide in choosing the percentage: the payment should be desirable to [40–50] per cent of the population.
+
+### Article 4. Who is entitled
+
+1. Everyone who on the day the window opens holds the right to vote in the given election is entitled to the payment. The charter does not alter the jurisdiction's electoral law.
+2. All holders of the right are entered in the register automatically, without applications or in-person procedures.
+3. No exceptions from the circle of recipients are permitted otherwise than by referendum.
+
+### Article 5. Two buttons
+
+1. During the window everyone in the register may make one of two choices: A — I vote; B — I take the payment.
+2. Choice B is a voluntary exit from voting in the given election. It is final until the end of that election; at the next election the right to choose arises anew and automatically.
+3. The vote of one who chose B is cancelled. A ballot cast under his record is a double spend; responsibility for it lies with the precinct's electoral commission, not with the citizen.
+4. Every ballot cast counts as one vote.
+5. One who chose B retains all other rights, including the right to vote in referendums on the charter.
+6. Both buttons are available through one and the same channel. One who has no electronic access makes the choice in person on presenting a document.
+
+### Article 6. The window and the time of payment
+
+1. The window opens [N] days before polling day and closes [5] days before it.
+2. One who chose B receives the payment at once and is counted by the counter the same day.
+3. One who chose B in the first [3] days of the window is paid a premium of [5–10] per cent; it is financed from the discount under paragraph 5.
+4. One who chose nothing retains the right to vote.
+5. One who chose nothing and did not vote may receive the payment after polling day and until the next election at a discount of [20–30] per cent. On applying for it he may check whether a ballot was cast under his record.
+6. The payment is tied to the calendar of the electoral cycle, not to the fact of an election being held. The procedure of payment where an election is not held on time is determined by the jurisdiction's law.
+
+### Article 7. Levels of government
+
+The electoral cycle is the one established in the jurisdiction. Each level of government makes the payment at its own elections, from its own budget and on its own median; the percentage for each level is approved separately.
+
+### Article 8. Protection of the payment
+
+1. The payment is made in money to the recipient's personal account; payment in certificates, bonds or by set-off of obligations is not permitted.
+2. The payment is not subject to seizure, recovery, withholding, pledge, assignment or set-off against the recipient's private obligations; the exception is maintenance within limits set by a court.
+3. The payment is not taken into account in awarding benefits, subsidies and concessions and is not subject to taxes or levies.
+4. The payment and the right to future payments cannot serve as security for a loan; contracts to that effect are void.
+
+### Article 9. The counter
+
+1. On every day of the window the numbers who chose A, who chose B and who have not chosen are published — for every precinct, in machine-readable form.
+2. Publication may not be suspended on any grounds.
+3. The names of those who chose are not published. The charter requires no special measures to conceal choice B; where protecting the secrecy of exit complicates receipt of the payment, simplicity prevails. The secrecy of the ballot is preserved in full.
+
+### Article 10. Reconciliation and the count
+
+1. The payment budget equals the number who chose B multiplied by D, adjusted for premiums and discounts. The treasury publishes it by precinct.
+2. The number of ballots at a precinct may not exceed the number of register records less those who chose B.
+3. The precinct balance: register records = votes + payments + those who neither chose nor voted. A precinct without a balance is a precinct without a result.
+4. Voting is conducted through two channels: an open one, in which the voter is issued a verifiable token, and a secret paper one. The secret channel is available to everyone. All tokens are published without names.
+5. The threshold of divergence between the channels — [x] per cent — is recorded in advance. Exceeding it entails a repeat vote at the precinct through the paper channel.
+
+### Article 11. Coercion and vote-buying
+
+1. At the moment of payment under a citizen's record a notification is sent to him. Within [N] days he may contest a payment made without his will; for the duration of the check he is issued a conditional ballot.
+2. Pressure on the choice between A and B and on the content of the vote, and likewise the buying of the choice, are criminal offences.
+3. The number who chose A is published by precinct; the anomaly threshold is recorded in advance. Where it is exceeded, the presumed buyer or coercer is checked through money flows, not the citizen. The citizen's choice itself is never grounds for suspicion.
+
+### Article 12. Courts
+
+1. Six disputes fall to the court: on a late payment where a signature stands in the roll; on a repeat vote at a precinct; on a payment taken in another's name; on an anomaly under Article 11; on the cessation of publication of the counter; on a law or act distorting this charter.
+2. The time limit for consideration is counted in days: [N] days.
+3. Everyone whose record is affected and every candidate has standing, without a prior decision of a prosecutor or a commission.
+4. Published data — the treasury statement, the register record, the tokens, the counter — are evidence until rebutted.
+5. The jurisdiction may assign these disputes to a jury chosen by lot from outside the district of the dispute.
+
+### Article 13. Sanctions
+
+| Who | Violation | First time | Repeat | System |
+|---|---|---|---|---|
+| Citizen | declared "did not vote" for the payment under Article 6, but voted | return of the sum | fine | as a false declaration |
+| Precinct commission | a ballot for one who chose B | repeat vote at the precinct | dissolution of the commission | embezzlement of budget funds |
+| Buyer, coercer | Article 11 | check through money flows | criminal liability | — |
+| The power | delay of payment, stopping the counter, change of methodology | court under Article 12 | automatic recalculation by the pre-recorded rule | repeal only by referendum |
+| Data source | divergence above the threshold of Article 2 | audit | replacement of the source | calculation from the remaining sources |
+
+### Article 14. Two levels of decision
+
+1. On the charter — its introduction, repeal, the percentage and any provision of the core — all citizens decide by referendum, including those who chose B. No quorum is set.
+2. Those who govern are elected by those voting in the given election.
+3. Elected bodies may not introduce, repeal or alter the charter, the size of the payment, the circle of recipients or the procedure of choice.
+4. The charter does not alter the procedure of other referendums or the allocation of seats.
+
+### Article 15. The ballot line and transitional provisions
+
+1. The ballot of the referendum on introducing the charter states the percentage, the formula and the line: "Both rights — to vote and not to vote — are preserved forever; change is possible only by a new referendum."
+2. The provisions of Articles 2, 9 and 10 are part of the text put to the referendum.
+3. Before first application at an election the jurisdiction may run a pilot on part of its territory; its results are published before the referendum.
+4. The program code of the register, the counter and the tokens is open.
+
+### Article 16. The citizen's rights under the charter
+
+1. A citizen has the right: (a) to vote; (b) to take the payment instead of voting; (c) to choose nothing and keep the vote; (d) to receive the late payment under Article 6; (e) to check whether a ballot has been cast or a payment taken under his record; (f) to receive a conditional ballot under Article 11; (g) to go to court under Article 12; (h) to take part in any referendum on the charter whatever choice he has made.
+2. The charter imposes no duties on the citizen. The payment is neither a gift nor a benefit and creates no obligations of the recipient towards the jurisdiction or its bodies.
+
+---
+
+## Annex. Country settings
+
+The charter does not decide these; the experts and the jurisdiction's referendum do.
+
+| Setting | Question | For whom |
+|---|---|---|
+| The median | which income, over what period, what averaging | economists |
+| Percentage or target | fix p or a target share of exit | economists |
+| Number of payments | one per cycle or several smaller | economists and sociologists |
+| Source of money | a budget line or a separate fund | financiers |
+| Choice among several percentages | the referendum procedure | lawyers and sociologists |
+| Legal route | the legal form in which the referendum is held and its result enacted — a law or a constitutional amendment; a private referendum without legal force as a preliminary step (08/045, 07/035) | lawyers |
+| Source of the early premium | whether the discount on late payments covers it, and when (Article 6) | financiers |
+| Thresholds of Articles 10 and 11 | channel divergence, anomaly | from the pilot (048l) |
+| The court's time limit | how many days for the six disputes of Article 12 | lawyers |
+| An election not held on time | how and to whom to pay (Article 6) | lawyers and economists |
+| Composition of the formula | whether a household coefficient or another multiplier is needed inside the percentage | economists |
+
+========================================================================
+PART 3. A CANDIDATE'S TEN QUESTIONS
+========================================================================
+
+### 1. "I am an underdog: ten per cent at most, clearly losing to the first two, and I badly want to win. How will the protocol help me, and can I win?"
+
+The protocol gives you a question none of your rivals has: "the vote is already paid for — to parties, to contractors, before elections; why not to the voter himself?" That question reaches those no programme reaches — the non-voters. And it leaves the favourites without a good move: to support it is to adopt your theme; to object is to defend the right to take the vote for nothing (001c; 056f §13j).
+
+Can you win — honestly: nobody knows. The calculation "66 % against 33 %" in 059e is an estimate made in a role-play, not data. What is firmly known is something else: a standard campaign from ten per cent gives no chance, because the favourite's machine determines who turns up. A referendum on introducing the protocol changes who turns up: those who usually stay away come too, because they are voting on their own money (048g §6b).
+
+### 2. "Are there other simple ideas that would work as well? And is it realistic to beat the party bosses in two months?"
+
+The comparison with ten known ideas is in 07/036: ranked-choice voting, basic income, citizens' assemblies and others. Each either requires the parties' consent or gives the voter nothing personally; the protocol avoids the first and gives the second.
+
+In two months — no. In two months the question can be made known: one blogger's address in April 2026 gathered tens of millions of views within a day and forced the power to answer (056f §13f). But introducing the rule means a referendum, signature collection and the courts, and the timing is set by your country's law. The speed of the question is days; the speed of the law is months and years.
+
+### 3. "Why has nobody done this before?"
+
+Three reasons. For two and a half thousand years the question was "whom to admit to the vote", and nobody asked "how much to pay for a voluntary exit" (059e §5; 006). The vote was never a transaction, it had no second side, and the count belonged to those being elected (048f §4e). And those with the resources for such a campaign have won under the present rules; they have no reason to change them. The closest designs and what each lacked are in 006b.
+
+### 4. "In my city sixty per cent never vote, and it is a mayoral election. Does this fit me?"
+
+It fits: the more non-voters, the more people to whom the payment is addressed. Each level of government pays at its own elections, from its own budget and on its own median (048m, Article 7).
+
+Two caveats. A mayor cannot introduce the protocol by decree: a local referendum or initiative is needed where the law allows one; the legal route is specific to each country (048m, annex). And the sixty per cent are not one group but three states: the apathetic will take the money, the burned will come back to vote, the meek will gain a lawful ground not to take part (011b).
+
+### 5. "Will activists who like the idea help me, or will people be against?"
+
+Both. Those to whom the protocol gives something will help: the burned, to whom it returns the meaning of a vote; the meek, to whom it gives an exit; those who want their vote to weigh more. Against, at the referendum on introduction — by the repository's estimates, from 9 to 16 %: the machines and their core, principled opponents, those who lose status (08/045 §45.6; 001b). For repeal after the first cycle — 7–12 % (048g §4).
+
+Expect an attack not on the content but on you personally: a sum is hard to refute, a person is easy (056f §13g).
+
+### 6. "And if I have no money — can I raise it? Will money be given for the protocol?"
+
+Unknown: there is no precedent. Three things can be said firmly. The payment to voters is made by the jurisdiction's budget under law, not by the candidate; you need money only for the campaign and the lawyers (048m, Article 7 and the annex). The cheapest test is a pilot in a courtyard or village, of the order of 30–35 thousand euros (048l). And the donor's motive is named in 059e §1: to be the first to pay for the campaign for a rule that others will then adopt. A donor pays for signature collection, lawyers and explanation; he never pays the payments to voters.
+
+Raise and spend strictly under campaign-finance law, with a lawyer.
+
+### 7. "Is this a trick, a catch — or is it logical and fair?"
+
+The test for a trick is simple: what is taken from you? Nothing. The right to vote remains and returns automatically every cycle; the right not to vote remains and is worth something for the first time; the charter imposes no duties (048m, Articles 5 and 16).
+
+The argument from fairness: the vote is already paid for, only not to the voter (029.4b; 056f §13c). And selection is not by purse but by how much the outcome matters to the person: a mother whose school is being closed will forgo the sum; the well-off and indifferent will take it (001b §3; 006). To those for whom the vote is a value in itself it will still look like bribery; the analysis is in 029, 06/021 and 040j.
+
+### 8. "What will my voters say if I propose this? Might they turn against me?"
+
+Some will leave — those for whom the vote is sacred. Those who never came before will come. Speak in one sentence and in ordinary words, without the author's language (10/051, rule 2).
+
+And one rule without exceptions: you promise not money for your victory but a referendum on the rule. A candidate who promises to pay voters if he is elected is bribing them, and the protocol has nothing to do with that.
+
+### 9. "You said the protocol gives a chance of winning. Read it again — is that true?"
+
+True to the extent it is written down. What is written down formally is not "who will win" but "who stays to vote and who takes the payment": the one who values his vote above the payment stays (013f). It is a statement with sketched proofs and named assumptions; the full proofs are for an economist to write, and one of the assumptions says outright that where money is worth different amounts to poor and rich, selection runs partly by income too. Tested on data: nothing so far — there has been no pilot (048l). Everything else is estimates, and at the end of each chapter there is a section on the weak point saying which ones.
+
+A chance, not a guarantee.
+
+### 10. "Check the logic and the figures again. Perhaps there is an error: not one of my political scientists or consultants gave me such results, and here there is some kind of magic"
+
+The suspicion is correct. To this question the AI adviser replied with a calculation containing a gross error — and itself gave an assurance that there was none.
+
+**The error.** The model introduced a rule the protocol does not have: "whoever refuses the payment receives a vote multiplier of 1.2", and applied it only to the underdog's voters, counting the mayor's votes at one. The result was "22,800 against 22,000". In fact every ballot counts as one (048m, Article 5). "Weight" is a share: if half have exited, each remaining vote matters twice as much, but equally for all who remain, the mayor's voters included — they did not take the money either. By the model's own headcount the result is 19,000 against 22,000, a defeat. And "eight thousand non-voters took the money and left" changes nothing: they were not voting anyway.
+
+**How to count correctly.** A city: 100,000 voters; the mayor 25,000, the underdog 10,000, 60,000 do not vote. After the protocol is adopted the outcome is set by two numbers, both unknown in advance:
+
+- *a* — what share of the mayor's votes are not convinced but brought in: the dependent, the bussed, those voting for a trifle. They take the payment and leave (015c §7b; 011b).
+- *r* — how many non-voters come back and vote for the underdog. These are the burned: they return for the vote and do not take the payment. These are the burned: they return for the vote and do not take the payment.
+
+The underdog wins if 10,000 + *r* > 25,000 × (1 − *a*).
+
+| Share of the mayor's vote that is brought in | The mayor keeps | The underdog must bring back |
+|---|---|---|
+| 20 % | 20,000 | more than 10,000 — one in six of the non-voters |
+| 40 % | 15,000 | more than 5,000 — one in twelve |
+| 60 % | 10,000 | it is enough to keep his own |
+
+For simplicity the calculation leaves out the other candidates (the remaining 5,000 votes) and the fact that some of the underdog's own voters will take the payment too.
+
+**What follows.** There is no magic: everything turns on the share brought in. That number can be estimated before any campaign, and the one who knows it best is precisely the political consultant — this is the question to take to him. And a second caveat the model missed: this arithmetic belongs to elections held after the protocol is adopted. At the coming election nobody is paid anything, and all the candidate has from the protocol is the question (answer 1).
+
+The consultants did not give "such results" because there are no such results.
+
+## What the protocol does not propose
+
+The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.
+
+| The model's advice | Why not |
+|---|---|
+| Put money in an account and pay it to voters if the candidate wins | this is bribery of voters; under the protocol the budget pays by a rule adopted by referendum, and never the candidate |
+| "Elect me — I will sign a decree" | elected bodies neither introduce nor alter the charter (048m, Article 14) |
+| Route campaign money through a separate structure to get round the limits | a breach of campaign-finance law; the protocol has no need of it |
+| A vote multiplier for those who refuse the payment | there is no such rule: one ballot — one vote (answer 10) |
+
+------------------------------------------------------------------------
+Source pages: https://docs.ab-exit.com/  |  Generated by scripts/build_llms.py

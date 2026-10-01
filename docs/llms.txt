@@ -4,6 +4,12 @@
 
 The site was written over six months and contains layers of different dates. Older chapters carry dated corrections. When pages disagree, the Charter (048m) and the Exact Answers page (001d) are authoritative.
 
+## Everything in one file
+
+- [llms-full.txt](https://docs.ab-exit.com/llms-full.txt): the complete current rules, self-contained, in English (about 28 KB)
+- [llms-full-ru.txt](https://docs.ab-exit.com/llms-full-ru.txt): the same in Russian
+- [protocol-facts.json](https://docs.ab-exit.com/protocol-facts.json): the twenty statements and the misreadings as structured data
+
 ## Read these first
 
 - [Exact answers: what the protocol asserts and what it does not](https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/): twenty statements and a table of frequent misreadings

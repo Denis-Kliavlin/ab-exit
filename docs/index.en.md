@@ -8,6 +8,10 @@ Protocol author: **Denis Klyavlin** · Chisinau
 Stress-tested by 6 AI models · 449+ rounds · 0 structural contradictions
 Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit) · [ab-exit.com](https://ab-exit.com/ru/)
 
+> **Short and exact.** Before an election everyone chooses: to vote — or to take a payment and not vote in that election. The payment is a percentage of the median income approved by referendum; there is no fixed sum. One ballot is one vote; there are no multipliers. The budget pays under law; a candidate never pays. Only a referendum can introduce or repeal it. The protocol promises nobody an election victory.
+>
+> If pages disagree, [1d. Exact Answers](01-introduction/001d-exact-answers.md) and [48m. The Charter](08-implementation/048m-charter.md) are correct. Everything in force in one file: [llms-full.txt](https://docs.ab-exit.com/llms-full.txt) · for an AI reader: [llms.txt](https://docs.ab-exit.com/llms.txt) · data: [protocol-facts.json](https://docs.ab-exit.com/protocol-facts.json).
+
 ---
 
 ## How to Read This Book

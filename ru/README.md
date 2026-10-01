@@ -17,6 +17,7 @@
 
 Живой текст протокола — сайт документации **[docs.ab-exit.com](https://docs.ab-exit.com/)** (исходники — папка `docs/`). Начните с:
 
+- [Всё действующее одним файлом](https://docs.ab-exit.com/llms-full-ru.txt) — для ИИ-читателя и для того, кому нужны правила без истории
 - [Точные ответы — что протокол утверждает и чего не утверждает](https://docs.ab-exit.com/01-introduction/001d-exact-answers/)
 - [Устав — текст, который можно принять](https://docs.ab-exit.com/08-implementation/048m-charter/)
 - [Если вы андердог — десять вопросов кандидата](https://docs.ab-exit.com/08-implementation/048n-underdog-questions/)
