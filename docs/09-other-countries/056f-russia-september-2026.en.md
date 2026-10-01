@@ -1398,7 +1398,7 @@ Two properties none of the moves on her list has:
 
 **A correction to "millions of questions".** They will not arise by themselves: the question must be sown, a carrier is needed even for the kitchen (041). But he needs nothing except the word "dividend", which everyone likes (033c §9d).
 
-**Weak point of the move.** The power knows how to capture words and may pay a "dividend" for turnout — it does this better than anyone. The repository's answer: payment for a vote and payment for exit are opposite signs of the thermostat (029.4b): the first drives the apathetic to the box, the second leads them away. But capturing the word before adoption is a real threat, and it is also an argument for urgency: while "dividend" still means exit, not turnout.
+**Weak point of the move.** The first version named the capture of the word: the power would pay a "dividend" for turnout. Withdrawn on the architect's correction (§13j): to pay on demand is to bend and is the power's most expensive move, and payment for a vote and payment for exit are opposite signs of the thermostat (029.4b). The real weak point is silence: neither paying nor refusing (§13j).
 
 ## 13f. The Bonya case, April 2026: the channel of §13e has already worked — with the wrong question
 
@@ -1416,7 +1416,7 @@ Facts. On 14.04.2026 the blogger Viktoria Bonya (Monaco, 16 years outside Russia
 
 **"And this is only one blogger of thousands"** (the architect). This changes not the scale but the risk. One carrier is bought with attention or switched off; a thousand are not. Bonya had five topics; a thousand bloggers have a thousand topics, each closed with words. With the protocol the thousand have one question with one word (033c §9d): the answers add up to one count, and "work is under way" cannot be said a thousand times. No coordination is needed — the blogger has an incentive of his own: 20 million views are money, the question about the 30,000 is monetisable content. The large group gets a focal question without organisation (015c §7b).
 
-**Weak point — the carrier.** She gave thanks in tears for having been watched: a carrier satisfied by attention is bought with attention. The protocol needs from the carrier not loyalty but the question, and the question outlives the carrier: it cannot be "watched and closed". The second risk is from §13e: a one-off payment "following the address" and "we have paid".
+**Weak point — the carrier.** She gave thanks in tears for having been watched: a carrier satisfied by attention is bought with attention. The protocol needs from the carrier not loyalty but the question, and the question outlives the carrier: it cannot be "watched and closed". A one-off payment "following the address" is not a risk: it is the power bending, not its move (§13j).
 
 ## 13g. The split of the pro-regime camp over Bonya: the dividing line is ours, the route runs through the loyalists
 
