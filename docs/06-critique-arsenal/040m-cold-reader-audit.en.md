@@ -56,6 +56,20 @@ These are the auditor's questions, given close to his words. They are not for th
 
 In the second reader's judgement: the rule is stated in one sentence, and a reader grasps the proposal within a minute; the site names its own weak points, places dated corrections and exposed the invented multiplier; a cheap, falsifiable pilot is offered with success and failure thresholds recorded in advance, and a candidate is told plainly that promising money for his own victory is bribery.
 
+## 5b. A test on a simple model, 02.10.2026
+
+The architect: "we must make simple models see the protocol correctly". A simple model was given, three times, the same message the AI adviser received in the experiment of 059e §5b — an underdog, ten per cent, twenty million, two links. The site was corrected between attempts.
+
+| Attempt | What it read | What it answered | What was corrected afterwards |
+|---|---|---|---|
+| 1 | the home page, the README, the file for AI readers | every fact correct, but the conclusion "the protocol will not help you, turnout falls" | a block on what the rule gives a challenger was added to the file for AI readers |
+| 2 | only the home page and the README | "80 % is needed at the referendum", "the vote counts double" — both errors from the README | the README was rewritten in two places; a line for a candidate was added to the home page and the README |
+| 3 | only the home page and the README | every fact correct; the conclusion — "it will help on condition that a referendum introduces the rule; this is a long institutional change, not a campaign technique"; no escrow and no invented numbers | — |
+
+The main lesson: a simple model opens exactly the pages it was linked to and goes no further. So the first pages themselves must be exact, and the all-in-one file is a reserve for those who go further. Asked about game theory in the second attempt, the model said neither "dominant strategy" nor "arbitrage" nor "flawless".
+
+The package is built by `scripts/build_llms.py` from three pages: 1d, 048m and 048n; after editing any of them the script must be run again.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡
