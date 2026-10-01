@@ -1383,6 +1383,23 @@ And second: "that DEG produced an almost protest vote despite all the difficulty
 - No results for a week: "the accountant stole the money and now has to make the spreadsheet add up" — last-minute rewriting for 60,000 ballots for SR; double entry makes it impossible (§13c).
 - "Smart voting is the most effective of all the ineffective instruments": her own estimate of the ceiling of the present repertoire (056d §7).
 
+## 13e. The admission at 27:55: "effectiveness cannot be spoken of" — and the move missing from her repertoire
+
+From the same interview (TV Rain, 01.10.2026, 27:55–28:16): "at authoritarian elections one cannot speak of effectiveness, the predetermined result will be presented… we cannot speak of effectiveness… we call nobody to anything." The architect: "she admits the complete failure of any policy and action of the opposition — no election can be won or obstructed. But the protocol would really obstruct even the present elections: people en masse would ask the power why they cannot have the money — millions of questions."
+
+**Why her repertoire is helpless.** Smart voting, boycott, spoiling the ballot, observation — all are moves inside the count, and the count belongs to the power (048f §4e). A move whose outcome the commission records will be recorded as required; that is what "the predetermined result will be presented" means. The opposition looks for how to win a game in which the opponent keeps the score.
+
+**Why the question about money does not belong to the count.** It cannot be drawn, recorded as "50 % for", or declared foreign-agent: it has no candidate, no party and no "against" — only a sum the power has already proved it can pay (§13c: 152 roubles per vote to the parties; 029.4b), and a refusal with one meaning: "we need your vote for free". Any answer exposes: "there is no money" — against 16.8 trillion for war and security (§13d); "this is bribery" — and the 152 roubles to the parties?; "you vote anyway" — yes, under coercion.
+
+Two properties none of the moves on her list has:
+
+- **The question does not require winning an election.** It exists before them and apart from them; it is the only move that does not pass through the ballot box, and hence the only one that cannot be predetermined.
+- **It is the kitchen, not the square** (039). Asking "where are my 30,000" is not politics; there is no risk. Her own evidence: the public-sector employee under the boss's eye did not click United Russia (§13d); whoever does that at a risk will ask about money without one.
+
+**A correction to "millions of questions".** They will not arise by themselves: the question must be sown, a carrier is needed even for the kitchen (041). But he needs nothing except the word "dividend", which everyone likes (033c §9d).
+
+**Weak point of the move.** The power knows how to capture words and may pay a "dividend" for turnout — it does this better than anyone. The repository's answer: payment for a vote and payment for exit are opposite signs of the thermostat (029.4b): the first drives the apathetic to the box, the second leads them away. But capturing the word before adoption is a real threat, and it is also an argument for urgency: while "dividend" still means exit, not turnout.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
