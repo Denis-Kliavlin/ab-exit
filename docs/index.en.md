@@ -175,6 +175,9 @@ Each section is self-contained — you can read it straight through as a book (u
 - [48h. Secrecy, Verifiability and the Price of Coercion: the German Court and the Mirror Attack](08-implementation/048h-secrecy-verifiability-coercion.md)
 - [48i. Three Channels and a Parallel Count: Money, an Open Vote, a Secret Ballot](08-implementation/048i-three-channels-parallel-count.md)
 - [48j. Courts and Local Tuning: What the Protocol Does Not Describe, and Why](08-implementation/048j-courts-and-local-tuning.md)
+- [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
+- [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)
+- [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)
 
 ## Part IV — 🌍 Country Implementations
 
@@ -221,12 +224,31 @@ United States is one country case among others, not the frame of the document.*
 - [59e. The Underdog Campaign: Off-Year, the Prosecutor, 99% vs 0.11%](10-usa/059e-underdog-campaign.md)
 - [59f. Pratt, Chicago 2027, the States and Trump's 14 Days](10-usa/059f-pratt-chicago-trump.md)
 
+## Numbers that occur twice
+
+Numbers 033–040 exist both in chapter 06 and in chapter 07; numbers 045–048b both in chapter 08 and in chapter 10. This arose during assembly, and the files are not renamed so as not to break links. When such a number is cited, the chapter is given: "06/037".
+
+| Number | Chapter 06 — critique arsenal | Chapter 07 — manifesto |
+|---|---|---|
+| 033 | Henry George | The Manifesto |
+| 034 | Fraenkel | The state as a corporation |
+| 035 | Three sceptics | Route B |
+| 036 | Nobel laureates | Comparison with ten ideas |
+| 037 | The seventh AI; the article on protection of the dividend | The Dalio objection |
+| 038 | Gaaze | Naming the reforms |
+| 039 | Levitsky and Ziblatt; Orbán | Opponents |
+| 040 | The eighth AI | Media strategy |
+
+| Number | Chapter 08 — implementation | Chapter 10 — USA |
+|---|---|---|
+| 045 | Campaign economics | The US legal base |
+| 046 | Detonators: the UK | The Oregon initiative |
+| 047 | Zugzwang of carriers | State by state |
+| 048 | The topology of inevitability | The W-2 data source |
+| 048b | The economics of stupidity | The W-2 source in detail |
+
 ---
 
 [Changelog](changelog.md)
 
 *© 2026 Denis Klyavlin · AB-EXIT™ · CC BY-NC-SA 4.0 · denis@ab-exit.com*
-
-- [48k. An Inventory of Norms and Eleven Discrepancies](08-implementation/048k-charter-inventory.md)
-- [48l. The Courtyard Pilot: Live Money Against a Weighted Vote](08-implementation/048l-courtyard-pilot.md)
-- [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)

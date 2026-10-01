@@ -92,7 +92,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 3. The payment is not taken into account in awarding benefits, subsidies and concessions and is not subject to taxes or levies.
 4. The payment and the right to future payments cannot serve as security for a loan; contracts to that effect are void.
 
-*Source: 037 "Article N", 048g §3b.*
+*Source: 06/037 "Article N", 048g §3b.*
 
 ### Article 9. The counter
 
@@ -219,4 +219,4 @@ The text is assembled from norms written as arguments, and a country's lawyer wi
 
 ---
 
-**Related:** 048k (inventory, decisions, sanctions ladder) · 006b §5 (roadmap) · 049 (charter for a municipality) · 048f (double entry) · 048g (rollback) · 048h (secrecy and coercion) · 048i (three channels) · 048j (courts) · 048l (the pilot) · 037 (protection of the dividend) · 042 (five parameters) · 056f §13k (core and parameters) · 033b (the short manifesto)
+**Related:** 048k (inventory, decisions, sanctions ladder) · 006b §5 (roadmap) · 049 (charter for a municipality) · 048f (double entry) · 048g (rollback) · 048h (secrecy and coercion) · 048i (three channels) · 048j (courts) · 048l (the pilot) · 06/037 (protection of the dividend) · 042 (five parameters) · 056f §13k (core and parameters) · 033b (the short manifesto)
