@@ -1556,6 +1556,30 @@ The opposition's whole repertoire is tactics with a date: smart voting, "Noon", 
 
 **Weak point.** The border between core and parameters is nowhere written on one page: until the charter exists (048k §4), the core itself may be declared a "parameter" — for instance, paying for turnout rather than for exit.
 
+## 13l. Peaceful Russia: what the party plans on the ground and whether it needs the protocol
+
+The architect's question of 01.10.2026: "find on the site what they plan to do on the ground and compare their plans with the protocol; perhaps they need it badly?" Read: the manifesto, the charter (048m), the Central Political Council's statement of 21.09.2026 on the election results, the "Noon" announcement of 12.08, the chairman's article of 08.08, the bureau's statements.
+
+**What they plan.** Before the election — "Noon for a peaceful Russia": come on 20 September at 12:00, vote against United Russia, photograph the queues. After the election — the statement of 21.09: the Duma is appointed, legal opposition work in Russia no longer exists; the regime rests on its ability "to pay for loyalty and punish dissent", and that resource is running out; people can unite situationally but cannot hold positions for long; the electoral system that could secure a democratic transition is destroyed. The plan — by the window of opportunity to restore the capacity for organised action through a clandestine network in Russia and in emigration with its centre abroad; membership is anonymous. The rest of the work is addressed outside Russia: a letter to the European Commission on deserters, an article for European politicians, statements on political prisoners; at the congress the lines of work named were education on the internet, support for supporters inside the country and contacts with the West.
+
+| | Peaceful Russia | The protocol |
+|---|---|---|
+| Diagnosis of the regime | pays for loyalty, the resource is running out | the same: a monopsony on loyalty (§13j) |
+| What is awaited | the window of opportunity | the same window (§13j) |
+| What will be in the window | an organised force; which electoral system is not said | a ready rule the first contender picks up as a demand (048m) |
+| Action now | a clandestine network: membership, a centre, risk | a question without membership, centre or risk (§13i) |
+| Audience | the anti-war minority and Europe | the core electorate, an entrance from any side (§13k) |
+| Tactic at the election | "Noon": the queue is visible, there is no number | a sign on the ballot: a number in the precinct protocol (§13i) |
+| Lifespan | until polling day | none |
+
+**Do they need it — yes, in three places, and these are their own blanks.**
+
+- **"What comes after".** They themselves write that the transition is not guaranteed and the electoral system is destroyed; the manifesto has one line on it, about honest and transparent rules. The protocol is the content of that line.
+- **A message for the majority.** Their programme requires the listener first to agree about the war; the protocol does not. Without the core electorate the window will open for someone else.
+- **A safe task for the network.** A network without a task is a list of names. "Ask in your own bubble where my 30,000 are" is an assignment that is lawful and does not expose the participant.
+
+**Where it will not fit.** Their identity is values, and payment for exit will look to them like bribery (029). For the protocol they are dangerous as a face: a centre abroad is an address, and the label will stick to the question (§13g, §13i). They need the protocol more than it needs them: fit as a customer for "what comes after", as lawyers and educators; unfit as a carrier.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
