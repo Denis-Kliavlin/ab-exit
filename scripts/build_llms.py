@@ -67,6 +67,8 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "The protocol raises turnout."  RIGHT: turnout rises at the referendum on adopting it; at elections under it, some people take the payment and do not vote - mostly those with no stake of their own, so a lower count of ballots does not by itself hurt a challenger.
 - WRONG: "The choice is reversible."  RIGHT: it is final within one election and made anew at the next.
 - WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
+- WRONG: "It is arbitrage: the candidate buys the apathetic and sells to the motivated."  RIGHT: the candidate pays nobody and sells nothing; the budget pays by rule.
+- WRONG: "Voting is the motivated voter's dominant strategy; game theory shows the protocol is flawless."  RIGHT: the decision is a threshold; the proofs are sketches under three assumptions.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
 
 WHAT IT GIVES A CHALLENGER - HONESTLY
@@ -103,6 +105,8 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «Протокол поднимает явку».  ВЕРНО: явка растёт на референдуме о его введении; на выборах по протоколу часть людей берёт выплату и не голосует - прежде всего те, у кого нет собственной ставки, поэтому меньшее число бюллетеней само по себе претенденту не вредит.
 - НЕВЕРНО: «Выбор обратим».  ВЕРНО: в пределах одних выборов он окончателен, на следующих делается заново.
 - НЕВЕРНО: «Взявший деньги лишается прав».  ВЕРНО: он сохраняет все прочие права и голосует на референдумах о самом правиле.
+- НЕВЕРНО: «Это арбитраж: кандидат покупает апатичных и продаёт мотивированным».  ВЕРНО: кандидат никому не платит и ничего не продаёт; платит бюджет по правилу.
+- НЕВЕРНО: «Голосовать - доминантная стратегия мотивированного; по теории игр протокол безупречен».  ВЕРНО: решение пороговое; доказательства - наброски с тремя допущениями.
 - НЕВЕРНО: «72 часа» - правило.  ВЕРНО: это непроверенная догадка о первых днях кампании.
 
 ЧТО ЭТО ДАЁТ ПРЕТЕНДЕНТУ - ЧЕСТНО
@@ -120,12 +124,12 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 
 PARTS = {
     "en": [
-        ("PART 1. TWENTY STATEMENTS", "01-introduction/001d-exact-answers.en.md", "## Twenty statements", "## Frequent misreadings"),
+        ("PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING", "01-introduction/001d-exact-answers.en.md", "## Twenty statements", "## Frequent misreadings"),
         ("PART 2. THE CHARTER", "08-implementation/048m-charter.en.md", "## THE CHARTER", "## What did not enter the charter and why"),
         ("PART 3. A CANDIDATE'S TEN QUESTIONS", "08-implementation/048n-underdog-questions.en.md", "## Ten questions", "## Weak point"),
     ],
     "ru": [
-        ("ЧАСТЬ 1. ДВАДЦАТЬ УТВЕРЖДЕНИЙ", "01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## Частые ошибки чтения"),
+        ("ЧАСТЬ 1. ДВАДЦАТЬ УТВЕРЖДЕНИЙ И ЯЗЫК ТЕОРИИ ИГР", "01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## Частые ошибки чтения"),
         ("ЧАСТЬ 2. УСТАВ", "08-implementation/048m-charter.md", "## УСТАВ", "## Что в устав не вошло и почему"),
         ("ЧАСТЬ 3. ДЕСЯТЬ ВОПРОСОВ КАНДИДАТА", "08-implementation/048n-underdog-questions.md", "## Десять вопросов", "## Слабое место"),
     ],
@@ -169,8 +173,8 @@ def main():
         text = build(lang)
         io.open(DOCS / name, "w", encoding="utf-8", newline="\n").write(text)
         print(f"{name}: {len(text.encode('utf-8')) // 1024} KB")
-    en = statements("01-introduction/001d-exact-answers.en.md", "## Twenty statements", "## Frequent misreadings")
-    ru = statements("01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## Частые ошибки чтения")
+    en = statements("01-introduction/001d-exact-answers.en.md", "## Twenty statements", "## In the language of game theory")
+    ru = statements("01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## На языке теории игр")
     assert sorted(en) == sorted(ru) == list(range(1, 21)), (sorted(en), sorted(ru))
     data = {
         "name": "AB-EXIT",

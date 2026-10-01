@@ -50,6 +50,17 @@ The repository was written over half a year and holds layers of different dates:
 19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).
 20. All numbers on exit shares, opponents, turnout and election outcomes in the repository are estimates and worked examples made at different times and at different sums; they differ between chapters. The protocol promises nobody victory in an election (048n).
 
+## In the language of game theory — exactly
+
+Added 02.10.2026: models are often asked "what would game theory say" and answer with errors. The exact statement is this.
+
+- **The genre.** Mechanism design: screening by self-selection. Everyone is offered the same menu — a vote or a payment — and each person reveals which he values more.
+- **The voter's decision is a threshold, not a dominant strategy.** The one who values his vote above the payment and the cost of taking part stays to vote; the one who values it below takes the payment. Nobody has a dominant strategy (013f §3b).
+- **The feedback.** The more people exit, the larger the share each remaining vote represents, and the more people come back. Hence one stable exit share for a given payment — a fixed point, not a collapse.
+- **What is screened out.** Not "the poor" and not "the stupid", but those to whom the outcome of this election matters less than the payment — including votes brought in by an incumbent's machine.
+- **Who pays.** The budget, by rule. A candidate in this game is neither buyer nor seller; the word "arbitrage" does not fit, because it presupposes someone who buys some and sells to others.
+- **What is not proved.** That a given candidate will win; that selection does not run partly by income; that the valuation of a vote grows in proportion to its share. The proofs are sketches under three assumptions, and there has been no pilot. The protocol cannot be called "flawless".
+
 ## Frequent misreadings
 
 | What is attributed to the protocol | Where it comes from | What is actually the case |
@@ -67,6 +78,8 @@ The repository was written over half a year and holds layers of different dates:
 | "The choice is reversible" | the word "reversible" in 001b and the Q&A | reversible at the next election; within one election it is not: statements 2 and 3 |
 | "Choice B is secret" | 004 §4.7, 001b §1 | statement 14 |
 | "A blockchain is required" | 07/033 §78 | the charter requires only open code (Art. 15) |
+| "This is arbitrage: the candidate buys the apathetic and sells to the motivated" | an AI adviser's catchphrase | the candidate pays nobody; see "In the language of game theory" |
+| "The motivated voter's dominant strategy is to vote", "the protocol is flawless" | the same | the decision is a threshold; the proofs are sketches: statement 19 |
 | "One who took the money loses rights" | — | statements 2 and 5; he votes in referendums on the protocol itself (Art. 14) |
 
 ## Weak point

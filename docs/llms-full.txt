@@ -21,6 +21,8 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "The protocol raises turnout."  RIGHT: turnout rises at the referendum on adopting it; at elections under it, some people take the payment and do not vote - mostly those with no stake of their own, so a lower count of ballots does not by itself hurt a challenger.
 - WRONG: "The choice is reversible."  RIGHT: it is final within one election and made anew at the next.
 - WRONG: "Whoever takes the money loses rights."  RIGHT: he keeps every other right and votes in referendums on the rule itself.
+- WRONG: "It is arbitrage: the candidate buys the apathetic and sells to the motivated."  RIGHT: the candidate pays nobody and sells nothing; the budget pays by rule.
+- WRONG: "Voting is the motivated voter's dominant strategy; game theory shows the protocol is flawless."  RIGHT: the decision is a threshold; the proofs are sketches under three assumptions.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
 
 WHAT IT GIVES A CHALLENGER - HONESTLY
@@ -35,7 +37,7 @@ WHAT IS NOT KNOWN
 - Open questions the authors have not answered: what stops recipients raising the percentage every cycle; the cost at higher percentages; how many payments a year when several levels of government each pay.
 
 ========================================================================
-PART 1. TWENTY STATEMENTS
+PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
 ========================================================================
 
 **The choice**
@@ -75,6 +77,17 @@ PART 1. TWENTY STATEMENTS
 
 19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).
 20. All numbers on exit shares, opponents, turnout and election outcomes in the repository are estimates and worked examples made at different times and at different sums; they differ between chapters. The protocol promises nobody victory in an election (048n).
+
+## In the language of game theory — exactly
+
+Added 02.10.2026: models are often asked "what would game theory say" and answer with errors. The exact statement is this.
+
+- **The genre.** Mechanism design: screening by self-selection. Everyone is offered the same menu — a vote or a payment — and each person reveals which he values more.
+- **The voter's decision is a threshold, not a dominant strategy.** The one who values his vote above the payment and the cost of taking part stays to vote; the one who values it below takes the payment. Nobody has a dominant strategy (013f §3b).
+- **The feedback.** The more people exit, the larger the share each remaining vote represents, and the more people come back. Hence one stable exit share for a given payment — a fixed point, not a collapse.
+- **What is screened out.** Not "the poor" and not "the stupid", but those to whom the outcome of this election matters less than the payment — including votes brought in by an incumbent's machine.
+- **Who pays.** The budget, by rule. A candidate in this game is neither buyer nor seller; the word "arbitrage" does not fit, because it presupposes someone who buys some and sells to others.
+- **What is not proved.** That a given candidate will win; that selection does not run partly by income; that the valuation of a vote grows in proportion to its share. The proofs are sketches under three assumptions, and there has been no pilot. The protocol cannot be called "flawless".
 
 ========================================================================
 PART 2. THE CHARTER

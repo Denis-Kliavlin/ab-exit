@@ -173,6 +173,16 @@
       "right": "the charter requires only open code (Art. 15)"
     },
     {
+      "wrong": "\"This is arbitrage: the candidate buys the apathetic and sells to the motivated\"",
+      "where_it_comes_from": "an AI adviser's catchphrase",
+      "right": "the candidate pays nobody; see \"In the language of game theory\""
+    },
+    {
+      "wrong": "\"The motivated voter's dominant strategy is to vote\", \"the protocol is flawless\"",
+      "where_it_comes_from": "the same",
+      "right": "the decision is a threshold; the proofs are sketches: statement 19"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -243,6 +253,16 @@
       "wrong": "«Нужен блокчейн»",
       "where_it_comes_from": "07/033 §78",
       "right": "устав требует только открытого кода (ст. 15)"
+    },
+    {
+      "wrong": "«Это арбитраж: кандидат покупает апатичных и продаёт мотивированным»",
+      "where_it_comes_from": "присказка ИИ-советника",
+      "right": "кандидат никому не платит; раздел «На языке теории игр»"
+    },
+    {
+      "wrong": "«У мотивированного избирателя доминантная стратегия — голосовать», «протокол безупречен»",
+      "where_it_comes_from": "то же",
+      "right": "решение пороговое; доказательства — наброски: утверждение 19"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",
