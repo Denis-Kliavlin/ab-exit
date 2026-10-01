@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.2 · 1 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.3 · 1 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -75,7 +75,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 3. One who chose B in the first [3] days of the window is paid a premium of [5–10] per cent; it is financed from the discount under paragraph 5.
 4. One who chose nothing retains the right to vote.
 5. One who chose nothing and did not vote may receive the payment after polling day and until the next election at a discount of [20–30] per cent. On applying for it he may check whether a ballot was cast under his record.
-6. The payment is tied to the calendar of the electoral cycle, not to the fact of an election being held. If the election is not held on time, the payment under paragraph 5 is made without a discount to everyone in the register.
+6. The payment is tied to the calendar of the electoral cycle, not to the fact of an election being held. The procedure of payment where an election is not held on time is determined by the jurisdiction's law.
 
 *Source: 048k §3 (decisions 6, 8, 12), 004 §4.1, §4.9, 048i §5b, 048g §3b.*
 
@@ -123,7 +123,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 ### Article 12. Courts
 
 1. Six disputes fall to the court: on a late payment where a signature stands in the roll; on a repeat vote at a precinct; on a payment taken in another's name; on an anomaly under Article 11; on the cessation of publication of the counter; on a law or act distorting this charter.
-2. The time limit for consideration is [3] days.
+2. The time limit for consideration is counted in days: [N] days.
 3. Everyone whose record is affected and every candidate has standing, without a prior decision of a prosecutor or a commission.
 4. Published data — the treasury statement, the register record, the tokens, the counter — are evidence until rebutted.
 5. The jurisdiction may assign these disputes to a jury chosen by lot from outside the district of the dispute.
@@ -182,6 +182,9 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 | Choice among several percentages | the referendum procedure | lawyers and sociologists |
 | Legal route | a law, a constitutional amendment, a private referendum (045, 035) | lawyers |
 | Thresholds of Articles 10 and 11 | channel divergence, anomaly | from the pilot (048l) |
+| The court's time limit | how many days for the six disputes of Article 12 | lawyers |
+| An election not held on time | how and to whom to pay (Article 6) | lawyers and economists |
+| Composition of the formula | whether a household coefficient or another multiplier is needed inside the percentage | economists |
 
 ## What did not enter the charter and why
 
@@ -189,7 +192,7 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 - **The council's right to change the coefficient, the eight-year cooling-off, the ceiling of 3 % of the budget** — removed (decisions 2, 3).
 - **Switching from B back to A** — removed (decision 7).
 - **The seat formula** — "we do not change the voting system before adoption".
-- **The household coefficient 1.5** — dissolved in the percentage: the earlier form D = M × 1.5 × K is a particular case of D = p × M.
+- **The household coefficient 1.5** — did not enter the charter: the charter knows only a percentage of the median, and what the percentage is composed of is for the experts (annex).
 
 ## A package of three documents, and a comparison with a party charter
 
@@ -208,9 +211,11 @@ The contrast is more useful.
 
 The party's manifesto is three values and a mission: a state where "the power serves the people and changes regularly by their will". That is a "for" without a mechanism (056f §13k), and for the protocol not a competitor but a ready place: the aim on controlled elections is empty exactly where the protocol fits, and the party's declared line of work — political education — coincides with the role in 056f §13i.
 
+*The architect's decisions of 01.10.2026 on three places where the assistant decided by himself in assembling the text: the consequences of an election not held — "not a frequent case, we leave it to the experts"; the composition of the formula and the court's time limit — "unimportant, also for the experts". All three are moved to the annex.*
+
 ## Weak point
 
-The text is assembled from norms written as arguments, and a country's lawyer will rewrite every article for his own legal system; the draft tests completeness, not wording. The seven rows of the annex are blank spaces the first critic will name, and the thresholds of Articles 10 and 11 have nowhere to come from before the pilot. Article 1 forbids replacing the core with a parameter, but it cannot itself settle a dispute over what the core is: the court under Article 12 will, and the court is the last to benefit from the protocol (048j §3). 🟡
+The text is assembled from norms written as arguments, and a country's lawyer will rewrite every article for his own legal system; the draft tests completeness, not wording. The ten rows of the annex are blank spaces the first critic will name, and the thresholds of Articles 10 and 11 have nowhere to come from before the pilot. Article 1 forbids replacing the core with a parameter, but it cannot itself settle a dispute over what the core is: the court under Article 12 will, and the court is the last to benefit from the protocol (048j §3). 🟡
 
 ---
 
