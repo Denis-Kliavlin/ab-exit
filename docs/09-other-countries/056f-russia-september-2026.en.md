@@ -1456,6 +1456,32 @@ The last row follows the rule of §13g: "the money exists", not "instead of the 
 
 **Division of labour** (the architect: "the opposition in exile will find such figures — fireworks for city day and other showy spending of the power — you need not bother"). Correct: showy spending has been collected for twenty years, the arsenal is ready and the habit is there. The protocol adds one thing to other people's figures — the denominator. "Fireworks for 500 million" by itself is indignation; "fireworks = the dividend of 17,000 people" is a bill. Without the sum a spending figure has no unit of measure; with it every outlay of the power converts automatically into "how many voters were left without the dividend". That is the protocol's contribution to others' work: not to find the figures but to give them a unit.
 
+## 13i. The question instead of smart voting, and a sign on the ballot
+
+The architect, 01.10.2026: "how real is all this for the opposition to implement as a replacement for smart voting, and how much better is the effect; one can also add a symbol on the ballot — but that is a secret weapon, to be brought out right before the election".
+
+**Who carries it.** The opposition in exile as carrier is a poor option (§13g): its audience is the same 5–10 %, and the label turns the loyalist channels away. Its role is §13h: the figures and the first seeding, not the face. The carrier comes from the loyalist milieu.
+
+**How the question beats smart voting.**
+
+| | Smart voting | The question "where are my 30,000" |
+|---|---|---|
+| Coordination | a list of candidates and an app that gets blocked | none needed: one word (033c §9d) |
+| Risk to the participant | a link to an "extremist" structure | none: not politics, not "against" (039) |
+| Legitimation | participation recognises the result | recognises nothing |
+| Lifespan | dies on polling day | renewed every cycle while the money is absent (§13f) |
+| Where it is measured | inside the power's count — "effectiveness cannot be spoken of" (§13e) | outside: knowledge of the sum in polls, the Kremlin's answer, bot activity (§13g) |
+
+Where it is no better: the question also does not change the result of the current election and yields no mandates. It changes the agenda of the next cycle and takes the story of the elections away from the power; the effect is measured in people who know the sum, not in seats.
+
+**A sign on the ballot.** The sign "30,000" turns the present ballot into a two-button one without any law: the person declares exit himself. Under Federal Law 67 a ballot with one mark in a square is valid whatever is written on it; without a mark it is invalid. Hence two modes: "sign + vote" — seen by the commission and observers, not in the result; "sign only" — lands in the line "invalid ballots" of every precinct's protocol, a published line, normally 1–3 %, which the power has never needed to draw. A jump to 10 % is visible across all precincts and cannot be attributed to the opposition: no candidate, no "against".
+
+Two effects beyond the line: hundreds of thousands of commission members — the public-sector employees of §13d — hold the sign in their hands all day; photo-recording by observers makes the "invalid" line the first that is hard to rewrite.
+
+**Why right before the election.** The question is sown for a year; the sign is announced in the last week — too late to brief 90,000 commissions or change the law. The sign explains itself if the sum is already known.
+
+**Weak point.** The "invalid" line is inside the count (§13e) and can be understated; so the sign is a demonstration to commissions and observers, and the measure stays outside. The analogues — the "accordion" in Belarus 2020 and "Noon" in 2024 — the power ignored; the sign has what they lacked: a number in the protocol. 🟡
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
