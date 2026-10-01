@@ -1418,6 +1418,24 @@ Facts. On 14.04.2026 the blogger Viktoria Bonya (Monaco, 16 years outside Russia
 
 **Weak point — the carrier.** She gave thanks in tears for having been watched: a carrier satisfied by attention is bought with attention. The protocol needs from the carrier not loyalty but the question, and the question outlives the carrier: it cannot be "watched and closed". The second risk is from §13e: a one-off payment "following the address" and "we have paid".
 
+## 13g. The split of the pro-regime camp over Bonya: the dividing line is ours, the route runs through the loyalists
+
+The architect's question: "did the pro-regime Z-bloggers, who are no opposition at all, support Bonya or keep silent — and how does this help the spread of the protocol?" The facts of the reaction (April 2026; she has 13 million subscribers, the video ended at 30 million views and 1.6 million likes).
+
+**They attacked the person, not the content.** Podolyaka (2.8 million): "an enemy to all of us, like Navalny", "part of a plan to rock Russia"; Kirill Fyodorov: "rituals with banned substances, fled to Monaco"; Life — "lives in Monaco"; Tsargrad — a segment "Glamour junkie against Putin"; Solovyov — "a worn-out prostitute" and a request to the Ministry of Justice for foreign-agent status; Milonov — "escort". The Kremlin bots doubled their norm: 16 comments per post instead of 8. Not one disputed any of the five facts.
+
+**Support came from the same pro-war milieu.** Kashevarova: "she said what we have been writing for a long time"; Kolyasnikov, host of Solovyov Live: "the first fruits of the idiotic blockings"; Dva Mayora: "her content interests people more than the war". The insults produced a second wave larger than the first — the "women's revolt", a flashmob and a class action.
+
+What follows for the spread.
+
+1. **The dividing line is the protocol's line.** Since 2022 the Z-milieu lives in the frame "the president is lied to, the middle steals"; Bonya landed in it literally. The protocol's question lands there too: the governors' "bags of votes" (§13d) are the middle, the thermostat is an honest number for the top (048d §4). In Z-language the protocol sounds like "give the top the truth no governor can draw".
+2. **The route runs through the loyalists, not the opposition.** To TV Rain she said "I am not with you", and for a carrier that is right: the audience of opposition media is a few per cent, that of Z-channels and lifestyle bloggers tens of millions. A host of Solovyov Live carried her thesis: the power's own infrastructure carries the question if it is not against the power (056d §7b, 035).
+3. **The power has two answers, and neither works against a sum.** "Work is under way" closes a complaint but not "where are my 30,000". "An escort from Monaco" refutes neither Dagestan nor the sum, and produces a second wave: an attack on a non-opposition carrier hits the attacker. Hence the choice of carrier (041): one off whom ad hominem bounces — a mother of many, a soldier's wife, a rural public-sector employee; "foreign agent" does not stick to them.
+4. **The bots are a counter.** The doubling of the comment norm is a measurable sign of a hit and a free metric of spread.
+5. **"Interests people more than the war"** — a demand signal from the war audience: a domestic money question outranks the war. The dividend of 5–7 % (§13d) is to be presented not as "instead of the war" but as "the money exists".
+
+**Weak point.** The Z-bloggers supported her because her complaints matched their anti-bureaucratic line; the vote is the top's sacred thing, and Podolyaka's "rocking" will be heard more often. The answer lies in the frame: "you take the vote anyway — pay for it" does not say the elections are fake; it says the vote is worth something.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
