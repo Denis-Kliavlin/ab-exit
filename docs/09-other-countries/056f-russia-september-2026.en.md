@@ -1548,7 +1548,9 @@ The opposition's whole repertoire is tactics with a date: smart voting, "Noon", 
 
 **There is no name in the protocol — and that is a race, not an obstacle.** The first version named as the weak point: an idea without a leader gives leaders no reason to carry it. The architect: "they will find where to write their name in; but not to hitch oneself to such a rocket is to make a present of it to a competitor; nobody is going to ask their will here". Correct: the idea travels in the core electorate without them (§13i), and each has only the choice "with it" or "past it". The name writes itself in — "I said it first", "my calculation of the sum", "my bill" — and the protocol does not change for it: the right, not the methods.
 
-**Weak point.** The race for the name may split the idea itself into versions — "my dividend" against "yours", with different sums and conditions. The protection is one text of the rule on one page (048k §4) against which any version is checked; until it exists, versions multiply freely.
+**Where the name is written in — in the parameters.** I had recorded as the weak point the idea splitting into versions. The architect: "they will write their name in during the debates on the protocol's details — what per cent, how to count, when and where; we have left a great deal for the experts. There will be differences there, and there is room to roam". The charter deliberately left open the per cent of the median, the calculation of the median by country, the late-payment discount, the time scale, the levels of election (048k §3) — that is the place for names: "the sum according to one", "the formula of another". The core — two buttons, payment for exit, the weight of those who remain — is not open to dispute, because it is the idea. Differences in parameters do not split it but advertise it: every dispute about the per cent is one more video about the protocol.
+
+**Weak point.** The border between core and parameters is nowhere written on one page: until the charter exists (048k §4), the core itself may be declared a "parameter" — for instance, paying for turnout rather than for exit.
 
 ## 14. Weak point of the chapter
 
