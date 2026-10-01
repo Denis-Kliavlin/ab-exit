@@ -191,7 +191,7 @@ A second objection from the same clean chat (Grok, 02.10.2026). The one who want
 **What the protocol itself answers.**
 
 - **There is no quorum** (048m, Article 14). One who stays home does not vote "against"; those who come decide. The free rider does not sink the referendum.
-- **A fork for the machine.** To defeat the rule the incumbent must bring its people to the polling station. But the ballot is secret, and the question is about the money of the very person brought in. If it brings them, it gets votes "for": this has already happened, when a public-sector employee under his boss's eye clicked the wrong thing (056f §13d). If it does not bring them, the burned (011b §11b.2c) and those who want their vote to count for more decide.
+- **A fork for the machine.** To defeat the rule the incumbent must bring its people to the polling station. But the ballot is secret, and the question is about the money of the very person brought in. If it brings them, it gets votes "for": the machine sees that it brought the person in but does not see his mark. This is an inference from the design, not an observation; a close case is the public-sector employee who clicked the wrong thing under his boss's eye, but that was an election, not a referendum on his own money (056f §13d). If it does not bring them, the burned (011b §11b.2c) and those who want their vote to count for more decide.
 
 **What nobody knows.** How many will come. The estimate of referendum turnout in 08/045 is unsupported, as are the objector's numbers.
 
