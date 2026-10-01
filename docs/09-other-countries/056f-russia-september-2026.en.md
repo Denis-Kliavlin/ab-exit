@@ -1454,6 +1454,8 @@ The architect, 01.10.2026: "here one can fight the populists with their own weap
 
 The last row follows the rule of §13g: "the money exists", not "instead of the war". The word is "dividend" (033c §9d); the addressee is the middle and the party till, not the top (§13g). The arsenal is replenished by country: each has its own deputy, its own party payment and its own bill for the count.
 
+**Division of labour** (the architect: "the opposition in exile will find such figures — fireworks for city day and other showy spending of the power — you need not bother"). Correct: showy spending has been collected for twenty years, the arsenal is ready and the habit is there. The protocol adds one thing to other people's figures — the denominator. "Fireworks for 500 million" by itself is indignation; "fireworks = the dividend of 17,000 people" is a bill. Without the sum a spending figure has no unit of measure; with it every outlay of the power converts automatically into "how many voters were left without the dividend". That is the protocol's contribution to others' work: not to find the figures but to give them a unit.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
