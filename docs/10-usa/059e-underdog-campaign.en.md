@@ -44,6 +44,30 @@ The architect's correction: "do you really think these childish questions will t
 
 The 90-degree shift (§15.5): for 2,500 years all political thought from Plato to Mill and Jim Crow moved in one direction — *whom to admit* (a filter at the entrance: property, literacy, race — always through violence, because someone above decided who was worthy); the protocol asks a perpendicular question — *how much to pay for a voluntary departure* (a filter at the exit). For the thought to be born two things were needed: universal recognition of human dignity (the idea that a commoner must be *paid* to refuse participation became the norm only in the twentieth and twenty-first centuries — before, the plebs were driven out by force) and the economics of revealed preferences (money as a lie detector came from marketing half a century ago; political science still lives on polls). Plus: political science was a humanity, not an engineering discipline — thousands of dissertations on "raising civic duty" tried to change human nature instead of the architecture of incentives; and the monopoly on the rules — the rules were written by those who won elections; a party machine spending billions on manipulating the apathetic has no reason to create a protocol that liquidates itself. Technically (040e, 036d): needed were zero friction (one click, money on the card — a hundred years ago an office, a queue, paper, a cheque, a bank; the apathetic person would not bother and would go to vote by habit), automatic data collection (the W-2 appeared only in wartime), and ideological maturity (a hundred years ago the world fought for universal suffrage — "give everyone the vote"; "quality over quantity" was psychologically unacceptable). The ancient Greeks could not have invented Uber.
 
+## 5b. The experiment of 01.10.2026: an AI adviser reads the site
+
+The architect gave the model Qwen 3.7 the role of adviser and links to the repository and the site: "you are an underdog, 10 % at most, you have 20 million dollars, you badly want to win — how will these options help?" The model read the site and for nine questions in a row advised the protocol.
+
+**What this answer does not prove.** That the protocol wins elections. The course of the conversation: "a mathematical right to win" — to a direct question, "no strategy guarantees it" — under the push "but you said", an apology and a return to 66 %. The model agrees with an interlocutor who wrote "I badly want to win"; by the rules of 023b this is not evidence.
+
+**What it does prove.** A cold machine reader finds the idea and retells it: two buttons, the pitch, the creator's language, poison pills, the 72 hours, the filter by motivation. The site is readable, and an AI adviser itself becomes a carrier of the question (056f §13i).
+
+**What was distorted, and whose debt it is.**
+
+| What the model said | What the repository says | Whose debt |
+|---|---|---|
+| "$780", "1.5 % of the median", "the vote weighs triple", "from a trust" | there is no sum, there is a percentage of the median; "triple" is arithmetic, not a norm (033c §9b); the source of money is left to experts (048k §3, 048m) | ours: this chapter and its neighbours did not receive the amendments of 30.09.2026, and the most vivid layer turned out to be the oldest |
+| "66 % against 33 %" as "a mathematically calculated path" | §1 is a role-play "in a consultant's skin", and §6 says outright: not empirical | ours: the caveat stands at the end, the figure at the beginning |
+| "the protocol mobilises the sleepers, turnout rises" | turnout rises at the referendum on adoption; the protocol itself pays for exit | ours: the two regimes are not separated in one sentence |
+| "elect me — I will sign a decree" | only a referendum; elected bodies do not touch the charter (048m Art. 14) | the model's; this is the replacement of core by parameter named in the weak point of 056f §13k |
+| an escrow "I pay if I win", routing money through an independent committee to get round limits, a "factory of compromising material" | none of this is in the repository | the model's; a payment conditional on a candidate's victory is, in most jurisdictions, precisely the bribery of voters, and getting round limits is a violation |
+
+The last row is a live example of "the protocol does not care who raises it" (056f §13l): anyone may raise it and attach his own; Article 1 of the charter is written against that.
+
+**Correction to §1 of this chapter.** "~$780" and "a vote with triple weight" are a layer from before the decisions of 30.09.2026: the size is set as a percentage of the median and approved by referendum, and the weight of a vote is not a norm but a consequence of the number who exited. Turnout in the scenario rises at the referendum on adopting the protocol, not at elections held under it.
+
+**How to make the experiment evidential.** Three models and three roles: the mayor's lawyer who must kill the initiative; a sceptical political scientist; and a question with no underdog story — only the link and "what is this and is it worth doing". That will be criticism not written by us (006b §5, row 6).
+
 ## 6. Weak point of the case
 
 The numbers in §1 (a third of the 80,000 non-voters) and §3 (0.11 % against) are a consultant's estimates in a role-play, not empirical evidence; in 045 and 046 the same quantities are given more cautiously. Iteration 3 is more honest than the first two: the only real opponents are judges and departmental saboteurs, and against them the campaign has only constitutional lawyers and time-to-value; the 72-hour phenomenon is a hypothesis resting on the stimulus-cheque precedent, which was an *unconditional* payment without a choice. And §2: the underdog's answer works at a debate, but the answer to legal ballot-title sabotage (iteration 1, point 1) is not contained in it. 🟡
