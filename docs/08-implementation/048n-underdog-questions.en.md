@@ -95,6 +95,21 @@ For simplicity the calculation leaves out the other candidates (the remaining 5,
 
 The consultants did not give "such results" because there are no such results.
 
+### Magic above arbitrage
+
+The AI adviser said twice: "this is not magic, this is arbitrage". The architect, 02.10.2026: "this is magic above arbitrage; it is pure mathematics, not deception".
+
+Arbitrage is a middleman's profit on the difference between two prices. Here there is no middleman: nobody buys some and sells to others, and nobody earns on a difference. What looks like magic is something else: both sides get what they wanted, and nothing is taken from anyone. The one who does not need the vote gets the payment; the one who needs it gets a larger share in the decision. That happens not in trading within the rules but when the rule itself is changed.
+
+Why it is not deception. Deception needs a hidden part, and here there is none: everything the protocol rests on can be recalculated by anyone.
+
+- The share of one vote equals one divided by the number who voted.
+- The total of payments equals the number who took one multiplied by the size of the payment, and it is visible in the treasury.
+- The number of ballots at a precinct cannot exceed the roll less those who took the payment.
+- The one who stays to vote is the one who values his vote above the payment.
+
+The limit. The mathematics here is the arithmetic of the rule. The outcome of an election does not follow from it: who wins depends on people, and all the numbers on that in the repository remain estimates (answers 1 and 9).
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.

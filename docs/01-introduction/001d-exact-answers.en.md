@@ -59,6 +59,7 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 - **The feedback.** The more people exit, the larger the share each remaining vote represents, and the more people come back. Hence one stable exit share for a given payment — a fixed point, not a collapse.
 - **What is screened out.** Not "the poor" and not "the stupid", but those to whom the outcome of this election matters less than the payment — including votes brought in by an incumbent's machine.
 - **Who pays.** The budget, by rule. A candidate in this game is neither buyer nor seller; the word "arbitrage" does not fit, because it presupposes someone who buys some and sells to others.
+- **Neither arbitrage nor deception.** The architect: "this is magic above arbitrage; it is pure mathematics, not deception". There is no middleman earning on a price difference; both sides get what they wanted because the rule itself changes. Nor is there a hidden part: the share of a vote, the total of payments and the limit on the number of ballots can be recalculated by anyone (048n).
 - **What is not proved.** That a given candidate will win; that selection does not run partly by income; that the valuation of a vote grows in proportion to its share. The proofs are sketches under three assumptions, and there has been no pilot. The protocol cannot be called "flawless".
 
 ## Frequent misreadings

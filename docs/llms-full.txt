@@ -87,6 +87,7 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 - **The feedback.** The more people exit, the larger the share each remaining vote represents, and the more people come back. Hence one stable exit share for a given payment — a fixed point, not a collapse.
 - **What is screened out.** Not "the poor" and not "the stupid", but those to whom the outcome of this election matters less than the payment — including votes brought in by an incumbent's machine.
 - **Who pays.** The budget, by rule. A candidate in this game is neither buyer nor seller; the word "arbitrage" does not fit, because it presupposes someone who buys some and sells to others.
+- **Neither arbitrage nor deception.** The architect: "this is magic above arbitrage; it is pure mathematics, not deception". There is no middleman earning on a price difference; both sides get what they wanted because the rule itself changes. Nor is there a hidden part: the share of a vote, the total of payments and the limit on the number of ballots can be recalculated by anyone (048n).
 - **What is not proved.** That a given candidate will win; that selection does not run partly by income; that the valuation of a vote grows in proportion to its share. The proofs are sketches under three assumptions, and there has been no pilot. The protocol cannot be called "flawless".
 
 ========================================================================
@@ -316,6 +317,21 @@ For simplicity the calculation leaves out the other candidates (the remaining 5,
 **What follows.** There is no magic: everything turns on the share brought in. That number can be estimated before any campaign, and the one who knows it best is precisely the political consultant — this is the question to take to him. And a second caveat the model missed: this arithmetic belongs to elections held after the protocol is adopted. At the coming election nobody is paid anything, and all the candidate has from the protocol is the question (answer 1).
 
 The consultants did not give "such results" because there are no such results.
+
+### Magic above arbitrage
+
+The AI adviser said twice: "this is not magic, this is arbitrage". The architect, 02.10.2026: "this is magic above arbitrage; it is pure mathematics, not deception".
+
+Arbitrage is a middleman's profit on the difference between two prices. Here there is no middleman: nobody buys some and sells to others, and nobody earns on a difference. What looks like magic is something else: both sides get what they wanted, and nothing is taken from anyone. The one who does not need the vote gets the payment; the one who needs it gets a larger share in the decision. That happens not in trading within the rules but when the rule itself is changed.
+
+Why it is not deception. Deception needs a hidden part, and here there is none: everything the protocol rests on can be recalculated by anyone.
+
+- The share of one vote equals one divided by the number who voted.
+- The total of payments equals the number who took one multiplied by the size of the payment, and it is visible in the treasury.
+- The number of ballots at a precinct cannot exceed the roll less those who took the payment.
+- The one who stays to vote is the one who values his vote above the payment.
+
+The limit. The mathematics here is the arithmetic of the rule. The outcome of an election does not follow from it: who wins depends on people, and all the numbers on that in the repository remain estimates (answers 1 and 9).
 
 ## What the protocol does not propose
 
