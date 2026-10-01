@@ -1460,7 +1460,7 @@ The last row follows the rule of §13g: "the money exists", not "instead of the 
 
 The architect, 01.10.2026: "how real is all this for the opposition to implement as a replacement for smart voting, and how much better is the effect; one can also add a symbol on the ballot — but that is a secret weapon, to be brought out right before the election".
 
-**Who carries it.** The opposition in exile as carrier is a poor option (§13g): its audience is the same 5–10 %, and the label turns the loyalist channels away. Its role is §13h: the figures and the first seeding, not the face. The carrier comes from the loyalist milieu.
+**Who carries it — nobody.** The opposition in exile as carrier is a poor option (§13g): its audience is the same 5–10 %, and the label turns the loyalist channels away; its role is §13h, the figures and the first seeding. I had written "a carrier from the loyalist milieu"; the architect corrected: that is still one carrier, and one gets removed. Yabloko was struck off the ballot on 10.08.2026 on Rodina's suit — for "May There Always Be Sunshine" in its campaigning, supporters' posts on blocked networks and "foreign financing": a structure with an address was removed. "Every Russian has his own bubble, and all the small bloggers about seedlings and cats will, for the hype, ask their audience too: what do you think about money at elections; bloggers already scan the whole internet professionally for a hype topic." The question is not carried — it is found, as Bonya was found (§13f): not distribution but self-distribution of a topic scanned by thousands without an address, surfacing in every bubble. There is nobody to remove.
 
 **How the question beats smart voting.**
 
