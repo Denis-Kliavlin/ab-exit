@@ -22,6 +22,7 @@ The log was not kept since June; below is a summary from the commit history. Eve
 - **09 Other Countries:** 055c "Germany" (§6 — the September 2026 state elections), 056d–056f "Russia", 057b "Belarus", 057c "Iran", 057d "Venezuela", 057e "Spain in the 1960s".
 - **10 USA:** 059–059f — presidents, Musk and Milei, the "Trump dividend", candidates, the underdog campaign.
 - **Q&A:** a full English mirror; entries Q-ETH-005, Q-SOC-006–008, Q-ELE-005–006, Q-GAM-005–006, Q-LEG-006, Q-IMP-005.
+- **Additions of 01.10.2026:** 048m "The AB-EXIT Charter" v0.2 — terms, preamble, 16 articles, annex; Article 1 on the border between core and parameters. 011b §11b.2b — a third state, the meek (*tikhonya*). 048f §4d–4e — double entry in nature and why votes have been counted by a simple tally for five hundred years. 056f §13c–13l — Shulman and remote e-voting, the question outside the count, the Bonya case, the split of the pro-regime camp, the arsenal of comparisons, the question against smart voting and the sign on the ballot, the contract between people and power, an idea with no expiry date, Peaceful Russia.
 
 ### Changed
 

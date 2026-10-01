@@ -64,7 +64,7 @@ State as of 30.09.2026. The first six rows are the list of 20.09; the last three
 
 | # | Gap | State | Where |
 |---|---|---|---|
-| 1 | **A text that can be adopted.** *The Federalist* had a constitution; our norms are scattered across chapters | The discrepancies were decided by the architect on 30.09.2026 (048k §3); what remains is to write the nine-page text itself on the skeleton of 048k §4 | 048k |
+| 1 | **A text that can be adopted.** *The Federalist* had a constitution; our norms are scattered across chapters | The discrepancies were decided by the architect on 30.09.2026 (048k §3); the text was written on 01.10.2026: terms, preamble, 16 articles, an annex of country settings; what remains are the thresholds of Articles 10–11 (awaiting the pilot) and review by a country's lawyer | 048k, 048m |
 | 2 | **A formal model.** Buchanan, Vickrey, Posner have mathematics | Closed in the part that can be closed without a referee: a setting, four theorems, two assumptions | 013f |
 | 3 | **Pilot data.** Alaska has forty years | Open. A courtyard experiment is proposed: 500–1,000 residents, a live fund, real money against a weighted vote on a real question of the courtyard — instead of buying opinions | — |
 | 4 | Beyond elections: courts, minority rights, the security forces | Closed as a design decision | 048j, 013e §5, 048d |
