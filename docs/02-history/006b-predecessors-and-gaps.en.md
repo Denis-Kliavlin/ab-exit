@@ -69,7 +69,7 @@ State as of 30.09.2026. The first six rows are the list of 20.09; the last three
 | 3 | **Pilot data.** Alaska has forty years | Open. A courtyard experiment is proposed: 500–1,000 residents, a live fund, real money against a weighted vote on a real question of the courtyard — instead of buying opinions | — |
 | 4 | Beyond elections: courts, minority rights, the security forces | Closed as a design decision | 048j, 013e §5, 048d |
 | 5 | **A short book.** *Progress and Poverty* was read by workers | Open; the architect's decision. The seed is 001b | — |
-| 6 | Criticism not written by us | Half closed: three letters from Tsikhanouskaya's Office (057b), line-by-line analyses of outside analysts (056f); no commissioned external review | 057b, 056f |
+| 6 | Criticism not written by us | Half closed: three letters from Tsikhanouskaya's Office (057b), line-by-line analyses of outside analysts (056f); no commissioned external review; a request for an external review has been sent by the architect, no reply as of 01.10.2026 | 057b, 056f |
 | 7 | **The seat formula.** The protocol counts votes, not mandates (039: 52.7 % of votes → 68 % of seats) | Closed by the decision of 30.09.2026: "we do not change the voting system before adoption" — mandates are counted as today | 039, 048k §3 |
 | 8 | Showing the number to people: the one-year change next to the three-year base | Handed to economists and sociologists (decision of 28.09); the charter is not to be amended until then | 039 |
 | 9 | The charter in 049 holds "K = 1 %", chapters 001 and 055c hold "any value that gives the result" | Closed: the size is set as a percentage of the median, decided by debate and referendum (048k §3); 049 and 002 carry an amendment note | 048k |
