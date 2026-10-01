@@ -23,13 +23,17 @@ Hence why traditional campaigns of "go and vote, your vote matters" **aggravate*
 
 Added on 1 October 2026 on the architect's instruction: "you brought into the discussion a notion — loyal, but not an activist of the regime. He would gladly live by conscience, but he is weak and dependent; he is an honest and good person, simply weak and conformist. I would call him 'the quiet one'. For him there is today no way to live lawfully and simply not take part in elections. This notion must be fixed, like the burned".
 
-The apathetic one never tried, the burned one tried and left; both have the right not to go. **The quiet one** is the one who lacks that right: he depends on an employer or superiors, he is brought in, and he performs. It is a state, not a type (015c §7a): a person is quiet while dependent.
+The architect's refinement of the first version of the definition: "the quiet one may stay away, but he is a public-sector employee or a pensioner — in short, depends on the power — and is by himself too weak to oppose it openly. But he is just, honest and wants to live by conscience". **The quiet one** is a person dependent on the power who lacks not understanding but strength: he submits without agreeing. It is a state, not a type (015c §7a): a person is quiet while dependent.
 
-| | Tried to influence | May stay away | What he does today |
+| | He cares | Depends on the power | What he does today |
 |---|---|---|---|
-| Apathetic | no | yes | stays away or comes for a trifle |
-| Burned | yes, more than once | yes | sits in the kitchen |
-| Quiet | immaterial | **no** | comes and performs |
+| Apathetic | no | immaterial | stays away or comes for a trifle |
+| Burned | yes | no, or has broken with it | sits in the kitchen |
+| Quiet | yes | **yes**: public-sector employee, pensioner | submits: comes when told, and keeps silent |
+
+Conscience sets him apart from the apathetic; not having left sets him apart from the burned.
+
+**On the name.** The architect also proposed a second one — "the lost sheep". The assistant's remark: lost means strayed and waiting for a shepherd, while this person has not strayed and is brought back by nobody — he is let go; and the word itself is demeaning. More exact than "the quiet one" may be "the bondsman" (Russian *podnevolny*) — what these people say of themselves: the word holds dependence and no guilt. The working name is "the quiet one", pending the architect's decision.
 
 Scholarship has several names for him, each taking one side.
 
@@ -41,7 +45,7 @@ Scholarship has several names for him, each taking one side.
 | Being "vnye" (outside) | A. Yurchak, 2005 | neither activist nor dissident: reproduces the form and lives his own life |
 | The administratively dependent voter | Frye, Reuter, Szakonyi, 2014 | votes because he depends on an employer; in a survey after the 2011 election a quarter of employees reported such pressure |
 
-**What the protocol gives him that none of the authors did.** Havel's greengrocer has two moves: keep the sign or take it down and become a dissident. In Kuran the lie collapses only by cascade, when the first brave show the rest they are not alone. Both exits demand courage, which the quiet one by definition lacks. Button B is a third move: take the sign down lawfully, for money and without becoming a hero; the treasury record does not let him be written back in (056f §13j, 048m Art. 5 and 10). The counter is the cheap honest signal whose absence Kuran held to be the cause of the suddenness of revolutions: the number who exited per precinct shows private opinion for the first time at no risk to the person. And the test in practice has already happened: the public-sector employee under his boss's eye clicked the wrong thing (056f §13d) — the quiet one performs the turnout but not the choice.
+**What the protocol gives him that none of the authors did.** Havel's greengrocer has two moves: keep the sign or take it down and become a dissident. In Kuran the lie collapses only by cascade, when the first brave show the rest they are not alone. Both exits demand courage, which the quiet one by definition lacks. Button B is a third move: take the sign down lawfully, for money and without becoming a hero; the treasury record does not let him be written back in (056f §13j, 048m Art. 5 and 10). The counter is the cheap honest signal whose absence Kuran held to be the cause of the suddenness of revolutions: the number who exited per precinct shows private opinion for the first time at no risk to the person. And the test in practice has already happened: the public-sector employee under his boss's eye clicked the wrong thing (056f §13d) — the quiet one submits in turnout but not in choice.
 
 **How this differs from circuit 3.** To the burned one the system says "you were right". To the quiet one it says nothing — it lets him go. The therapy here is not recognition but permission.
 
