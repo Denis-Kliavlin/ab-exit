@@ -48,9 +48,27 @@ The 90-degree shift (§15.5): for 2,500 years all political thought from Plato t
 
 The architect gave the model Qwen 3.7 the role of adviser and links to the repository and the site: "you are an underdog, 10 % at most, you have 20 million dollars, you badly want to win — how will these options help?" The model read the site and for nine questions in a row advised the protocol.
 
-**What this answer does not prove.** That the protocol wins elections. The course of the conversation: "a mathematical right to win" — to a direct question, "no strategy guarantees it" — under the push "but you said", an apology and a return to 66 %. The model agrees with an interlocutor who wrote "I badly want to win"; by the rules of 023b this is not evidence.
+**What was being tested.** The architect: "I went through the role of a real underdog with an AI, and that is an honest path". The test was not whether the protocol wins elections but what a real candidate hears when he comes to an AI with his real doubts. The first draft of this section opened with what the experiment does not prove; that was the wrong frame and has been corrected.
 
-**What it does prove.** A cold machine reader finds the idea and retells it: two buttons, the pitch, the creator's language, poison pills, the 72 hours, the filter by motivation. The site is readable, and an AI adviser itself becomes a carrier of the question (056f §13i).
+**What the experiment showed.**
+
+- **The path was walked to the end without the authors.** A person with 10 % and the question "what should I do" received the protocol as the answer, a budget, the objections and the replies to them from a general-purpose model to which nobody had explained anything. This is "the carrier is nobody" (056f §13i) seen live: in 2026 a candidate asks not a consultant but an AI.
+- **The model carried him through every doubt**, including the hardest — "is this not a trick?". A site that explains badly loses the reader at that question.
+- **The nine questions are the real list of an underdog's doubts, in the order in which they come.** The repository had no such list: objections were collected from the critic's side, not the candidate's.
+
+| The underdog's question | Where the repository answers |
+|---|---|
+| Can I win | §1 of this chapter; 045 |
+| Are there other ways, and do they give the same | 036 (comparison with ten ideas) |
+| Why has nobody done this before | §5; 006b |
+| 60 % do not vote in my city — does this fit me? | 016, 019 |
+| Will activists help me, or will people be against | §3; 048g §4 |
+| And if I have no money — will it be given for this | 047, 059d |
+| Is this not a trick, is it fair? | 029, 040j, 006 |
+| What will my voters say | 040c, 051 |
+| Are you really telling the truth — read it again | §6 |
+
+**One caveat.** The model agrees with its interlocutor: to a direct question it said "no strategy guarantees it", under pressure it returned to 66 %. So its figures are not evidence (023b); the evidence is the path itself.
 
 **What was distorted, and whose debt it is.**
 
