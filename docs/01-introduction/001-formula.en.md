@@ -7,6 +7,8 @@
 
 ---
 
+*Correction of 01.10.2026. The form D = M × 1.5 × K in this chapter is the first version of the formula. The current norm: the size of the payment is set by a single number — a percentage of the median income approved by referendum; what that percentage is composed of is for the country's experts (048k §3; 048m, Article 2; 1d).*
+
 D \= M × 1.5 × K
 
 **Where:**

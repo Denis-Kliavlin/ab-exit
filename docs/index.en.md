@@ -18,6 +18,8 @@ The document is universal. **Parts I–III** describe the protocol for **any cou
 
 Each section is self-contained — you can read it straight through as a book (using the "next/previous" buttons at the bottom of each page) or jump to what you need via the table of contents below.
 
+**If pages disagree** — the repository holds layers of different dates — [1d. Exact Answers](01-introduction/001d-exact-answers.md) and [48m. The Charter](08-implementation/048m-charter.md) are correct.
+
 **Quick routes by role:**
 
 - **Skeptic / critic** → start with [29. The Structural Hypocrisy of Criticism](06-critique-arsenal/029-hypocrisy.md), then [23. Comparative Effectiveness](05-empirical-base/023-quantitative-comparison.md)
@@ -49,6 +51,7 @@ Each section is self-contained — you can read it straight through as a book (u
 1. [The Core Formula D = M × 1.5%](01-introduction/001-formula.md)
 - [1b. AB-EXIT in One Chapter: the Essence and All the Important Logic](01-introduction/001b-essence.md)
 - [1c. A Board with No Good Moves: Half a Hundred Zugzwangs of the Protocol](01-introduction/001c-board-without-good-moves.md)
+- [1d. Exact Answers: What the Protocol Asserts and What It Does Not](01-introduction/001d-exact-answers.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)

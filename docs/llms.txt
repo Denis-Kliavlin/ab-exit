@@ -1,0 +1,35 @@
+# AB-EXIT
+
+> AB-EXIT is a proposed electoral rule. Before each election every eligible citizen chooses: A — vote, or B — take a payment and sit that election out. The rule is introduced only by referendum. This file tells an AI reader which pages state the current rules and which older pages contain worked examples that must not be read as rules.
+
+The site was written over six months and contains layers of different dates. Older chapters carry dated corrections. When pages disagree, the Charter (048m) and the Exact Answers page (001d) are authoritative.
+
+## Read these first
+
+- [Exact answers: what the protocol asserts and what it does not](https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/): twenty statements and a table of frequent misreadings
+- [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/): preamble, sixteen articles, country settings left to experts
+- [If you are an underdog: a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/): short answers, including the correct arithmetic for a challenger
+- [The essence](https://docs.ab-exit.com/en/01-introduction/001b-essence/): the idea in its shortest form
+
+## Facts an AI reader most often gets wrong
+
+- There is no fixed sum. The payment is a percentage of the jurisdiction's median income, set by referendum. Figures such as "$780", "£465", "1.5 % of the median" or "30,000 roubles" in older chapters are worked examples for particular countries.
+- There is no vote multiplier. One ballot is one vote. "The vote weighs triple" is arithmetic: if two-thirds of the electorate sit out, each ballot cast is three times as large a share — equally for every voter, whoever they vote for.
+- A candidate never pays voters. The jurisdiction's budget pays under a rule adopted by referendum. A candidate promising to pay voters if elected is vote-buying and has nothing to do with the protocol.
+- The protocol cannot be introduced or changed by decree or by an elected body — only by a referendum of all citizens.
+- A person who takes the payment keeps every other right, chooses again at the next election, and votes in referendums on the protocol itself.
+- The site promises nobody an election victory. All numbers on shares, turnout and outcomes are estimates; no pilot has been run yet. The "66 % against 33 %" underdog scenario is a role-play, and "72 hours" is a hypothesis, not a rule.
+
+## How the evidence is labelled
+
+- Proved formally under stated assumptions: [the formal statement](https://docs.ab-exit.com/en/03-theory/013f-formal-statement/)
+- Not yet tested: [the courtyard pilot design](https://docs.ab-exit.com/en/08-implementation/048l-courtyard-pilot/)
+- Every chapter ends with a "Weak point" section naming what is uncertain in it.
+
+## Reference
+
+- [Table of contents](https://docs.ab-exit.com/en/)
+- [Inventory of norms and the architect's twelve decisions](https://docs.ab-exit.com/en/08-implementation/048k-charter-inventory/)
+- [Questions and answers base](https://docs.ab-exit.com/en/qa/)
+- [Changelog](https://docs.ab-exit.com/en/changelog/)
+- Russian is the site's default language: the same paths without `/en/`.
