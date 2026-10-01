@@ -1350,6 +1350,33 @@ The occasion: the episode "Why are there no election results?" (30.09.2026, 8 mi
 
 The main thing in the episode is the last point, and she put it more exactly than we did: the absence of control is most dangerous for those who removed it. This is an argument for the protocol from the mouth of the bureaucracy, not the opposition. Her conclusion "there is nobody to go to" receives an answer: there is nowhere one needs to go — everyone has on his account a record that cannot be rewritten, and a person who will come for it.
 
+## 13d. Shulman on TV Rain, 01.10.2026: remote e-voting — a channel built for coercion that turned out the most honest
+
+The occasion: the interview with Yu. Taratuta "We are in a space of escalation" (TV Rain, 01.10.2026, 39 minutes; transcribed locally, the video had no subtitles). The architect: "what is interesting here for us, especially on remote e-voting". Her figures are as she states them.
+
+**What she says about remote e-voting (DEG).**
+
+1. Two electronic systems that do not match each other: the Moscow one and the federal one; she has not seen the Moscow results.
+2. DEG is the instrument for coercing public-sector employees: vote from the phone on Friday morning at the workplace, under supervision, identically from Sakhalin to Kaliningrad — an instruction from the centre. Used in 32 regions, mostly not in the "electoral sultanates": where paper cannot draw the result — distributed "rather cleverly".
+3. The technical operator of the federal system is the FSB: "a black box, turn it any way you like, nobody will stop you"; Moscow 2021 — "the electrons out-voted the people" in eight districts of fifteen.
+4. The first federal DEG results at night: United Russia 49 % — below "the psychologically important level", New People second, the KPRF third, LDPR and SR below 5 %. By morning United Russia had 50 %, second place unchanged. The contours match the statisticians' estimate separating the vote from "the white noise of falsification": turnout 40 %, United Russia 35 %. "The Russian collective public-sector employee did not demonstrate what was wanted of him" — knowing the boss sees his click, he did not click United Russia.
+
+**What follows for the protocol.**
+
+| Her observation | For the protocol |
+|---|---|
+| The channel built for coercion turned out closest to the truth, because it was published before it could be rewritten: the night's 49 % became the morning's 50 | Post-publication rewriting (§1) caught in the figures. Publish the counter by precinct during the window, machine-readable, with no right of suspension (004 §4.7b): what is published at night cannot be rewritten unnoticed |
+| Coercion buys the click, not the choice: brought in, voted against | Confirmation of 048h §6: bringing in is free, the choice is not. After the protocol whoever is brought in under button A loses the sum — coercion for the first time costs him money he can see; pressure on the choice is a criminal offence (048k §4b) |
+| One operator — one black box | The protocol's open channel is electronic too, and this is a warning: it cannot be one agency's app. The token is verified by the voter himself and by the candidate's server (048i §2, §4), channel B goes through the banks — a second owner of the record by construction. Three records with three owners against one with the FSB |
+| Two systems that do not match | An argument for a single treasury register: the sum paid once to one person — one record for the whole country (048f §3.2) |
+
+**The rest of the episode that will be of use.**
+
+- "The top sees the folder": the leadership does not know the real figures, the picture is clearer to those closer to the ground; those who report and the one who listens sustain the illusion mutually. This is 029.10 "the captured instrument" live: a poll and a protocol the power can draw for itself, the number who took the sum it cannot; the thermostat is honest for the one at the top as well (048d §4).
+- Governors compete over "whose bag of votes is heavier", and mobilise from the same obedient poor territories where they draw: "much noise, little wool" where United Russia gets little. With a turnout ceiling set by the register of those who exited, the bag cannot be inflated (048f).
+- No results for a week: "the accountant stole the money and now has to make the spreadsheet add up" — last-minute rewriting for 60,000 ballots for SR; double entry makes it impossible (§13c).
+- "Smart voting is the most effective of all the ineffective instruments": her own estimate of the ceiling of the present repertoire (056d §7).
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
