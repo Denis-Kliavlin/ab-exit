@@ -1478,6 +1478,19 @@ The architect, 01.10.2026: "how real is all this for the opposition to implement
 
 Where it is no better: the question also does not change the result of the current election and yields no mandates. It changes the agenda of the next cycle and takes the story of the elections away from the power; the effect is measured in people who know the sum, not in seats.
 
+**In per cent.** The architect: "Katz spent tens of minutes and several videos on a million-strong audience for smart voting and got nothing, in Shulman's words". Katz's figures are an estimate from open data (channel ~2.5 million, videos 1–2 million views each); the question's figures come from the single Bonya precedent (§13f).
+
+| | Smart voting, 2026 | The question "where are my 30,000" |
+|---|---|---|
+| Input | several videos, tens of minutes of flagship airtime | the same |
+| Reach | unique viewers ~3–5 million = 3–4 % of voters (110 million) | Bonya: 30 million views from one video = up to 27 %; net of repeats and abroad 15–20 %; target 40–50 % — the protocol's yardstick |
+| Chain to the result | saw → remembered the candidate of one's district → came → voted → was counted: five steps, the last done by the power | saw → knows the sum: one step, and it is already the result |
+| Conversion to a measurable effect | 0 % — "effectiveness cannot be spoken of" (§13e); even at full conversion 3 % of voters ≈ 5 % of turnout, spread over 225 districts and rewritten (§13c: SR +60,000) | ≈ 100 % of reach: knowing the sum is the effect; plus an obligatory Kremlin answer (1 of 1 in the precedent) and a doubling of bots (§13g) |
+| Residual value on 21 September | 0 — the videos are dead | full — the question carries over to the next cycle |
+| Side effect | legitimation by participation; a label on everything touched (§10) | none |
+
+In one line: smart voting bought 3–4 % of reach and 0 % of result, because the commission wrote the result; the question at the same price gives reach several times larger, and the result equals the reach, because the power is not allowed to count it. This agrees with the caveat of §5 ("a comparison of design, not of outcomes"): on 20 September the protocol gives no instruction, the question does — and it is carried out without adoption.
+
 **A sign on the ballot.** The sign "30,000" turns the present ballot into a two-button one without any law: the person declares exit himself. Under Federal Law 67 a ballot with one mark in a square is valid whatever is written on it; without a mark it is invalid. Hence two modes: "sign + vote" — seen by the commission and observers, not in the result; "sign only" — lands in the line "invalid ballots" of every precinct's protocol, a published line, normally 1–3 %, which the power has never needed to draw. A jump to 10 % is visible across all precincts and cannot be attributed to the opposition: no candidate, no "against".
 
 Two effects beyond the line: hundreds of thousands of commission members — the public-sector employees of §13d — hold the sign in their hands all day; photo-recording by observers makes the "invalid" line the first that is hard to rewrite.
