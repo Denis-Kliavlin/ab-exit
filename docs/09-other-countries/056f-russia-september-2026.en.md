@@ -1535,6 +1535,19 @@ What more is needed. The question creates demand; what makes the undermining dec
 
 The question is not a lever but a charge that lies there and grows dearer; it will go off from someone else's spark.
 
+## 13k. Not a patch: an idea with no expiry date, which the opposition lacks
+
+The architect, 01.10.2026: "as a symbol, as an idea for the opposition the protocol is not a patch, not a temporary measure for these elections, not a 1–2 % tweak; it is an honest, clear and timeless protocol that changes the whole system, and it can be promoted for years and even decades from different sides. It is clear and needed by the people from any side. It is the idea that unites, and the opposition has no such idea now".
+
+The opposition's whole repertoire is tactics with a date: smart voting, "Noon", boycott, signatures. Each dies on polling day and is reinvented (§13i). Only "against" unites the opposition; on "for" it is split — who leads, which candidate, which programme (056d). The protocol differs in genre.
+
+- **A rule, not a person and not a party.** It does not require agreement on who is in charge or what the policy is: "the right, not the methods" (048k §3). The subject of the quarrels is taken out of it.
+- **No expiry date.** Explanations accumulate over years rather than burning out on 21 September.
+- **An entrance from any side.** For the left — a dividend to the poor; for the liberal — a filter against populism; for the patriot — an honest number for the top (§13g); for the public-sector employee — an alibi (§13j); for business — the thermostat. One idea, five doors, and none requires changing camp first.
+- **An answer to "and what do you propose?"** — the question on which the opposition has been losing to the core electorate for twenty years.
+
+**Weak point.** An idea that needs no leader gives leaders no reason to carry it: a media politician lives by a personal audience, and §13i assigns him a role without a face. Only their own advantage can unite them — hype brings views, and by the window (§13j) each needs a ready answer to "what comes after". Outwardly a faceless question, inwardly a common answer.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
