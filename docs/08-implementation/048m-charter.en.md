@@ -155,7 +155,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 ### Article 15. The ballot line and transitional provisions
 
 1. The ballot of the referendum on introducing the charter states the percentage, the formula and the line: "Both rights — to vote and not to vote — are preserved forever; change is possible only by a new referendum."
-2. The provisions of Articles 2, 9 and 10 are part of the text put to the referendum.
+2. The provisions of Articles 2, 8, 9 and 10 are part of the text put to the referendum.
 3. Before first application at an election the jurisdiction may run a pilot on part of its territory; its results are published before the referendum.
 4. The program code of the register, the counter and the tokens is open.
 

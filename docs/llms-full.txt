@@ -36,7 +36,8 @@ WHAT IT GIVES A CHALLENGER - HONESTLY
 WHAT IS NOT KNOWN
 - No pilot data exist. The formal statement has sketched proofs and named assumptions and awaits an economist.
 - If recipients vote the percentage too high: the bill is printed on the ballot, the payment is a percentage of the median and falls with it, and a city that overpays becomes a lesson to its neighbours, like a company that paid out too much in dividends. The site admits that a very poor city may still vote it up.
-- Open questions the authors have not answered: what happens in a year when the budget cannot pay; the cost at higher percentages; how many payments a year when several levels of government each pay.
+- If the budget cannot pay in a given year: the payment is an unconditional obligation of the jurisdiction, as a tax is for a person; the money is accumulated over the cycle or borrowed for the purpose, and the payment cannot be reduced, deferred or cancelled.
+- Open questions the authors have not answered: the cost at higher percentages; how many payments a year when several levels of government each pay.
 
 ========================================================================
 PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
@@ -55,7 +56,7 @@ PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
 6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
 7. The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).
 8. The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).
-9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones.
+9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones. The payment is an unconditional obligation: the money for it is accumulated over the cycle, and where it falls short a loan is raised for the purpose; it cannot be reduced, deferred or cancelled for lack of funds (Art. 8).
 10. The payment cannot be seized, set off, taxed or counted in awarding benefits (Art. 8).
 
 **The votes**
@@ -211,7 +212,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 ### Article 15. The ballot line and transitional provisions
 
 1. The ballot of the referendum on introducing the charter states the percentage, the formula and the line: "Both rights — to vote and not to vote — are preserved forever; change is possible only by a new referendum."
-2. The provisions of Articles 2, 9 and 10 are part of the text put to the referendum.
+2. The provisions of Articles 2, 8, 9 and 10 are part of the text put to the referendum.
 3. Before first application at an election the jurisdiction may run a pilot on part of its territory; its results are published before the referendum.
 4. The program code of the register, the counter and the tokens is open.
 

@@ -25,7 +25,7 @@ The repository was written over half a year and holds layers of different dates:
 6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
 7. The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).
 8. The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).
-9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones.
+9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones. The payment is an unconditional obligation: the money for it is accumulated over the cycle, and where it falls short a loan is raised for the purpose; it cannot be reduced, deferred or cancelled for lack of funds (Art. 8).
 10. The payment cannot be seized, set off, taxed or counted in awarding benefits (Art. 8).
 
 **The votes**
