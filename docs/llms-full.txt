@@ -35,7 +35,8 @@ WHAT IT GIVES A CHALLENGER - HONESTLY
 
 WHAT IS NOT KNOWN
 - No pilot data exist. The formal statement has sketched proofs and named assumptions and awaits an economist.
-- Open questions the authors have not answered: what stops recipients raising the percentage every cycle; the cost at higher percentages; how many payments a year when several levels of government each pay.
+- If recipients vote the percentage too high: the bill is printed on the ballot, the payment is a percentage of the median and falls with it, and a city that overpays becomes a lesson to its neighbours, like a company that paid out too much in dividends. The site admits that a very poor city may still vote it up.
+- Open questions the authors have not answered: what happens in a year when the budget cannot pay; the cost at higher percentages; how many payments a year when several levels of government each pay.
 
 ========================================================================
 PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
@@ -232,6 +233,7 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 | Source of money | a budget line or a separate fund | financiers |
 | Choice among several percentages | the referendum procedure | lawyers and sociologists |
 | Legal route | the legal form in which the referendum is held and its result enacted — a law or a constitutional amendment; a private referendum without legal force as a preliminary step (08/045, 07/035) | lawyers |
+| A budget shortfall | what happens to the payment in a year when the budget cannot pay it | financiers and lawyers |
 | Source of the early premium | whether the discount on late payments covers it, and when (Article 6) | financiers |
 | Thresholds of Articles 10 and 11 | channel divergence, anomaly | from the pilot (048l) |
 | The court's time limit | how many days for the six disputes of Article 12 | lawyers |
@@ -415,7 +417,7 @@ The limit of the comparison. None of these measures is a payment for forgoing a 
 
 **What nobody knows.** How many people will refuse the payment for the sake of the vote. That is the one thing the pilot measures (048l), and until it is run the dispute over "whether people want money or greater weight" is not settled by argument.
 
-**And why it does not matter to the protocol.** The architect, 02.10.2026: "it does not even matter to us". The exit share is not a premise the protocol rests on but a reading it produces. If many take it, those indifferent to the outcome leave and the rest decide. If few take it, people value the vote above the payment: the rule has cost little, and something nobody knew about the value of a vote has become known. Both outcomes are a result. The pilot records two limits: if fewer than a quarter take it, the payment is too small; if more than three-quarters, nobody is left to decide (048l §5). But these are limits of the sum, not of the protocol. The architect: "that is not a question for the protocol but a question for the sum; people will simply want to raise it, not to remove the protocol". A wrongly chosen percentage is corrected by referendum once per cycle (048m, Article 3); the rule itself stays. From below this works simply: few take it — it gets raised. From above it is harder, because the recipients must vote for the reduction; that is an open question (040m §4, the first). To a candidate the number still matters: his arithmetic depends on it (question 10).
+**And why it does not matter to the protocol.** The architect, 02.10.2026: "it does not even matter to us". The exit share is not a premise the protocol rests on but a reading it produces. If many take it, those indifferent to the outcome leave and the rest decide. If few take it, people value the vote above the payment: the rule has cost little, and something nobody knew about the value of a vote has become known. Both outcomes are a result. The pilot records two limits: if fewer than a quarter take it, the payment is too small; if more than three-quarters, nobody is left to decide (048l §5). But these are limits of the sum, not of the protocol. The architect: "that is not a question for the protocol but a question for the sum; people will simply want to raise it, not to remove the protocol". A wrongly chosen percentage is corrected by referendum once per cycle (048m, Article 3); the rule itself stays. From below this works simply: few take it — it gets raised. From above it is harder, because the recipients must vote for the reduction. The answer is in 018 §34: the bill is printed on the ballot, the payment falls with the median, and the first city that votes for too much becomes a lesson for the rest, like a corporation that paid out too much in dividends. To a candidate the number still matters: his arithmetic depends on it (question 10).
 
 ## The free rider at the referendum: who will come to vote for the rule
 

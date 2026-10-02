@@ -81,7 +81,8 @@ WHAT IT GIVES A CHALLENGER - HONESTLY
 
 WHAT IS NOT KNOWN
 - No pilot data exist. The formal statement has sketched proofs and named assumptions and awaits an economist.
-- Open questions the authors have not answered: what stops recipients raising the percentage every cycle; the cost at higher percentages; how many payments a year when several levels of government each pay.
+- If recipients vote the percentage too high: the bill is printed on the ballot, the payment is a percentage of the median and falls with it, and a city that overpays becomes a lesson to its neighbours, like a company that paid out too much in dividends. The site admits that a very poor city may still vote it up.
+- Open questions the authors have not answered: what happens in a year when the budget cannot pay; the cost at higher percentages; how many payments a year when several levels of government each pay.
 """,
     "ru": """# AB-EXIT — все действующие правила в одном файле
 
@@ -120,7 +121,8 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 
 ЧЕГО НЕ ЗНАЕТ НИКТО
 - Данных пилота нет. Формальная постановка содержит наброски доказательств и названные допущения и ждёт экономиста.
-- Открытые вопросы, на которые авторы не ответили: что мешает получателям поднимать процент каждый цикл; стоимость при более высоких процентах; сколько выплат в год, если платит каждый уровень власти.
+- Если получатели проголосуют за слишком высокий процент: счёт печатается в бюллетене, выплата - процент от медианы и падает вместе с ней, а город, переплативший себе, становится уроком для соседей, как компания, выплатившая слишком много дивидендов. Сайт признаёт, что очень бедный город всё же может проголосовать за повышение.
+- Открытые вопросы, на которые авторы не ответили: что происходит в год, когда бюджет не может заплатить; стоимость при более высоких процентах; сколько выплат в год, если платит каждый уровень власти.
 """,
 }
 

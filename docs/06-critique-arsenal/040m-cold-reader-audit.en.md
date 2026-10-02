@@ -21,7 +21,7 @@ The result of the first pass: thirty-seven findings. Most were corrected or mark
 | 3 | "A month's wages" in the short manifesto against a sum of one and a half per cent of the annual median — a five- to sevenfold difference | marked as examples (033b, 033c, 1d) |
 | 4 | A cost of "1–2 % of the budget" against four and thirteen per cent of a Land budget in 045 | marked; the cost formula is in 1d; calculation by level — for economists |
 | 5 | The exit share is stated in five incompatible ways | marked (015c, 1d); there is one guide — 40–50 % |
-| 6 | Recipients of the payment themselves vote on its size by simple majority, with no ceiling and no rule for a shortfall | **a question for the architect** (§4) |
+| 6 | Recipients of the payment themselves vote on its size by simple majority, with no ceiling and no rule for a shortfall | the first half is answered in 018 §34, found by the architect; a shortfall rule is for the experts (§4) |
 | 7 | "Selection by stake, not by income" is presented as proved, though the assumption about money limits it | wording softened (048n, 1d) |
 | 8 | The five statute parameters in 001b diverge from the charter 048m | marked in 001b |
 | 9 | Rollback arithmetic: the table's rows give 15–27 %, the total is given as 7–12 %; unsourced estimates | marked (048g); not recalculated |
@@ -46,7 +46,7 @@ What was corrected from his list: the words "weighted vote" and "the weight is c
 
 These are the auditor's questions, given close to his words. They are not for the assistant to answer.
 
-1. **The ceiling.** What stops a majority of recipients from raising the percentage every cycle by simple majority, and what happens in the year the budget cannot pay? The ceiling of three per cent of the budget and the eight-year cooling-off were removed, there is no shortfall rule, and elected bodies are barred from touching the payment.
+1. **The ceiling.** What stops a majority of recipients from raising the percentage every cycle by simple majority, and what happens in the year the budget cannot pay? *Correction of 03.10.2026: the repository does answer the first half — 018 §34; the assistant recorded "no answer" without checking. Four mechanisms: before the referendum those who pay show the bill, and the share of the budget is printed on the ballot; recipients are not uniform, and those with something to lose vote against; the payment is a percentage of the median, so ruining the economy itself reduces it, and recipients vote to bring it back down; the first bankrupt city becomes a lesson for its neighbours, like a corporation that paid out too much in dividends. The chapter itself admits that in a very poor city the increase will pass, and counts the price of the lesson. The second half remains open: the charter has no rule for a year when the budget cannot pay.*
 2. **The size.** Which percentage is meant? The site sets side by side four working days, one and a half per cent of the annual median, two-thirds of a month's earnings and a month's earnings; what does each cost as a share of the budget of the level that pays?
 3. **Several levels.** If each level of government pays at its own elections, how many payments a year does a citizen receive, and does "share of the budget" refer to the cycle or the year?
 4. **Who remains.** If the poor take the payment more often because money is worth more to them, in what measurable way does the remaining electorate differ from one selected by income, and what pilot result would make the claim of selection by stake be abandoned?
@@ -116,7 +116,7 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 | "Wanting the payment is not voting for the candidate" | correct | 048n: the path leads to a referendum, not to the office | there is no number for a candidate |
 | "They will not come to the referendum: the payment does not depend on turnout" | the difference from work is real | 048n: no quorum; a fork for the machine; people do turn out for votes with a personal benefit | turnout |
 | "By the model nobody should vote" | true of the first draft | 013f §3b | full proofs |
-| "Recipients will raise the percentage every cycle" | correct, there is no answer | — | a question for the architect (§4, the first) |
+| "Recipients will raise the percentage every cycle" | the risk is real; in a very poor city the increase will pass | 018 §34: the bill on the ballot, the payment falls with the median, a bankrupt city as a lesson | there is no rule for a year when the budget cannot pay |
 | "Selection runs by income, not by stake" | where money is worth different amounts — partly yes | 013f §4; 019b | measured only by a pilot |
 | "It costs more than one or two per cent of the budget" | at a high percentage — yes | 1d, statement 9 | calculation by level of government |
 | "One who refuses gets a vote multiplier" | no | 1d, statements 11 and 12 | — |
