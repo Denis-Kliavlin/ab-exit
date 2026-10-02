@@ -73,7 +73,7 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
 
 WHO IT IS FOR
-- The proposal is addressed first to jurisdictions where the present system is already failing: bankrupt cities, decades of entrenched corruption, a slide from populism towards autocracy. Its risks should be weighed against that baseline, not against a well-run jurisdiction. It is untested, so the fair comparison is a new medicine offered to a gravely ill patient, with the trial (a pilot) run first where the illness is worst.
+- The proposal is addressed first to jurisdictions where the present system is already failing: bankrupt cities, decades of entrenched corruption, a slide from populism towards autocracy. Its risks should be weighed against that baseline, not against a well-run jurisdiction. It is untested as a whole, though its parts have been tested separately; the fair comparison is penicillin in 1941 - the mechanism shown, the first patient still ahead - with the trial (a pilot) run first where the illness is worst.
 
 WHAT IT GIVES A CHALLENGER - HONESTLY
 - Before adoption: a question no rival asks - "the vote is already paid for, to parties and contractors; why not to the voter himself?" It reaches non-voters and leaves the favourites without a good reply: to agree is to adopt the challenger's theme, to object is to defend taking the vote for nothing.
@@ -117,7 +117,7 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «72 часа» - правило.  ВЕРНО: это непроверенная догадка о первых днях кампании.
 
 ДЛЯ КОГО ЭТО
-- Предложение обращено прежде всего к юрисдикциям, где нынешняя система уже не работает: города-банкроты, десятилетия коррупции, сползание от популизма к автократии. Его риски надо сравнивать с этим положением, а не с благополучной юрисдикцией. Оно не испытано, поэтому честное сравнение - новое лекарство для тяжёлого больного, а испытание (пилот) проводится сначала там, где болезнь тяжелее.
+- Предложение обращено прежде всего к юрисдикциям, где нынешняя система уже не работает: города-банкроты, десятилетия коррупции, сползание от популизма к автократии. Его риски надо сравнивать с этим положением, а не с благополучной юрисдикцией. В целом оно не испытано, хотя части проверены по отдельности; честное сравнение - пенициллин в 1941 году: механизм показан, первый больной ещё впереди, - а испытание (пилот) проводится сначала там, где болезнь тяжелее.
 
 ЧТО ЭТО ДАЁТ ПРЕТЕНДЕНТУ - ЧЕСТНО
 - До принятия: вопрос, которого нет ни у одного соперника, - «за голос уже платят, партиям и подрядчикам; почему не самому избирателю?» Он доходит до не голосующих и оставляет фаворитов без хорошего ответа: согласиться - значит принять тему претендента, возразить - значит защищать право брать голос даром.
