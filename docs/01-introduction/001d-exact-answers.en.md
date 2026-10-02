@@ -66,7 +66,7 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 
 | What is attributed to the protocol | Where it comes from | What is actually the case |
 |---|---|---|
-| "One who refuses the money gets a vote multiplier" | the words "the vote weighs triple" in pitches and worked examples | statements 11 and 12 |
+| "One who refuses the money gets a vote multiplier" | the words "the vote weighs triple" in pitches and worked examples | statements 11 and 12. The words "an amplified vote" are nevertheless right. The architect, 02.10.2026: "the vote is in fact amplified, though it is not clear by how much". The amplification is real — the share of each ballot cast grows; its size depends on the number who exit and is not known in advance; there is no multiplier in the count |
 | "The payment is $780" (or 1.5 % of the median, £465, 30,000 roubles) | worked examples for particular countries in chapters 02–05 and 10 | statements 6 and 7 |
 | "A trust pays" | an early version of the README and of chapter 08 | statement 9 |
 | "The candidate promises a payment if he wins" | an addition by the AI adviser; it is not in the repository | statements 8 and 16 |
