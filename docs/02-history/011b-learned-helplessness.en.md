@@ -60,15 +60,16 @@ The architect, 02.10.2026: "every AI underestimates the fury of the burned. They
 
 **Why it is not seen.** Fury is not in any poll. A poll asks "will you vote", and the burned one honestly answers "no", because he is indeed not going to this election. The spring is visible only at the moment it is released — which is why an AI that reads polls does not see it either.
 
-**Where it has been released.** Three cases in which the question was real and the outcome not predetermined.
+**Where it has been released.** Four cases in which the question was real and the outcome not predetermined.
 
 | Vote | Turnout | Compared with |
 |---|---|---|
 | Scotland, 2014, the independence referendum | 84.6 % | a record for Britain since 1910 |
 | Poland, 2023, the parliamentary election | 74.4 % | 61.7 % in 2019; a record since 1989 |
 | Britain, 2016, the referendum on leaving the EU | 72.2 % | 66.2 % at the 2015 election |
+| Hungary, April 2026, the parliamentary election | 78.99 % | 69.59 % in 2022; after sixteen years of one ruler (039) |
 
-In all three, people came who had not voted before, and nobody predicted them in such numbers.
+In all four, people came who had not voted before, and nobody predicted them in such numbers.
 
 **What it means for the protocol.** A referendum on introducing the rule is the same case: the question is real, concerns each person, and the outcome is not predetermined. The fourth circuit of the therapy (§11b.3) describes why the burned one will return; this section, with what force. In the candidate's arithmetic it is the number *r* (048n, question 10).
 
