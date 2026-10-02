@@ -7,7 +7,7 @@
 
 ---
 
-*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; one ballot is one vote, there is no multiplier ("triple weight" is the arithmetic of a share: the more people exit, the larger the share each ballot cast makes up, equally for everyone who votes); the jurisdiction's budget pays under law, a candidate never pays; only a referendum introduces or changes the rule, an elected body cannot; numbers on election outcomes and words about inevitability in this chapter are estimates and theses, there has been no pilot (1d, 048m).*
 
 ### 27.1. Diagnosis: America in a pre-war state
 
@@ -65,7 +65,7 @@ Step 2: AB-EXIT removes the target audience. No audience = no product = factory 
 
 Step 3: who remains. 20 % + 20 % convinced + 60 % motivated centre. The 60 % are not attached to a party. They vote for results.
 
-Step 4: 60 % > 20 %. A third party is mathematically inevitable. Not through the spoiler effect but through direct victory.
+Step 4: 60 % > 20 %. A third party is mathematically inevitable. *(Note of 02.10.2026: this is the chapter's thesis under the shares it assumes, not a theorem; the shares are estimates, and there has been no pilot.)* Not through the spoiler effect but through direct victory.
 
 Step 5: two-party = a line = unstable. Three-party = a triangle = stable. Physics confirms: a triangle cannot be deformed. Germany and Switzerland confirm: multi-party = stability.
 

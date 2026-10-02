@@ -25,6 +25,10 @@ The site was written over six months and contains layers of different dates. Old
 - The protocol cannot be introduced or changed by decree or by an elected body — only by a referendum of all citizens.
 - A person who takes the payment keeps every other right, chooses again at the next election, and votes in referendums on the protocol itself.
 - The site promises nobody an election victory. All numbers on shares, turnout and outcomes are estimates; no pilot has been run yet. The "66 % against 33 %" underdog scenario is a role-play, and "72 hours" is a hypothesis, not a rule.
+- The rule is adopted, changed and repealed by a simple majority at a referendum of all citizens; no quorum and no supermajority. An elected body can only call the referendum.
+- There is no efficiency bonus and no second payment (removed 30.09.2026). The payment grows only with the median income or by decision of a referendum.
+- "Unstoppable", "mathematically inevitable", "two-thirds is unattainable", "a populist loses everywhere" in older chapters are theses, not findings.
+- A chapter title asserts nothing. The chapters named after Acemoglu, Brennan, Fukuyama and others examine arguments from their books; these authors have not commented on the protocol. The country chapters are designs; the protocol has been introduced nowhere.
 
 ## How the evidence is labelled
 

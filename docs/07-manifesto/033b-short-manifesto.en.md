@@ -6,7 +6,7 @@
 
 ---
 
-*An early-draft layer (note of 01.10.2026 after audit 040m). "A month's wages", "~$676" and "up to twice" are examples: the size of the payment is set by a percentage approved by referendum, and "twice" is arithmetic when half exit, not a rule. The exact-answers sheet 1d and the charter 048m are in force.*
+*An early-draft layer (note of 01.10.2026 after audit 040m). "A month's wages", "~$676" and "up to twice" are examples: the size of the payment is set by a percentage approved by referendum, and "twice", "double weight" and "a double ticket" are the arithmetic of a share when half exit, not a rule: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
 
 You have never been paid for your vote.
 

@@ -6,7 +6,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law; "72 hours" is a hypothesis about the first days, not a rule; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law; "72 hours" is a hypothesis about the first days, not a rule; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ## 1. The check: what the repository has on courts
 

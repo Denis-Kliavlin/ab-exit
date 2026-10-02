@@ -7,7 +7,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
 
 The universal principle of the timeline and the symmetry of reporting is in
 [§3](../01-introduction/003-rejected-variants.md). Here — what it looks like with American

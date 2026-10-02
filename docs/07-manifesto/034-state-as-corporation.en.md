@@ -7,7 +7,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ### 80.1. Purpose of the section
 

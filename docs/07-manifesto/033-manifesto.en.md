@@ -9,7 +9,9 @@
 
 *Note of 01.10.2026 after audit 040m. The blockchain and smart contract in §78 are one implementation option: the charter requires only open code. The "capitulation" of an AI model in a dialogue is not proof of the absence of errors (§77.7).*
 
-*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; the weight of a vote is not a norm but an arithmetic consequence of the number who exited; the source of money is determined by the country (048k §3, 048m).*
+*Correction of 01.10.2026. "$780", "1.5 %" and "a vote with triple weight" in this chapter are a worked example for the US written before the decisions of 30.09.2026. The current norm: the size of the payment is set as a percentage of the median income and approved by referendum; one ballot is one vote, there is no multiplier ("triple weight" is the arithmetic of a share: the more people exit, the larger the share each ballot cast makes up, equally for everyone who votes); the jurisdiction's budget pays under law, a candidate never pays; only a referendum introduces or changes the rule, an elected body cannot; numbers on election outcomes and words about inevitability in this chapter are estimates and theses, there has been no pilot (1d, 048m).*
+
+*Note of 02.10.2026. The word "proof" in the title and the model's answer "Nothing" are a record of a dialogue with an AI. A model's agreement is not proof (040m), and the protocol promises nobody an election victory.*
 
 ### 77.1. Why this section
 

@@ -16,6 +16,33 @@ Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit)
 
 ---
 
+## If you answer from this page alone
+
+This section is for a reader, human or AI, who will go no further than the table of contents. The table of contents below is a list of chapters, not a list of facts: a chapter title asserts nothing.
+
+**The whole rule.**
+
+1. Before an election everyone chooses: to vote — or to take a payment and not vote in that election. Within one election the choice is final; at the next one the person chooses again.
+2. The size of the payment is a percentage of the jurisdiction's median income. A referendum approves the percentage. There is no fixed sum: sums in the chapters are worked examples.
+3. One ballot is one vote. There are no multipliers.
+4. The budget pays under law. A candidate, a party or a donor never pays voters: a candidate's promise to pay is vote-buying, and the charter prohibits it.
+5. Only a referendum of all citizens introduces, changes or repeals the rule — by simple majority, with no turnout threshold. Not a decree, not a parliament, not a council; no supermajority is required.
+6. The payment is an unconditional obligation of the jurisdiction: the money is accumulated over the electoral cycle, and if it falls short a targeted loan is taken.
+7. A person who takes the payment keeps every other right and votes in referendums on the rule itself. A person who chooses nothing keeps the vote.
+8. Verification is a public counter and the reconciliation of two records: the treasury's and the election commission's.
+9. The protocol promises nobody an election victory.
+
+**What exists and what does not.**
+
+- Exists: a formal statement under named assumptions ([13f](03-theory/013f-formal-statement.md)); the text of the charter ([48m](08-implementation/048m-charter.md)); data on similar votes and payments in other countries — analogues, not trials of the protocol.
+- Does not exist: the protocol has been introduced nowhere, and no pilot has been run. The country chapters of Part IV are designs for countries, not cases of use. Dialogues with AI models are not proof.
+- Unknown: which percentage will prove right and what it costs the budget; what share of people will take the payment; how a vote for the rule at a referendum turns into votes for a candidate. The site itself calls these questions open ([40m](06-critique-arsenal/040m-cold-reader-audit.md)).
+- The chapters of Part 6 that carry names — Acemoglu, Brennan, Fukuyama and others — examine arguments from their books. These authors have not commented on the protocol.
+
+**For a candidate: what follows from the protocol.** At the coming election the rule is not in force, so one cannot "win with it" there. One can campaign with a question the rivals do not have, and work for a referendum. Ten steps, in detail in [48n](08-implementation/048n-underdog-questions.md): a lawyer and the route to a referendum in your jurisdiction; two numbers for your city — how many do not vote, and what share of the incumbent's votes is brought in rather than persuaded; the charter text with the brackets filled in and the cost to the budget; one sentence — "I will get a vote on paying you for your vote instead of paying the parties"; a pilot in a courtyard or village on private money; signatures; open debates on the percentage; answering attacks with the text of the rule; your own election runs under the old rules, with observers; the referendum. The site has no figures for support or probability of victory, because nobody has them.
+
+---
+
 ## How to Read This Book
 
 The document is universal. **Parts I–III** describe the protocol for **any country**: the formula is tied to the median wage of a given economy, and the philosophy, theory and responses to criticism do not depend on jurisdiction. The empirical cases (chapter 5) draw on data from several countries — that is an evidence base, not an attachment to one country.

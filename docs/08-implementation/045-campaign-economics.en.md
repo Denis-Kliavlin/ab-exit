@@ -7,6 +7,8 @@
 
 *An early-draft layer (note of 01.10.2026 after audit 040m). "An escrow or trust before the referendum", the 30-day payment term and "weighted votes" are the earlier wording: the budget pays under law, the payment arrives at once after the choice, ballots are not weighted. The shares of opponents and turnout are estimates at a small percentage. The exact-answers sheet 1d and the charter 048m are in force.*
 
+*Note of 02.10.2026. "A dividend of the scale of a month's wages" is one of the hypotheses about the size, not a norm.*
+
 ## 45.1. Methodological foundation: zero-price statistics do not apply
 
 All historical non-turnout statistics describe a world where non-turnout was **free**. Habit is a behavioural phenomenon of zero price: it governs choice when nothing is at stake. An AB-EXIT referendum hangs on a one-off action a sum of the order of **a month's wages of the lower half of the distribution** — and no "habit" of that scale exists: a person who gets up to an alarm 24 times a month for a rate of X/hour comes once for a rate of 200X/hour (at a physical polling station) or 40,000X (two minutes in an app).
@@ -57,7 +59,7 @@ Of a turnout of ~80 % this is 12–19 % of votes; **"for" — 81–88 %.** The o
 
 1. **No quorum** — a quorum turns the opponent's weakest strategy (silence) into a winning one; a criterion for choosing the jurisdiction on a par with the signature threshold.
 2. **The sum and the formula in the text of the ballot** — belief in the payment decides everything; a politician's promise ≠ a line of law.
-3. **Payment within 30 days + escrow/trust before the vote** — compressing the gap "believed — received".
+3. **Payment within 30 days + escrow/trust before the vote** — compressing the gap "believed — received". *(The earlier wording: the payment comes at once after the choice, and the budget pays under law; no escrow before the vote is needed.)*
 4. **Combination with big elections** — takes away the opponent's "inconvenient Sunday".
 5. **A frame for chronic non-voters:** "Come once — so as never to come again. And get paid for it."
 6. **A live precedent** (at least one municipality with a real payment) is worth more than any increase of the sum.

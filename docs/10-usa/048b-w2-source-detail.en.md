@@ -7,7 +7,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
 
 The universal requirements for the source of median-wage data are formulated in
 [§2](../01-introduction/002-protection.md). This section shows how they are met

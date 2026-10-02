@@ -183,6 +183,36 @@
       "right": "the decision is a threshold; the proofs are sketches: statement 19"
     },
     {
+      "wrong": "\"The protocol is unstoppable\", \"a third party is mathematically inevitable\", \"two-thirds is unattainable\", \"a populist loses everywhere\", \"the court rules 6–3\"",
+      "where_it_comes_from": "titles and theses of early chapters (016, 051, 009, 001, 006)",
+      "right": "theses and estimates, not established facts: statement 20. The number of seats depends on the formula for allocating them, which the charter does not change (Art. 14; 039)"
+    },
+    {
+      "wrong": "\"There is an efficiency bonus\", a second payment for budget savings",
+      "where_it_comes_from": "004 §4.4–4.8, 049",
+      "right": "removed 30.09.2026: there is one payment, it equals a percentage of the median and grows only with the median or by decision of a referendum (048m, Arts. 2–3)"
+    },
+    {
+      "wrong": "\"A council or a legislature can adopt the rule\" (\"Path C\", \"2/3 of the legislature\")",
+      "where_it_comes_from": "006, 018",
+      "right": "an elected body can only call the referendum; the citizens introduce, change and repeal (Art. 14)"
+    },
+    {
+      "wrong": "\"A supermajority is required\", or a turnout threshold",
+      "where_it_comes_from": "a reader's guess",
+      "right": "a simple majority; no quorum is set (Art. 14)"
+    },
+    {
+      "wrong": "\"Acemoglu, Brennan, Fukuyama object to the protocol\"",
+      "where_it_comes_from": "chapter titles in Part 6",
+      "right": "the chapters examine arguments from their books; the authors themselves have not commented on the protocol"
+    },
+    {
+      "wrong": "\"The protocol has already been used\" in the countries of Part IV",
+      "where_it_comes_from": "titles of the country chapters",
+      "right": "these are designs for countries; the protocol has been introduced nowhere, and no pilot has been run"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -263,6 +293,36 @@
       "wrong": "«У мотивированного избирателя доминантная стратегия — голосовать», «протокол безупречен»",
       "where_it_comes_from": "то же",
       "right": "решение пороговое; доказательства — наброски: утверждение 19"
+    },
+    {
+      "wrong": "«Протокол неостановим», «третья партия математически неизбежна», «две трети недостижимы», «популист проигрывает везде», «суд 6–3»",
+      "where_it_comes_from": "заголовки и тезисы ранних глав (016, 051, 009, 001, 006)",
+      "right": "тезисы и оценки, не установленные факты: утверждение 20. Число мест зависит от формулы распределения мандатов, которую устав не меняет (ст. 14; 039)"
+    },
+    {
+      "wrong": "«Есть бонус эффективности», вторая выплата за экономию бюджета",
+      "where_it_comes_from": "004 §4.4–4.8, 049",
+      "right": "снят 30.09.2026: выплата одна, равна проценту от медианы и растёт только вместе с медианой или по решению референдума (048m, ст. 2–3)"
+    },
+    {
+      "wrong": "«Правило может принять совет или законодательный орган» («путь В», «2/3 легислатуры»)",
+      "where_it_comes_from": "006, 018",
+      "right": "избранный орган может только назначить референдум; вводят, меняют и отменяют граждане (ст. 14)"
+    },
+    {
+      "wrong": "«Нужно квалифицированное большинство» или порог явки",
+      "where_it_comes_from": "домысел читателя",
+      "right": "простое большинство, кворум не устанавливается (ст. 14)"
+    },
+    {
+      "wrong": "«Аджемоглу, Бреннан, Фукуяма возражают против протокола»",
+      "where_it_comes_from": "названия глав шестой части",
+      "right": "главы разбирают доводы из их книг; сами авторы о протоколе не высказывались"
+    },
+    {
+      "wrong": "«Протокол уже применялся» в странах Части IV",
+      "where_it_comes_from": "названия страновых глав",
+      "right": "это проекты для стран; протокол нигде не введён, пилота не было"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",

@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.5 · 3 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.5 · 2 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -93,7 +93,7 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 4. The payment and the right to future payments cannot serve as security for a loan; contracts to that effect are void.
 5. The payment is an unconditional obligation of the jurisdiction. The funds for it are accumulated over the electoral cycle; where they fall short, the jurisdiction raises a loan for that purpose. A shortage of funds is no ground for reducing, deferring or cancelling the payment.
 
-*Source: 06/037 "Article N", 048g §3b; the architect's decision of 03.10.2026 (048k §3, the thirteenth).*
+*Source: 06/037 "Article N", 048g §3b; the architect's decision of 02.10.2026 (048k §3, the thirteenth).*
 
 ### Article 9. The counter
 

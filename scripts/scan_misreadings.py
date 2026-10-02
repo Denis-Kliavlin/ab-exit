@@ -18,7 +18,7 @@ import sys
 from pathlib import Path
 
 DOCS = Path(__file__).parent.parent / "docs"
-DATE = "03.10.2026"
+DATE = "02.10.2026"
 
 # key -> (regex for RU files, regex for EN files)
 ITEMS = {

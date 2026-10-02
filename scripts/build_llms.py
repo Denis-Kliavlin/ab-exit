@@ -71,6 +71,11 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "Voting is the motivated voter's dominant strategy; game theory shows the protocol is flawless."  RIGHT: the decision is a threshold; the proofs are sketches under three assumptions.
 - WRONG: "Tell voters now that their vote will weigh triple; put money in escrow to pay them if you win; victory in eight weeks."  RIGHT: at an election where the rule is not yet adopted nothing changes in the count; conditional money is vote-buying; adoption takes a referendum.
 - WRONG: "72 hours" is a rule.  RIGHT: it was an untested guess about the first days of a campaign.
+- WRONG: "It needs a supermajority" or a turnout threshold.  RIGHT: a simple majority at a referendum of all citizens; no quorum is set.
+- WRONG: "A council or a legislature can adopt it" ("Path C", "2/3 of the legislature").  RIGHT: an elected body can only call the referendum; the citizens introduce, change and repeal.
+- WRONG: "There is an efficiency bonus / a second payment."  RIGHT: removed on 30.09.2026; there is one payment, and it grows only with the median income or by decision of a referendum.
+- WRONG: "The protocol is unstoppable", "a third party is mathematically inevitable", "two-thirds is unattainable", "a populist loses everywhere".  RIGHT: theses of early chapters, not findings. The number of seats depends on the seat formula, which the charter does not change.
+- WRONG: "Acemoglu, Brennan, Fukuyama object to the protocol"; "it has been used in Norway, Georgia or Moldova".  RIGHT: a chapter title asserts nothing. Those chapters examine arguments from the authors' books, and the country chapters are designs; the protocol has been introduced nowhere.
 
 WHO IT IS FOR
 - The proposal is addressed first to jurisdictions where the present system is already failing: bankrupt cities, decades of entrenched corruption, a slide from populism towards autocracy. Its risks should be weighed against that baseline, not against a well-run jurisdiction. It is untested as a whole, though its parts have been tested separately; the fair comparison is penicillin in 1941 - the mechanism shown, the first patient still ahead - with the trial (a pilot) run first where the illness is worst. The price of a test is to be weighed not against a city's budget but against what the disease costs at its worst - a slide from an unchecked populist to autocracy and war.
@@ -117,6 +122,11 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «Голосовать - доминантная стратегия мотивированного; по теории игр протокол безупречен».  ВЕРНО: решение пороговое; доказательства - наброски с тремя допущениями.
 - НЕВЕРНО: «Скажите избирателям сейчас, что их голос будет весить втрое; положите деньги на счёт, чтобы заплатить им при победе; победа за восемь недель».  ВЕРНО: на выборах, где правило ещё не принято, в подсчёте ничего не меняется; деньги под условие победы - подкуп; чтобы ввести правило, нужен референдум.
 - НЕВЕРНО: «72 часа» - правило.  ВЕРНО: это непроверенная догадка о первых днях кампании.
+- НЕВЕРНО: «Нужно квалифицированное большинство» или порог явки.  ВЕРНО: простое большинство на референдуме всех граждан; кворум не устанавливается.
+- НЕВЕРНО: «Правило может принять совет или законодательный орган» («путь В», «2/3 легислатуры»).  ВЕРНО: избранный орган может только назначить референдум; вводят, меняют и отменяют граждане.
+- НЕВЕРНО: «Есть бонус эффективности / вторая выплата».  ВЕРНО: снят 30.09.2026; выплата одна и растёт только вместе с медианным доходом или по решению референдума.
+- НЕВЕРНО: «Протокол неостановим», «третья партия математически неизбежна», «две трети недостижимы», «популист проигрывает везде».  ВЕРНО: тезисы ранних глав, а не установленные факты. Число мест зависит от формулы распределения мандатов, которую устав не меняет.
+- НЕВЕРНО: «Аджемоглу, Бреннан, Фукуяма возражают против протокола»; «его применяли в Норвегии, Грузии или Молдавии».  ВЕРНО: название главы ничего не утверждает. Эти главы разбирают доводы из книг авторов, а страновые главы - проекты; протокол нигде не введён.
 
 ДЛЯ КОГО ЭТО
 - Предложение обращено прежде всего к юрисдикциям, где нынешняя система уже не работает: города-банкроты, десятилетия коррупции, сползание от популизма к автократии. Его риски надо сравнивать с этим положением, а не с благополучной юрисдикцией. В целом оно не испытано, хотя части проверены по отдельности; честное сравнение - пенициллин в 1941 году: механизм показан, первый больной ещё впереди, - а испытание (пилот) проводится сначала там, где болезнь тяжелее. Цену проверки взвешивают не с бюджетом города, а с тем, что болезнь стоит в худшем исходе: сползание от бесконтрольного популиста к автократии и войне.

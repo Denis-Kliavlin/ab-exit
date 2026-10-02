@@ -81,6 +81,12 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 | "A blockchain is required" | 07/033 §78 | the charter requires only open code (Art. 15) |
 | "This is arbitrage: the candidate buys the apathetic and sells to the motivated" | an AI adviser's catchphrase | the candidate pays nobody; see "In the language of game theory" |
 | "The motivated voter's dominant strategy is to vote", "the protocol is flawless" | the same | the decision is a threshold; the proofs are sketches: statement 19 |
+| "The protocol is unstoppable", "a third party is mathematically inevitable", "two-thirds is unattainable", "a populist loses everywhere", "the court rules 6–3" | titles and theses of early chapters (016, 051, 009, 001, 006) | theses and estimates, not established facts: statement 20. The number of seats depends on the formula for allocating them, which the charter does not change (Art. 14; 039) |
+| "There is an efficiency bonus", a second payment for budget savings | 004 §4.4–4.8, 049 | removed 30.09.2026: there is one payment, it equals a percentage of the median and grows only with the median or by decision of a referendum (048m, Arts. 2–3) |
+| "A council or a legislature can adopt the rule" ("Path C", "2/3 of the legislature") | 006, 018 | an elected body can only call the referendum; the citizens introduce, change and repeal (Art. 14) |
+| "A supermajority is required", or a turnout threshold | a reader's guess | a simple majority; no quorum is set (Art. 14) |
+| "Acemoglu, Brennan, Fukuyama object to the protocol" | chapter titles in Part 6 | the chapters examine arguments from their books; the authors themselves have not commented on the protocol |
+| "The protocol has already been used" in the countries of Part IV | titles of the country chapters | these are designs for countries; the protocol has been introduced nowhere, and no pilot has been run |
 | "One who took the money loses rights" | — | statements 2 and 5; he votes in referendums on the protocol itself (Art. 14) |
 
 ## Weak point

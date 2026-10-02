@@ -75,7 +75,7 @@ Timing: three months of preparation, a two-week window, the decision day, six mo
 
 ## 6b. The first are pioneers: what they are promised
 
-The architect, 03.10.2026: "the protocol cannot have a lethal outcome, and all that is needed is to reassure the test subjects that they will be supported as pioneers and that they chose this for the sake of everyone".
+The architect, 02.10.2026: "the protocol cannot have a lethal outcome, and all that is needed is to reassure the test subjects that they will be supported as pioneers and that they chose this for the sake of everyone".
 
 The worst outcome of the pilot is money and time spent (040m §5d). So the participants need not protection from danger but three simple things.
 

@@ -6,7 +6,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ## 1. Their frame
 

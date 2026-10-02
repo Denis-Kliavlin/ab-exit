@@ -6,7 +6,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
 
 *What exactly double entry protects. Reconciling the treasury and the commission checks how many people voted and who was paid: there cannot be more ballots than records less those who took the payment. How the votes were split between candidates it does not itself check — that is done by the tokens of the open channel and the parallel count (048i). The words "cannot be drawn" in the title refer to turnout, not to the distribution of votes.*
 

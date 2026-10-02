@@ -7,7 +7,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ### 20.1. Why Forecasting Is Impossible
 
@@ -46,7 +46,7 @@ For all its unpredictability, some properties can be derived from first principl
 
 ### 20.4. The Only Way to Find Out — a Pilot
 
-AB-EXIT creates a world that cannot be modeled — only BUILT. One pilot city will yield more data than 100 years of theorizing. That is exactly why launching in a single city (LA, June 2026) matters more than any academic publication. A publication describes a HYPOTHESIS. A pilot TESTS it.
+AB-EXIT creates a world that cannot be modeled — only BUILT. One pilot city will yield more data than 100 years of theorizing. That is exactly why launching in a single city (LA, June 2026) *(a date from the early draft; no pilot has been run)* matters more than any academic publication. A publication describes a HYPOTHESIS. A pilot TESTS it.
 
 A world without apathetic voters is not a reform. It is a DIFFERENT CIVILIZATION of elections. And it begins with one city, one formula, one referendum.
 
@@ -267,7 +267,7 @@ Without AB-EXIT, democracies that have survived an authoritarian period enter an
 
 The cycle is endless because the FORMULA doesn't change: promises + apathetic voters = 2/3. The names change. The formula is the same. Same input — same output. Not because each populist is a "bad person." But because 2/3 = absolute power, and absolute power corrupts absolutely. It doesn't matter who walks through the 2/3 door. What matters is that the door exists.
 
-AB-EXIT closes the door. Forever. For everyone. The apathetic voters have left for the dividend — there is no one to mobilize — 2/3 is mathematically unattainable. The cycle is broken.
+AB-EXIT closes the door. Forever. For everyone. The apathetic voters have left for the dividend — there is no one to mobilize — 2/3 is mathematically unattainable. *(Note of 02.10.2026: a thesis of the early draft. The number of seats depends on the formula for allocating them, which the charter does not change: in Hungary in 2026, 53 % of the vote gave more than two-thirds of the seats — 039.)* The cycle is broken.
 
 ### 22.8. Why No Populist Can Stand Against AB-EXIT
 

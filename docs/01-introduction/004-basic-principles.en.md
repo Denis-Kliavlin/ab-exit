@@ -9,6 +9,8 @@
 
 *An early-draft layer (note of 01.10.2026 after audit 040m). In §4.7 the "strict confidentiality" of the choice and the reference to "Article XIV" are the earlier wording: Article 9 of the charter is in force. In §4.8 the efficiency bonus and payment "one day before the election" have been removed: the payment arrives at once after the choice. The "rating" scale in §4.3 is to be read by change, not by level: the level depends on the approved percentage (§4.3b). In §4.9 the covering of the early premium by the late discount has not been calculated and is left to financiers. The closing of the window is a parameter, five days by default. The exact-answers sheet 1d and the charter 048m are in force.*
 
+*Note of 02.10.2026. "Bonus" and "efficiency bonus" in the examples of §4.4–4.5 are also the earlier wording: the protocol has one payment. Comparing payments between territories and across years remains: the payment equals a percentage of the median and so grows with the median. "About 600 units" is an example.*
+
 > **On the numbers in this section.** All amounts are in generic units for an economy with
 > a median wage of roughly 40,000 units/year: a dividend of about 600 units per cycle.
 > Substitute your own economy's median — the proportions hold.
@@ -148,7 +150,7 @@ WANT to vote for continuity." → RE-ELECTED with a strengthened mandate.
 
 **A bad incumbent:** "The dividend fell from 700 to 630. Bonus 12. Three proposals
 implemented. 85% took the dividend. Five challengers have declared, each with a specific
-plan." → WILL LOSE. Not to scandal — to ARITHMETIC.
+plan." → WILL LOSE. Not to scandal — to ARITHMETIC. *(The chapter's thesis: the outcome is not guaranteed, and there has been no pilot.)*
 
 ### 4.7. For the statute
 

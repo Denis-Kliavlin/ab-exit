@@ -40,7 +40,7 @@ politician intervening.
 
 *(The architect's position, 29.09.2026.)* The percentage is not a dogma. The sum must be **important and desirable for those who have no wish to vote**: the apathetic and those who vote on impulse (protest, grievance, "against all"). The protocol's aim is to take them out of the decisive vote without hurting them financially; K is whatever value produces that result.
 
-A balance has to be found here — but not a point of rest: for the money some of the uninterested leave, while for the increased weight of the vote others come, and the system keeps moving from cycle to cycle (055c §6.3b, 001b §4). The sum is fixed by referendum, and when it changes both sides change at once — those who take the money and those who come back for the weight of the vote. The third moving parameter is the sum itself: it remains a percentage of the median income and adjusts to the economy automatically (see "self-calibration" above). For a person whose income moves with the median, the weight of the sum does not change; it changes for those who grow poorer or richer faster than the rest (055c §6.3b):
+A balance has to be found here — but not a point of rest: for the money some of the uninterested leave, while for the increased weight of the vote (each ballot is still one vote; its share grows) others come, and the system keeps moving from cycle to cycle (055c §6.3b, 001b §4). The sum is fixed by referendum, and when it changes both sides change at once — those who take the money and those who come back for the weight of the vote. The third moving parameter is the sum itself: it remains a percentage of the median income and adjusts to the economy automatically (see "self-calibration" above). For a person whose income moves with the median, the weight of the sum does not change; it changes for those who grow poorer or richer faster than the rest (055c §6.3b):
 
 | If K is too small | If K is too large |
 |---|---|
@@ -60,10 +60,10 @@ The sum is not the people's question, and an error in it is cheaper than dictato
 
 **Simplicity makes the rule transferable.** A complex system cannot be transplanted into another country without distortion: every detail grows local exceptions. One number and two buttons carry over as they are — this is how independent central banks spread around the world, one of the reforms where the rule changed and behaviour adjusted by itself (015c). The same number makes countries directly comparable: the scoreboard does not need translating and does not need to be believed — it is received (040b.4). The authorities have almost no knobs to turn: the sum is approved by referendum, the median comes from an independent source (001b §1, 048f.5).
 
-**The same shape, different percentages.** One number gives the same shape of result, not the same figures. A rate works in the same direction everywhere — a higher rate, a dearer loan — but shifts each economy in its own way. So here: a populist loses everywhere if the payment is sufficient, because his base is poor and takes the money more often than the rest (055c §6.3b), and party shares change only through the difference in how readily different electorates take the money. The final figures in Saxony-Anhalt and in Russia will differ, because the people differ and so does what is left in their pockets.
+**The same shape, different percentages.** One number gives the same shape of result, not the same figures. A rate works in the same direction everywhere — a higher rate, a dearer loan — but shifts each economy in its own way. So here: a populist loses everywhere if the payment is sufficient (a thesis from the calculation in 055c §6.3b, not an observation), because his base is poor and takes the money more often than the rest (055c §6.3b), and party shares change only through the difference in how readily different electorates take the money. The final figures in Saxony-Anhalt and in Russia will differ, because the people differ and so does what is left in their pockets.
 
-The specific source of median data, the legal route to adoption and the source that funds
-the trust are the three things tuned per country. They are covered in **Part IV (country
+The specific source of median data, the legal route to adoption and the budget source of
+the payment are the three things tuned per country. They are covered in **Part IV (country
 implementations)**, not here.
 
 ---

@@ -6,7 +6,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ## 0. Why a fourth circle
 

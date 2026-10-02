@@ -6,7 +6,7 @@
 
 ---
 
-*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+*How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
 
 ## 29.1. A symmetrical situation, an asymmetrical reaction
 
@@ -177,22 +177,24 @@ In survey experiments voters, especially distrusting ones, declare they will pun
 
 ### How scholars explain the fall in trust
 
-Added 03.10.2026. The architect's question: "decades of populism have left no healthy ones; and how do scholars and political scientists explain why trust in parliament has fallen so far?" On the healthy — from the table above: trust fell in 36 democracies and rose in six; the only country in which a majority feels it has a say is Switzerland, that is, the one where rules have long been decided by direct vote.
+Added 02.10.2026. The architect's question: "decades of populism have left no healthy ones; and how do scholars and political scientists explain why trust in parliament has fallen so far?" On the healthy — from the table above: trust fell in 36 democracies and rose in six; the only country in which a majority feels it has a say is Switzerland, that is, the one where rules have long been decided by direct vote.
 
 There are six explanations.
 
 | Explanation | Authors | What it says |
 |---|---|---|
 | The economy | Algan, Guriev, Papaioannou, Passari, 2017 | the rise in unemployment after 2008 went together with a fall in trust in national and European parliaments and a rise in votes for populists; trust between people hardly changed |
-| The critical citizen | P. Norris, 1999 and 2011 | an educated voter expects more; the gap between expectation and what is seen grows |
+| The critical citizen | P. Norris, 1999 and 2011 | an educated voter expects more; the gap between expectation and what is seen grows. In the 2011 book Norris at the same time disputes the picture of a universal fall: she finds no single downward line across countries |
 | Partisan trust | Hetherington and Rudolph, 2015 | people trust only when their own side is in power |
 | Parties left society | P. Mair, 2013 | parties grew into the state and stopped needing members and voters; citizens responded in kind |
 | A game instead of substance | Cappella and Jamieson, 1997 | politics is presented as a contest of tactics, and that breeds cynicism |
 | "Stealth democracy" | Hibbing and Theiss-Morse, 2002 | most people do not want to take part in politics at all; they want those who decide not to profit at their expense; what irritates them is the spectacle of bargaining and the suspicion of self-interest |
 
+*Check of 02.10.2026: the six rows of the table and the references to Downs and Kirchheimer below were checked against publishers' descriptions and reviews at the level of the main thesis; pages and exact quotations were not checked.*
+
 **Cause or consequence.** In the literature populism is usually a consequence: crisis, then distrust, then votes for populists. The architect puts it as the cause. Most likely it is a circle. In the protocol's vocabulary a populist is any party working for the indifferent majority (019g), and then the architect's explanation coincides with the fifth and sixth: parties stopped representing, and people sense it.
 
-**The architect's explanation: distrust as a by-product of success.** 03.10.2026: "the parties met the electorate's vivid, basic and simple needs — hunger, housing, warmth and others — while complex matters are beyond the majority, and the apathetic stopped taking an interest in politics. But their vote remained, and the parties began to fight for it. And the other half, the burned, watching the strange and primitive games politicians play with the apathetic, simply went off to nowhere and stay out of this circus". This is not a seventh explanation beside the six but a thread on which four of them are strung.
+**The architect's explanation: distrust as a by-product of success.** 02.10.2026: "the parties met the electorate's vivid, basic and simple needs — hunger, housing, warmth and others — while complex matters are beyond the majority, and the apathetic stopped taking an interest in politics. But their vote remained, and the parties began to fight for it. And the other half, the burned, watching the strange and primitive games politicians play with the apathetic, simply went off to nowhere and stay out of this circus". This is not a seventh explanation beside the six but a thread on which four of them are strung.
 
 | Link | What happens | Who described it |
 |---|---|---|
