@@ -109,3 +109,16 @@
 [data-md-color-scheme="slate"] .md-search__input {
     background-color: #141414;
 }
+
+/* Standard note at the top of every chapter (overrides/main.html) */
+.abx-rule {
+    font-size: 0.66rem;
+    line-height: 1.5;
+    margin: 0 0 1.4rem;
+    padding: 0.55rem 0.8rem;
+    border-left: 3px solid var(--md-accent-fg-color);
+    background-color: var(--md-code-bg-color);
+}
+.abx-rule p { margin: 0 0 0.35rem; }
+.abx-rule p:last-child { margin-bottom: 0; }
+@media print { .abx-rule { display: none; } }
