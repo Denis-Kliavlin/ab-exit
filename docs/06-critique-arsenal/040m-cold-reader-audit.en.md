@@ -85,6 +85,47 @@ The architect put the same underdog question in a new Grok chat, asking it to wo
 
 **What this means for preparing the data.** The first adviser got the rules wrong and promised victory; this one restated the rules exactly and denied victory. The difference between them lies in what each read, not in the quality of the models: the first answered from old chapters, the second from the exact-answers sheet and the chapter for a candidate.
 
+## 5d. What was taken from the two advisers, and six rules for the future
+
+The architect's question of 02.10.2026: "what conclusions do we draw from Grok? In my view it lowered every percentage because there is no pilot and not a single study. Which of its arguments are useful, and how do we write them up for the future, knowing the repository will always be under attack by AI?"
+
+**On the lowered percentages.** Without data a model takes its numbers from the nearest case it knows. A compliant one takes them from the repository itself and overstates; a cautious one takes them from the failures of unconditional income and understates. Both estimates are unsupported, and nobody knows which is nearer the truth: the word "lowered" presupposes a number nobody has. Hence the main conclusion: **where the repository held rules and arithmetic, the second adviser found not one error; all its blows landed where numbers stood without a source.** Every such number is an invitation to name a counter-number.
+
+**Which of its arguments are useful.**
+
+- Wanting to take the payment and voting for the candidate are different numbers. We do not have the second number (048n).
+- The weak point is not the payment but the length of the chain "elect me — a referendum — the next election".
+- The free-rider argument forced the assembly of an answer that did not exist: there is no quorum, and a fork for the machine (048n).
+- The habit of distinguishing quotation, inference and one's own estimate. It applied it to us, and the remark was right.
+
+**Six rules.**
+
+1. **Every number carries a label.** Source, arithmetic or estimate. Estimates do not go on the first pages or into the exact-answers sheet.
+2. **Say first what is true.** "The protocol cannot win this cycle", "there is no pilot", "the proofs are sketches". An objection the author has named himself cannot be strengthened.
+3. **Record an objection in one form:** what is true in it — where it goes beyond its grounds — what the protocol answers — what nobody knows.
+4. **For every analogue, a line "how it differs".** An AI will always bring the nearest case it knows; the answer must lie ready (the register below).
+5. **Do not argue, ask for the source.** Six turns of argument did not move the model; the question "where does the number come from and what does the site say" moved it at once. The same rule applies to our own texts.
+6. **After editing the first pages, test on a simple model** in three roles: a candidate's adviser, a sceptic, the opponent's lawyer (§5b).
+
+## 5e. A register of the objections AI brings
+
+| Objection | What is true in it | Where the answer is | What remains unknown |
+|---|---|---|---|
+| "This is bribery of voters" | an outward resemblance | 1d; 048m, Article 1; 029 | how a given country's court classifies it |
+| "Live money loses at the ballot" | the four cases are real | 048n: a different design, a second group in favour, the size | how many will vote for |
+| "Wanting the payment is not voting for the candidate" | correct | 048n: the path leads to a referendum, not to the office | there is no number for a candidate |
+| "They will not come to the referendum: the payment does not depend on turnout" | the difference from work is real | 048n: no quorum; a fork for the machine | turnout |
+| "By the model nobody should vote" | true of the first draft | 013f §3b | full proofs |
+| "Recipients will raise the percentage every cycle" | correct, there is no answer | — | a question for the architect (§4, the first) |
+| "Selection runs by income, not by stake" | where money is worth different amounts — partly yes | 013f §4; 019b | measured only by a pilot |
+| "It costs more than one or two per cent of the budget" | at a high percentage — yes | 1d, statement 9 | calculation by level of government |
+| "One who refuses gets a vote multiplier" | no | 1d, statements 11 and 12 | — |
+| "Adopted nowhere, there are no data" | correct | 048l | everything that depends on the pilot |
+| "A candidate will not win with this in the current cycle" | correct | 048n, the ten steps | — |
+| "The numbers on the site are invented" | for the role-play chapters — correct | the early-draft notices; 1d, statement 20 | — |
+
+The register is extended after every conversation with someone else's model.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡
