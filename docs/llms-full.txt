@@ -283,6 +283,16 @@ Unknown: there is no precedent. Three things can be said firmly. The payment to 
 
 Raise and spend strictly under campaign-finance law, with a lawyer.
 
+**A large donor.** The architect, 03.10.2026: "any billionaire would readily finance this; they give money to far less realistic things, and here one can change the world". The sums are indeed within what has been seen: about 60 million dollars for a study of unconditional payments, about 350 million for aid to election offices in 2020, a million a day to voters in 2024 (023f). What matters is where the money goes.
+
+| Where | Is it allowed |
+|---|---|
+| A pilot: a courtyard or village, both rounds | yes — it is not an election (048l) |
+| The campaign for a referendum, lawyers, calculations | yes, under campaign-finance law |
+| The payments to voters at an election | no: the budget pays, not a private person (048m, Articles 1 and 8) |
+
+The third row is not a formality: after private money in the 2020 elections at least twenty-four US states banned private funding of elections altogether. A suggestion of the assistant's, not a decision of the architect's: a donor may give not the payments but a guarantee on the first city's loan (Article 8, paragraph 5) — the city pays from its budget, and the risk of too high a percentage does not fall on the residents. Whether that is permissible is for the country's lawyer.
+
 ### 7. "Is this a trick, a catch — or is it logical and fair?"
 
 The test for a trick is simple: what is taken from you? Nothing. The right to vote remains and returns automatically every cycle; the right not to vote remains and is worth something for the first time; the charter imposes no duties (048m, Articles 5 and 16).
