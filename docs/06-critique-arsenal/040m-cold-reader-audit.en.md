@@ -124,7 +124,7 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 |---|---|---|---|
 | "This is bribery of voters" | an outward resemblance | 1d; 048m, Article 1; 029 | how a given country's court classifies it |
 | "Live money loses at the ballot" | the four cases are real | 048n: a different design, a second group in favour, the size; another class of analogues — the thirteenth pension in Switzerland, the minimum wage, health coverage | how many will vote for |
-| "Wanting the payment is not voting for the candidate" | correct | 048n: the path leads to a referendum, not to the office | there is no number for a candidate |
+| "Wanting the payment is not voting for the candidate" | correct | 048n: the path leads to a referendum, not to the office; Hungary 2022 and 2026 — money became votes both times, with a short chain | there is no number for a candidate |
 | "They will not come to the referendum: the payment does not depend on turnout" | the difference from work is real | 048n: no quorum; a fork for the machine; people do turn out for votes with a personal benefit | turnout |
 | "By the model nobody should vote" | true of the first draft | 013f §3b | full proofs |
 | "Recipients will raise the percentage every cycle" | the risk is real; in a very poor city the increase will pass | 018 §34: the bill on the ballot, the payment falls with the median, a bankrupt city as a lesson; 048m, Article 8: the payment is an unconditional obligation, accumulated over the cycle or borrowed | priority in insolvency — for lawyers |
