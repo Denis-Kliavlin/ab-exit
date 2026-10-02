@@ -95,7 +95,7 @@ plugins:
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
             "Глава 4. Электоральная динамика": "Chapter 4. Electoral Dynamics"
-            "16. Почему AB-EXIT неостановим": "16. Why AB-EXIT Is Unstoppable"
+            "16. Почему AB-EXIT неостановим (мнение архитектора)": "16. Why AB-EXIT Is Unstoppable (the architect's view)"
             "17. Прагматики vs идеологи": "17. Pragmatists vs Ideologues"
             "18. Три эпохи демократии": "18. Three Epochs of Democracy"
             "19. Цена плохого управления": "19. The Cost of Bad Governance"
@@ -138,7 +138,7 @@ plugins:
             "40. Восьмой AI: вердикт Grok": "40. The Eighth AI: Grok's Verdict"
             "II. Социальная архитектура": "II. Social Architecture"
             "Глава 7. Манифест и стратегия": "Chapter 7. Manifesto and Strategy"
-            "33. Двойная капитуляция Gemini Pro": "33. The Double Capitulation of Gemini Pro"
+            "33. Двойная капитуляция Gemini Pro (мнение архитектора)": "33. The Double Capitulation of Gemini Pro (the architect's view)"
             "33b. Короткий манифест": "33b. Short Manifesto"
             "34. Государство как корпорация": "34. The State as a Corporation"
             "35. Маршрут B": "35. Route B"
@@ -279,7 +279,7 @@ nav:
       - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
       - "15c. Смена знака, а не +5 %": 03-theory/015c-sign-change.md
     - "Глава 4. Электоральная динамика":
-      - "16. Почему AB-EXIT неостановим": 04-electoral-dynamics/016-age-economics.md
+      - "16. Почему AB-EXIT неостановим (мнение архитектора)": 04-electoral-dynamics/016-age-economics.md
       - "17. Прагматики vs идеологи": 04-electoral-dynamics/017-pragmatics-ideologues.md
       - "18. Три эпохи демократии": 04-electoral-dynamics/018-three-epochs.md
       - "19. Цена плохого управления": 04-electoral-dynamics/019-bad-governance-cost.md
@@ -336,7 +336,7 @@ nav:
       - "40m. Аудит холодного читателя": 06-critique-arsenal/040m-cold-reader-audit.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
-      - "33. Двойная капитуляция Gemini Pro": 07-manifesto/033-manifesto.md
+      - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
       - "33b. Короткий манифест": 07-manifesto/033b-short-manifesto.md
       - "33c. Язык протокола": 07-manifesto/033c-protocol-language.md
       - "34. Государство как корпорация": 07-manifesto/034-state-as-corporation.md

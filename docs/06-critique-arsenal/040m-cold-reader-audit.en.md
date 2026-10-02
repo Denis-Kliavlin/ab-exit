@@ -178,7 +178,7 @@ Along the way the reader noticed that the notices were dated 03.10.2026 though m
 
 **A check of six books.** The rows of the table of explanations in 029.10 and the references to Downs and Kirchheimer, which the assistant had written from memory, were checked against descriptions of the books at the level of the main thesis. Five matched. To Norris this was added: in the 2011 book she disputes the very picture of a universal fall in trust.
 
-**What this pass did not close.** Twelve early chapters out of about a hundred and fifty were checked; there was one reader; the large chapters 018 and 006 he scanned by keyword. The chapter titles "unstoppable" and "empirical proof" are left as they are — they are the architect's words, and changing them is for him. To the question "of what order is the payment" the site still answers with a range from four working days to a month's earnings (§4, question 2).
+**What this pass did not close.** Twelve early chapters out of about a hundred and fifty were checked; there was one reader; the large chapters 018 and 006 he scanned by keyword. The chapter titles "unstoppable" and "empirical proof" are, by the architect's decision, kept and marked in brackets "the architect's view" — in the chapter itself, in the menu and in the table of contents; the stress-test line on the home page is marked likewise. The table of contents was corrected along the way: chapters 16, 33 and 43 stood there under other chapters' titles. To the question "of what order is the payment" the site still answers with a range from four working days to a month's earnings (§4, question 2).
 
 ## 6. Weak point
 

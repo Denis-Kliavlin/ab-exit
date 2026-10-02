@@ -1,4 +1,4 @@
-# 16. Why AB-EXIT Is Unstoppable: the Ballot Initiative and 75 % Support
+# 16. Why AB-EXIT Is Unstoppable (the Architect's View): the Ballot Initiative and 75 % Support
 
 **Chapter:** 04
 **File version:** v1

@@ -5,7 +5,7 @@
 **Complete analytical document · Version 6.57 · 2026**
 
 Protocol author: **Denis Klyavlin** · Chisinau
-Stress-tested by 6 AI models · 449+ rounds of dialogue; none named a contradiction that collapses the mechanism. A model's agreement is not proof: what has and has not been checked is in [the cold-reader audit](06-critique-arsenal/040m-cold-reader-audit.md)
+Stress test (the architect's assessment): 6 AI models · 449+ rounds of dialogue; none named a contradiction that collapses the mechanism. A model's agreement is not proof: what has and has not been checked is in [the cold-reader audit](06-critique-arsenal/040m-cold-reader-audit.md)
 Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit) · [ab-exit.com](https://ab-exit.com/ru/)
 
 > **Short and exact.** Before an election everyone chooses: to vote — or to take a payment and not vote in that election. The payment is a percentage of the median income approved by referendum; there is no fixed sum. One ballot is one vote; there are no multipliers. The budget pays under law; a candidate never pays. Only a referendum can introduce or repeal it. The protocol promises nobody an election victory.
@@ -114,7 +114,7 @@ Each section is self-contained — you can read it straight through as a book (u
 
 ### Chapter 4. Electoral Dynamics and Strategy
 
-16. [Age Economics and the Triangle of the Center](04-electoral-dynamics/016-age-economics.md)
+16. [Why AB-EXIT Is Unstoppable (the architect's view)](04-electoral-dynamics/016-age-economics.md)
 17. [Pragmatists vs Ideologues — a New Electorate](04-electoral-dynamics/017-pragmatics-ideologues.md)
 18. [Three Epochs of Democracy](04-electoral-dynamics/018-three-epochs.md)
 19. [The Cost of Bad Governance](04-electoral-dynamics/019-bad-governance-cost.md)
@@ -178,7 +178,7 @@ Each section is self-contained — you can read it straight through as a book (u
 
 ### Chapter 7. Manifesto, Strategy, Media
 
-33. [Philosophical Manifesto](07-manifesto/033-manifesto.md)
+33. [The Double Capitulation of Gemini Pro (a record of a dialogue; the conclusion is the architect's view)](07-manifesto/033-manifesto.md)
 - [33b. Short Manifesto](07-manifesto/033b-short-manifesto.md)
 34. [The State as a Corporation](07-manifesto/034-state-as-corporation.md)
 - [34b. Corporate Analogies: Shares, LP/GP, Contractual Paternalism](07-manifesto/034b-corporate-analogies.md)
@@ -198,7 +198,7 @@ Each section is self-contained — you can read it straight through as a book (u
 
 41. [Portrait of the Carrier](08-implementation/041-carrier-portrait.md)
 42. [Protection Against the "Poison Pill"](08-implementation/042-poison-pill.md)
-43. [The Double Capitulation of Gemini Pro](08-implementation/043-gemini-capitulation.md)
+43. [The Market Qualification: Fair and Voluntary — a Philosophical Manifesto](08-implementation/043-gemini-capitulation.md)
 44. [Protection Against Election Interference](08-implementation/044-election-interference.md)
 - [45. Campaign Economics](08-implementation/045-campaign-economics.md)
 - [46. Detonators: United Kingdom](08-implementation/046-detonators-uk.md)
