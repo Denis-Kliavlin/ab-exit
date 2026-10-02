@@ -396,6 +396,19 @@ The difference runs from eight times to over a hundred.
 
 *The assistant's caveat.* It does not follow from the difference in size that opponents are fewer by the same factor: nobody knows how the share "against" depends on the sum. And the protocol has an opponent the unconditional income did not have — the one for whom the vote is sacred and payment for not taking part looks like bribery; the repository estimates him at 9–16 %, and that too is an estimate (08/045 §45.6).
 
+**Another class of analogues: measures with a personal benefit pass.** The architect, 03.10.2026: "comparable votes with serious arguments against still passed, and not with zero turnout". Checked.
+
+| Vote | Result | Who was against |
+|---|---|---|
+| Switzerland, March 2024: a thirteenth pension payment | 58.2 % for on a turnout of 58.3 % | the government, parliament, business |
+| USA, minimum-wage increases at the ballot, 1996–2025 | 28 of 32 passed | employers |
+| Florida, 2020: a 15-dollar minimum wage | 60.8 % for | business |
+| USA, expansion of health coverage: Idaho 2018, Missouri 2020, Oklahoma 2020, South Dakota 2022 | 61 %, 53.3 %, 50.5 %, 56.2 % | those states' legislatures |
+
+The main point here is Switzerland: one country and one electorate gave 23 % to an unconditional income in 2016 and 58 % to a thirteenth pension in 2024. So what fails is not "voting for money" but a particular design: a huge regular payment to everyone. A moderate, clear addition passes against the government's will.
+
+The limit of the comparison. None of these measures is a payment for forgoing a vote; they are additions for a particular group, and most were held together with general elections. They show that measures with a personal monetary benefit pass and draw turnout, but not how much the protocol would get.
+
 **What points the other way.** In Alaska in 1999, in an advisory vote, 83 % refused to hand the earnings of the fund that pays the dividend over to the budget. Money that already arrives people defend; a promise of money three steps away they do not believe. That is the real content of the objection: the weak point is not the payment but the length of the chain "elect me — then a referendum — then the next election".
 
 **What follows for a candidate.** Support for the rule at a referendum and votes for the one who champions it do not coincide: initiatives often pass where the candidates who back them lose. So the ten steps above lead to a referendum, not to the office, and the repository contains not a single number on support for a candidate. Numbers such as "5–15 %" from one AI and "25–40 %" from another are equally unsupported.

@@ -112,9 +112,9 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 | Objection | What is true in it | Where the answer is | What remains unknown |
 |---|---|---|---|
 | "This is bribery of voters" | an outward resemblance | 1d; 048m, Article 1; 029 | how a given country's court classifies it |
-| "Live money loses at the ballot" | the four cases are real | 048n: a different design, a second group in favour, the size | how many will vote for |
+| "Live money loses at the ballot" | the four cases are real | 048n: a different design, a second group in favour, the size; another class of analogues — the thirteenth pension in Switzerland, the minimum wage, health coverage | how many will vote for |
 | "Wanting the payment is not voting for the candidate" | correct | 048n: the path leads to a referendum, not to the office | there is no number for a candidate |
-| "They will not come to the referendum: the payment does not depend on turnout" | the difference from work is real | 048n: no quorum; a fork for the machine | turnout |
+| "They will not come to the referendum: the payment does not depend on turnout" | the difference from work is real | 048n: no quorum; a fork for the machine; people do turn out for votes with a personal benefit | turnout |
 | "By the model nobody should vote" | true of the first draft | 013f §3b | full proofs |
 | "Recipients will raise the percentage every cycle" | correct, there is no answer | — | a question for the architect (§4, the first) |
 | "Selection runs by income, not by stake" | where money is worth different amounts — partly yes | 013f §4; 019b | measured only by a pilot |
