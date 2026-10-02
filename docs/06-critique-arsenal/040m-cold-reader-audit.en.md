@@ -231,7 +231,7 @@ The architect's task: "think who our main consumers and stakeholders will be, an
 
 **What is open and is not settled by text.**
 
-- The period and composition of the median: without it a finance officer cannot calculate from the percentage.
+- The period of the median was decided on 02.10.2026: the last twelve months (the fourteenth decision, 048k §3; the charter 0.7). Its composition — earnings or all income — remains for economists. A calculation for a US city of a million residents and for a small town is in 1e: at 1–1.5 % with half taking it, the payment costs 3–4.5 % of the general fund a year.
 - The cost for a city: the table in 1e gives 2–9 % of the annual budget at a payment of 20–40 thousand roubles — arithmetic on the numbers of a test question; there is no calculation for a real city.
 - The token of the open channel and the secrecy of the vote: 048h and 048i diverge, and the charter is silent.
 - The parameters that the lawyer called decisions, not settings.

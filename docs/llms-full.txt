@@ -63,7 +63,7 @@ PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
 
 **The money**
 
-6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
+6. There is no fixed sum. The size of the payment is a percentage of the jurisdiction's median income (Art. 2). The median is taken over the last twelve months for which data have been published, that is, the percentage is counted from an annual quantity. Examples in other chapters range from four working days to a month's earnings; that is a matter for debate, not a norm. There is one guide: the payment should be desirable to 40–50 % of the population (Art. 3).
 7. The percentage is set by referendum after open debate and changed no more than once per cycle (Art. 3).
 8. The jurisdiction's budget pays, under law. A candidate, a party or a private person never pays voters (Art. 1, 2).
 9. Whether from a budget line or a separate fund is for the country to decide; the protocol does not prescribe it (annex to 048m). The cost per cycle equals the percentage multiplied by the median and by the number who took the payment. "1–2 % of the budget" in early chapters was computed at a small percentage and does not apply to higher ones. The payment is an unconditional obligation: the money for it is accumulated over the cycle, and where it falls short a loan is raised for the purpose; it cannot be reduced, deferred or cancelled for lack of funds (Art. 8).
@@ -126,7 +126,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 
 ### Article 2. The payment
 
-1. The payment D equals [p] per cent of the jurisdiction's median income M: D = p × M. The size is set only as a percentage, never as a sum.
+1. The payment D equals [p] per cent of the jurisdiction's median income M over the last twelve months for which data have been published: D = p × M. The size is set only as a percentage, never as a sum.
 2. The median is calculated by a body independent of the executive, by an open methodology and from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
 3. A divergence between sources of more than [10] per cent triggers an audit with an auditor from the judiciary; the result is published within [90] days.
 4. The recalculation rule for a change of methodology is recorded before the change.
@@ -240,7 +240,7 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 
 | Setting | Question | For whom |
 |---|---|---|
-| The median | which income, over what period, what averaging | economists |
+| The median | the period is decided: the last twelve months (Article 2; the fourteenth decision, 048k §3). Which income — earnings or all income — and what averaging | economists |
 | Percentage or target | fix p or a target share of exit | economists |
 | Number of payments | one per cycle or several smaller | economists and sociologists |
 | Source of money | a budget line or a separate fund | financiers |

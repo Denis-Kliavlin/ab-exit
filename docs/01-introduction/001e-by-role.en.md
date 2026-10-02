@@ -48,7 +48,7 @@ A reader without markup cannot see where a link leads, so the addresses are writ
 ## For a finance officer: what it costs
 
 - **The cost formula.** Cost per cycle = the payment × the number who took it (1d, statement 9). The payment is D = p × M: a percentage of the median income (Article 2).
-- **What the charter does not define.** Over what period the median is taken — a month or a year — whether it is a wage or an income, and what averaging is used. This is left to the country's economists (the annex to the charter, the row "The median"). Until it is defined, one must calculate from the sum D itself, not from the percentage.
+- **The period of the median.** The last twelve months for which data have been published: the median is annual, and the percentage is counted from it (Article 2; the fourteenth decision, 048k §3). What is not defined is something else: whether it is earnings or all income, and what averaging — that is left to the country's economists.
 - **The form D = M × 1.5 × K** in chapter 1 is the first version of the formula; the examples under it were computed from an annual median. A monthly median must not be put into it.
 - **The arithmetic of an example.** For Russia the author names a guide of 40–50 thousand roubles per cycle; the percentages of 1–2 % in early chapters are an illustration, not a norm, and the cost must not be calculated from them. A city: 100,000 voters, a budget of 6 billion roubles a year, a five-year cycle. The table is multiplication, not an estimate: nobody knows what the sum will be or how many people will take it.
 
@@ -62,6 +62,41 @@ A reader without markup cannot see where a link leads, so the addresses are writ
 - **The loan.** Its terms, its priority over other obligations and its accounting are not defined: the annex row "The loan and priority" is left to financiers.
 - **Several levels.** Each level of government pays at its own elections, from its own budget and from its own median (Article 7). A city budget pays only for city elections. How many payments a year one person ends up with is an open question (040m §4, question 3).
 - **The premium for early choosers** is paid from the discount on late ones (Article 6); whether that account balances has not been computed.
+
+### An example: a US city of a million residents
+
+Calculated on 02.10.2026 at the architect's word. All the input numbers are from open sources; the table is multiplication.
+
+- **Residents:** 1,000,000. The models are Austin (1,002,632 as of July 2025) and Jacksonville (1,032,061).
+- **Voters:** 650,000 — after Jacksonville: Duval County had 651,283 active registered voters on 31 August 2026.
+- **The general fund:** 1.5 billion dollars in Austin and 2.03 billion in Jacksonville for 2026/27; 1.75 billion a year is taken for the example.
+- **The median M:** 65,052 dollars a year. This is the median weekly earnings of full-time workers — 1,251 dollars in the second quarter of 2026, Bureau of Labor Statistics — multiplied by 52. The figure is national, not the city's, and for one quarter, not four. The median for everyone who worked, by Social Security Administration data, is lower: 43,223 dollars for 2023; with it every sum below is a third lower.
+- **The cycle:** four years.
+
+| Percentage p | Payment D | 30 % took it | 50 % took it | 70 % took it |
+|---|---|---|---|---|
+| 1 % | $650 | $127 m per cycle; $32 m a year; 1.8 % of the general fund | $211 m; $53 m; 3.0 % | $296 m; $74 m; 4.2 % |
+| 1.5 % | $975 | $190 m; $48 m; 2.7 % | $317 m; $79 m; 4.5 % | $444 m; $111 m; 6.3 % |
+| 3 % | $1,950 | $380 m; $95 m; 5.4 % | $634 m; $158 m; 9.1 % | $887 m; $222 m; 12.7 % |
+| 8.3 % — a month's median | $5,417 | $1,056 m; $264 m; 15.1 % | $1,760 m; $440 m; 25.2 % | $2,465 m; $616 m; 35.2 % |
+
+**What the table shows.**
+
+- At 1–1.5 % with half taking it, the payment costs 3–4.5 % of the general fund a year. That is more than the "1–2 % of the budget" of early chapters, but of the same order.
+- At a payment the size of a month's median — a quarter of the general fund a year.
+- The architect's guide for Russia, 40–50 thousand roubles at a monthly median of about 40 thousand, is 8–10 % of the annual median. The American examples of early chapters, $780, are 1.5 %. One and the same measure, "desirable to 40–50 % of residents", gave percentages in the two countries that differ sixfold. Which of them is right the calculation will not say: only a pilot with different sums will show it.
+
+### A small town for a pilot
+
+The architect, 02.10.2026: "a small town is probably better for a pilot". The same ratios for 25,000 residents: 16,250 voters, and a general fund, at the same spending per resident, of about 44 million dollars a year. The shares of the budget stay the same; the money is different.
+
+| Payment D | 30 % took it | 50 % took it | 70 % took it |
+|---|---|---|---|
+| $650 | $3.2 m per cycle | $5.3 m | $7.4 m |
+| $975 | $4.8 m | $7.9 m | $11.1 m |
+| $1,950 | $9.5 m | $15.8 m | $22.2 m |
+
+In the city of a million the row "$975, half" is 317 million dollars per cycle; in the town of 25 thousand it is 7.9 million. The second sum is commensurate with one large donor or with a loan under his guarantee for the first cycle; the first is not. The town of 25 thousand is notional: there is no real budget behind it.
 
 ## For a donor or a foundation
 

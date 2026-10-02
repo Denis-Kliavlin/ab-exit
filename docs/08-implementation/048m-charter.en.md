@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.6 · 2 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.7 · 2 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -33,7 +33,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 
 ### Article 2. The payment
 
-1. The payment D equals [p] per cent of the jurisdiction's median income M: D = p × M. The size is set only as a percentage, never as a sum.
+1. The payment D equals [p] per cent of the jurisdiction's median income M over the last twelve months for which data have been published: D = p × M. The size is set only as a percentage, never as a sum.
 2. The median is calculated by a body independent of the executive, by an open methodology and from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
 3. A divergence between sources of more than [10] per cent triggers an audit with an auditor from the judiciary; the result is published within [90] days.
 4. The recalculation rule for a change of methodology is recorded before the change.
@@ -177,7 +177,7 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 
 | Setting | Question | For whom |
 |---|---|---|
-| The median | which income, over what period, what averaging | economists |
+| The median | the period is decided: the last twelve months (Article 2; the fourteenth decision, 048k §3). Which income — earnings or all income — and what averaging | economists |
 | Percentage or target | fix p or a target share of exit | economists |
 | Number of payments | one per cycle or several smaller | economists and sociologists |
 | Source of money | a budget line or a separate fund | financiers |
