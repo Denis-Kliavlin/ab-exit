@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.4 · 1 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.5 · 3 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -91,8 +91,9 @@ The electoral cycle is the one established in the jurisdiction. Each level of go
 2. The payment is not subject to seizure, recovery, withholding, pledge, assignment or set-off against the recipient's private obligations; the exception is maintenance within limits set by a court.
 3. The payment is not taken into account in awarding benefits, subsidies and concessions and is not subject to taxes or levies.
 4. The payment and the right to future payments cannot serve as security for a loan; contracts to that effect are void.
+5. The payment is an unconditional obligation of the jurisdiction. The funds for it are accumulated over the electoral cycle; where they fall short, the jurisdiction raises a loan for that purpose. A shortage of funds is no ground for reducing, deferring or cancelling the payment.
 
-*Source: 06/037 "Article N", 048g §3b.*
+*Source: 06/037 "Article N", 048g §3b; the architect's decision of 03.10.2026 (048k §3, the thirteenth).*
 
 ### Article 9. The counter
 
@@ -181,7 +182,7 @@ The charter does not decide these; the experts and the jurisdiction's referendum
 | Source of money | a budget line or a separate fund | financiers |
 | Choice among several percentages | the referendum procedure | lawyers and sociologists |
 | Legal route | the legal form in which the referendum is held and its result enacted — a law or a constitutional amendment; a private referendum without legal force as a preliminary step (08/045, 07/035) | lawyers |
-| A budget shortfall | what happens to the payment in a year when the budget cannot pay it | financiers and lawyers |
+| The loan and priority | whether local law permits a loan for the payment, and what rank the payment holds among obligations if the jurisdiction is insolvent (Article 8, paragraph 5) | lawyers and financiers |
 | Source of the early premium | whether the discount on late payments covers it, and when (Article 6) | financiers |
 | Thresholds of Articles 10 and 11 | channel divergence, anomaly | from the pilot (048l) |
 | The court's time limit | how many days for the six disputes of Article 12 | lawyers |
