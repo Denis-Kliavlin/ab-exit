@@ -24,13 +24,15 @@ This section is for a reader, human or AI, who will go no further than the table
 
 1. Before an election everyone chooses: to vote — or to take a payment and not vote in that election. Within one election the choice is final; at the next one the person chooses again.
 2. The size of the payment is a percentage of the jurisdiction's median income. A referendum approves the percentage. There is no fixed sum: sums in the chapters are worked examples.
-3. One ballot is one vote. There are no multipliers.
+3. One ballot is one vote; there is no multiplier in the count. The vote is nevertheless amplified: the more people step out, the larger the share each ballot cast makes up — by how much is not known in advance. This is one statement, not two.
 4. The budget pays under law. A candidate, a party or a donor never pays voters: a candidate's promise to pay is vote-buying, and the charter prohibits it.
 5. Only a referendum of all citizens introduces, changes or repeals the rule — by simple majority, with no turnout threshold. Not a decree, not a parliament, not a council; no supermajority is required.
 6. The payment is an unconditional obligation of the jurisdiction: the money is accumulated over the electoral cycle, and if it falls short a targeted loan is taken.
 7. A person who takes the payment keeps every other right and votes in referendums on the rule itself. A person who chooses nothing keeps the vote.
 8. Verification is a public counter and the reconciliation of two records: the treasury's and the election commission's.
 9. The protocol promises nobody an election victory.
+
+**Addresses of the key pages — as text** (a reader without markup cannot see where a link leads): exact answers — https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/ · the charter — https://docs.ab-exit.com/en/08-implementation/048m-charter/ · answers by role (a citizen, a mayor, a finance officer, a donor, a journalist, on Russia, a scholar, a lawyer) — https://docs.ab-exit.com/en/01-introduction/001e-by-role/ · for a candidate — https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/ · the pilot — https://docs.ab-exit.com/en/08-implementation/048l-courtyard-pilot/ · everything in one file — https://docs.ab-exit.com/llms-full.txt
 
 **What exists and what does not.**
 
@@ -54,6 +56,8 @@ Each section is self-contained — you can read it straight through as a book (u
 **If pages disagree** — the repository holds layers of different dates — [1d. Exact Answers](01-introduction/001d-exact-answers.md) and [48m. The Charter](08-implementation/048m-charter.md) are correct.
 
 **Quick routes by role:**
+
+Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, those thinking about Russia, a scholar and a lawyer are in [1e](01-introduction/001e-by-role.md).
 
 - **Skeptic / critic** → start with [29. The Structural Hypocrisy of Criticism](06-critique-arsenal/029-hypocrisy.md), then [23. Comparative Effectiveness](05-empirical-base/023-quantitative-comparison.md)
 - **Academic** → [13. Game Theory](03-theory/013-game-theory.md) → [12. The Jheringian Tradition](03-theory/012-jhering.md) → [15. Honest Politicians (PNAS 2020)](03-theory/015-honest-politicians.md)
@@ -85,6 +89,7 @@ Each section is self-contained — you can read it straight through as a book (u
 - [1b. AB-EXIT in One Chapter: the Essence and All the Important Logic](01-introduction/001b-essence.md)
 - [1c. A Board with No Good Moves: Half a Hundred Zugzwangs of the Protocol](01-introduction/001c-board-without-good-moves.md)
 - [1d. Exact Answers: What the Protocol Asserts and What It Does Not](01-introduction/001d-exact-answers.md)
+- [1e. What Question Did You Come With: Short Answers by Role](01-introduction/001e-by-role.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)
@@ -168,7 +173,7 @@ Each section is self-contained — you can read it straight through as a book (u
    - [23d. Democracy Vouchers: Public Money for a Political Decision](05-empirical-base/023d-democracy-vouchers.md)
    - [23e. Deliberation and Citizens' Assemblies: Quality Without a Door](05-empirical-base/023e-deliberation-assemblies.md)
    - [23f. Money at Elections: From Arizona to Trump in Twenty Years](05-empirical-base/023f-money-at-elections.md)
-- [13f. A Formal Statement: Four Theorems and Two Assumptions](03-theory/013f-formal-statement.md)
+- [13f. A Formal Statement: Five Theorems and Three Assumptions](03-theory/013f-formal-statement.md)
    - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 - [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)

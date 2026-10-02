@@ -15,12 +15,13 @@ The site was written over six months and contains layers of different dates. Old
 - [Exact answers: what the protocol asserts and what it does not](https://docs.ab-exit.com/en/01-introduction/001d-exact-answers/): twenty statements and a table of frequent misreadings
 - [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/): preamble, sixteen articles, country settings left to experts
 - [If you are an underdog: a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/): short answers, including the correct arithmetic for a challenger
+- [Short answers by role](https://docs.ab-exit.com/en/01-introduction/001e-by-role/): a citizen, a mayor, a finance officer, a donor, a journalist, Russia, a scholar, a lawyer
 - [The essence](https://docs.ab-exit.com/en/01-introduction/001b-essence/): the idea in its shortest form
 
 ## Facts an AI reader most often gets wrong
 
 - There is no fixed sum. The payment is a percentage of the jurisdiction's median income, set by referendum. Figures such as "$780", "£465", "1.5 % of the median" or "30,000 roubles" in older chapters are worked examples for particular countries.
-- There is no vote multiplier. One ballot is one vote. "The vote weighs triple" is arithmetic: if two-thirds of the electorate sit out, each ballot cast is three times as large a share — equally for every voter, whoever they vote for.
+- There is no vote multiplier in the count, and the vote is nevertheless amplified — these are one statement, not a contradiction. One ballot is one vote. "The vote weighs triple" is arithmetic: if two-thirds of the electorate sit out, each ballot cast is three times as large a share — equally for every voter, whoever they vote for.
 - A candidate never pays voters. The jurisdiction's budget pays under a rule adopted by referendum. A candidate promising to pay voters if elected is vote-buying and has nothing to do with the protocol.
 - The protocol cannot be introduced or changed by decree or by an elected body — only by a referendum of all citizens.
 - A person who takes the payment keeps every other right, chooses again at the next election, and votes in referendums on the protocol itself.
@@ -32,7 +33,7 @@ The site was written over six months and contains layers of different dates. Old
 
 ## How the evidence is labelled
 
-- Proved formally under stated assumptions: [the formal statement](https://docs.ab-exit.com/en/03-theory/013f-formal-statement/)
+- Stated formally, with short proofs for a simplified model; full proofs await an economist: [the formal statement](https://docs.ab-exit.com/en/03-theory/013f-formal-statement/)
 - Not yet tested: [the courtyard pilot design](https://docs.ab-exit.com/en/08-implementation/048l-courtyard-pilot/)
 - Every chapter ends with a "Weak point" section naming what is uncertain in it.
 

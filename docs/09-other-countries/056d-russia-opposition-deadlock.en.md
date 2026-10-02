@@ -8,6 +8,8 @@
 
 *How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
 
+*What is proposed for Russia now (note of 02.10.2026).* Not the introduction of the rule but the spreading of a question: "the vote is already paid for — to the parties; why not to the voter?" The analysis in force is [056f](056f-russia-september-2026.md): §13e and §13i — a question instead of smart voting, §6–7 — the referendum procedure and the risk. A legal collection of signatures with passport data carries a high personal risk; an anonymous count, a risk close to zero; they must not be mixed. The general plan for a candidate in 48n must not be applied to Russia without these sections. Words about an inevitable outcome in this chapter are theses, not a forecast.
+
 ## 1. "It's winter, you can't grow strawberries": the capitulation of classical political science
 
 Galliamov admits in plain words: within the current rules intelligent, independent, opposition-minded people have not a single chance of winning through the ballot box — the system controls candidate access, the count and the administrative resource. What does he propose instead? Nothing: wait for a "black swan" — a mutiny, a collapse, a February 1917. The political scientist's three standard pieces of advice inside rules written by a card sharp — all losing:

@@ -18,6 +18,8 @@ What they lack. In life their equilibrium does not arrive: the uninformed vote a
 
 ## 2. The setting
 
+*Note of 02.10.2026. The unit of the stake is corrected in §3b: read "v·w − c" and "v* = (D + c)(1 − β)". The forms with N below are the first version.*
+
 There are N citizens. Each knows privately:
 
 - *v* — the stake: everything for which he is willing to forgo the payment in this cycle, in money — influence on the outcome, taxes that threaten him or are promised to him, the wish to be among the voters. The motive does not matter; the willingness to pay does (040l §3); in substance it is the future a person takes into account: for whoever "later" does not exist the stake is small and he takes the sum; whoever has a horizon does not. The architect: "that is exactly why he takes the money at the election; and if there is a horizon, he does not" (019g §8). The button is a test of the horizon by an act;
@@ -79,7 +81,7 @@ An example: *D + c* = 700, half have exited — the threshold is 350. The one wh
 
 **Correction to Theorem 1.** After the decision of 30.09.2026 one who chose nothing keeps the vote and may receive the payment later at a discount (048k §3, the twelfth decision; 048m, Article 6). So "nothing" is no longer dominated: it is an option — to wait until polling day and decide — and its price is the discount of 20–30 %. Theorem 1 holds for the first version, in which "nothing" gave zero.
 
-## 4. Two assumptions
+## 4. Assumptions (the third is in §3b)
 
 The theorems hold under two conditions, and their place is in the statement, like zero transaction costs in Coase.
 
@@ -106,6 +108,21 @@ The gain from tying one's hands, in their sense, is the list of policies impossi
 ## 5. The task for an economist
 
 A 10–15-page note in mechanism theory: the primitives of §2; theorems 1–4 with full proofs; comparative statics in *D*, *c* and the shape of *F*; the extension to assumption 2; a check against the simulator (`simulation/referendum-lab/model.mjs` — a logit version of the same model). A referee should be given not "we are incentive-compatible" but "here is the fixed point, here are the conditions, refute them".
+
+## 5b. Remarks of a cold referee, 02.10.2026
+
+An independent AI reader in the role of a political economist read this chapter as a referee would (040m §5g). This is not an economist's review; the remarks are recorded as a list of work for one.
+
+1. **The notation of the first version remains in the text.** §2 and the statement of the fourth theorem carry "v·w/N" and "N(D + c)(1 − β)"; the corrected "v·w − c" and "v* = (D + c)(1 − β)" are in §3b. The proof of the fourth theorem has not been rewritten for the new unit.
+2. **The fifth theorem is not reconciled with §3b.** Its condition contains the probability of being decisive, while the corrected utility does not: the value of a vote as a share and its value as influence on the outcome are mixed. Besides, a bloc is treated as one player, though each member can take the payment and rely on the rest.
+3. **The first theorem** holds for the first version, in which "nothing" gave zero; after the decision of 30.09.2026 it is not a statement about the rule in force (§3b).
+4. **"Neither income nor … enters the threshold"** in the third theorem is true only under the second assumption. Without it the stake is divided by the value of money, and income enters.
+5. **The distribution of stakes is taken as independent of the payment.** But the payment is paid for by a tax, and the tax is part of the stake.
+6. **The letter N** denotes both the number of voters and the size of a group.
+7. **What is absent:** a different value of money and a distribution of incomes; a welfare criterion; the game at the referendum on introduction; candidates and outcomes.
+8. **Literature absent here:** models of costly turnout (Ledyard, 1984; Palfrey and Rosenthal, 1983 and 1985; Börgers, 2004), quadratic voting (Lalley and Weyl), ethical voting (Feddersen and Sandroni, 2006), vote-buying (Dekel, Jackson and Wolinsky). Named by the referee; the assistant has not checked them against sources.
+
+The referee's conclusion: the uniqueness of the equilibrium and the comparative statics are proved correctly and are elementary; the substantive questions are points 4, 5 and 7.
 
 ## 6. Weak point
 

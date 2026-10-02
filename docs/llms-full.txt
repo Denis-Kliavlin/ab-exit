@@ -7,7 +7,7 @@ file in the GitHub repository's `en/`, `ru/` and `v6.53*` archive.
 WHAT IT IS, IN FIVE LINES
 - Before each election every eligible citizen chooses: A - vote, or B - take a payment and sit that election out.
 - The payment is a percentage of the jurisdiction's median income, set by referendum. There is no fixed sum.
-- One ballot is one vote. There is no multiplier for anyone.
+- One ballot is one vote. There is no multiplier in the count for anyone. The vote is nevertheless amplified: the more people step out, the larger the share each ballot cast makes up - by how much is not known in advance.
 - The jurisdiction's budget pays under law. A candidate or party never pays voters.
 - Only a referendum of all citizens can introduce, change or repeal the rule. It promises nobody an election victory.
 
@@ -122,6 +122,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 1. The core of the charter consists of: (a) two equal rights — to vote and to take the payment; (b) payment for exit from voting, not for taking part in it; (c) one ballot — one vote, with no coefficients of any kind; (d) a public counter; (e) reconciliation of two independent records — the treasury's and the electoral commission's; (f) amendment of the charter only by a referendum in which all citizens take part.
 2. Parameters are the values in square brackets and the settings of the annex.
 3. No parameter may be set so as to cancel a provision of the core. Payment for turnout, for a vote, or for a vote of a particular content is not a parameter and is prohibited by this charter.
+4. Only the jurisdiction's budget makes the payment. A candidate, a party or a private person does not pay voters.
 
 ### Article 2. The payment
 

@@ -8,6 +8,8 @@
 
 *How to read this chapter (note of 02.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
 
+*What is proposed for Russia now (note of 02.10.2026).* Not the introduction of the rule but the spreading of a question: "the vote is already paid for — to the parties; why not to the voter?" The analysis in force is [056f](056f-russia-september-2026.md): §13e and §13i — a question instead of smart voting, §6–7 — the referendum procedure and the risk. A legal collection of signatures with passport data carries a high personal risk; an anonymous count, a risk close to zero; they must not be mixed. The general plan for a candidate in 48n must not be applied to Russia without these sections. Words about an inevitable outcome in this chapter are theses, not a forecast.
+
 The section is assembled from three successive analyses: the interest of the summit of power (layer 1), the interest of the middle storey of the vertical (layers 2–3), and the sociology of the loyalist majority in hybrid regimes.
 
 ---

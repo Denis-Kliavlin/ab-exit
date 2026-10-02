@@ -118,7 +118,7 @@ The key properties of a good mechanism:
 
 **Strategy-proofness.** The A/B declaration is a public act with no option to "back out later" within the cycle.
 
-By the standards of mechanism design, AB-EXIT is an **incentive-compatible, individually rational, budget-balanced, strategy-proof mechanism**. A rare combination for real-world institutional mechanisms.
+By the standards of mechanism design, AB-EXIT is an **incentive-compatible, individually rational, budget-balanced, strategy-proof mechanism**. *(Note of 02.10.2026: the wording of the first version, as are "resolves the Downs paradox" and "closer to the optimum" in this chapter. 013f and 1d are in force: this is a self-selection mechanism, nobody has a dominant strategy, the decision is a threshold; the proofs are short, for a simplified model, and await an economist.)* A rare combination for real-world institutional mechanisms.
 
 ## 13.7. Revelation Principle — The Simplest Possible Form
 

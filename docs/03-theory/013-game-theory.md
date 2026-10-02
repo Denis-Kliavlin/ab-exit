@@ -118,7 +118,7 @@ Mechanism design разработан Гурвичем, Маскиным, Май
 
 **Strategy-proofness.** Декларация выбора A/B — публичный акт без возможности «отказаться позже» в этом цикле.
 
-По стандартам mechanism design, AB-EXIT — **incentive-compatible, individually rational, budget-balanced, strategy-proof mechanism**. Редкое сочетание для реальных институциональных механизмов.
+По стандартам mechanism design, AB-EXIT — **incentive-compatible, individually rational, budget-balanced, strategy-proof mechanism**. *(Пометка 02.10.2026: формулировка первой редакции, как и «разрешает парадокс Даунса» и «ближе к оптимуму» в этой главе. Действуют 013f и 1d: это механизм самоотбора, доминантной стратегии нет ни у кого, решение пороговое; доказательства — короткие, для упрощённой модели, и ждут экономиста.)* Редкое сочетание для реальных институциональных механизмов.
 
 ## 13.7. Revelation principle — простейшая возможная форма
 

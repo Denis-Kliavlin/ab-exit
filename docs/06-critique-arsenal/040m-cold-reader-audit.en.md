@@ -195,6 +195,47 @@ Along the way the reader noticed that the notices were dated 03.10.2026 though m
 
 **What this pass did not close.** Twelve early chapters out of about a hundred and fifty were checked; there was one reader; the large chapters 018 and 006 he scanned by keyword. The chapter titles "unstoppable" and "empirical proof" are, by the architect's decision, kept and marked in brackets "the architect's view" — in the chapter itself, in the menu and in the table of contents; the stress-test line on the home page is marked likewise. The table of contents was corrected along the way: chapters 16, 33 and 43 stood there under other chapters' titles. To the question "of what order is the payment" the site still answers with a range from four working days to a month's earnings (§4, question 2).
 
+## 5g. Eight roles, 02.10.2026
+
+The architect's task: "think who our main consumers and stakeholders will be, and check the repository and the site from their side on clean AIs". Eight independent readers were each given one link and a question in the voice of someone who may need the protocol. Six were a simple model; two — the scholar and the lawyer — a stronger one. All are of one family; models of other families the architect checks himself.
+
+| Role | Entry point | What it got right | What it could not find or got wrong |
+|---|---|---|---|
+| A citizen who does not vote | the landing page | the size is a percentage, rights remain, introduced nowhere | when the payment comes; who will know; what protects against pressure; no page in plain language |
+| A mayor | the documentation | not introduced by decree; the payment is an obligation | the site is written for a challenger; no route for a sitting mayor |
+| A city finance officer | the documentation | cost = the payment × the number who took it | the period of the median is undefined; it took the old formula and got 600 roubles a person; the Q&A base says "a trust pays" |
+| A donor | the landing page | the budget pays; introduced nowhere | it did not find the pilot chapter and advised "do not fund a pilot"; it did not see the pilot's cost |
+| A journalist | GitHub | it is not vote-buying; the best page is 1d | who the author is, who reviewed it, the licence; it read the README as self-praise |
+| An opposition figure, on Russia | the documentation | the rule and the ban on a candidate paying | it did not find 056f; it retold for Russia the general plan with signatures and a pilot; it did not find the comparison with smart voting |
+| A scholar as referee | the documentation | the model and the status of the proofs | errors in 13f; "strategy-proof" in chapter 13; the pilot's criterion is close to a tautology |
+| Counsel to a commission | the charter | the charter is a draft, not a law | unreconciled articles, undefined terms, uncovered cases |
+
+**Three common causes.**
+
+1. *A model does not see addresses.* It reads a page without markup, sees the words "Exact Answers" and "the Charter", composes the address itself and gets an error. That happened to three of the eight. The addresses of the key pages are now written as text on the home page, in 1e and on the landing page.
+2. *Each role has its own question, and the site answered one reader — the candidate.* Chapter 1e has been written with short answers for eight roles; every line is a restatement of the charter with a reference.
+3. *Two readers took "an amplified vote" and "no multipliers" for a contradiction.* On the home page, in the page template and in the files for models this is now one sentence: there is no multiplier in the count, and the amplification is in the share.
+
+**What was corrected from the findings.**
+
+- Chapter 1: the formula in force, D = p × M, is placed before the form of the first version, with a warning about the period of the median.
+- The Q&A base: the answer "an independent trust fund pays" is marked as the earlier wording.
+- The charter, version 0.6: part 4 added to Article 1 — "only the budget pays"; the remarks of a legal reading are recorded in a separate section.
+- 13f: the referee's remarks are section 5b; the titles in the table of contents brought to "five theorems and three assumptions"; in `llms.txt` "proved formally" replaced with "short proofs for a simplified model".
+- Chapter 13: "strategy-proof" and "resolves the Downs paradox" marked as the first version.
+- 048l: the remark on the criterion of success is in the weak point.
+- 056 and 056d: the top now says that what is proposed for Russia is a question, not the introduction of the rule, and where the risk is described.
+- 048k: "a reversible exit" and "fourteen articles" are marked.
+
+**What is open and is not settled by text.**
+
+- The period and composition of the median: without it a finance officer cannot calculate from the percentage.
+- The cost for a city: the table in 1e gives 2–9 % of the annual budget at a payment of 20–40 thousand roubles — arithmetic on the numbers of a test question; there is no calculation for a real city.
+- The token of the open channel and the secrecy of the vote: 048h and 048i diverge, and the charter is silent.
+- The parameters that the lawyer called decisions, not settings.
+- The tone of the README: the journalist listed eight phrases a sceptic would quote as self-praise. That is the architect's voice, and changing it is for him.
+- The pilot's design: different sums in comparable courtyards and a condition of refusal written down in advance.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡

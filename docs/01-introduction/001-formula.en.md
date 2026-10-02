@@ -9,6 +9,8 @@
 
 *Correction of 01.10.2026. The form D = M × 1.5 × K in this chapter is the first version of the formula. The current norm: the size of the payment is set by a single number — a percentage of the median income approved by referendum; what that percentage is composed of is for the country's experts (048k §3; 048m, Article 2; 1d).*
 
+**The formula in force: D = p × M** — the payment equals a percentage p of the median income M; a referendum approves the percentage (048m, Article 2). Over what period the median is taken — a month or a year — and whether it is a wage or an income the charter does not define: that is left to the country's economists. The form below is the first version; its examples are computed from an **annual** median, and a monthly one must not be put into it. *(Note of 02.10.2026.)*
+
 D \= M × 1.5 × K
 
 **Where:**

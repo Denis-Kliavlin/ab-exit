@@ -17,6 +17,8 @@ General rules of the base — [in the introduction](index.md).
 **Answer.** The payment is not a fixed sum but **a share of median income**:
 D = M × 1.5 %, where M is the median from W-2 data via the SSA, the dividend coefficient K (not a dogma: chosen so that the sum is desirable for those who do not wish to vote; 1% is an illustration, see §1),
 the household multiplier 1.5. An independent trust fund pays it, automatically;
+
+*(Correction of 02.10.2026: "an independent trust fund", "W-2 via the SSA" and the multiplier 1.5 in this answer are the earlier wording. In force: D = p × M; the jurisdiction's budget pays under law; the payment is an unconditional obligation, the money is accumulated over the cycle and a targeted loan is raised if it falls short — 048m, Articles 2 and 8.)*
 the sitting government can neither set nor change the amount. The key property is
 **self-calibration**: the economy grows → the sum grows, but citizens' incomes grow faster,
 so the incentive to exit weakens by itself.

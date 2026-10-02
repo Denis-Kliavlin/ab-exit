@@ -93,6 +93,8 @@ The first numbers instead of estimates: the exit share, the age profile, the sha
 
 ## 8. Weak point
 
+*A remark of a cold referee, 02.10.2026 (040m §5g).* The criterion of success is close to a tautology: the sum is chosen so that 40–50 % take it, and success is counted as 40–60 %. For the pilot to be able to refute the claim it needs different sums in comparable courtyards, a measurement of the stake separate from income and a plan written down in advance — and a condition of refusal: if exit is predicted by income at an equal stake, selection runs by income, not by the stake. One control courtyard and "at least one resident" are too little for that.
+
 A stake in a courtyard and a stake in a national election are of different sizes, and the exit share at 30 euros over a playground does not carry over as a number to a month's wage over a parliament; what carries over is the shape of the dependence and the sign. Participants know they are watched, and the first round may show more civic virtue than the second. A thousand people give a precision of about three points — enough for the 40–60 % range, not for fine differences by age. And a courtyard has no thermostat: the quality of the decision will be judged by observers, not by a number on an account. 🟡
 
 ---

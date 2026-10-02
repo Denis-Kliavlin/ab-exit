@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.5 · 2 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.6 · 2 October 2026 (session 01.10.26)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -27,6 +27,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 1. The core of the charter consists of: (a) two equal rights — to vote and to take the payment; (b) payment for exit from voting, not for taking part in it; (c) one ballot — one vote, with no coefficients of any kind; (d) a public counter; (e) reconciliation of two independent records — the treasury's and the electoral commission's; (f) amendment of the charter only by a referendum in which all citizens take part.
 2. Parameters are the values in square brackets and the settings of the annex.
 3. No parameter may be set so as to cancel a provision of the core. Payment for turnout, for a vote, or for a vote of a particular content is not a parameter and is prohibited by this charter.
+4. Only the jurisdiction's budget makes the payment. A candidate, a party or a private person does not pay voters.
 
 *Source: 042 §73.6, 059e §3, 056f §13k.*
 
@@ -215,6 +216,27 @@ The contrast is more useful.
 The party's manifesto is three values and a mission: a state where "the power serves the people and changes regularly by their will". That is a "for" without a mechanism (056f §13k), and for the protocol not a competitor but a ready place: the aim on controlled elections is empty exactly where the protocol fits, and the party's declared line of work — political education — coincides with the role in 056f §13i.
 
 *The architect's decisions of 01.10.2026 on three places where the assistant decided by himself in assembling the text: the consequences of an election not held — "not a frequent case, we leave it to the experts"; the composition of the formula and the court's time limit — "unimportant, also for the experts". All three are moved to the annex.*
+
+## Remarks of a legal reading, 02.10.2026
+
+An independent AI reader in the role of counsel to an election commission read the charter article by article (040m §5g). This is not a lawyer's opinion. One remark has been entered into the text: part 4 has been added to Article 1 — "only the budget pays", a norm to which the exact-answers sheet referred while the charter did not contain it. The rest is recorded as work for a country's lawyers; the text of the articles has not been changed.
+
+**What needs to be reconciled between articles.**
+
+- Article 13 prescribes "return of the sum" by a citizen for a false declaration, while Article 8 protects the payment from recovery. Article 8 speaks of the recipient's private obligations, but this must be said outright.
+- Article 16: "the charter imposes no duties on the citizen" — and the fine under Article 13.
+- Article 4: "the charter does not alter the electoral law" — while payment for giving up the vote falls under the prohibition of vote-buying in many codes. A reservation and a list of the norms that change are needed.
+- Article 5: a ballot "under the record" of one who chose B is "cancelled". In a secret paper vote only the issue of a ballot can be cancelled, not a ballot already cast.
+- Article 10: in the reconciliation "records = votes + payments + those who neither chose nor voted" the last term is a residual, and the identity cannot fail.
+- Article 10 and chapters 048h–048i: the open channel issues a verifiable token, while 048h calls a receipt of the vote a threat to secrecy. The charter does not say what a token reveals.
+- Article 14 and the annex: the ban on elected bodies altering the charter rests on the "legal route", which is left to experts.
+- Article 15: the word "forever" in the ballot line — and repeal by simple majority.
+
+**Terms without a definition.** Median income; administrative records; authorised body; citizen and holder of the right to vote; channel (used in different senses in Articles 5 and 10); token; conditional ballot; the court; personal account; money flows.
+
+**What the charter does not cover.** Voters abroad; people without a bank account and without a document; death or incapacity between the choice and polling day; gaining or losing the right to vote after the window opens; a second round; simultaneous elections of several levels; by-elections; one who chose A and did not come; an election postponed or annulled after payments; who is responsible for the register's data, how long they are kept and who has access to them.
+
+**Parameters that are in fact decisions.** The percentage or a target share of exit; the number of payments; the legal route; the loan and its priority; an election not held on time; the definition of the median. They change the nature of the rule, not its tuning.
 
 ## Weak point
 

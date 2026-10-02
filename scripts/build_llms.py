@@ -53,7 +53,7 @@ file in the GitHub repository's `en/`, `ru/` and `v6.53*` archive.
 WHAT IT IS, IN FIVE LINES
 - Before each election every eligible citizen chooses: A - vote, or B - take a payment and sit that election out.
 - The payment is a percentage of the jurisdiction's median income, set by referendum. There is no fixed sum.
-- One ballot is one vote. There is no multiplier for anyone.
+- One ballot is one vote. There is no multiplier in the count for anyone. The vote is nevertheless amplified: the more people step out, the larger the share each ballot cast makes up - by how much is not known in advance.
 - The jurisdiction's budget pays under law. A candidate or party never pays voters.
 - Only a referendum of all citizens can introduce, change or repeal the rule. It promises nobody an election victory.
 
@@ -104,7 +104,7 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 ЧТО ЭТО, В ПЯТИ СТРОКАХ
 - Перед каждыми выборами каждый, кто имеет право голоса, выбирает: A - голосовать, или B - взять выплату и на этих выборах не голосовать.
 - Выплата - процент от медианного дохода юрисдикции, утверждённый референдумом. Фиксированной суммы нет.
-- Один бюллетень - один голос. Множителей нет ни для кого.
+- Один бюллетень - один голос. Множителя при подсчёте нет ни для кого. Голос при этом усиленный: чем больше людей вышло, тем большую долю составляет каждый поданный бюллетень - насколько, заранее неизвестно.
 - Платит бюджет по закону. Кандидат или партия избирателям не платят никогда.
 - Ввести, изменить или отменить правило может только референдум всех граждан. Победы на выборах оно никому не обещает.
 
