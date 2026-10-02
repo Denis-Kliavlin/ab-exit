@@ -190,6 +190,17 @@ There are six explanations.
 
 **Cause or consequence.** In the literature populism is usually a consequence: crisis, then distrust, then votes for populists. The architect puts it as the cause. Most likely it is a circle. In the protocol's vocabulary a populist is any party working for the indifferent majority (019g), and then the architect's explanation coincides with the fifth and sixth: parties stopped representing, and people sense it.
 
+**The architect's explanation: distrust as a by-product of success.** 03.10.2026: "the parties met the electorate's vivid, basic and simple needs — hunger, housing, warmth and others — while complex matters are beyond the majority, and the apathetic stopped taking an interest in politics. But their vote remained, and the parties began to fight for it. And the other half, the burned, watching the strange and primitive games politicians play with the apathetic, simply went off to nowhere and stay out of this circus". This is not a seventh explanation beside the six but a thread on which four of them are strung.
+
+| Link | What happens | Who described it |
+|---|---|---|
+| 1 | simple needs with a clear result are met; complex questions remain | — |
+| 2 | the majority stops following, but keeps its vote | A. Downs, 1957: rational ignorance — informing oneself is costly, and one vote decides nothing |
+| 3 | all parties begin to fight for the ownerless vote | O. Kirchheimer, 1966: the "catch-all party" sheds convictions for the sake of any voter; Mair |
+| 4 | the attentive watch this game and leave | Hibbing and Theiss-Morse: disgust at the process; in the repository — the burned (011b) |
+
+The chain explains what the separate explanations leave a puzzle: why trust falls precisely in rich countries. And it shows which link the protocol acts on: the third. The ownerless vote stops being free prey — its owner receives a payment for it and leaves, and the parties have to fight for those who remain (015c §7b). The limit of the explanation: the lowest trust in parliaments is in countries where simple needs are not met (Chile in the table above — 19 %); there the first explanation works, not this one.
+
 **What bears directly on the protocol.** The first is already in the table: the main factor of trust is the feeling of having a say (69 % against 22 %). The second is Hibbing and Theiss-Morse's finding: people do not want to take part, they want not to be fleeced. That is a description of button B made twenty years before the protocol. All earlier reforms demanded more participation from a person; the protocol is the first to permit not taking part and to pay for it, leaving the decision to those who care.
 
 ### The captured instrument: the primary source behind Vakhshtayn
