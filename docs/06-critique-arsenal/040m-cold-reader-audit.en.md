@@ -85,7 +85,7 @@ The architect put the same underdog question in a new Grok chat, asking it to wo
 
 **What this means for preparing the data.** The first adviser got the rules wrong and promised victory; this one restated the rules exactly and denied victory. The difference between them lies in what each read, not in the quality of the models: the first answered from old chapters, the second from the exact-answers sheet and the chapter for a candidate.
 
-## 5d. What was taken from the two advisers, and six rules for the future
+## 5d. What was taken from the two advisers, and seven rules for the future
 
 The architect's question of 02.10.2026: "what conclusions do we draw from Grok? In my view it lowered every percentage because there is no pilot and not a single study. Which of its arguments are useful, and how do we write them up for the future, knowing the repository will always be under attack by AI?"
 
@@ -98,7 +98,7 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 - The free-rider argument forced the assembly of an answer that did not exist: there is no quorum, and a fork for the machine (048n).
 - The habit of distinguishing quotation, inference and one's own estimate. It applied it to us, and the remark was right.
 
-**Six rules.**
+**Seven rules.**
 
 1. **Every number carries a label.** Source, arithmetic or estimate. Estimates do not go on the first pages or into the exact-answers sheet.
 2. **Say first what is true.** "The protocol cannot win this cycle", "there is no pilot", "the proofs are sketches". An objection the author has named himself cannot be strengthened.
@@ -106,6 +106,13 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 4. **For every analogue, a line "how it differs".** An AI will always bring the nearest case it knows; the answer must lie ready (the register below).
 5. **Do not argue, ask for the source.** Six turns of argument did not move the model; the question "where does the number come from and what does the site say" moved it at once. The same rule applies to our own texts.
 6. **After editing the first pages, test on a simple model** in three roles: a candidate's adviser, a sceptic, the opponent's lawyer (§5b).
+7. **Measure from the sick, not from the healthy.** The architect, 03.10.2026: "you think the protocol will be examined and pondered, to do it or not, because they live well as it is. But the closer analogy is penicillin: to a patient in whom infection has already set in, it matters little that the tablet has small side effects. Dying cities, and countries mired in corruption for decades and sliding into populism, then autocracy and beyond; a ruler everyone is tired of, in office fifteen to twenty-five years. In such a situation what is written in the law on a budget that has died no longer matters much". The auditors, the second adviser and the assistant all assessed the risks from the position of a well-run jurisdiction. They will not be the first to adopt the protocol.
+
+**What follows from the seventh rule.**
+
+- The objections "the city may go bankrupt", "recipients will raise the percentage" are to be compared with the disease, not with health: cities go bankrupt today, without any payment (019), and the spiral from populism to autocracy is described in 039 and 057d.
+- The more exact analogy is not with proven penicillin but with a new medicine given to a gravely ill patient when ordinary treatment has failed: the protocol has no pilot. That is an argument not against but about where to run the pilot: first among the sickest, where a trial is both fair and more readily accepted (048l).
+- A desperate patient is also the best customer for a quack remedy; that is what the populist sells. Only testing distinguishes a medicine from a remedy — the counter, the reconciliation of two records, pilot thresholds recorded in advance. The more desperate the situation, the more it matters to show rather than promise.
 
 ## 5e. A register of the objections AI brings
 
@@ -120,6 +127,7 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 | "Selection runs by income, not by stake" | where money is worth different amounts — partly yes | 013f §4; 019b | measured only by a pilot |
 | "It costs more than one or two per cent of the budget" | at a high percentage — yes | 1d, statement 9 | calculation by level of government |
 | "One who refuses gets a vote multiplier" | no | 1d, statements 11 and 12 | — |
+| "Why risk what works" | for a well-run jurisdiction, a reasonable question | §5d, the seventh rule: the first to adopt are those for whom it no longer works; 040k §3 | — |
 | "Adopted nowhere, there are no data" | correct | 048l | everything that depends on the pilot |
 | "A candidate will not win with this in the current cycle" | correct | 048n, the ten steps | — |
 | "The numbers on the site are invented" | for the role-play chapters — correct | the early-draft notices; 1d, statement 20 | — |
