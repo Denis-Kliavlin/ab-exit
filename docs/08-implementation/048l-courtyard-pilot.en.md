@@ -73,6 +73,20 @@ The pilot fails if fewer than a quarter took the money (the sum is small or peop
 
 Timing: three months of preparation, a two-week window, the decision day, six months to the second round with the late payment open.
 
+## 6b. The first are pioneers: what they are promised
+
+The architect, 03.10.2026: "the protocol cannot have a lethal outcome, and all that is needed is to reassure the test subjects that they will be supported as pioneers and that they chose this for the sake of everyone".
+
+The worst outcome of the pilot is money and time spent (040m §5d). So the participants need not protection from danger but three simple things.
+
+- **The truth that it is a trial.** They are told plainly: you are the first, nobody knows the result, the thresholds of success and failure are recorded in advance and published (§5).
+- **Support to the end.** The pilot does not begin until both rounds are secured: a trial cut off halfway proves nothing, and the failure will be blamed on the idea. That is how the first patient treated with penicillin died — not because the medicine did not act but because there was not enough of it.
+- **Recognition.** They do this not only for themselves: other courtyards, cities and countries will decide by their result. The name of the first courtyard stays in the history of the rule, as names stay with reforms (07/038).
+
+By the rule "measure from the sick", the first place to look for is not a well-run courtyard but one where management no longer works: a building that for years has been unable to change its management company, a village in debt. There consent is easier to obtain and the result shows more sharply.
+
+For a first city, rather than a courtyard, the question of money is added: if the percentage proves too high, the loss must not fall on the residents. The form of such support — for instance a donor's guarantee on the loan — is proposed in 048n and requires the country's lawyer.
+
 ## 7. What the pilot gives the repository
 
 The first numbers instead of estimates: the exit share, the age profile, the share refusing the sum to vote "against", the threshold of sensitivity to the sum — a calibration of the simulator's formula (055c §6.3b) and a test of theorems 2–4 in 013f. One successful courtyard weighs more than any section: "a live precedent with a real payment is worth more than any increase of the sum" (045 §45.7).

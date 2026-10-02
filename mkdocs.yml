@@ -78,7 +78,7 @@ plugins:
             "6b. Предшественники и что дописать": "6b. Predecessors and What Remains"
             "7. Жидкая демократия через дивиденд": "7. Liquid Democracy Through the Dividend"
             "8. Индустрия на $26 миллиардов, построенная на апатиках": "8. A $26 Billion Industry Built on the Apathetic"
-            "9. Новый мир выборов": "9. The New Electoral World"
+            "9. Новый мир выборов и вакцина от тиранов": "9. The New Electoral World and a Vaccine Against Tyrants"
             "10. Парадигмальный сдвиг": "10. The Paradigm Shift"
             "11. От обязанности к выбору": "11. From Duty to Choice"
             "11b. Терапия выученной беспомощности": "11b. Learned Helplessness Therapy"
@@ -261,7 +261,7 @@ nav:
       - "6b. Предшественники и что дописать": 02-history/006b-predecessors-and-gaps.md
       - "7. Жидкая демократия через дивиденд": 02-history/007-religions.md
       - "8. Индустрия на $26 миллиардов, построенная на апатиках": 02-history/008-say-do-gap.md
-      - "9. Новый мир выборов": 02-history/009-vaccine-tyrants.md
+      - "9. Новый мир выборов и вакцина от тиранов": 02-history/009-vaccine-tyrants.md
       - "10. Парадигмальный сдвиг": 02-history/010-paradigm-shift.md
       - "11. От обязанности к выбору": 02-history/011-paradigm-choice.md
       - "11b. Терапия выученной беспомощности": 02-history/011b-learned-helplessness.md

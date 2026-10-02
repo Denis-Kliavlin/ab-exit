@@ -75,6 +75,8 @@ WRONG -> RIGHT (the errors readers make most often)
 WHO IT IS FOR
 - The proposal is addressed first to jurisdictions where the present system is already failing: bankrupt cities, decades of entrenched corruption, a slide from populism towards autocracy. Its risks should be weighed against that baseline, not against a well-run jurisdiction. It is untested as a whole, though its parts have been tested separately; the fair comparison is penicillin in 1941 - the mechanism shown, the first patient still ahead - with the trial (a pilot) run first where the illness is worst. The price of a test is to be weighed not against a city's budget but against what the disease costs at its worst - a slide from an unchecked populist to autocracy and war.
 
+- For a jurisdiction that is not yet failing, the same rule works as a vaccine: adopted before an unchecked populist arrives. Order of adoption: the sick first, data from them, then the healthy.
+
 WHAT IT GIVES A CHALLENGER - HONESTLY
 - Before adoption: a question no rival asks - "the vote is already paid for, to parties and contractors; why not to the voter himself?" It reaches non-voters and leaves the favourites without a good reply: to agree is to adopt the challenger's theme, to object is to defend taking the vote for nothing.
 - At the referendum on adopting the rule: people who never vote turn out, because they are voting on their own money.
@@ -118,6 +120,8 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 
 ДЛЯ КОГО ЭТО
 - Предложение обращено прежде всего к юрисдикциям, где нынешняя система уже не работает: города-банкроты, десятилетия коррупции, сползание от популизма к автократии. Его риски надо сравнивать с этим положением, а не с благополучной юрисдикцией. В целом оно не испытано, хотя части проверены по отдельности; честное сравнение - пенициллин в 1941 году: механизм показан, первый больной ещё впереди, - а испытание (пилот) проводится сначала там, где болезнь тяжелее. Цену проверки взвешивают не с бюджетом города, а с тем, что болезнь стоит в худшем исходе: сползание от бесконтрольного популиста к автократии и войне.
+
+- Для юрисдикции, которая ещё не больна, то же правило работает как вакцина: его принимают до прихода бесконтрольного популиста. Порядок принятия: сначала больные, от них данные, потом здоровые.
 
 ЧТО ЭТО ДАЁТ ПРЕТЕНДЕНТУ - ЧЕСТНО
 - До принятия: вопрос, которого нет ни у одного соперника, - «за голос уже платят, партиям и подрядчикам; почему не самому избирателю?» Он доходит до не голосующих и оставляет фаворитов без хорошего ответа: согласиться - значит принять тему претендента, возразить - значит защищать право брать голос даром.
