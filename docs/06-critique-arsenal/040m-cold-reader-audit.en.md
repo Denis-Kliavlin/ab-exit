@@ -83,6 +83,21 @@ The architect put the same underdog question in a new Grok chat, asking it to wo
 
 **The second objection — the free rider.** As the conversation went on, the model built a calculation by which those who want the payment will not come to the referendum, because the cheque does not depend on their turning out. In substance the argument is the paradox of voting; the numbers in the calculation are its own. The analysis and the answer are in 048n: there is no quorum, and one brought in by the machine votes "for" in a secret ballot about his own money. The architect argued with it for six turns and did not persuade it. One question moved it: "where do these numbers come from, and what does the site say about a quorum?" The model replied that its scheme is the paradox of voting and does not predict turnout, that the numbers are its own estimate, that there is no quorum, and it derived the fork for the machine by itself, noting that the site does not state it directly: an inference, not a quotation. The remark is accepted and the wording in 048n made exact. The lesson: argument does not move a model; a question about the source does.
 
+**A second check, 02.10.2026.** The architect: "check Grok's arguments once more — what it understood from the repository". The assistant reread the whole conversation and compared with the text every place where the model refers to the site.
+
+*What it read.* Three sources, not two: the documentation, the README on GitHub and the landing page ab-exit.com. The phrase "a theoretical concept for discussion, not a ready programme and not a call to break the law", with which it opened its answer, comes from the footer of the landing page. The landing page was not checked in the passes of §5f: it lives outside the repository and carries the early wording — "an amplified vote", "the increased weight of a vote", "the damage exceeds 300 dollars", "25–30 % and 10–15 % of the population" without the word "estimate", "empirical confirmation through Norway".
+
+*What it took from the text correctly.* Every reference was found: a referendum introduces the rule by simple majority with no quorum; the budget pays; D = p × M; "$780", "$676", "1.5 %", "30,000 roubles" are examples; the guide "desirable to 40–50 %"; the condition 10,000 + r > 25,000 × (1 − a) with both caveats; 9–16 % of opponents and 75 % "for" — called rough estimates; a promise of payment for victory is vote-buying.
+
+*Where it went beyond the text without saying so.* Four places, and the first the assistant accepted yesterday as correct.
+
+1. "For a person to receive the money, you must first be elected, then the rule adopted by referendum, then the next election awaited." The first link is not in the repository: the candidate's ten steps go through an initiative and signatures, and the landing page says "bypassing parliament". Election is a link only where the council calls the referendum. The line "the length of the chain 'elect — a referendum — the next election'" above and in 048n was written from the model's words and has been corrected.
+2. "The referendum will not be in time for this election" and "all twenty million into the mayoral campaign". The timing depends on the law of the place — it is the first of the ten steps, "a lawyer" — and the repository does not state it. Money for the initiative campaign the model did not consider at all, though the landing page names exactly that: an anchor donor of a citizens' initiative.
+3. "Strike not at the protocol but at the concrete grievance of those sixty per cent." The repository holds that the question "parties are paid for the vote — why not the voter" is itself the address to that grievance (048n, question 1). The model called the protocol "an explanation of an institutional construction" and gave no argument against; its "fractions of a per cent to a few per cent" and "15–25 %" have no source.
+4. "The share of residents who will both vote for you and later take the payment is an intersection, a few per cent of the city." That answers a question the protocol does not ask: the rule is supported at the referendum both by those who will take the payment and by those who will stay to vote, and one who votes for the candidate is not obliged to take the money.
+
+*Which of its doubts has been closed since the conversation.* "Eighteen in a hundred do not believe the line will survive until the cheque" — on that day the charter had no answer; now the payment is an unconditional obligation of the jurisdiction (048m, Article 8, part 5).
+
 **What this means for preparing the data.** The first adviser got the rules wrong and promised victory; this one restated the rules exactly and denied victory. The difference between them lies in what each read, not in the quality of the models: the first answered from old chapters, the second from the exact-answers sheet and the chapter for a candidate.
 
 ## 5d. What was taken from the two advisers, and seven rules for the future
@@ -94,7 +109,7 @@ The architect's question of 02.10.2026: "what conclusions do we draw from Grok? 
 **Which of its arguments are useful.**
 
 - Wanting to take the payment and voting for the candidate are different numbers. We do not have the second number (048n).
-- The weak point is not the payment but the length of the chain "elect me — a referendum — the next election".
+- The weak point is not the payment but the length of the chain "elect me — a referendum — the next election". *Correction: the first link is the model's own guess and is not in the repository; see "A second check" in §5c.*
 - The free-rider argument forced the assembly of an answer that did not exist: there is no quorum, and a fork for the machine (048n).
 - The habit of distinguishing quotation, inference and one's own estimate. It applied it to us, and the remark was right.
 
