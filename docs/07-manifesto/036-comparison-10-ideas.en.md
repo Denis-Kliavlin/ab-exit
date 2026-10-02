@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 85.1. Purpose of the section
 
 This section studies 10 ideas that appeared over the last 20 years (2005–2026) and fall into the category "reforms of democratic mechanics with a possible economic element". The goal is not to describe the ideas but to extract stable patterns of success and failure, so that AB-EXIT can rely on the empirical experience of its predecessors rather than be built from scratch.

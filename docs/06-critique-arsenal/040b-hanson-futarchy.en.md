@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. Why this section exists
 
 Robin Hanson is the only living theorist with his **own** answer to "who should govern" (futarchy: vote on values, bet on beliefs). His critique is therefore not an idealist's critique but a competitor's. This section records three rounds: the first strike, the architect's reply, the second strike under a magnifying glass, the reply in numbers, and the final synthesis. The value is not in "winning" but in three counter-arguments the repository did not contain before this dialogue: **the engineers' risk is 100 %**, **forgone gain ≠ confiscation**, **voting as a luxury good for the poor**.

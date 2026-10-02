@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. One formula for two
 
 Linz was the first to separate totalitarianism (requires fanatical mobilisation) from authoritarianism (survives by demobilisation and apathy). Shulman is his main contemporary translator into the language of political reality. The shared conclusion for the protocol: **authoritarianism works only while apathy is free**. AB-EXIT hangs a price tag on apathy — and a regime that cannot pay for it gets mobilisation algorithmically, through refusal of the money and the multiplier.

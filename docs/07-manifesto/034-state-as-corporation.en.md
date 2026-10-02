@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 80.1. Purpose of the section
 
 Section 79 formulates that AB-EXIT allows the corporate competences citizens already have to be applied to the city. This section adds the second half of the pair: the state ALREADY applies corporate practices, but strictly selectively — where it benefits the elite. AB-EXIT does not "introduce new rules"; it demands the extension of already existing rules to the sphere where the elite has consciously blocked them. This moves the project from the category "a new utopia" to the category "a demand for equality".

@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Three centres of power and their interest
 
 **The clergy** is not only an ideological screen: through the **bonyads** (religious foundations that pay no taxes) the clergy owns real estate, factories, shopping centres, exports. Direct distribution of resource rent to citizens is, for a cleric, not "liberation of the people" but theft from his foundations. **The IRGC** is the real economic force: oil, ports, factories, trade, "black cash desks". **The people** — with one of the largest gaps between the elite and the ordinary soldier/worker.

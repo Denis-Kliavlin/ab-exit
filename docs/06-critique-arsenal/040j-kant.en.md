@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Where Kant would recognise his own
 
 **A nation of devils.** *Perpetual Peace*: the problem of establishing a state is soluble even for a nation of devils, provided they have understanding — their private inclinations must be arranged so that they check one another and public conduct comes out as if the evil inclinations did not exist. That is a definition of what the protocol does: not to correct the voter but to arrange his two greeds — for money and for weight (045.2) — so that the result is that of a reasonable man. Kant was the first to say that a good constitution does not require good people; AB-EXIT is a constitutional norm that follows this literally.

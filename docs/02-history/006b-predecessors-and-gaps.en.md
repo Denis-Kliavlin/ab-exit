@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why this section exists
 
 The repository compares the protocol with thinkers one by one and with the reforms of the last twenty years. A comparison with **works of the same genre** — where one norm or one mechanism rebuilds a system through the interests of its participants — was missing. The section gives two tables and derives a roadmap from them: what the predecessors have and we do not.

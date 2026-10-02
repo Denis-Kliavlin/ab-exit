@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. The question this section asks
 
 "Is there any way today to effectively switch off people who ended up at the polls by accident — other than non-turnout?" The answer: historically all attempts fall into two classes — artificial friction and direct exclusion. None works without the risk of civil war or accusations of fascism. Below — the catalogue, the diagnosis, and the point where AB-EXIT leaves that axis.

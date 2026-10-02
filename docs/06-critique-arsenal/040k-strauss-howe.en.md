@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Their frame
 
 A saeculum of 80–90 years made of four "turnings": High (strong institutions, weak individual) → Awakening (revolt against institutions) → Unraveling (strong individual, institutions rot, trust falls) → Crisis (institutions collapse and are rebuilt). Four generational archetypes alternate in step: Prophets, Nomads, Heroes, Artists. They date the American Crisis from 2008, its climax to the late 2020s, its resolution to the early 2030s. The precedents of resolution — 1787, 1865, 1945: each time a new civic order was written around one norm.

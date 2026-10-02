@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "trust" and "escrow" are the earlier wording: the budget pays under law; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why Musk will like it and why he will not write a cheque tomorrow
 
 Musk thinks from first principles; his production rule is "the best part is no part; the best process is no process". Through that prism: 80 % of voters are ballast consuming the state's computing resources and generating a random or harmful signal; to legally unload it from RAM is engineering ecstasy. He personally led the cutting of the apparatus (DOGE) and knows that firing 70 % of federal officials is impossible while they and their families vote to keep their jobs; for him the protocol is a script that cuts off the bureaucracy's electoral base. And the meme potential: "take the cash and don't go to that madhouse" — in the spirit of X.

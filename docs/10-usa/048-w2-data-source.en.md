@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 D = M̄ × 1.5 × 1 %
 
 **Where M̄ is the three-year average with CPI correction:**

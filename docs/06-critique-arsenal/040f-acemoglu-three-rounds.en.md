@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. Why they are the chief critics
 
 Utilitarians and cyberneticists see a beautiful model in AB-EXIT. Acemoglu and Robinson look only at the nature of power, and their apparatus (inclusive/extractive institutions, the narrow corridor, the Red Queen, de jure vs de facto) is the heaviest that can be brought against the protocol. The section walks through three iterations of their critique; the result is not a "rout" but two arguments the repository lacked: **comparison with the real corridor rather than the textbook** and **the structural cause of corruption: lying as a survival tax under populism**.

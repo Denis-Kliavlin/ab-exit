@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The vector
 
 Power needs a man in one of three states: **silent**, **voting out of fear**, or **gone abroad**. All three are produced by one method — zeroing the remainder and the voice — and the instruments of zeroing are everyday, not repressive. None of them looks like politics; together they yield an electoral product.

@@ -5,6 +5,8 @@ General rules of the base — [in the introduction](index.md).
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### Q-GEO-001 · Why is the launch planned in the US and not somewhere easier?
 
 **Status:** ✅ answered

@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 17.1. There are no permanent categories
 
 A common error in analysing AB-EXIT is dividing citizens into permanent categories: "the apathetic always take the money", "the angry always vote", "the contented always take". In reality there are no permanent categories. Every citizen is a variable that changes state every cycle depending on one figure: the dividend.

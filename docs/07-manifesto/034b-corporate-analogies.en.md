@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Proven code: two classes of shares
 
 Capitalism solved the problem of governing complex systems centuries ago by inventing the joint-stock company. The political adaptation matches finance one to one.

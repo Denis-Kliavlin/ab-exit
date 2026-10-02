@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why this case
 
 This is the first written reaction of an active political headquarters to the protocol — and the first instance where AB-EXIT is considered not as a norm of future electoral law but as a **political demand before the transition**. Both sides kept their positions; the value lies in the precise record of where the premises diverge.

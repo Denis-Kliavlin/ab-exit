@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 63.1. The doctrine this section examines
 
 American law blocks AB-EXIT through the doctrine of unconstitutional conditions (Koontz v. St. Johns): the government cannot condition the grant of a benefit (money) on the surrender of a constitutional right (the vote). The justification is paternalistic: the "voluntariness" of a poor man who needs money is declared illusory — the poor man supposedly agrees under the pressure of need, so the exchange is unfree.

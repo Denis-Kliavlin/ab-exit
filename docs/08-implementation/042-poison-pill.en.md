@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 73.1. Purpose of the section
 
 When the system cannot defeat AB-EXIT in open battle, it will try to lead it and distort it. This is the most dangerous attack — public capitulation with quiet sabotage through a change of one variable in the formula. The section records four known ways of such substitution so that they are recognised in advance and blocked at the stage of drafting the statute. Each way sounds like "a small technical correction" but in fact destroys the protocol.

@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why without the protocol there will be a Maduro-2
 
 Colossal resources and completely destroyed institutions are a textbook trap: classical "by the book" democracy almost certainly slides into a new cycle of populism: a charismatic arrives, promises to hand out the oil money to the people, the people vote, everything repeats. The clientelism of the barrios — cheap food and promises in exchange for votes — does not disappear with a change of flag.

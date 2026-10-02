@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The construction
 
 Before an election the citizen has not two but three paths:

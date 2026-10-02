@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 20.1. Why Forecasting Is Impossible
 
 Every model built by every political scientist — FiveThirtyEight, Cook Political Report, Sabato's Crystal Ball, RealClearPolitics — rests on the behavior of APATHETIC VOTERS: which of them will show up, which won't, how they are swayed by advertising, weather, scandals, endorsements. Remove the apathetic voters — and all the models = garbage.

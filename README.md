@@ -105,6 +105,8 @@ Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](en/docs/
 > *"Within the defined assumptions of the model, no internal logical contradiction was identified that would collapse the mechanism on its own terms."*
 > — ChatGPT, after formal stress-test ([full foreword](en/docs/ABEXIT_White_Paper_Foreword.md))
 
+**What this table is and is not.** It is a record of dialogues. A model's agreement is not proof: in October 2026 an AI adviser asked about the protocol invented a rule it does not contain, and two cold readers found thirty-seven issues in the documentation ([the audit](https://docs.ab-exit.com/en/06-critique-arsenal/040m-cold-reader-audit/)). The formal statement still awaits an economist, and no pilot has been run.
+
 ---
 
 ## How to Verify
@@ -117,6 +119,8 @@ Full question with 10 logical filters: **[docs/ABEXIT_Question_v4.3.md](en/docs/
 ---
 
 ## What's Inside
+
+The documents in this table are the spring–summer 2026 archive. The current text is the documentation site linked at the top of this page.
 
 | Document | Description |
 |----------|-------------|

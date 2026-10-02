@@ -10,6 +10,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 58.1. Why this subsection appeared right now
 
 By 2026 "affordability" (the accessibility of living) stopped being one topic among others — it became **the main axis of American politics**. This changes the launch tactics of AB-EXIT in the USA: the dividend now reads not as "a strange payment for non-turnout" but as **direct cost-of-living relief** — in the language that already dominates the public agenda.

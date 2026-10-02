@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law; "72 hours" is a hypothesis about the first days, not a rule; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The check: what the repository has on courts
 
 There is no separate analysis of courts in the repository. A court appears in four roles, all of them about other people's courts or a particular case: Germany's Constitutional Court and its requirement of verifiability without special knowledge (048h.1); a court defending the "sanctity of the vote", with three answers to it (021 §63.3–4); the legal base in the American chapter (045); and one line in the question base — the protocol needs "a court ready to defend the text of the referendum" (qa/geopolitics). Nowhere is it written what kind of court the protocol itself needs and what happens if there is none. The architect agreed to this in advance; the gap is closed below.

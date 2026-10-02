@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Who goes to fight for money
 
 The profile of the average contract soldier of recent years is almost devoid of romanticism: men aged 35–55 from depressed small towns and subsidised regions; total indebtedness, microloan debts, a ceiling of 30–45 thousand roubles a month until retirement. Motivation: 10–12 % ideological ("against NATO", believe the TV), 88–90 % economic calculation: a signing bonus of 1.5–2.5 million roubles, a salary of 200,000+, close the debts, buy a flat for the children, leave "funeral money".

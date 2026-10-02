@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Three physical analogues: processes that stimulate and complete themselves
 
 The architect is looking for a "self-tightening knot" — processes with positive feedback that lead to saturation and fixation in a new stable state. In physics these are autocatalytic and relaxation processes: the process itself generates the energy for its own acceleration, but the same energy consumes the fuel, and it stops irreversibly in a new rigid structure.

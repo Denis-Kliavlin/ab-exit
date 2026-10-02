@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Two different games
 
 The incentives *inside* a working protocol are strong: everyone has something to take — money or a heavier vote (033c, 015b). But the referendum on adoption is a game *before* launch, and the sides have different payoff structures: for opponents the system's defeat = preservation of current power and norm; for supporters the system's victory = future money or future weight. The benefit is future and conditional, the costs of turnout are present and guaranteed. This is the classic problem of "private benefit tomorrow against private price today, while the result depends on the actions of many" — collective action with a threshold.

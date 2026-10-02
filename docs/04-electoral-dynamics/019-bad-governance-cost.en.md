@@ -10,6 +10,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 59.1. Why count layer by layer
 
 A common mistake (easy to make out of a wish to look cautious) is to name the losses from corruption with a "decent" understated figure like 15 % of GDP. The reality is several times larger, and it is visible only in a layer-by-layer breakdown. Each layer is real and measured separately; together they give an honest picture.

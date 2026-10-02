@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 47.1. Twelve real alternative systems (not fifty)
 
 Ranked Choice Voting (works: Maine, Alaska — solves the spoiler effect), Approval Voting (Fargo — the two-party trap), Quadratic Voting (Weyl 2018 — theoretically; nobody understands it), Liquid Democracy (the German Pirate Party — delegation), Sortition (Citizens' Assemblies in Ireland — representativeness), Epistocracy (Brennan 2016 — theory, elitism), Futarchy (Hanson 2000 — theory), Compulsory Voting (Australia — turnout but not quality), Vote Markets (theory — the rich buy everything), UBI (Yang 2020 — not linked to elections), Participatory Budgeting (Porto Alegre since 1989 — 1–5 % of the budget), Conviction Voting (DAOs — crypto). AB-EXIT = the thirteenth electoral reform on the same shelf. Not "another dimension" and not "the foundation for the rest". But the only one of the thirteen with a continuous financial feedback loop: the dividend rose/fell → monitoring → action → dividend. The other twelve = one-off (voted, left, forgot until the next election). AB-EXIT = continuous ($780 at stake every day). Like Tesla = a car, not "another dimension of transport", but with one property (electric) that the others lack — and that property changes everything. More modest than "the foundation". But more exact. And testable — and the testable beats the beautiful.

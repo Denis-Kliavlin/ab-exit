@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 11b.1. The theory: Seligman, 1967
 
 Learned helplessness (Martin Seligman) is a discovery on animals, confirmed on humans: an organism that has repeatedly experienced **uncontrollability** (action has no effect on outcome) stops acting — even when control returns. Dogs that received shocks regardless of their behaviour later did not jump the barrier beyond which there was no shock: they lay down and whimpered. They had not learned "the barrier is insurmountable" — they had learned "my actions change nothing".

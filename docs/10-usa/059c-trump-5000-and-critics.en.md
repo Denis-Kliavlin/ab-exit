@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The news event
 
 At the first Republican midterm convention in history, in Dallas, a "Trump dividend" was announced: $5,000 to every adult citizen if the party keeps both chambers. The reaction: the hall — delight ("at last power speaks the language of money"); economists — shock (CRFB: 245 million recipients × $5,000 = $1.2 trillion in a year; Treasury yields up on inflation fears with debt past $40 trillion); opponents — "a taxpayer-funded bribe" (Newsom). Trump intuitively found the same truth on which the protocol is built: the absolute majority evaluates politics through personal liquidity — and called it "the dividend of a successful corporation".

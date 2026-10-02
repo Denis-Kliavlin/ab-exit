@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why this catalogue exists
 
 Almost every reform fails in the same place: it counts on those who lose by it behaving well. The official will comply, the party will not obstruct, the loser will accept. The AB-EXIT protocol is built differently, and the catalogue below is a way to check that. It gathers situations in which an opponent of the protocol acts strictly in his own interest, cunningly and with no goodwill whatever — and still finds no move that helps him.

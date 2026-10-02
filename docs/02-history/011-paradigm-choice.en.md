@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 11.1. Modern politics as a machine for producing grievance with no outlet
 
 Before speaking of what AB-EXIT does, one has to describe exactly what **current politics does to a person**. Not ideologically, but psychologically.

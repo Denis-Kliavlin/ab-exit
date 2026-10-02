@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## Purpose
 
 §036 examined the laureates' reactions to AB-EXIT. This section is the reverse optics: laureates who **came right up to the problem itself** (aggregation of will, the quality of the electoral signal, the monetisation of choice) and each solved his own fragment — decades before the assembly. The section's pattern: each has a ready node of the mechanism, and each has a point where he stopped. AB-EXIT is not an invention from scratch but the assembly of eight ready nodes.

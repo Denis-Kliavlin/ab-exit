@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "72 hours" is a hypothesis about the first days, not a rule. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 47.0. The catalogue of forks
 
 Added 20 September 2026. All propositions of this kind — about fifty across the repo, including five forks around the vote count, the lists and the sign on the ballot — are gathered in one place at the start of the book, together with an explanation of why they are described and the chess logic of the fork, zugzwang and the pin: 001c ("A Board without Good Moves"). Sections 47.1–47.5 below are the first five rows of that catalogue in expanded form.

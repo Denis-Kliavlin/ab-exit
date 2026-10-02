@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why discuss this
 
 The cost of bad governance (§19) is usually counted in large lines: corruption, debts, bankrupt cities. But most of that cost is spread across hundreds of small norms, each too small for newspapers to write about and too profitable to someone to be repealed. The compulsory driving school, the compulsory cash register in a small shop, the compulsory certificate, the compulsory intermediary, the compulsory inspection. This is where a person actually meets the state — not in the budget but in the queue for a paper — and this is where the effect of the protocol will be felt soonest.

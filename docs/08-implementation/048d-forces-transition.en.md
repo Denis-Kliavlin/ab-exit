@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Three layers of force
 
 **The army — a cross-section of society.** It consists of conscripts and contract soldiers from ordinary families: father a worker, mother a teacher, brother unemployed. The people's demand to introduce the dividend is, for the soldier, not abstract politics but a cry for help from his own home. "The army physically and mentally cannot be against AB-EXIT, because you cannot set a person against the survival of his own family."

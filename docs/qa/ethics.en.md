@@ -5,6 +5,8 @@ General rules of the base — [in the introduction](index.md).
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### Q-ETH-001 · Can one sell at all what is not for sale — a civic right?
 
 **Status:** 🔁 contested

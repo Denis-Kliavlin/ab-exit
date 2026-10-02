@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## Purpose
 
 A reconstruction of the reactions of ten Nobel laureates absent from the repository's theoretical foundation (§13 already uses Shapley, Nash, Hurwicz–Maskin–Myerson; §13.12 — Smith). Honesty caveats: there is no Nobel Prize in sociology (economics and the Peace Prize are taken); the reactions are reconstructed from published works; these are not documented quotations. The section's value: a map of allies for outreach + two unbroken honest challenges built into the project.

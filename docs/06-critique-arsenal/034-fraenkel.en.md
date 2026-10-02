@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## Purpose
 
 Ernst Fraenkel ("The Dual State", 1941; post-war neo-pragmatic pluralism) is the most dangerous institutional critic of AB-EXIT. He strikes not at the economics (that flank is closed by the section on Henry George) but at the mechanism's stability over time: what will happen to AB-EXIT in the hands of a bad-faith power. The section's result: of his three blows two break on facts and the text of the protocol; the third is accepted as an engineering requirement of constitutional level.

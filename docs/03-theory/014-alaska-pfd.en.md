@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 14.1. Purpose of the section
 
 §13 gives AB-EXIT a formal, mathematical grounding through game theory. This section adds an **empirical grounding** through the only long-run natural experiment in history with a direct state payment to every resident — the Alaska Permanent Fund Dividend (PFD).

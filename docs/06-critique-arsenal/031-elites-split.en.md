@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 31.1. Class A — the old institutional elite
 
 Those who built their status through **the existing system**. They depend on parties, lobbyists, media channels, the existing institutions of an academic career.

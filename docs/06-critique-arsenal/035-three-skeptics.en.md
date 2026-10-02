@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## Purpose
 
 Of the ten Nobel laureates whose reactions are reconstructed in §036, three give substantive criticism: Amartya Sen (economics 1998), Joseph Stiglitz (2001), Daniel Kahneman (2002). The section examines each argument strictly by logic: premises → conclusion → where it holds → where it breaks. Result: none strikes the core of the mechanism; all three residues are constructive requirements compatible with the architecture.

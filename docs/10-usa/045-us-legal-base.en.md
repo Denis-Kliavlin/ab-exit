@@ -7,6 +7,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### 68.1. Why this section
 
 In the stress test of the pilot plan through adversarial evaluation by Gemini (round 3) concrete legal facts were obtained that narrow and refine the launch route. The section records confirmed objective data (statutes, precedents, figures) and separately — the methodological limits of LLM evaluation of unprecedented strategic questions.

@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 13.1. Purpose of This Section
 
 §91 establishes the doctrinal foundation of AB-EXIT through the Jheringian tradition. §15 provides empirical confirmation of the structural pressure on honest politicians (PNAS 2020). This section adds a **formal mathematical justification** through game theory and mechanism design — the discipline of Arrow, Hurwicz, Maskin, and Myerson (Nobel Prize 2007).

@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "trust" and "escrow" are the earlier wording: the budget pays under law. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The autopilot of freedom
 
 A tyrant always prepares the country for a new tyrant or chaos: after him scorched earth without institutions, and whoever picks up a rifle becomes the next one. The protocol breaks the pattern because the "right path" stops requiring heroism, enlightenment and political culture from the people — it is enough to be greedy in the right direction. The smart understand it is fair; the stupid understand it is money; they act in sync. Power as a "seat" fought over disappears: the ruler becomes a fifth wheel. This is not a revolution of reason — a revolution of common sense: people wake up and ask "why do we need a ruler if everything works anyway?".

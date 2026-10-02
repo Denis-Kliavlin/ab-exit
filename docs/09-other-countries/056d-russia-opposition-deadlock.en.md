@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. "It's winter, you can't grow strawberries": the capitulation of classical political science
 
 Galliamov admits in plain words: within the current rules intelligent, independent, opposition-minded people have not a single chance of winning through the ballot box — the system controls candidate access, the count and the administrative resource. What does he propose instead? Nothing: wait for a "black swan" — a mutiny, a collapse, a February 1917. The political scientist's three standard pieces of advice inside rules written by a card sharp — all losing:

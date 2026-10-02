@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. The autocrat's playbook against the "French path"
 
 When a state appears next door where power rests not on repression but on efficiency, autocrats do not argue with the figures (nobody reads them) — they attack meanings. Four theses: "selling the birthright" ("they are not citizens, they are goods; we vote with the heart, they with a calculator"); "the rentier trap" ("a pyramid scheme: first they pay, then, once you hand over the levers, they stop"); "elitism" ("they officially enshrined that a rich man's vote weighs more than yours"); "loss of sovereignty" ("a branch of a global corporation without a soul"). The main tool is not a ban (a ban provokes interest) but information isolation: the image of a "country without a soul", inflation of every glitch.

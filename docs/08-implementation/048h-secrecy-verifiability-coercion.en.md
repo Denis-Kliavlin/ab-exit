@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; the efficiency bonus has been removed. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. What the German court decided — and what it did not
 
 The court found the use of Nedap machines in the 2005 Bundestag election incompatible with the Basic Law and derived the principle of the public nature of elections: the essential steps of voting and of determining the result must be examinable by the citizen reliably and without specialist knowledge. Two details usually lost in retelling: the court did not ban electronic voting as such — it required verifiability; and it did not annul the 2005 election, judging the possible effect of the errors on the Bundestag's composition marginal. The Netherlands decertified the same machines on 1 October 2007 after the campaign "We do not trust voting computers" and from 2008 returned to paper and a red pencil. Estonia went the other way: in 2023, 51 % of the votes in the parliamentary election were cast online.

@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. What the film shows
 
 The frame is a fictional 2020 parliamentary inquiry at which Cummings explains that politicians failed to understand how technology rewrote society. Then 2015–2016: Cummings agrees to lead Vote Leave only on condition of full control; refuses to merge with Farage's and Banks's Leave.EU because the *data* show Farage repels the undecided; hires the Canadian Zack Massingham (AggregateIQ) to build a database of people not on the electoral register but inclined to leave; takes MP Carswell to Jaywick — a destitute settlement in his own constituency he knew nothing about; formulates "Take Back Control" and insists on the word *back* — "we hate losing things, especially control". Craig Oliver (Remain) works by the classics: television, economic charts, focus groups — and one focus group explodes in a woman's monologue about feeling like "nothing". Gove and Johnson accept the £350 million and Turkey lines despite doubts. After the murder of Jo Cox, Cummings and Oliver drink in a pub: Cummings compares the campaign to a train that can no longer be stopped, Oliver warns of consequences nobody controls. The closing caption: about one billion targeted adverts through AggregateIQ.

@@ -5,6 +5,8 @@ General rules of the base — [in the introduction](index.md).
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ### Q-ELE-001 · Isn't this legalising apathy?
 
 **Status:** ✅ answered

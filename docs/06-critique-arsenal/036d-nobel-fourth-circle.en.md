@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. Why a fourth circle
 
 The first three circles covered behavioural economics, market design and institutions through economists. Two gaps remained: (1) institutionalists and contract theorists explaining *why* rules matter more than people; (2) physicists of complex systems explaining *what happens* to a system of millions of agents when one parameter changes. If economists (mechanism) and physicists (phase transitions) say the same thing in different words — AB-EXIT is not an "opinion" but a property of systems.

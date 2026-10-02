@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 0. What the six have in common
 
 All six — from Radishchev to Pivovarov — wrote about one thing: power-as-property above, a silent majority below, and a thin layer in between crushed time after time. Each proposed his own way out: enlightenment (Radishchev), rational egoism (Chernyshevsky), bitter honesty (Herzen), revolution from above (Eidelman), satire (Shchedrin), diagnosis (Pivovarov). AB-EXIT reads to them as a *mechanism* they never had: it does not require the peasant to read Kant.

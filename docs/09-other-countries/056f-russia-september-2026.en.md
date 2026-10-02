@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final; the efficiency bonus has been removed; a blockchain is one implementation option: the charter requires only open code. The exact-answers sheet 1d and the charter 048m are in force.*
+
 The State Duma elections of 20 September 2026 supplied material against which the repository's claims can be checked rather than merely derived. This chapter gathers the whole analysis in one place: what happened, what follows for the protocol, what was refuted, and which actions remain available.
 
 The general case of the Russian opposition is in [056d](056d-russia-opposition-deadlock.en.md); here only September 2026 and its consequences. The catalogue of falsification techniques tested against these elections is in [048i.5f](../08-implementation/048i-three-channels-parallel-count.en.md), and the comparison of the authorities' behaviour before and after adoption in 048i.5g.

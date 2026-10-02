@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why France is the proving ground
 
 If the protocol works in France — a country with one of the most bloated and reform-resistant bureaucracies, with a culture of the grève and a "peripheral France" — it will work anywhere. Plus a unique legal instrument: **Article 11** lets the president put a bill on the organisation of public authority to a referendum bypassing parliament; that is how de Gaulle introduced direct presidential elections in 1962 amid howls from parliament and the lawyers. A promise of a referendum on AB-EXIT is deliverable without the consent of the National Assembly and the Senate, which would block it.

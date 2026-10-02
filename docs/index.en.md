@@ -5,7 +5,7 @@
 **Complete analytical document · Version 6.57 · 2026**
 
 Protocol author: **Denis Klyavlin** · Chisinau
-Stress-tested by 6 AI models · 449+ rounds · 0 structural contradictions
+Stress-tested by 6 AI models · 449+ rounds of dialogue; none named a contradiction that collapses the mechanism. A model's agreement is not proof: what has and has not been checked is in [the cold-reader audit](06-critique-arsenal/040m-cold-reader-audit.md)
 Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit) · [ab-exit.com](https://ab-exit.com/ru/)
 
 > **Short and exact.** Before an election everyone chooses: to vote — or to take a payment and not vote in that election. The payment is a percentage of the median income approved by referendum; there is no fixed sum. One ballot is one vote; there are no multipliers. The budget pays under law; a candidate never pays. Only a referendum can introduce or repeal it. The protocol promises nobody an election victory.

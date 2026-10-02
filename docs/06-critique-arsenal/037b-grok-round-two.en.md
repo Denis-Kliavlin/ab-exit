@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Purpose
 
 The same protocol as in 037: an objection is checked against the repository's text before being raised. The difference: Grok travelled the whole path from "referendum 50/50, the underdog grows a little" to "logically the core is almost 2×2, a pilot is needed" in one session, and that path is recorded step by step. The section's value is not in the final percentages (the model itself called them "a projection, not a measurement") but in *which assumptions* changed at each step and which of those changes were legitimate.

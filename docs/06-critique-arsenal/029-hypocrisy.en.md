@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one; a "reversible" choice means "at the next election": within one election exit is final; numbers on election outcomes and words about inevitability are estimates and theses, not established facts: there has been no pilot. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 29.1. A symmetrical situation, an asymmetrical reaction
 
 In modern democracies about 48 % of voters systematically do not take part in elections. This is a basic structural characteristic of all mature liberal democracies — the USA (turnout 60–66 % presidential, 47 % midterm), the United Kingdom, Germany, France, Switzerland. The academic community treats this fact as **the norm**. This non-turnout is called "a sociological phenomenon", "structural apathy", "postmodern alienation", but not "a crisis of democracy" requiring immediate measures.

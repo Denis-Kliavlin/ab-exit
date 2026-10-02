@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 46.1. The role of the detonator
 
 In countries without a citizen-initiative mechanism (the United Kingdom is the model case) a campaign cannot lead to adoption directly — it produces **discourse**: throws the term into the language, forces the political class to speak, shifts the window. The detonator is not the bearer of §41: the bearer builds, the detonator sets the conversation alight. Profile: a public figure with a name, media talent and **a closed career ladder** — nothing to lose, a topic needed. The market of such figures in fragmented polities is overcrowded (in Britain 2026: fragments of the right flank, independents, last-term backbenchers).

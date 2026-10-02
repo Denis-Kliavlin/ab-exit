@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: sums and formulas with coefficients are worked examples: the size of the payment is set as a percentage of the median income approved by referendum; a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. A question usually answered by a poll
 
 The protocol's main empirical assumption is that a sizeable share of voters will prefer the sum D to the vote. The standard objection: "people will not sell the right to vote, it is a matter of dignity; ask them — they will refuse." A poll is a poor instrument here: to the question "would you sell your vote?" people answer the way one is supposed to answer. In Bulgaria in 2024, in a pre-election survey, only 10 % admitted they might vote for pay or under pressure, and another 12 % were unsure.

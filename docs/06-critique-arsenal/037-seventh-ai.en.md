@@ -5,6 +5,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: a "reversible" choice means "at the next election": within one election exit is final. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## Purpose
 
 A documented case of an adversarial test of a new type: the Claude model (Anthropic, Fable 5), which took part in developing the repository, attacked the project with five "vectors of harm" at the author's direct demand ("name how AB-EXIT harms people if it is adopted"). Result: four vectors broke on the existing text of the protocol; the fifth was converted into an article of the charter. The case's value is double: (1) a row for the README stress-test table; (2) a methodological lesson — an objection must be checked against the document before being presented.

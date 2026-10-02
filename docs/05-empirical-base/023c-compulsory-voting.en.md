@@ -6,6 +6,8 @@
 
 ---
 
+*How to read this chapter (note of 03.10.2026). The text contains wording that is easy to misread: "a x2 vote", "x3", "the weight of a vote" are the arithmetic of a share, not a multiplier: every ballot counts as one. The exact-answers sheet 1d and the charter 048m are in force.*
+
 ## 1. Why a separate chapter
 
 Compulsory voting is the only reform among those compared that solves the same problem with the same lever, only with the opposite sign: a price is attached to non-turnout, but it is a fine, not a payment. The repository has three paragraphs on it in three chapters. They are gathered here because this is the longest experiment in history in steering turnout by price.
