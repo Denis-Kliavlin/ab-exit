@@ -227,6 +227,8 @@ The architect's task: "think who our main consumers and stakeholders will be, an
 - 056 and 056d: the top now says that what is proposed for Russia is a question, not the introduction of the rule, and where the risk is described.
 - 048k: "a reversible exit" and "fourteen articles" are marked.
 
+**A repeat check of three roles after the corrections.** The citizen: an answer to all seven questions was found and given in quotations from 1e. The opposition figure: "not to introduce the rule but to spread a question", the two instruments with different risk, and the comparison with smart voting were found and restated correctly. The finance officer: it took the formula in force and itself named the gap — the period of the median is undefined; but it calculated from the 1–2 % of an early chapter and did not reach the table in 1e. A new misreading: the model took the pilot's budget estimate in 1e for pilots already run; the wording has been corrected — "no pilot has been run yet". "An amplified vote" beside "no multiplier" the model still calls a contradiction, though it explains it itself.
+
 **What is open and is not settled by text.**
 
 - The period and composition of the median: without it a finance officer cannot calculate from the percentage.

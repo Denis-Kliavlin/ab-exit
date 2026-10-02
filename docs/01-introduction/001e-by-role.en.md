@@ -50,7 +50,7 @@ A reader without markup cannot see where a link leads, so the addresses are writ
 - **The cost formula.** Cost per cycle = the payment × the number who took it (1d, statement 9). The payment is D = p × M: a percentage of the median income (Article 2).
 - **What the charter does not define.** Over what period the median is taken — a month or a year — whether it is a wage or an income, and what averaging is used. This is left to the country's economists (the annex to the charter, the row "The median"). Until it is defined, one must calculate from the sum D itself, not from the percentage.
 - **The form D = M × 1.5 × K** in chapter 1 is the first version of the formula; the examples under it were computed from an annual median. A monthly median must not be put into it.
-- **The arithmetic of an example.** A city: 100,000 voters, a budget of 6 billion roubles a year, a five-year cycle. The table is multiplication, not an estimate: nobody knows what the sum will be or how many people will take it.
+- **The arithmetic of an example.** For Russia the author names a guide of 40–50 thousand roubles per cycle; the percentages of 1–2 % in early chapters are an illustration, not a norm, and the cost must not be calculated from them. A city: 100,000 voters, a budget of 6 billion roubles a year, a five-year cycle. The table is multiplication, not an estimate: nobody knows what the sum will be or how many people will take it.
 
 | Payment | 30 % took it | 50 % took it | 70 % took it |
 |---|---|---|---|
@@ -67,7 +67,7 @@ A reader without markup cannot see where a link leads, so the addresses are writ
 
 - **What can lawfully be funded.** First, a pilot in a courtyard, a homeowners' association or a village: it is not an election, and private money is in place there (48l). Second, a campaign for an initiative or a referendum where the law permits funding such campaigns. Third, expertise: an economist for the formal part (13f) and a lawyer for the charter.
 - **What cannot.** Paying voters at a real election — by anyone and under any name.
-- **What a pilot costs** (the estimates of 48l §6). For 1,000 residents at a sum of 30 euros and an exit of 50 %: the payment fund is 15,000 euros; the institute — design, surveys, observation, report — 10,000–15,000; notary, application, printing — 3,000–5,000. About 28,000–35,000 euros a round in all; the second round, six months to a year later, costs the same.
+- **What a pilot would cost.** No pilot has been run yet; this is the budget estimate of 48l §6. For 1,000 residents at a sum of 30 euros and an exit of 50 %: the payment fund is 15,000 euros; the institute — design, surveys, observation, report — 10,000–15,000; notary, application, printing — 3,000–5,000. About 28,000–35,000 euros a round in all; the second round, six months to a year later, costs the same.
 - **What counts as success.** All at once: 40–60 % took the money; those who stayed are younger than in the control courtyard; at least one person gave up the sum in order to vote "against"; the decision of those who stayed is no worse than the control one in the judgement of independent observers; those who exited accept the result; more than 80 % of participants can repeat the rule (48l §5).
 - **What counts as failure.** Fewer than a quarter or more than three-quarters took it, or those who exited dispute the result.
 - **What a pilot will not show.** A shift of parties, the fate of populists, the behaviour of the authorities: a courtyard does not yield these.
