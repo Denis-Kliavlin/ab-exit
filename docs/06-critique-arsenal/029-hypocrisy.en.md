@@ -173,6 +173,25 @@ Is distrust linked to politicians lying to people's faces with impunity — for 
 
 In survey experiments voters, especially distrusting ones, declare they will punish a broken pledge; in real elections party identity overrides it (Matthieß, Electoral Studies 2022). This is not an obstacle for the protocol but the very thing measured: the gap between stated and done — the 47 % Say-Do Gap of 043 §75.6 — is the signature of a voter without a stake, and the protocol does not close it by persuasion but **monetises** it. Whoever's word diverges from deed takes B; whoever stays in A has paid for the right to keep his word. After the filter, retrospective punishment, which did not work for Achen and Bartels (051 §30.4: no metric), acquires both a metric and an executor. The liar is re-elected by an electorate of liars — not from malice but by symmetry: neither side's word costs anything. The protocol puts a price on the voter's word first; only then does the politician's word acquire one.
 
+### How scholars explain the fall in trust
+
+Added 03.10.2026. The architect's question: "decades of populism have left no healthy ones; and how do scholars and political scientists explain why trust in parliament has fallen so far?" On the healthy — from the table above: trust fell in 36 democracies and rose in six; the only country in which a majority feels it has a say is Switzerland, that is, the one where rules have long been decided by direct vote.
+
+There are six explanations.
+
+| Explanation | Authors | What it says |
+|---|---|---|
+| The economy | Algan, Guriev, Papaioannou, Passari, 2017 | the rise in unemployment after 2008 went together with a fall in trust in national and European parliaments and a rise in votes for populists; trust between people hardly changed |
+| The critical citizen | P. Norris, 1999 and 2011 | an educated voter expects more; the gap between expectation and what is seen grows |
+| Partisan trust | Hetherington and Rudolph, 2015 | people trust only when their own side is in power |
+| Parties left society | P. Mair, 2013 | parties grew into the state and stopped needing members and voters; citizens responded in kind |
+| A game instead of substance | Cappella and Jamieson, 1997 | politics is presented as a contest of tactics, and that breeds cynicism |
+| "Stealth democracy" | Hibbing and Theiss-Morse, 2002 | most people do not want to take part in politics at all; they want those who decide not to profit at their expense; what irritates them is the spectacle of bargaining and the suspicion of self-interest |
+
+**Cause or consequence.** In the literature populism is usually a consequence: crisis, then distrust, then votes for populists. The architect puts it as the cause. Most likely it is a circle. In the protocol's vocabulary a populist is any party working for the indifferent majority (019g), and then the architect's explanation coincides with the fifth and sixth: parties stopped representing, and people sense it.
+
+**What bears directly on the protocol.** The first is already in the table: the main factor of trust is the feeling of having a say (69 % against 22 %). The second is Hibbing and Theiss-Morse's finding: people do not want to take part, they want not to be fleeced. That is a description of button B made twenty years before the protocol. All earlier reforms demanded more participation from a person; the protocol is the first to permit not taking part and to pay for it, leaving the decision to those who care.
+
 ### The captured instrument: the primary source behind Vakhshtayn
 
 V. Vakhshtayn's interview (September 2026) cites "the UN report 'Trust in a changing world'". Checked against the primary source: it is UNU-WIDER Working Paper 2025/34 "Trust in a changing world: social cohesion and the social contract" (background for the World Social Report 2025), WVS waves 4–7, 1999–2022, 97 countries. What the report contains and what it does not:
