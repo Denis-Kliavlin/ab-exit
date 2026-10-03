@@ -1647,6 +1647,21 @@ Who she is: sixty-five, alone, a pension of twenty-odd thousand. For forty years
 
 **The last argument is the one the authorities have no reply to.** She demands neither a change of power nor an honest count. She demands the right to leave — and that leaving be paid for, as taking part is paid for. Any reply from the authorities is either "we do not need your vote", in which case pay and let her go, or "we need it", in which case it is worth money. There is no third reply, and the authorities know it before she does. That is the "with the protocol it will be harder" of §13n: not because she cannot be led off the square, but because every word said to her in reply is heard by millions like her, and each tries it on herself.
 
+**The architect's second question, the same day: what can the authorities explain to her — why she must not support the people who propose this?** That is the authorities' main move: not "the idea is bad" but "the people are bad". That is how they always act — they strike the carrier, because there is nothing to strike the idea with (§13g).
+
+| What the authorities say | What she answers to herself |
+|---|---|
+| "Foreign agents and runaways propose this" | I do not need the people, I need the payment. Lock them up — and propose the rule yourselves. It will be no worse for that. |
+| "It is bait from the West" | Bait has a hook. Where is the hook? Money for me, from our budget, under our law. A trap — show me where. |
+| "They want you not to vote so that the government changes" | I do not vote anyway — I come because I am told to. If the government falls without me, then it stands on me. Then pay, since you stand on me. |
+| "Money today, and tomorrow they take your vote away for good" | The rule says: at the next election I choose again. It can be repealed only by the same vote of everyone. Without the rule nobody asks me at all. |
+| "First they pay, then they cancel elections" | The elections are yours, the count is yours, the deputies are yours. I am not asking you for them. I am asking for my forty thousand once in five years. |
+| "They want a minority to decide for you" | Those who brought me decide for me now. Let those who came by themselves decide. If I want to decide, I do not take the money; nobody takes that right away. |
+| "They are destroying the country" | The country is destroyed by those who pay themselves and not me. I have been for the country forty years. I am for it now — with the money or without, but better with. |
+| "Normal people do not ask for such things" | Bonya asked — three million watched (§13f). She is no foreign agent. Or is she, by now? |
+
+Where this finally breaks: the protocol does not care who raises it (§13l), and here that works for her. The authorities can take the idea away from the "bad people" in one way only — by proposing it themselves; and having proposed it, they have bowed (§13j). If they do not, she asks: "All right, those are bad. And you, the good ones — why do you not propose it?" To that the authorities are left with what they are always left with — silence (§10).
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
