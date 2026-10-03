@@ -1630,16 +1630,16 @@ The architect's question, 03.10.2026: "The authorities will know for certain tha
 
 ## 13o. The arguments in her head: a woman of sixty-five, alone, who came out for the payment
 
-The architect's question, 03.10.2026: what arguments to the authorities are in the head of a woman of sixty-five without a husband who came out for the protocol. Not slogans — what she answers to herself to every argument of the authorities she hears on television or from the district officer. A pair to §13h: there the arsenal is for the opposition, here it is for her.
+The architect's question, 03.10.2026: what arguments to the authorities are in the head of a woman of sixty-five without a husband who came out for the protocol. Not slogans — what she answers to herself to every argument of the authorities she hears on television or from the district officer. A pair to §13h: there the arsenal is for the opposition, here it is for her. The architect's correction the same day: the comparison "the parties are paid for the vote" is weak, there is little money in it (152 roubles a year); the main line is "the country is rich, all is well, and from that good a small share to the people: the authorities have enough, the deputies have enough, and the aunt is given nothing". The share really is small: 40 thousand for 55–66 million takers is 440–530 billion roubles a year, about one per cent of the budget and four kopecks of every oil-and-gas rouble (§5, the third scale).
 
 Who she is: sixty-five, alone, a pension of twenty-odd thousand. For forty years she voted as she was told: first at work, then the clinic reminded her. Neither against nor for — she went. Her flag is her own, not issued.
 
 | What the authorities say | What she answers to herself |
 |---|---|
-| "There is no money" | For a deputy's lunches there are a hundred and fifty thousand a month. For me, forty once in five years — no. So there is money, only not for me. |
+| "There is no money" | On television the country is rich and all is well, and I believe it. So from that good you have done for the people, hand over a small share. The authorities have enough, the deputies have enough — a hundred and fifty thousand a month for lunches — and I am not given forty once in five years. |
 | "This is vote-buying" | Vote-buying is a bag of buckwheat at the polling station for a tick. This is by law, the same for everyone, and no matter whom you vote for. |
-| "The West invented it" | The West never offered me money. The West is nothing to me. I am asking my own: the parties are paid for my vote from the budget — whose money is that? Mine. Why the parties and not me? |
-| "The vote is sacred, nobody pays for it" | Sacred. So the parties are paid for it, and I may not be? |
+| "The West invented it" | The West never offered me money. The West is nothing to me. I am asking my own: the oil is ours, the budget is ours, all is well — your words. Where is my share of that good? |
+| "The vote is sacred, nobody pays for it" | Sacred. And the deputies are paid for what they do with my vote. For the sacred, a small share to me, that is all. |
 | "You are against the state" | Forty years for. For now too. I ask that I be paid as the parties are, by law. I stand with the flag, not with a placard. |
 | "Extremism, unauthorised" | I am sixty-five, in a headscarf. If I am an extremist, who then are your own? |
 | "The elections are honest anyway, why change" | Then what are you afraid of? If my vote is not needed, give me the money, I will sit at home, count without me. If it is needed, it is worth something. So pay. |
