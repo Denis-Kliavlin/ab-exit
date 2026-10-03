@@ -1628,6 +1628,25 @@ The architect's question, 03.10.2026: "The authorities will know for certain tha
 
 **The boundary.** The protocol does not claim that the question will bring the authorities down or that they cannot hold on by force. It claims three things: there is nothing to suppress, nothing to answer with, and coercion grows dearer with every cycle. While the vertical stands, it stands. But the idea does not wait — it sharpens. The architect's correction, 03.10.2026: "the opposition sharpens the idea and keeps it up at every election: had you adopted AB-EXIT, tomorrow you could take 800 dollars — and what did you get at the election? Think about it". Every election is an occasion to present the same bill, and the bill grows: over a cycle a person sees how many times he gave his vote away for nothing. That is what the share calculator (§5) is written for: it counts not a payment in general but the one this person did not receive at this election. The vertical need not shake for the bill to grow; when it shakes, the question lies ready in everyone's hands, including those of the men in uniform, who are themselves its recipients.
 
+## 13o. The arguments in her head: a woman of sixty-five, alone, who came out for the payment
+
+The architect's question, 03.10.2026: what arguments to the authorities are in the head of a woman of sixty-five without a husband who came out for the protocol. Not slogans — what she answers to herself to every argument of the authorities she hears on television or from the district officer. A pair to §13h: there the arsenal is for the opposition, here it is for her.
+
+Who she is: sixty-five, alone, a pension of twenty-odd thousand. For forty years she voted as she was told: first at work, then the clinic reminded her. Neither against nor for — she went. Her flag is her own, not issued.
+
+| What the authorities say | What she answers to herself |
+|---|---|
+| "There is no money" | For a deputy's lunches there are a hundred and fifty thousand a month. For me, forty once in five years — no. So there is money, only not for me. |
+| "This is vote-buying" | Vote-buying is a bag of buckwheat at the polling station for a tick. This is by law, the same for everyone, and no matter whom you vote for. |
+| "The West invented it" | The West never offered me money. The West is nothing to me. I am asking my own: the parties are paid for my vote from the budget — whose money is that? Mine. Why the parties and not me? |
+| "The vote is sacred, nobody pays for it" | Sacred. So the parties are paid for it, and I may not be? |
+| "You are against the state" | Forty years for. For now too. I ask that I be paid as the parties are, by law. I stand with the flag, not with a placard. |
+| "Extremism, unauthorised" | I am sixty-five, in a headscarf. If I am an extremist, who then are your own? |
+| "The elections are honest anyway, why change" | Then what are you afraid of? If my vote is not needed, give me the money, I will sit at home, count without me. If it is needed, it is worth something. So pay. |
+| "Go home, granny" | I will. With the money. You said yourselves I am not needed. And my son at the plant on forty thousand will take it too. And my granddaughter the teacher, whom they put on the commission. |
+
+**The last argument is the one the authorities have no reply to.** She demands neither a change of power nor an honest count. She demands the right to leave — and that leaving be paid for, as taking part is paid for. Any reply from the authorities is either "we do not need your vote", in which case pay and let her go, or "we need it", in which case it is worth money. There is no third reply, and the authorities know it before she does. That is the "with the protocol it will be harder" of §13n: not because she cannot be led off the square, but because every word said to her in reply is heard by millions like her, and each tries it on herself.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
