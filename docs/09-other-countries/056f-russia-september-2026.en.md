@@ -1612,6 +1612,20 @@ The second is a boundary. Gallyamov's mechanism works where the next election ca
 
 **What must not be taken from this conversation.** The assessments of the front, of oil refining and of the public mood are the words of one analyst, which the assistant has not checked; they do not enter the repository. On Israel and the aircraft — nothing, except one observation: a culture in which passengers run to the cockpit rather than sit belted in is not a condition of the protocol; button B is written for those who stay seated.
 
+## 13n. The main question: the authorities will understand and send the men in uniform — can they
+
+The architect's question, 03.10.2026: "The authorities will know for certain that the payment is dangerous and important not for its sum but for the exit from voting, and will be categorically against it, but will not be able to answer openly — and will send the police and the army to suppress and to coerce. Can they?" The repository has the answer, but scattered over five sections; here it is gathered.
+
+**What the authorities can do.** Disperse any gathering — Belarus 2020, §13m. Imprison the organisers of a legal collection of signatures — which is why §7 separates it from the anonymous count and calls the risk high and personal. Force state employees to vote — this is done already, with tracking by name and a family multiplier (§3c). The protocol cancels none of this and promises to cancel none of it.
+
+**What they cannot do — three things, and the protocol is built on them.**
+
+1. *Suppress what has no organisation and no addressee.* The question "the parties are paid for my vote, and I am not" needs no carrier and spreads by itself: pro-regime bloggers, state employees and pensioners raise it, and the protocol does not care who raises it (§13g, §13l). Riot police are not sent against the audience of Z-bloggers or against one's own teacher on the commission. Belarus was about a crowd; here there is no crowd.
+2. *Answer.* The authorities will know that the danger is not the sum but the exit — and for that very reason cannot say so aloud: "we need your brought-in votes for free" is a sentence that cannot be spoken. "There is no money" — impossible: deputies are paid, and it shows (§13h). To ban a question about money is to admit that the people as the source of power in the constitution is a fairy tale (§7). Silence remains, and silence in reply to a question about money works for the question (§10).
+3. *Make coercion free.* Today the brought-in voter votes and loses nothing — he simply came. After the question the same person knows he was made to give away for nothing what the parties are paid for. Coercion does not disappear, but it acquires a price, paid by the authorities: the compressed spring (011b §11b.2c) and the bill on every branch (§3b). Hungary in 2026 showed that the spring releases at the first opportunity — plus nine points of turnout (039).
+
+**The boundary.** The protocol does not claim that the question will bring the authorities down or that they cannot hold on by force. It claims three things: there is nothing to suppress, nothing to answer with, and coercion grows dearer with every cycle. While the vertical stands, it stands. An idea without an expiry date (§13k) waits for the moment it shakes — and then the question lies ready in everyone's hands, including those of the men in uniform, who are themselves its recipients.
+
 ## 14. Weak point of the chapter
 
 The principal limitation lies in where the material comes from. Every election figure other than the budgetary and legal ones derives from three analyses published on a single day: Maxim Katz, Abbas Gallyamov and Meduza's discussion. The assistant did not verify precinct commission data; the estimates of the "real result" belong to those analyses and are drawn from honest precincts and exit polls, making them estimates rather than measurements.
