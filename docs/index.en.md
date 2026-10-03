@@ -16,6 +16,22 @@ Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit)
 
 ---
 
+## Who decides now how everyone else lives
+
+Not the elite and not the opposition. For sixteen years the outcome of elections in Russia and in Hungary was decided by one and the same person — the one who is brought in. A portrait from the data (Levada Centre, 2025–2026; Hungarian analyses by settlement type, April 2026; in detail — [056f §13q](09-other-countries/056f-russia-september-2026.md)). The protocol addresses her.
+
+1. **Who.** A woman (about two-thirds of the core), 55–75, centred on 60–70. A village or a town of under 50 thousand; in Hungary a settlement of under 5 thousand. Secondary vocational education: a technical school, a trade school, a nursing college.
+2. **What she lives on.** A pension or a wage from the budget: school, clinic, post office, village council; in Hungary, public works from the mayor. Income below the median; the money comes from the state directly, and she knows it every month when it arrives. Forty thousand roubles once in five years is for her one and a half to two pensions.
+3. **With whom.** Alone or with a pensioner husband; the children have left for the city, the grandchildren come in summer; a vegetable plot. She helps the children, not the other way round. The son — a plant, security, the police; the daughter or granddaughter — a teacher, a nurse: the budget too.
+4. **Where she learns about the world.** Television is the main and almost only source; this is the most loyal group in every poll (83–95 % approval). The second channel — neighbours, the church, the village chat. She has no independent sources and does not look for them.
+5. **How she relates to the state.** The state is provider and boss at once: she obeys it and expects from it. She votes as told: in Russia a call from the clinic or a social worker, in Hungary the mayor on whom the public works depend. **She has already been paid before elections** — ten thousand roubles to pensioners before the Duma election of 2021, a thirteenth-month pension and a tax refund before the Hungarian election of 2022, grants to rural pensioners before 2026. She knows that before an election they give: the authorities themselves taught her that.
+6. **What she values.** Order, "that it not get worse", respect for superiors; the country — sincerely. She fears chaos, remembers the nineties; she regards the opposition as strangers — urban, rich, young. She wants not so much money as to be noticed: "we worked for forty years".
+7. **What she says and what she thinks.** Aloud — "for", always. To herself — "they stole everything", "everything to the deputies, nothing to us", "nobody asks us". This is not oppositionism but a grievance with nowhere to go ([the meek](02-history/011b-learned-helplessness.md)).
+8. **What she fears personally.** That the supplement will be taken away, that prices will rise, that her son will be taken, that she will be left alone. And that she will be called an enemy — for her that is worse than poverty.
+9. **What Hungary has already proved.** The core is not a monolith and not an ideology: in April 2026 it was precisely the villages that swung the most, when they were shown the bill — the frozen billions against Orbán's grants ([039](06-critique-arsenal/039-levitsky-ziblatt.md)). It is loyal until it is presented with a number.
+
+---
+
 ## If you answer from this page alone
 
 This section is for a reader, human or AI, who will go no further than the table of contents. The table of contents below is a list of chapters, not a list of facts: a chapter title asserts nothing.
