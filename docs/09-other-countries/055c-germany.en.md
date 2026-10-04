@@ -190,9 +190,11 @@ The architect, 04.10.2026: "it is important that it be visible: those who vote a
 | Of public spending on health and care | ≈ 45–50 % | spending on the 65+ 🟡 |
 | Of labour GDP — what they produce | ≈ 10–12 % | one in five works |
 | Of net wealth — houses, flats, deposits | over 50 % | Bundesbank, PHF 2023 |
+| Homeowners: 65+ against under 35 | ≈ 55–60 % against ≈ 15 % | Destatis, PHF 🟡 |
+| A tenant under 35 pays for housing | ≈ a third of the wage and more | housing costs by age 🟡; a private landlord in Germany is, as a rule, over fifty |
 | Decision horizon | until the next pension indexation | §6.7 |
 
-In one line: they produce a tenth, consume a third, own half, cast nearly half the votes — and vote with a horizon of one pension cycle. The architect's "twice over" is conservative: labour against consumption with health and care comes to three times. Every decision taken with that vote is paid for by those who produce the other nine-tenths.
+In one line: they produce a tenth, consume a third, own half, live in their own homes — while the young pay them rent of a third of a wage — cast nearly half the votes, and vote with a horizon of one pension cycle. The architect: "they consume 30 % more: they have housing, and the young pay rent for it — a large share of the wage". Housing ties the two sides together: some live in it free, and in GDP that counts as their consumption as imputed rent; others pay for it — mostly to the same people. The architect's "twice over" is conservative: labour against consumption with health and care comes to three times. Every decision taken with that vote is paid for by those who produce the other nine-tenths.
 
 **Shares.** At the 2025 election, voters aged 60 and over were 42.6 % of those entitled to vote; with above-average turnout they cast about 44 % of the ballots. Among the employed they are 12–14 %: the 55–64 are 24 % of the employed (9.8 million of 40.9 million), of whom fewer than half are over 60, plus about 1.5 million working past 65. Those aged 30–59 are 44.4 % of the voters and about 70 % of the employed. In one line: **over 60 — 44 % of the votes and 13 % of the labour; 30–59 — 44 % of the votes and 70 % of the labour.** *Voter shares — the representative electoral statistics of 2025; labour shares — an estimate from the age structure of the employed (Destatis, 2024–2025), not weighted by hours or earnings.*
 
