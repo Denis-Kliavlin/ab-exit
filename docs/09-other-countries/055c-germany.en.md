@@ -189,7 +189,7 @@ The architect, 04.10.2026: "it is important that it be visible: those who vote a
 | Sales | ≈1.3 m | −5–15 % | advises better, stands a shift worse |
 | Warehousing, post, delivery | ≈1.2 m | −20–30 % | physical work: pace, lifting, injuries |
 | Nursing | ≈1.0 m | −15–25 % | night shifts, lifting patients; experience compensates in part |
-| Childcare, social work | ≈1.0 m | −5–15 % | experience against stamina; with children stamina matters more |
+| Childcare, social work | ≈1.0 m | −10–20 % | work of hands and reactions: lift, wash, get there in time; the architect: "lethargy is passed off as patience — they do not react not because they are experienced and calm, but because they have no strength" |
 | Mechanical engineering, production | ≈0.95 m | equal to 60 among the healthy | the only direct measurement: the Mercedes line, fewer serious errors |
 | Drivers | ≈0.9 m | −5–15 % | slower reactions, fewer accidents; the main risk is health and licensing |
 | IT | ≈0.8 m | −15–25 % | knowledge expires every 5–7 years; architectural experience helps, speed of learning does not |
