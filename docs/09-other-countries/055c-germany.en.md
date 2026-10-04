@@ -130,3 +130,22 @@ The weak point comes from 022 §67.3: procedural promises are bland ("we'll chan
 ---
 
 **Related:** 055 (EU: placeholder) · 055b (France) · 040 (07: media strategy) · 029 (hypocrisy) · 039 (07: opponents) · 056d (Galliamov, Katz) · 033c.7 (greed against stupidity) · 048e (export of truth)
+
+### 6.7. Who decides in Germany: the voter of 50–69, and what the protocol will not do with him
+
+The architect's questions, 04.10.2026: what horizon do voters of 50–69 have, do they need progress, what are their resources, do they have the resolve to bear the hardships of reform, are they thinking voters, do they command modern technology, do they produce GDP or are they already pensioners. Answers from the data; where it is inference, this is said.
+
+| Question | Answer | Basis |
+|---|---|---|
+| Horizon | 50–64 are three to seventeen years from retirement; 65–69 are in it. Twenty to thirty years still to live, but the political horizon is shorter: "until my pension, and that it not be touched". Reforms that pay off beyond that horizon they discount. | inference from age and behaviour |
+| Do they need progress | No — they need preservation. Retirement at 70 is rejected by 72.5 % of Germans, and by more than four in five of the 50–70; linking the retirement age to life expectancy is rejected by 83 %. The 2025 pension package — a guaranteed level of 48 % until 2031 — is written for them. | data |
+| Resources | The richest group: median net household wealth of the 55–64 is 241,100 euros (Bundesbank, PHF 2023), higher than at any other age; most are homeowners. | data |
+| Resolve to bear reform | Low and measured: they vote to postpone. The only proposal that asks them to pay themselves — the DIW's "boomer solidarity levy" — remained a proposal. That is calculation, not cowardice: they pay the price of reform and the younger get the benefit. | data on attitudes; inference on motive |
+| Thinking voters | Yes — and that is the main difference from the Russian core: nobody drives them, they read and go to every election themselves (turnout 85–87 %). But a thinking voter with a short horizon and great wealth thinks of one thing: how not to lose. Thinking does not mean ready for change. | inference |
+| Technology | They command it: 87 % of people 60+ are online, more in the 60–69 group; online banking is the norm. The protocol's application is no barrier for them. | data |
+| GDP or pension | GDP so far, and a lot of it: the employment rate of the 55–64 is 75.3 % (2025); nearly a quarter of all employed are this group. But the wave is leaving: 13.3 million will reach 67 by 2040; the boomers of 1955–1969 retire in 2025–2035. The federal subsidy to pensions is over 109 billion euros, about 30 % of the federal budget, and grows with them. | data |
+
+**What this means for the protocol, and it is uncomfortable.** This voter will never take 675 euros: with a quarter of a million in wealth that is not money. He will stay to vote; if the young and the poor take the payment, his share among those voting grows. In Germany the protocol does not cure the "pensioners' republic" — at the first step it may deepen it. Its effect here is different, and it is described above in §6.3: on the AfD's base — poorer, younger, eastern — which takes the money more often; the populist loses first place only at a high exit share of his electorate. The lever of the Russian core — "you are made to do it for free" (056f §13q) — does not apply to the German voter: nobody makes him. The only question the protocol puts to him is whether he agrees that the absence of those who are at home anyway become paid and counted. The repository has no answer to it.
+
+*Sources: Destatis, employment of the 55–64 (press release of 13.02.2026) and "Ältere Menschen auf dem Arbeitsmarkt 2025"; IW Köln, Vermögensvergleich nach Altersgruppen (PHF 2023); SIM-Studie 2024/2025 on media use at 60+; surveys on retirement at 70 (rentenbescheid24, 2025); Bundesrechnungshof on the development of pension insurance (2025); DIW Wochenbericht 29/2025 on the "boomer solidarity levy".*
+
