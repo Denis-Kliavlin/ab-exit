@@ -199,6 +199,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 - [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)
 - [40m. The Cold-Reader Audit: Thirty-Seven Findings and Five Unanswered Questions](06-critique-arsenal/040m-cold-reader-audit.md)
+- [40n. Guriev and Treisman, "Spin Dictators": Can the Protocol Break the Logic of a Spin Dictator](06-critique-arsenal/040n-guriev-treisman.md)
 
 ## Part II — Social Architecture
 
