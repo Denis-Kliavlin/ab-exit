@@ -155,3 +155,19 @@ The word "thinking" in the table above must be read narrowly: informed — yes; 
 
 *Sources: Destatis, employment of the 55–64 (press release of 13.02.2026) and "Ältere Menschen auf dem Arbeitsmarkt 2025"; IW Köln, Vermögensvergleich nach Altersgruppen (PHF 2023); SIM-Studie 2024/2025 on media use at 60+; surveys on retirement at 70 (rentenbescheid24, 2025); Bundesrechnungshof on the development of pension insurance (2025); DIW Wochenbericht 29/2025 on the "boomer solidarity levy".*
 
+### 6.8. An electorate that cannot fight
+
+The architect's thesis, 04.10.2026: "An electorate raised by populists is very convenient, obedient and predictable. But there is one problem: it cannot fight. And the dictators of the world know it. If Putin or any other dictator attacks Germany or another European country — will the core electorate of the parties now in power go to war?"
+
+**Data.** Forsa, July 2025: 16 % are "definitely" ready to defend Germany with a weapon, a further 22 % "probably". Among those over 60, 68 % refuse; among the 18–29, 56 %; among women, 72 %. Under the new NATO targets the Bundeswehr needs 260 thousand active soldiers and 200 thousand reservists; from 1 July 2027 registration and screening become compulsory for men born in 2008 and later; service remains voluntary for now, and conscription returns if recruitment falls short of plan.
+
+**What follows.** The decider is the one over 60 (§6.7): a quarter of the country, 85 % turnout — and 68 % of them will not go to war. Those who will go, if they go, are the eighteen-year-olds: just registered, with the least weight in this electorate, and for whom in this system a house takes a lifetime. The decision on war and peace is made by some, the price is paid by others. It is the purest case of the divergence between who decides and who pays — what 019 calls the cost of bad government, here in units of lives.
+
+**The dictator knows it about himself too.** Putin's core — the same woman of 056f §13q — cannot fight; Russia fights not with its electorate but with bought contract soldiers (056e). A government that pays millions for a body and nothing for a vote has itself signed the price tag of its "popular support". And an attacker reckons the same about his opponent: an electorate that "no longer cares" will not defend those it votes for.
+
+**What the protocol does.** It selects the deciders by stake (013f). When the threat of war is real, the stake is one's own life and one's children; the twenty-year-old has it and the one who no longer cares does not. The latter exits for 675 euros, the former stays to decide — and for the first time the weight of the decision on war falls on those who will pay for it. An electorate raised on promises is convenient, obedient and predictable as long as there is nothing to defend; the protocol is the only known way for a country to hand the decision, before a war, to those who will fight it, without taking anyone's right away. That is the "vaccine against tyrants" (009) from the other side: it acts not only within, but on whether anyone attacks from without.
+
+**The honest boundary.** Polls on readiness to fight are soft: Ukraine in 2022 showed that real mobilisation runs higher than predicted. Among young Germans refusal is also high — 56 %. The data confirm the age gap, not that populists created it; that is the architect's thesis, and it is recorded as a thesis.
+
+*Sources: Forsa for RND, July 2025 (Deutscher Bundeswehr-Verband; Tagesspiegel); Bundeswehr, "Neuer Wehrdienst"; Augen geradeaus, July and December 2025.*
+
