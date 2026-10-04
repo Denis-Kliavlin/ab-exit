@@ -179,6 +179,21 @@ The architect's thesis, 04.10.2026: "An electorate raised by populists is very c
 
 The architect, 04.10.2026: "it is important that it be visible: those who vote and those who produce GDP are different people".
 
+**The core in one table.** The architect, 05.10.2026: show "how, de facto, those who consume twice over — having pensions, houses, flats and incomes — contribute only a small share of GDP, have a short horizon, and through elections impose their will on the young at the young's own expense". Consumption shares are estimates from headcount and spending per head 🟡; the rest is from the sources named.
+
+| Germany's core, 60 and over | Share | Basis |
+|---|---|---|
+| Of those entitled to vote | 42.6 % | electoral statistics 2025 |
+| Of ballots cast | ≈ 44 % | above-average turnout |
+| Of the population | ≈ 30 % | Destatis |
+| Of private consumption | ≈ 30 % | headcount and spending per head 🟡 |
+| Of public spending on health and care | ≈ 45–50 % | spending on the 65+ 🟡 |
+| Of labour GDP — what they produce | ≈ 10–12 % | one in five works |
+| Of net wealth — houses, flats, deposits | over 50 % | Bundesbank, PHF 2023 |
+| Decision horizon | until the next pension indexation | §6.7 |
+
+In one line: they produce a tenth, consume a third, own half, cast nearly half the votes — and vote with a horizon of one pension cycle. The architect's "twice over" is conservative: labour against consumption with health and care comes to three times. Every decision taken with that vote is paid for by those who produce the other nine-tenths.
+
 **Shares.** At the 2025 election, voters aged 60 and over were 42.6 % of those entitled to vote; with above-average turnout they cast about 44 % of the ballots. Among the employed they are 12–14 %: the 55–64 are 24 % of the employed (9.8 million of 40.9 million), of whom fewer than half are over 60, plus about 1.5 million working past 65. Those aged 30–59 are 44.4 % of the voters and about 70 % of the employed. In one line: **over 60 — 44 % of the votes and 13 % of the labour; 30–59 — 44 % of the votes and 70 % of the labour.** *Voter shares — the representative electoral statistics of 2025; labour shares — an estimate from the age structure of the employed (Destatis, 2024–2025), not weighted by hours or earnings.*
 
 **The ten largest occupations, and a worker of 60 against one of 28 in the same job.** Headcounts are orders of magnitude from the Federal Employment Agency's statistics (employees subject to social insurance, 2024–2025), rounded 🟡; teachers with civil-servant status are outside this statistic. The forecast is an estimate by type of work (Börsch-Supan and Weiss; Göbel and Zwick; Skirbekk's meta-analysis), not a measurement by occupation. The architect's correction to the first version: "equal" holds only under three conditions — the worker is healthy (those who are not left earlier and are not in the measurement), the task does not change (new software, AI, a new method — worse), and sick leave is left out: the 60–64, by the health insurers' reports, have 25–30 days of incapacity a year against 12–15 for the 25–29, that is, minus 5–7 % of time before any talk of quality. Above-basic digital skills: about a quarter of the 55–64 against more than half of the 25–34 (Eurostat).
