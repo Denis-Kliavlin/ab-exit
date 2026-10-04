@@ -198,6 +198,20 @@ The architect, 04.10.2026: "it is important that it be visible: those who vote a
 
 In sum: in no large occupation is a 60-year-old better than a 28-year-old in the same job; equal in two, and only under three conditions; worse by 5–50 % in eight. Wherever he is equal, he is equal in work that does not change. That is the occupational cross-section of what §6.7 says: they are good at preserving and bad at changing — and it is they who cast 44 % of the ballots.
 
+**A forecast of the core electorate's share of GDP.** The architect, 04.10.2026: "the old mostly work where the young do not want to, and that means low wages, hence low efficiency and little GDP; but in politics they are the core electorate — forecast their share of GDP". A correction to the premise: for Germany "they work where the young do not want to" is not borne out by the data — the 50–59 have the highest wages in the country, and they hold the same jobs as at forty, with seniority steps (§6.7). It is true of Russia: a working pensioner there is a doorman, a cleaner, a cloakroom attendant, at half the average wage. But the conclusion on the GDP share is the same, because what matters is not what they work as but that most do not work at all. All figures are estimates from the age structures of voters and of the employed 🟡.
+
+| Germany, 60+ | 2025 | 2035, forecast |
+|---|---|---|
+| Share of those entitled to vote | 42.6 % | ≈ 47 % |
+| Share of ballots cast (above-average turnout) | ≈ 44 % | ≈ 49–50 % |
+| Share of the employed | 12–14 % | ≈ 10 % |
+| Share of labour GDP (adjusted for hours: the 65+ mostly in mini-jobs; and for wages: the 60–64 above average) | ≈ 10–12 % | ≈ 7–8 % |
+| Share of capital income (the 55+ hold more than half of net wealth) | ≈ 45–50 % | ≈ 50 % |
+
+Labour GDP is what they produce; capital income is what they receive from what others produce. In 2025 the core casts 44 % of the votes and produces about 11 %; by 2035, when the boomers of 1955–1969 have left, half the votes and 7–8 % of production. The gap widens by four to five points on each side per decade.
+
+Russia, the core — women 55+ and pensioners (056f §13q): the 60+ are about 30 % of voters and, with brought-in turnout, 35–40 % of ballots; about 20 % of them work, and where the architect said; their share of labour GDP ≈ 4–6 % 🟡; capital income almost none — a deposit below inflation and a vegetable plot. The Russian core votes for 35–40 % and produces 5 %; the German one votes for 44 % and produces 11 %. The difference lies elsewhere: the German core owns, the Russian does not, and so the Russian core has no stake at all — neither labour nor capital. That is what explains why it will take forty thousand roubles and the German one will not take 675 euros: the second has a capital stake, the first has none.
+
 **The architect's thesis, recorded as a thesis.** "In essence the old — simply because they were born earlier — have begun to live as parasites on their own children, through pensions, payments and other privileges. It was not so before, because the state was weaker, and also there were wars: you and your humiliated young generation were simply conquered by others; there were fewer old people, and they understood the value of youth, strength, speed of reaction and of thought, which matter in war. This paradox is in essence what produced Putin: he started the war understanding that Europe had led itself into a dead end through its politics and populism." The word "parasites" is the architect's; the repository neither softens it nor adopts it.
 
 The objection that will come first: the pension is pay-as-you-go, they paid for their own parents. The answer, also from the data: when they paid, there were four workers per pensioner; now there are two, and by 2035 fewer. The contract changed, and it was changed in their favour by the same people who signed it: the 48 % level until 2031 is guaranteed by the votes of those who receive it (§6.7). On wars — a historical thesis, recorded as a thesis; the data of §6.8 confirm only the present gap: 68 % of the over-60s will not go to war, and they decide.
