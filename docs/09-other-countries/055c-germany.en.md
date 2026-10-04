@@ -175,3 +175,34 @@ The architect's thesis, 04.10.2026: "An electorate raised by populists is very c
 
 *Sources: Forsa for RND, July 2025 (Deutscher Bundeswehr-Verband; Tagesspiegel); Bundeswehr, "Neuer Wehrdienst"; Augen geradeaus, July and December 2025.*
 
+### 6.9. Those who vote and those who produce GDP are different people
+
+The architect, 04.10.2026: "it is important that it be visible: those who vote and those who produce GDP are different people".
+
+**Shares.** At the 2025 election, voters aged 60 and over were 42.6 % of those entitled to vote; with above-average turnout they cast about 44 % of the ballots. Among the employed they are 12–14 %: the 55–64 are 24 % of the employed (9.8 million of 40.9 million), of whom fewer than half are over 60, plus about 1.5 million working past 65. Those aged 30–59 are 44.4 % of the voters and about 70 % of the employed. In one line: **over 60 — 44 % of the votes and 13 % of the labour; 30–59 — 44 % of the votes and 70 % of the labour.** *Voter shares — the representative electoral statistics of 2025; labour shares — an estimate from the age structure of the employed (Destatis, 2024–2025), not weighted by hours or earnings.*
+
+**The ten largest occupations, and a worker of 60 against one of 28 in the same job.** Headcounts are orders of magnitude from the Federal Employment Agency's statistics (employees subject to social insurance, 2024–2025), rounded 🟡; teachers with civil-servant status are outside this statistic. The forecast is an estimate by type of work (Börsch-Supan and Weiss; Göbel and Zwick; Skirbekk's meta-analysis), not a measurement by occupation. The architect's correction to the first version: "equal" holds only under three conditions — the worker is healthy (those who are not left earlier and are not in the measurement), the task does not change (new software, AI, a new method — worse), and sick leave is left out: the 60–64, by the health insurers' reports, have 25–30 days of incapacity a year against 12–15 for the 25–29, that is, minus 5–7 % of time before any talk of quality. Above-basic digital skills: about a quarter of the 55–64 against more than half of the 25–34 (Eurostat).
+
+| Occupation | Employed 🟡 | 60 against 28 | Why |
+|---|---|---|---|
+| Office and secretarial | ≈2.2 m | equal under the three conditions; with sick leave and changing software, −10–20 % | knows the process better; learns a new tool worse |
+| Sales | ≈1.3 m | −5–15 % | advises better, stands a shift worse |
+| Warehousing, post, delivery | ≈1.2 m | −20–30 % | physical work: pace, lifting, injuries |
+| Nursing | ≈1.0 m | −15–25 % | night shifts, lifting patients; experience compensates in part |
+| Childcare, social work | ≈1.0 m | −5–15 % | experience against stamina; with children stamina matters more |
+| Mechanical engineering, production | ≈0.95 m | equal to 60 among the healthy | the only direct measurement: the Mercedes line, fewer serious errors |
+| Drivers | ≈0.9 m | −5–15 % | slower reactions, fewer accidents; the main risk is health and licensing |
+| IT | ≈0.8 m | −15–25 % | knowledge expires every 5–7 years; architectural experience helps, speed of learning does not |
+| Cleaning | ≈0.8 m | −20–30 % | purely physical work |
+| Elderly care | ≈0.65 m | −15–25 % | as nursing |
+
+In sum: in no large occupation is a 60-year-old better than a 28-year-old in the same job; equal in two, and only under three conditions; worse by 5–30 % in eight. Wherever he is equal, he is equal in work that does not change. That is the occupational cross-section of what §6.7 says: they are good at preserving and bad at changing — and it is they who cast 44 % of the ballots.
+
+**The architect's thesis, recorded as a thesis.** "In essence the old — simply because they were born earlier — have begun to live as parasites on their own children, through pensions, payments and other privileges. It was not so before, because the state was weaker, and also there were wars: you and your humiliated young generation were simply conquered by others; there were fewer old people, and they understood the value of youth, strength, speed of reaction and of thought, which matter in war. This paradox is in essence what produced Putin: he started the war understanding that Europe had led itself into a dead end through its politics and populism." The word "parasites" is the architect's; the repository neither softens it nor adopts it.
+
+The objection that will come first: the pension is pay-as-you-go, they paid for their own parents. The answer, also from the data: when they paid, there were four workers per pensioner; now there are two, and by 2035 fewer. The contract changed, and it was changed in their favour by the same people who signed it: the 48 % level until 2031 is guaranteed by the votes of those who receive it (§6.7). On wars — a historical thesis, recorded as a thesis; the data of §6.8 confirm only the present gap: 68 % of the over-60s will not go to war, and they decide.
+
+**For the protocol.** It does not follow from the table that an old person's vote should weigh less: the protocol does not weight votes (048m, Article 1). What follows is different: the deciders and the payers are different people, and the difference is measurable. The protocol does not take the right from the former — it gives those among them who no longer care a lawful and paid exit, and leaves the decision to those who have something to lose, whatever their age.
+
+*Sources: Bundeswahlleiterin, representative electoral statistics 2025; bpb, "Wahlberechtigte"; Destatis press releases of 13.02.2026 and 08.2025 on employment by age; Bundesagentur für Arbeit, "Beschäftigte nach Berufen (KldB 2010)"; health insurers' reports on incapacity by age; Eurostat, digital skills by age.*
+
