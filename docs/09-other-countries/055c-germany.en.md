@@ -187,16 +187,16 @@ The architect, 04.10.2026: "it is important that it be visible: those who vote a
 |---|---|---|---|
 | Office and secretarial | ≈2.2 m | equal under the three conditions; with sick leave and changing software, −10–20 % | knows the process better; learns a new tool worse |
 | Sales | ≈1.3 m | −5–15 % | advises better, stands a shift worse |
-| Warehousing, post, delivery | ≈1.2 m | −20–30 % | physical work: pace, lifting, injuries |
+| Warehousing, post, delivery | ≈1.2 m | −30–40 % | physical work: pace, lifting, injuries; strength and endurance fall by about a per cent a year after thirty |
 | Nursing | ≈1.0 m | −15–25 % | night shifts, lifting patients; experience compensates in part |
 | Childcare, social work | ≈1.0 m | −10–20 % | work of hands and reactions: lift, wash, get there in time; the architect: "lethargy is passed off as patience — they do not react not because they are experienced and calm, but because they have no strength" |
 | Mechanical engineering, production | ≈0.95 m | equal to 60 among the healthy | the only direct measurement: the Mercedes line, fewer serious errors |
 | Drivers | ≈0.9 m | −5–15 % | slower reactions, fewer accidents; the main risk is health and licensing |
 | IT | ≈0.8 m | −15–25 % | knowledge expires every 5–7 years; architectural experience helps, speed of learning does not |
-| Cleaning | ≈0.8 m | −20–30 % | purely physical work |
+| Cleaning | ≈0.8 m | −30–50 % | the architect: "they cannot bend down and cannot straighten up either: make a bed, wash a floor"; the −20–30 % of the first version applied to the few who are still in the job at 60 — cleaning and warehousing have the highest share of early retirement on disability |
 | Elderly care | ≈0.65 m | −15–25 % | as nursing |
 
-In sum: in no large occupation is a 60-year-old better than a 28-year-old in the same job; equal in two, and only under three conditions; worse by 5–30 % in eight. Wherever he is equal, he is equal in work that does not change. That is the occupational cross-section of what §6.7 says: they are good at preserving and bad at changing — and it is they who cast 44 % of the ballots.
+In sum: in no large occupation is a 60-year-old better than a 28-year-old in the same job; equal in two, and only under three conditions; worse by 5–50 % in eight. Wherever he is equal, he is equal in work that does not change. That is the occupational cross-section of what §6.7 says: they are good at preserving and bad at changing — and it is they who cast 44 % of the ballots.
 
 **The architect's thesis, recorded as a thesis.** "In essence the old — simply because they were born earlier — have begun to live as parasites on their own children, through pensions, payments and other privileges. It was not so before, because the state was weaker, and also there were wars: you and your humiliated young generation were simply conquered by others; there were fewer old people, and they understood the value of youth, strength, speed of reaction and of thought, which matter in war. This paradox is in essence what produced Putin: he started the war understanding that Europe had led itself into a dead end through its politics and populism." The word "parasites" is the architect's; the repository neither softens it nor adopts it.
 
