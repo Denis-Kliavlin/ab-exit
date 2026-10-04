@@ -18,7 +18,7 @@ Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit)
 
 ## Who decides now how everyone else lives
 
-Not the elite and not the opposition. For sixteen years the outcome of elections in Russia and in Hungary was decided by one and the same person — the one who is brought in. A portrait from the data (Levada Centre, 2025–2026; Hungarian analyses by settlement type, April 2026; in detail — [056f §13q](09-other-countries/056f-russia-september-2026.md)). The protocol addresses her.
+Not the elite and not the opposition. For sixteen years the outcome of elections in Russia and in Hungary was decided by one and the same person — the one who is brought in. A portrait from the data (Levada Centre, 2025–2026; Hungarian analyses by settlement type, April 2026; the consolidated chapter — [1f. The Core Electorate](01-introduction/001f-core-electorate.md); in detail — [056f §13q](09-other-countries/056f-russia-september-2026.md)). The protocol addresses her.
 
 1. **Who.** A woman (about two-thirds of the core), 55–75, centred on 60–70. A village or a town of under 50 thousand; in Hungary a settlement of under 5 thousand. Secondary vocational education: a technical school, a trade school, a nursing college.
 2. **What she lives on.** A pension or a wage from the budget: school, clinic, post office, village council; in Hungary, public works from the mayor. Income below the median; the money comes from the state directly, and she knows it every month when it arrives. Forty thousand roubles once in five years is for her one and a half to two pensions.
@@ -110,6 +110,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [1c. A Board with No Good Moves: Half a Hundred Zugzwangs of the Protocol](01-introduction/001c-board-without-good-moves.md)
 - [1d. Exact Answers: What the Protocol Asserts and What It Does Not](01-introduction/001d-exact-answers.md)
 - [1e. What Question Did You Come With: Short Answers by Role](01-introduction/001e-by-role.md)
+- [1f. The Core Electorate: Who Decides Now — and How the Protocol Changes What an Election Is](01-introduction/001f-core-electorate.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)

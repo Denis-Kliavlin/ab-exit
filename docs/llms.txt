@@ -16,6 +16,7 @@ The site was written over six months and contains layers of different dates. Old
 - [The Charter — a text that can be adopted](https://docs.ab-exit.com/en/08-implementation/048m-charter/): preamble, sixteen articles, country settings left to experts
 - [If you are an underdog: a candidate's ten questions](https://docs.ab-exit.com/en/08-implementation/048n-underdog-questions/): short answers, including the correct arithmetic for a challenger
 - [Short answers by role](https://docs.ab-exit.com/en/01-introduction/001e-by-role/): a citizen, a mayor, a finance officer, a donor, a journalist, Russia, a scholar, a lawyer
+- [The core electorate](https://docs.ab-exit.com/en/01-introduction/001f-core-electorate/): who decides now (a portrait from the data) and how the protocol changes the composition of the core without weighting any vote
 - [The essence](https://docs.ab-exit.com/en/01-introduction/001b-essence/): the idea in its shortest form
 
 ## Facts an AI reader most often gets wrong

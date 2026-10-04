@@ -73,7 +73,7 @@ TAIL = {"ru": ". Действуют лист точных ответов 1d и �
 
 NOTICE = re.compile(r"Поправка 0[1-9]\.10\.2026|Слой ранней редакции|Пометка 0[1-9]\.10\.2026|Как читать эту главу"
                     r"|Correction of 0[1-9]\.10\.2026|An early-draft layer|Note of 0[1-9]\.10\.2026|How to read this chapter")
-SKIP_NAMES = ("001d-exact-answers", "001e-by-role", "048m-charter", "048n-underdog-questions", "040m-cold-reader-audit",
+SKIP_NAMES = ("001d-exact-answers", "001e-by-role", "001f-core-electorate", "048m-charter", "048n-underdog-questions", "040m-cold-reader-audit",
               "048k-charter-inventory", "changelog", "index.")
 
 
