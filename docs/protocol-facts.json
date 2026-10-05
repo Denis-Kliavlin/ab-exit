@@ -233,6 +233,16 @@
       "right": "voter suppression is obstacles that some put in the way of others: queues, purges, polling places. Here there are no obstacles: the right remains, the person makes the choice himself, anew at the next election, and nobody can make it for him. Today the non-voter sits at home unpaid and uncounted; under the rule he is counted and paid. The candidate's lawful formula: \"I support and will promote a referendum by every lawful means\" — advocating a ballot measure is political speech, not payment for a vote; the American frame is \"your turnout is paid for to consultants, why not to you\" (048n, step 4)"
     },
     {
+      "wrong": "\"The payment is 1/365 of the median\", \"$500\", \"$200 million in the first year\", \"50–60 % of the population are the greedy poor\"",
+      "where_it_comes_from": "numbers from snippets and from old rounds (059e), presented as the rule",
+      "right": "the rule is a percentage chosen by referendum (statement 6); \"the greedy poor, 50–60 %\" is a Grok line in a 2026 role-play, not the author's estimate; the calculation for a city of a million is in 1e"
+    },
+    {
+      "wrong": "\"If 'against all' wins, the election is annulled and external administration is imposed\"",
+      "where_it_comes_from": "the model's invention; the protocol has neither \"against all\" nor annulment",
+      "right": "charter 048m: the election is always held; the protocol adds one choice — vote or take the payment — and nothing else"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -363,6 +373,16 @@
       "wrong": "«Платить, чтобы люди не голосовали, — это подавление явки» (американское прочтение)",
       "where_it_comes_from": "слово voter suppression с историей; ролик соперника пишется за минуту",
       "right": "подавление явки — препятствия, которые одни ставят другим: очереди, вычёркивание, участки. Здесь препятствий нет: право остаётся, выбор делает сам человек, на следующих выборах заново, и никто не может сделать его за него. Сегодня не голосующий сидит дома даром и не считается; по правилу — считается и получает. Законная формула кандидата: «поддерживаю и буду продвигать референдум всеми законными способами» — агитация за меру в бюллетене есть политическая речь, а не плата за голос; американская рамка — «за ваш приход платят консультантам, почему не вам» (048n, шаг 4)"
+    },
+    {
+      "wrong": "«Выплата — 1/365 медианы», «$500», «$200 млн в первый год», «50–60 % населения — жадные бедные»",
+      "where_it_comes_from": "числа из сниппетов и из старых разборов (059e), поданные как правило",
+      "right": "правило — процент, выбранный референдумом (утв. 6); «жадные бедные 50–60 %» — реплика Grok в ролевом разборе 2026 года, не оценка автора; расчёт для города на миллион — 1e"
+    },
+    {
+      "wrong": "«Если побеждает „против всех\", выборы отменяются и вводится внешнее управление»",
+      "where_it_comes_from": "выдумка модели; в протоколе нет ни «против всех», ни отмены выборов",
+      "right": "устав 048m: выборы проходят всегда; протокол добавляет один выбор — голосовать или взять выплату — и больше ничего"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",
