@@ -101,6 +101,7 @@
 - [1d. Точные ответы: что протокол утверждает и чего не утверждает](01-introduction/001d-exact-answers.md)
 - [1e. С каким вопросом вы пришли: короткие ответы по ролям](01-introduction/001e-by-role.md)
 - [1f. Ядерный электорат: кто сейчас решает — и как протокол меняет суть выборов](01-introduction/001f-core-electorate.md)
+- [1g. Указатель возражений: каждое словами оппонента, с ответом в три строки](01-introduction/001g-objections-index.md)
 2. [Требования к источнику данных](01-introduction/002-protection.md)
 3. [Таймлайн данных и симметрия отчётности](01-introduction/003-rejected-variants.md)
 4. [Публичный счётчик и его влияние на выборы](01-introduction/004-basic-principles.md)

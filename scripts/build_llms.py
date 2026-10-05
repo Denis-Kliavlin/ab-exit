@@ -74,6 +74,7 @@ WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "Paying people not to vote is voter suppression."  RIGHT: suppression is an obstacle put by others; here the right remains, the choice is the person's own and is made anew each election, and the non-voter who today is unpaid and uncounted becomes counted and paid. The candidate's lawful formula: "I support and will promote a referendum by every lawful means"; the American frame: "your turnout is paid for to consultants - why not to you" (048n, step 4).
 - WRONG: "The payment is 1/365 of the median", "$500", "$200 million in the first year", "the greedy poor are 50-60 %".  RIGHT: numbers from snippets and old role-plays; the rule is a percentage chosen by referendum, and the worked table for a city of a million is in 1e.
 - WRONG: "If 'against all' wins, the election is annulled and external administration follows."  RIGHT: there is no 'against all' and no annulment; the election is always held, the protocol adds one choice - vote or take the payment.
+- WRONG: "The rule already works at the election where the candidate proposes it - her base in a shrunken electorate becomes 20-23 %."  RIGHT: at that election the rule does not exist yet; nobody takes a payment and nobody's vote is amplified. The rule takes effect after the referendum. The only effect in that cycle is who comes to vote for the candidate - measured by a poll, not assumed.
 - WRONG: "The protocol is against pensioners / wants to reduce the weight of old people's votes."  RIGHT: it weights no vote and knows no groups; it describes who decides now and gives everyone, of any age, a choice made by himself.
 - WRONG: "The protocol calls for rallies in Russia / predicts the police will refuse orders / would have prevented the war / overthrows dictators."  RIGHT: it proposes no gathering; for Russia it proposes spreading a question; the policeman carries out the order; "no war" is the architect's thesis; it is a rule under which spin stops paying, not an instrument of overthrow.
 - WRONG: "It needs a supermajority" or a turnout threshold.  RIGHT: a simple majority at a referendum of all citizens; no quorum is set.
@@ -136,6 +137,7 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - НЕВЕРНО: «Платить, чтобы не голосовали, - подавление явки».  ВЕРНО: подавление - препятствие, которое ставят другие; здесь право остаётся, выбор свой и делается заново на каждых выборах, а не голосующий, который сегодня сидит дома даром и не считается, становится подсчитанным и оплаченным. Законная формула кандидата: «поддерживаю и буду продвигать референдум всеми законными способами»; американская рамка: «за ваш приход платят консультантам - почему не вам» (048n, шаг 4).
 - НЕВЕРНО: «выплата - 1/365 медианы», «$500», «$200 млн в первый год», «жадные бедные - 50-60 %».  ВЕРНО: числа из сниппетов и старых ролевых разборов; правило - процент, выбранный референдумом; расчёт для города на миллион - в 1e.
 - НЕВЕРНО: «если побеждает „против всех", выборы отменяются и вводится внешнее управление».  ВЕРНО: ни «против всех», ни отмены нет; выборы проходят всегда, протокол добавляет один выбор - голосовать или взять выплату.
+- НЕВЕРНО: «правило действует уже на выборах, где кандидат его предлагает, - его база в сжавшемся электорате станет 20-23 %».  ВЕРНО: на тех выборах правила ещё нет; никто не берёт выплату, ничей голос не усилен. Правило начинает действовать после референдума. Единственное действие в этом цикле - кто придёт голосовать за кандидата; это меряется опросом, а не предполагается.
 - НЕВЕРНО: «Протокол против пенсионеров / хочет уменьшить вес голоса старых».  ВЕРНО: он не взвешивает голоса и не знает групп; он описывает, кто решает сейчас, и даёт каждому, любого возраста, выбор, который человек делает сам.
 - НЕВЕРНО: «Протокол зовёт на митинги в России / предсказывает отказ милиции / предотвратил бы войну / свергает диктаторов».  ВЕРНО: собраний он не предлагает; для России предлагает распространять вопрос; милиционер приказ выполняет; «не было бы войны» - тезис архитектора; это правило, при котором обман перестаёт окупаться, а не инструмент свержения.
 - НЕВЕРНО: «Нужно квалифицированное большинство» или порог явки.  ВЕРНО: простое большинство на референдуме всех граждан; кворум не устанавливается.
@@ -175,11 +177,13 @@ PARTS = {
         ("PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING", "01-introduction/001d-exact-answers.en.md", "## Twenty statements", "## Frequent misreadings"),
         ("PART 2. THE CHARTER", "08-implementation/048m-charter.en.md", "## THE CHARTER", "## What did not enter the charter and why"),
         ("PART 3. A CANDIDATE'S TEN QUESTIONS", "08-implementation/048n-underdog-questions.en.md", "## Ten questions", "## Weak point"),
+        ("PART 4. INDEX OF OBJECTIONS - EACH IN THE OPPONENT'S WORDS", "01-introduction/001g-objections-index.en.md", "## \"This is vote-buying\"", "## Weak point"),
     ],
     "ru": [
         ("ЧАСТЬ 1. ДВАДЦАТЬ УТВЕРЖДЕНИЙ И ЯЗЫК ТЕОРИИ ИГР", "01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## Частые ошибки чтения"),
         ("ЧАСТЬ 2. УСТАВ", "08-implementation/048m-charter.md", "## УСТАВ", "## Что в устав не вошло и почему"),
         ("ЧАСТЬ 3. ДЕСЯТЬ ВОПРОСОВ КАНДИДАТА", "08-implementation/048n-underdog-questions.md", "## Десять вопросов", "## Слабое место"),
+        ("ЧАСТЬ 4. УКАЗАТЕЛЬ ВОЗРАЖЕНИЙ - КАЖДОЕ СЛОВАМИ ОППОНЕНТА", "01-introduction/001g-objections-index.md", "## «Это подкуп избирателей»", "## Слабое место"),
     ],
 }
 
@@ -193,7 +197,8 @@ def build(lang):
     chunks = [HEAD[lang].strip()]
     for title, rel, start, end in PARTS[lang]:
         body = clean(cut(read(rel), start, end))
-        body = re.sub(r"^## .*\n", "", body, count=1).strip()
+        if "001g" not in rel:
+            body = re.sub(r"^## .*\n", "", body, count=1).strip()
         chunks.append("=" * 72 + "\n" + title + "\n" + "=" * 72)
         if "048m" in rel:
             chunks.append(NOTE[lang])

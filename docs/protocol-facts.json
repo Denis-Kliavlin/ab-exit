@@ -243,6 +243,11 @@
       "right": "charter 048m: the election is always held; the protocol adds one choice — vote or take the payment — and nothing else"
     },
     {
+      "wrong": "\"The rule already applies at the election where the candidate proposes it: her base in the shrunken electorate becomes 20–23 %\"",
+      "where_it_comes_from": "the model counts an election under the protocol, of which there is none in this cycle",
+      "right": "at the election where the rule is proposed the rule does not yet exist: nobody takes a payment, nobody's vote is amplified, everyone votes as before; the rule takes effect after the referendum (statement 15); the only effect of the question in this cycle is who comes to vote for the candidate, and that is measured by a poll (048n)"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -383,6 +388,11 @@
       "wrong": "«Если побеждает „против всех\", выборы отменяются и вводится внешнее управление»",
       "where_it_comes_from": "выдумка модели; в протоколе нет ни «против всех», ни отмены выборов",
       "right": "устав 048m: выборы проходят всегда; протокол добавляет один выбор — голосовать или взять выплату — и больше ничего"
+    },
+    {
+      "wrong": "«Правило действует уже на тех выборах, где кандидат его предлагает: его база в сжавшемся электорате станет 20–23 %»",
+      "where_it_comes_from": "модель считает выборы при протоколе, которых в этом цикле нет",
+      "right": "на выборах, где правило предлагают, правила ещё нет: никто не берёт выплату, ничей голос не усилен, все голосуют как раньше; правило начинает действовать после референдума (утв. 15); единственное действие вопроса в этом цикле — кто придёт голосовать за кандидата, и это меряется опросом (048n)"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",

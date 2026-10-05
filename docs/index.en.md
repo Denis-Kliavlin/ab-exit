@@ -111,6 +111,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [1d. Exact Answers: What the Protocol Asserts and What It Does Not](01-introduction/001d-exact-answers.md)
 - [1e. What Question Did You Come With: Short Answers by Role](01-introduction/001e-by-role.md)
 - [1f. The Core Electorate: Who Decides Now — and How the Protocol Changes What an Election Is](01-introduction/001f-core-electorate.md)
+- [1g. Index of Objections: each in the opponent's words, with a three-line answer](01-introduction/001g-objections-index.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)
