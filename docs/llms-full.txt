@@ -470,6 +470,18 @@ A second objection from the same clean chat (Grok, 02.10.2026). The one who want
 
 **What nobody knows.** How many will come. The estimate of referendum turnout in 08/045 is unsupported, as are the objector's numbers.
 
+## Measuring the question: a poll is cheaper than an ad
+
+Added 05.10.2026 after a clean Grok test on the Chicago mayoral election (040m §5i). Asked what share of "yes" to expect among non-voters, the model answered "there are no data" — not for Chicago, not for the US, not on the site — named the nearest figures from elsewhere and rejected them as non-transferable (willingness to sell a vote for a candidate is not a budget payment for abstention and not a referendum; the Swiss 23 % for a basic income pays everyone and buys no turnout), and instead of a number gave a method. The method costs one line in a poll the campaign buys anyway, and works in any city:
+
+- **Sample.** 400–600 registered voters, weighted by turnout history: voted at the last election of this level or not.
+- **Two cells.** A — the question on the rule verbatim: "before each election one may either vote or take a payment from the city budget and not vote in that election; the right to vote is kept for ever". B — the same question plus one line on the bill: a percentage of median income and "from the city budget, that is, from taxes". The difference between A and B is the price of the question; without cell B it is not a measurement but an advertisement of the payment.
+- **Crossing.** A separate question on the intention to vote at the coming election, to separate the "yes" of voters from the "yes" of non-voters.
+- **Channel.** Non-voters are hard to reach by phone; text to the voter file is cheaper.
+- **What to expect and what not.** Among non-voters "yes" will be higher than among voters — a basis for the sample size, not a result; both shares fall as soon as the bill appears in the question. Until the table exists, any figure in a conversation with the candidate is an invention.
+
+This is the cheap test of what the repository calls "a question the rivals do not have" (question 1): whether it moves votes nobody knows, and finding out costs one line in the tracker.
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.
