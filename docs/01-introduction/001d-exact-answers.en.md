@@ -87,6 +87,9 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 | "A supermajority is required", or a turnout threshold | a reader's guess | a simple majority; no quorum is set (Art. 14) |
 | "Acemoglu, Brennan, Fukuyama object to the protocol" | chapter titles in Part 6 | the chapters examine arguments from their books; the authors themselves have not commented on the protocol |
 | "The protocol has already been used" in the countries of Part IV | titles of the country chapters | these are designs for countries; the protocol has been introduced nowhere, and no pilot has been run |
+| "The protocol is against pensioners", "it wants to reduce the weight of old people's votes" | chapter 1f and sections 055c §6.7–6.9 on the core electorate | the protocol does not weight votes and knows no groups (048m, Art. 1); it describes who decides now and gives everyone — of any age — a choice he makes himself; the filter is by a person's horizon, not by age |
+| "The protocol calls people into the streets", "it predicts the police will refuse" | 056f §13m–13o: the analysis of a gathering and of the policeman | the protocol proposes no gathering; for Russia it proposes spreading a question; the policeman will carry out the order — said plainly; the subject is the price of the order for the authorities, not a mutiny |
+| "With the protocol there would have been no war", "the protocol overthrows dictators" | 055c §6.8, 040n | the first is the architect's thesis, recorded as a thesis; the second is the opposite of what is said: the protocol is not an instrument of overthrow but a rule under which spin stops paying (040n §5) |
 | "One who took the money loses rights" | — | statements 2 and 5; he votes in referendums on the protocol itself (Art. 14) |
 
 ## Weak point

@@ -238,6 +238,18 @@ The architect's task: "think who our main consumers and stakeholders will be, an
 - The tone of the README: the journalist listed eight phrases a sceptic would quote as self-praise. That is the architect's voice, and changing it is for him.
 - The pilot's design: different sums in comparable courtyards and a condition of refusal written down in advance.
 
+## 5h. A third pass: the new chapters of October, 05.10.2026
+
+After the second pass came chapter 1f on the core electorate, chapter 40n on spin dictators, sections 055c §6.7–6.9 and 056f §13m–13q, and the portrait of the core on the home page. The new material carries its own risk of misreading: "the protocol is against pensioners", "it calls people into the streets", "it predicts a police mutiny", "it promises there would be no war". Three simple readers were each given one or two pages and asked exactly that.
+
+| Page | What was asked | Result |
+|---|---|---|
+| The home page, in full | whom the protocol is against; what about the old; a left or a right idea; what it promises | correct: votes are not weighted, rights are not taken, "the protocol addresses her" read as an offer of a choice, not as a target; no contradictions found |
+| 1f, alone | does it disenfranchise pensioners; does it pay the poor not to vote; what is proved and what is opinion; is it fair | correct: the filter is by horizon, not by age; the numbers were separated into data, estimates and theses; the architect's phrases were attributed to one person, not to the protocol |
+| 40n and 056f §13n–13p | does it call for rallies; will the police refuse; would it have prevented the war; does it overthrow dictators | correct on all four: "the protocol proposes no gathering", "he will carry out the order", "not an instrument of overthrow"; no claim about the war was found |
+
+What the readers did not find and what was closed in advance: the exact-answers sheet and the file for models had no lines on "against the old" and "calls into the streets" — three rows added to 1d and two to the head of `llms-full`. The reader of 1f without the rest of the site lacked the rule in full — the template at the top of every page (§5f) supplies it, and in text without markup it stands before the content.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡

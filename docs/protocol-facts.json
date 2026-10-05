@@ -213,6 +213,21 @@
       "right": "these are designs for countries; the protocol has been introduced nowhere, and no pilot has been run"
     },
     {
+      "wrong": "\"The protocol is against pensioners\", \"it wants to reduce the weight of old people's votes\"",
+      "where_it_comes_from": "chapter 1f and sections 055c §6.7–6.9 on the core electorate",
+      "right": "the protocol does not weight votes and knows no groups (048m, Art. 1); it describes who decides now and gives everyone — of any age — a choice he makes himself; the filter is by a person's horizon, not by age"
+    },
+    {
+      "wrong": "\"The protocol calls people into the streets\", \"it predicts the police will refuse\"",
+      "where_it_comes_from": "056f §13m–13o: the analysis of a gathering and of the policeman",
+      "right": "the protocol proposes no gathering; for Russia it proposes spreading a question; the policeman will carry out the order — said plainly; the subject is the price of the order for the authorities, not a mutiny"
+    },
+    {
+      "wrong": "\"With the protocol there would have been no war\", \"the protocol overthrows dictators\"",
+      "where_it_comes_from": "055c §6.8, 040n",
+      "right": "the first is the architect's thesis, recorded as a thesis; the second is the opposite of what is said: the protocol is not an instrument of overthrow but a rule under which spin stops paying (040n §5)"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -323,6 +338,21 @@
       "wrong": "«Протокол уже применялся» в странах Части IV",
       "where_it_comes_from": "названия страновых глав",
       "right": "это проекты для стран; протокол нигде не введён, пилота не было"
+    },
+    {
+      "wrong": "«Протокол против пенсионеров», «хочет уменьшить вес голоса старых»",
+      "where_it_comes_from": "глава 1f и разделы 055c §6.7–6.9 о ядерном электорате",
+      "right": "протокол не взвешивает голоса и не знает групп (048m, ст. 1); он описывает, кто решает сейчас, и даёт каждому — любого возраста — выбор, который он делает сам; фильтр — по горизонту человека, не по возрасту"
+    },
+    {
+      "wrong": "«Протокол зовёт на площадь», «предсказывает, что милиция откажется»",
+      "where_it_comes_from": "056f §13m–13o: разбор собрания и милиционера",
+      "right": "собрания протокол не предлагает; для России предлагается распространять вопрос; милиционер приказ выполнит — сказано прямо; речь о цене приказа для власти, а не о мятеже"
+    },
+    {
+      "wrong": "«С протоколом не было бы войны», «протокол свергает диктаторов»",
+      "where_it_comes_from": "055c §6.8, 040n",
+      "right": "первое — тезис архитектора, записанный как тезис; второе — обратное сказанному: протокол не инструмент свержения, а правило, при котором обман перестаёт окупаться (040n §5)"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",
