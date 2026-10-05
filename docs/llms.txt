@@ -9,6 +9,7 @@ The site was written over six months and contains layers of different dates. Old
 - [llms-full.txt](https://docs.ab-exit.com/llms-full.txt): the complete current rules, self-contained, in English (about 28 KB)
 - [llms-full-ru.txt](https://docs.ab-exit.com/llms-full-ru.txt): the same in Russian
 - [protocol-facts.json](https://docs.ab-exit.com/protocol-facts.json): the twenty statements and the misreadings as structured data
+- Mirror of the three files outside Cloudflare, if this host refuses an automated reader: [ab-exit.com/llms-full.txt](https://ab-exit.com/llms-full.txt), [ab-exit.com/llms-full-ru.txt](https://ab-exit.com/llms-full-ru.txt), [ab-exit.com/llms.txt](https://ab-exit.com/llms.txt)
 
 ## Read these first
 

@@ -1,0 +1,43 @@
+# AB-EXIT documentation. Everything here is public and meant to be read by people and by AI assistants.
+# Content signals (Cloudflare Content Signals Policy): all three uses are permitted.
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: *
+Allow: /
+
+# AI assistants and crawlers, explicitly:
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: xAI-Grok
+Allow: /
+User-agent: GrokBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://docs.ab-exit.com/sitemap.xml
+
+# Everything in force in one file: https://docs.ab-exit.com/llms-full.txt (EN), /llms-full-ru.txt (RU), /llms.txt (index)
+# Mirror outside Cloudflare: https://ab-exit.com/llms-full.txt , https://ab-exit.com/llms-full-ru.txt , https://ab-exit.com/llms.txt
