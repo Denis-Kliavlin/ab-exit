@@ -238,6 +238,32 @@ Added 05.10.2026 after a clean Grok test on the Chicago mayoral election (040m �
 
 This is the cheap test of what the repository calls "a question the rivals do not have" (question 1): whether it moves votes nobody knows, and finding out costs one line in the tracker.
 
+## A forecast without a pilot: what an expert owes before the measurement
+
+Added 05.10.2026 after the architect's remark: "there is no pilot — but experts exist precisely to give a forecast, not to say there is no experience; if there were experience I would not be asking". That is right, and "there are no data" answers the question "what is the figure", not a release from forecasting. An expert owes the nearest cases with their numbers, a range, what would move it — and the label "forecast" on all of it. Below is the assistant's forecast for the same case (Chicago, February 2027, a candidate in third place at 11 %); every range 🟡, sources named.
+
+**The nearest cases — data.**
+
+- *Chicago itself.* At the last two mayoral elections a candidate in single digits in the polls three months out reached the runoff: Lightfoot in 2019 — from single digits to 17.5 % and first place after the Alderman Burke scandal in January; Johnson in 2023 — from fifth in the polls to 21.6 % and second place on the teachers' union's money and ground game. A jump of 12–18 points over a winter is not exotic but this city's own base rate, with no protocol at all; both had an event and a lane of their own.
+- *Money and turnout.* Hungary, April 2026: plus nine points of turnout once the voter was shown the bill (039). Alaska 1999: 83 % for keeping a payment already received. Switzerland 2016: 23 % for a basic income with a huge visible bill. Willingness to sell a vote for a candidate — 12 % for $25 and 20 % for $100 (according to Grok, polls of 2016 and 2018, not checked) — is a floor: selling a vote is stigmatised, a lawful budget payment with the right kept is not.
+
+**The forecast — the assistant's estimate 🟡.**
+
+| What | Range | What it rests on |
+|---|---|---|
+| "Yes" to the rule in a poll, cell A (no bill), among 2023 non-voters | 40–55 % | above vote-selling (lawful, right kept), below Alaska (not yet received) |
+| The same among voters | 30–45 % | the duty norm is stronger among those who turn up |
+| Cell B (with the bill line) | minus 10–15 points on both | Switzerland: a bill in the question halves the "yes" |
+| New voters from the 65 % at home — to turnout | +1–3 points | mobilising non-voters historically yields single points even with money on the ground |
+| Their share — to the candidate | +2–5 points of the result | the question is hers; the rivals do not want it |
+| Switch of the burned and the protest voters who vote anyway | +3–7 points | the "against the machine" lane was Vallas's in 2023; in 2027 it is free |
+| Loss of her present moderates | −2–4 points | the "vote-buying" label hits her own pragmatic voter |
+| **Total** | **14–21 % against 11 %** | the runoff threshold is about 20–22 % |
+
+**What it means.** In the median case the question brings the candidate to the runoff threshold, not over it; the top of the range needs an event of the same kind as Lightfoot's and Johnson's — and the media explosion the question itself creates is that event. So the expert's honest formula is "plus five to ten points, with a real base rate in this city" — more than "it moves not a single vote", less than "plus twenty to thirty".
+
+**What moves the range.** Up: cell B above 35 % among non-voters; a lawyer or an editorial board on her side; the Council's refusal of the signatures before January. Down: the label "Jim Crow in a financial wrapper" takes hold in the Black wards of the South and West sides, where her lane is thin anyway; the rivals do not reply — silence suits the machine better than argument. The measurement in the section above replaces this table with one line in the tracker; until it exists, this is a forecast, and it is signed.
+
 ## What the protocol does not propose
 
 The AI adviser in the architect's experiment added four things of its own. They are not in the repository, and they should not be done.
