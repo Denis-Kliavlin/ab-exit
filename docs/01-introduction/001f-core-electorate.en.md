@@ -83,7 +83,7 @@ Not the weight of votes: one ballot is one vote (048m, Article 1). Not the compo
 ## 8. Two levers for two cores
 
 - **Where the core is brought in** (Russia, Hungary before 2026): the lever is "the authorities themselves paid before elections; so the vote is worth money; give it by law and always". Every move of the authorities is costly: to deny is to admit bribery; to agree is to bow; to pay once more is to confirm; to stay silent is to have the opposition read the silence aloud (056f §13n–13q).
-- **Where the core comes by itself** (the United States, Germany): there is no lever of coercion. One question remains: will the reliable but indifferent voter take the payment for what he no longer cares about — and will those who have something to lose remain to decide. The repository has no answer; only a pilot with different sums will give one (048l).
+- **Where the core comes by itself** (the United States, Germany): there is no lever of coercion. One question remains: will the reliable but indifferent voter take the payment for what he no longer cares about — and will those who have something to lose remain to decide. The repository has no answer; only a pilot with different sums will give one (048l). A clean test on the 2027 Chicago mayoral election (040m §5i) added to this: the American machine is a union machine, built on stake rather than coercion; the protocol does not subtract it, and the American case must be counted afresh, not carried over from Hungary and Russia.
 
 ## 9. Weak point
 
