@@ -10,6 +10,7 @@ The site was written over six months and contains layers of different dates. Old
 - [llms-full-ru.txt](https://docs.ab-exit.com/llms-full-ru.txt): the same in Russian
 - [protocol-facts.json](https://docs.ab-exit.com/protocol-facts.json): the twenty statements and the misreadings as structured data
 - Mirror of the three files outside Cloudflare, if this host refuses an automated reader: [ab-exit.com/llms-full.txt](https://ab-exit.com/llms-full.txt), [ab-exit.com/llms-full-ru.txt](https://ab-exit.com/llms-full-ru.txt), [ab-exit.com/llms.txt](https://ab-exit.com/llms.txt)
+- If you cannot fetch any page and answer from search snippets alone: the rule is the five lines at the top of this file; every sum, multiplier or percentage in a snippet from an older chapter is a worked example or an estimate, not the rule.
 
 ## Read these first
 

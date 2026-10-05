@@ -236,7 +236,7 @@ An independent AI reader in the role of counsel to an election commission read t
 
 **What the charter does not cover.** Voters abroad; people without a bank account and without a document; death or incapacity between the choice and polling day; gaining or losing the right to vote after the window opens; a second round; simultaneous elections of several levels; by-elections; one who chose A and did not come; an election postponed or annulled after payments; who is responsible for the register's data, how long they are kept and who has access to them.
 
-**Parameters that are in fact decisions.** The percentage or a target share of exit; the number of payments; the legal route; the loan and its priority; an election not held on time; the definition of the median. They change the nature of the rule, not its tuning.
+**Parameters that are in fact decisions.** *Addition of 05.10.2026 (040m §5j):* for the US the loan of Article 8, part 5, is a legal question, not a setting: a municipal loan needs a bond counsel's opinion on a valid public purpose and is assessed by the rating agencies; a loan with no revenue source, for payments to citizens, may not obtain such an opinion. A first cycle in an American city is likely financed by accumulation over the cycle or by a donor's guarantee, not by city debt. The percentage or a target share of exit; the number of payments; the legal route; the loan and its priority; an election not held on time; the definition of the median. They change the nature of the rule, not its tuning.
 
 ## Weak point
 
