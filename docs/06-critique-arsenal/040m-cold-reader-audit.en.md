@@ -250,6 +250,20 @@ After the second pass came chapter 1f on the core electorate, chapter 40n on spi
 
 What the readers did not find and what was closed in advance: the exact-answers sheet and the file for models had no lines on "against the old" and "calls into the streets" — three rows added to 1d and two to the head of `llms-full`. The reader of 1f without the rest of the site lacked the rule in full — the template at the top of every page (§5f) supplies it, and in text without markup it stands before the content.
 
+## 5i. A clean Grok, the second time: Mendoza's campaign, Chicago, 05.10.2026
+
+The architect ran a second clean Grok test on a real case: Susana Mendoza's campaign for mayor of Chicago on 23 February 2027 — third place, 11.2 % against 20.1 % for Johnson and 17.6 % for Giannoulias (M3 Strategies, 31.08.2026), turnout about 35 %, a runoff on 6 April. The model was given the home page and `llms-full.txt` and asked, as a colleague on the staff: what is it, what does it give, how is it lawful, what are the risks, should we bet on it.
+
+**What was read correctly — everything, for the second time running.** The rule, a percentage of the median, one ballot one vote, referendum only, introduced nowhere, a candidate does not pay, no victory promised, the "stress test" is not proof. It found the section for a challenger; it gave every number with the site's label and separated the user's input and its own estimate. It cited the law: 10 ILCS 5/29-1 and 18 U.S.C. § 597. The verdict: "zero operational value for this election; do not bet" — and by the site's text that is the right verdict.
+
+**Three findings for the repository.**
+
+1. *Voter suppression.* "The rival's ad: Mendoza wants to pay people not to vote — in Chicago that reads as voter suppression, not as institutional design." That is the main American trap, and the repository had no answer to it. A row has been added to 1d and to the head of `llms-full`; how to speak of this in the US is a question that remains open and must be settled in the American chapters, not by a caveat.
+2. *The pilot and the campaign.* "One question for the campaign's lawyer: that nobody arranges a 'courtyard trial'." The repository told the candidate "a pilot — a courtyard on private money" without saying who runs it. Corrected in 48n, step 5: the pilot is run by an institute or a homeowners' association, not by the campaign and not on campaign money.
+3. *"We have no machine that brings people in."* Here the model argues with the repository, not with the facts: Chicago is a machine city, and in 2027 the incumbent's base is union mobilisation. But its argument — "at 35 % turnout the apathetic are at home for free already; paying them for what they already do adds no ballots to the challenger" — is the open question of 1f §8 for the US, confirmed from a practitioner's side: where nobody is brought in, the lever "release the brought-in" is weak, and only the second remains — whether those who gave up will return. The question as a campaign move the model dismissed with the word "slogan", without examining it; that too is data: without an American frame the question "why not me" does not sound in the US as it does in Russia.
+
+**On access.** The first run of the same test on another model (Gemini) ended in "a block against automated data collection" on docs.ab-exit.com: the site sits behind Cloudflare, which by default cuts off some AI crawlers by their signatures; from an ordinary address this is invisible. Done: an explicit `robots.txt` permitting AI readers and a mirror of the files for models on ab-exit.com outside Cloudflare; the AI-bot blocking switch in Cloudflare is for the architect.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡

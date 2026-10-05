@@ -228,6 +228,11 @@
       "right": "the first is the architect's thesis, recorded as a thesis; the second is the opposite of what is said: the protocol is not an instrument of overthrow but a rule under which spin stops paying (040n §5)"
     },
     {
+      "wrong": "\"Paying people not to vote is voter suppression\" (the American reading)",
+      "where_it_comes_from": "the words voter suppression, with their history; a rival's ad writes itself",
+      "right": "voter suppression is obstacles that some put in the way of others: queues, purges, polling places. Here there are no obstacles: the right remains, the person makes the choice himself, anew at the next election, and nobody can make it for him. Today the non-voter sits at home unpaid and uncounted; under the rule he is counted and paid. How to speak of this in the US is a separate question, and the repository has not closed it (040m §5i)"
+    },
+    {
       "wrong": "\"One who took the money loses rights\"",
       "where_it_comes_from": "—",
       "right": "statements 2 and 5; he votes in referendums on the protocol itself (Art. 14)"
@@ -353,6 +358,11 @@
       "wrong": "«С протоколом не было бы войны», «протокол свергает диктаторов»",
       "where_it_comes_from": "055c §6.8, 040n",
       "right": "первое — тезис архитектора, записанный как тезис; второе — обратное сказанному: протокол не инструмент свержения, а правило, при котором обман перестаёт окупаться (040n §5)"
+    },
+    {
+      "wrong": "«Платить, чтобы люди не голосовали, — это подавление явки» (американское прочтение)",
+      "where_it_comes_from": "слово voter suppression с историей; ролик соперника пишется за минуту",
+      "right": "подавление явки — препятствия, которые одни ставят другим: очереди, вычёркивание, участки. Здесь препятствий нет: право остаётся, выбор делает сам человек, на следующих выборах заново, и никто не может сделать его за него. Сегодня не голосующий сидит дома даром и не считается; по правилу — считается и получает. Как говорить об этом в США — отдельный вопрос, и репозиторий его не закрыл (040m §5i)"
     },
     {
       "wrong": "«Взявший деньги лишается прав»",

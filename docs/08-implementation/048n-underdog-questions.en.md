@@ -130,7 +130,7 @@ The architect asked the AI adviser one more question: "give me an exact answer o
 2. **Two numbers for your city.** How many people do not vote, and what share of the incumbent's vote is brought in rather than convinced. Whether you have a chance at all depends on this (answer 10).
 3. **The text.** Take the charter (048m) and, with an economist, fill in the square brackets: which median, what percentage is desirable to 40–50 % of residents, what it costs the budget of your level.
 4. **One sentence.** You promise not money but a referendum: "I will obtain a vote on paying for your vote to you, not to the parties".
-5. **A pilot.** A courtyard or a village, a real question and private money — the only place where private money is appropriate, because it is not an election (048l).
+5. **A pilot.** A courtyard or a village, a real question and private money — the only place where private money is appropriate, because it is not an election (048l). *Correction of 05.10.2026 after a clean Grok test (Chicago, 040m §5i): the pilot is run by an institute or a homeowners' association, not by the candidate's campaign and not on campaign money. A pilot arranged by a campaign during the campaign reads in the US as payment for not taking part, whatever is on the courtyard's ballot; the campaign may point to a pilot, but not run it.*
 6. **Signatures**, if the law requires them. Collecting signatures is your field campaign.
 7. **A debate on the percentage.** Open it yourself: an argument over how much to pay advertises the rule better than any advertising (056f §13k).
 8. **Attacks.** Answer with the text of the rule, not with a story about yourself. You will be attacked personally: a sum is harder to refute (056f §13g).
