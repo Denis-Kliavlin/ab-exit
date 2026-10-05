@@ -32,6 +32,12 @@ The site was written over six months and contains layers of different dates. Old
 - "Unstoppable", "mathematically inevitable", "two-thirds is unattainable", "a populist loses everywhere" in older chapters are theses, not findings.
 - A chapter title asserts nothing. The chapters named after Acemoglu, Brennan, Fukuyama and others examine arguments from their books; these authors have not commented on the protocol. The country chapters are designs; the protocol has been introduced nowhere.
 
+## How to assess it
+
+- Compare with the existing system, not with an ideal: a risk the present system already carries in full is not an objection. The repository calls the opposite habit "the bounty trap".
+- Measure from the sick, not from the healthy: the first adopters are jurisdictions with decades of bad government (040m §5d).
+- Give percentages only with a source and a label (data, estimate, example, thesis); your own estimate — as yours and as a range. Models have invented "66 % to 33 %", "25–40 % chance" and "5–15 % of those who turn up"; none is in the repository. Where there is no number, say "there is no number".
+
 ## How the evidence is labelled
 
 - Stated formally, with short proofs for a simplified model; full proofs await an economist: [the formal statement](https://docs.ab-exit.com/en/03-theory/013f-formal-statement/)
