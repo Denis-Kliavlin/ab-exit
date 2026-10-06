@@ -69,6 +69,19 @@ The architect (06.10.2026): "what matters is how such people became presidents, 
 
 What the protocol changes is two steps of the five, and exactly the two that belong to the voter. The second: "neither" acquires a price and a count — the one who leaves took the payment, and that is visible before the election; the machine that fielded the "safe" man is for the first time presented with a bill for those he did not hold, and the burned have a reason to return. The first — partly, with an open question: the charter speaks of elections at each level, but whether the rule extends to primaries, which in the US the state runs under party rules, is a decision for the American section that the repository does not yet contain (048m, remarks). The third, fourth and fifth the protocol does not touch: it introduces neither an exam nor an age limit — it removes the premium on the familiar among those who decide, and that is enough for the "safe" choice to stop being safe.
 
+### 4c. One voter, two answers: the bus and the president
+
+The architect's question (06.10.2026): "if you ask the same voter — would you trust Biden with the school bus carrying your child, and would you trust him to be president — what logic or what incentives change the answers to what is in essence one question?" The answer lies in four differences between the questions, and none of them is about Biden.
+
+1. **The price of error: one's own and now — or shared and later.** The bus: the child is his, today, irreversibly, and he himself will be to blame. The president: his share of the harm is one three-hundred-millionth, years away, and nobody is to blame. The answer about the bus is a decision; the answer about the president is a statement. This is described as expressive voting (Brennan and Lomasky, 1993): when a vote costs nothing, it is used to express, not to decide.
+2. **The weight of the answer.** On the bus his "no" is final: there will be no such driver. On the president his "no" is one hundred-and-fifty-millionth, and the outcome does not depend on him. It is rational to spend on a decision exactly as much attention as it weighs; and he does.
+3. **The form of the question.** The bus — "yes or no". The president — "this one or that one": not "is he fit" but "whose is he". Our side's old man against their side's monster — and "fitness" drops out of the question before it is spoken.
+4. **The price of honesty.** Saying "no" about the bus costs nothing. Saying "my candidate is unfit" costs one's place in one's group; the answer about the president is given to the group, not to oneself.
+
+What the protocol changes is one thing, and exactly the one that separates the first question from the second: the vote acquires its own, immediate, personal price — the payment the voter forgoes. The question "would you trust him with the presidency" turns into "would you give up your money to vote for him" — that is, it becomes the bus question: a decision, not a statement. The one who would not trust him with the bus but voted "yes" for free now either takes the payment and leaves, or pays for his vote with his own money — and those remain who trust him in fact. The protocol does not ask the voter the bus question; it makes the president question cost as much.
+
+The boundary: the payment is a percentage of the median, and for a rich man it is small; on him this works more weakly — which is the open question of selection by income (040m §4). And the protocol does nothing about the third and fourth differences: the binary and the team remain; it only removes their being free.
+
 ## 5. The closed cycle
 
 The core is closed at three points, and none of them is opened by voting, because those who vote are inside:
