@@ -198,6 +198,7 @@ plugins:
             "40l. Фукуяма": "40l. Fukuyama"
             "40m. Аудит холодного читателя": "40m. The Cold-Reader Audit"
             "40n. Гуриев и Трейсман: диктаторы обмана": "40n. Guriev and Treisman: Spin Dictators"
+            "40o. Гольдшайд: бюджет как скелет": "40o. Goldscheid: the Budget as Skeleton"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -342,6 +343,7 @@ nav:
       - "40l. Фукуяма": 06-critique-arsenal/040l-fukuyama.md
       - "40m. Аудит холодного читателя": 06-critique-arsenal/040m-cold-reader-audit.md
       - "40n. Гуриев и Трейсман: диктаторы обмана": 06-critique-arsenal/040n-guriev-treisman.md
+      - "40o. Гольдшайд: бюджет как скелет": 06-critique-arsenal/040o-goldscheid.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

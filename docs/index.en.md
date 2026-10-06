@@ -201,6 +201,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)
 - [40m. The Cold-Reader Audit: Thirty-Seven Findings and Five Unanswered Questions](06-critique-arsenal/040m-cold-reader-audit.md)
 - [40n. Guriev and Treisman, "Spin Dictators": Can the Protocol Break the Logic of a Spin Dictator](06-critique-arsenal/040n-guriev-treisman.md)
+- [40o. Rudolf Goldscheid: the Budget as the Skeleton of the State — What Fiscal Sociology Would Say of the Protocol](06-critique-arsenal/040o-goldscheid.md)
 
 ## Part II — Social Architecture
 
