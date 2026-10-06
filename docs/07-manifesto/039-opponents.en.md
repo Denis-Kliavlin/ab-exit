@@ -119,4 +119,15 @@ That means: the louder and more public the AB-EXIT campaign, the less room for q
 
 This is a unique situation. And it explains why AB-EXIT may prove to be that rare reform that not only begins but takes hold after first adoption (section 85.7 on irreversibility). An enemy who cannot publicly formulate his objection is unable to stop an idea supported by a mass of citizens who see in it a direct personal benefit.
 
+
+### 88.9. The Luddites of politics: who will do the sums first (06.10.2026)
+
+The architect: "the authorities will quickly do the sums and understand that their monopoly on the hidden, free use of the apathetic for their own ends will be destroyed — and that is millions of people in power whom an efficient new government will throw out as useless junk. The protocol turns the world of politics a hundred and eighty degrees; that is why it is good, but the Luddites of politics will be against it."
+
+The image is exact, and it gathers categories 2, 3, 5 and 7 of §88.2 into one class with one interest: a trade. The Luddites were not wrong about themselves — their trade really did disappear; they lost not because they were wrong but because the mill owners needed the machines. The trade that disappears here is the bringing-in of the passive majority: the bus and the boss in Russia, advertising, fear and promises in America (029 §29.11). While the apathetic man is free, a whole industry stands on him; once the budget pays for his non-turnout and his exit is visible on the counter, the industry loses its raw material.
+
+The size of the industry — so that "millions" is not just a word. Russia: about nine hundred thousand members of precinct commissions (CEC), plus those at enterprises and budget institutions who answer for turnout, plus the party apparatus living on 152 roubles per vote a year — in the broad sense of the administrative resource the count really runs into millions 🟡. The US: the campaign industry — of the order of $15–16 billion for the 2024 federal cycle (OpenSecrets), tens of thousands of consultants, field and media contractors; fewer people, more money. These are the ones who will do the sums first — before the voter and before the candidate.
+
+Two boundaries so that the thesis holds. First: the protocol dismisses nobody; it removes the demand for a trade, not the people — as the machine did. Whom an efficient government "throws out" is the architect's thesis about the consequences of good governance (019), not a rule. Second: Luddites lose only when the machine is needed by the one who pays. The protocol will pass not where it is understood but where those who pay — the budget, the taxpayer, authorities with nobody left to bring in — need it more than the industry needs its trade (029 §29.11, "why a right is granted at all"). It is the same logic as §88.6: the trade of bringing in the apathetic cannot be defended in public, so the resistance will be behind the scenes, early, and from those who have already done the sums.
+
 ---
