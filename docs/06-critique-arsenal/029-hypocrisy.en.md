@@ -233,4 +233,35 @@ The WVS means in "The captured instrument" are simple country means, unweighted 
 
 ---
 
+## 29.11. Two Rights: Arms and the Vote — the Same Asymmetry
+
+*Added 06.10.2026 on the architect's question: "the right to own a weapon and draw personal benefit from it — and the right to own the money for one's vote. The authorities and the security services own guards and weapons without what an ordinary person must pass; the authorities use people's votes at elections as a weapon, but people may not; from the vote and the power it gives, the authorities get money and privileges, and the person gets nothing. These rights and their restrictions are very alike." Below: where the likeness is exact, where it breaks, and what the protocol takes from it. The architect's theses are recorded as theses; the legal facts are by the US federal minimum and the Russian Law on Weapons as of 2026, orders of magnitude.*
+
+**Table: who may, what he must prove, who gets the benefit.**
+
+| | Arms: a citizen | Arms: a servant of the state | The vote: a citizen | The vote: the authorities |
+|---|---|---|---|---|
+| Basis | US — a right by default (Second Amendment); Russia — a licence on application | by office, without application | a right by default | a mandate — made of citizens' votes |
+| What to prove | Russia — a medical board, an exam, a safe, good standing, renewal every five years; US — a background check at a dealer, a permit in some states | US — a police officer carries nationwide under federal law (LEOSA, 2004), past state restrictions; Russia — a service weapon under the Law on Police (Art. 18), issued by the same agency that licenses citizens | nothing — and nothing may be received | nothing: a mandate is not renewed by a medical board or kept in a safe |
+| Personal benefit | self-defence, hunting, sport — in Russia only that, at one's own expense | salary, pension, housing — at the expense of those the armed protect | **forbidden:** to take anything for one's vote is bribery, a criminal article | **permitted and written into law:** Russia — 152 roubles a year to a party for every vote; Germany — about a euro per vote; US — $22 million of a campaign, to consultants and contractors, for the same votes; then salary, immunity, budget, contracts |
+| Protection | at one's own expense, if permitted | state guard, motorcade — at the voter's expense | none | yes, from the same money |
+| Register and control | Russia — a per-item register, inspection by the local officer; US — a register is forbidden | departmental records, no outside inspection | the secret ballot; his choice does not count if he does not come | the count is run by the authorities themselves (Russia) or their commissions |
+| Who writes the rules | not he | he | not he | he |
+
+**Where the likeness is exact.**
+
+1. *The constant in both countries is not the restriction but the exemption.* On arms the US and Russia are opposites: a right there, a privilege here. But in both the servant of the state is exempt from the rules for citizens: the American police officer carries where a citizen of the state may not; the Russian one receives a weapon from the agency that issues a citizen a licence after an exam. On the vote the picture is the same with no difference between countries: a citizen may draw benefit from his vote nowhere, and the authorities may everywhere, and that is written into the laws on parties, elections and the budget. The dependency the architect was looking for is not "where arms are freer, the vote is freer" (in the US arms are free and money for a vote is banned just as in Russia) but "in both rights the state has exempted itself from the rule it imposed on the citizen".
+2. *Two monopolies.* The state has a monopoly on legitimate violence — Weber described it, and nobody in his right mind disputes it. Beside it stands a second, undescribed one: a monopoly on legitimate income from the vote. The only one forbidden to receive anything for a vote is its owner; parties, candidates, consultants and contractors receive for it under law. The protocol leaves the first monopoly alone and removes the second: the budget pays the owner of the vote for not turning out — exactly what parties are paid today for "turning out". That is the thesis the repository already carries at the head of its AI file ("the vote is already paid for, to parties and contractors; why not to the voter himself?"); the analogy with arms gives it a second foothold.
+3. *The mandate as a weapon.* The architect's thesis: the authorities use citizens' votes as a weapon — taxes, laws, mobilisation are turned on those whose votes legitimised them, and the higher the turnout the heavier the barrel. Recorded as a thesis; the boundary beside it: this is true of any mandate, and the protocol does not take it away — it only makes the mandate's price visible to the owners of the votes before the election (the counter) and pays those who did not give theirs.
+
+**Where the likeness breaks — and what that shows.**
+
+Restrictions on arms have a basis no opponent of the protocol will dispute: a weapon is dangerous to third parties. The ban on taking money for a vote has a different basis: money buys the *outcome* — a candidate pays, the voter votes as told. That basis is honest, and the protocol shares it: under the charter only the budget may pay and only for not turning out; nobody pays for an outcome (048m, Art. 1 part 4, Art. 16). And here the analogy does its main work: if the danger is in buying the outcome and not in money in the voter's hands, then a ban on a budget payment for not turning out protects not the vote but the monopoly on its income. A weapon in a citizen's hands is dangerous; money in a citizen's hands for his own non-turnout is not; only the payer is dangerous, and the charter excludes him.
+
+**What the protocol takes.** One sentence for the conversation with the aunt and for the American ad: "A police officer carries a pistol without your medical board; a deputy walks with a guard at your expense; a party is paid for your vote under law — and you may receive nothing for your own vote. The rule does not give you a weapon; it ends someone else's monopoly on the income from your vote." And one warning: the word "weapon" in the US triggers the partisan reflex around the Second Amendment, and in Russia the "extremism" frame; the analogy is for the argument and for the court, not for the slogan.
+
+**Weak point.** The table compares two countries by the federal minimum and by statute; state practice and departmental orders are not in it. "About a euro per vote" in Germany and $22 million in Chicago are sums of different nature (state funding and private donations); what they share is only that not one dollar or euro reached the owner of the vote. And the likeness of the two asymmetries is an argument about the hypocrisy of the rule, not a proof that one right follows from the other.
+
+---
+
 **Source:** written in the claude.ai chat, sessions 31–32, as §96 in v6.55. Moved to file 06 on structural hypocrisy and the arsenal of the elites in v6.56_clean.
