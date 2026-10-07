@@ -30,6 +30,8 @@
 - **The economy of the human** — as a second support for the thesis "the vote is already paid for, to everyone except its owner": not only hypocrisy (029) but a gratuitous expenditure of the principal capital.
 - **Fund against loan** — as a recommendation for the American setting: the Alaskan model, not municipal debt.
 
+*The architect's correction, 07.10.2026:* "for now the protocol must be launched with the least change to the present system; the fine adjustments come later". So the fund is not a condition of launch but a refinement of the second cycle: the rule is launched in the form that needs the fewest changes to the existing order — a budget line, like any other payment — and the fund on the Alaskan model is created once the rule is already working and its cost is visible. Goldscheid here is not a blueprint for the first referendum but an argument for the second.
+
 ## 4. Weak point
 
 Goldscheid died in 1931 and wrote neither on turnout nor on payment for non-participation; the reconstruction rests on three of his lines, not on a text. His "recapitalisation of the state" is a programme of state ownership of production, which the protocol neither shares nor discusses; what is to be taken from him is the diagnosis (the budget as skeleton, the human as gratuitous capital), not the prescription. And his dispute with Schumpeter did not end in his favour: the tax state survived — but, as he himself would say, on credit.
