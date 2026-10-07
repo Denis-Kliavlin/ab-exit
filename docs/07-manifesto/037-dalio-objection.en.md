@@ -106,4 +106,26 @@ The general structure of the argument: "Your theory shows the problem. Your theo
 
 This move transfers an intellectual from the category "potential critic" to the category "potential ally through his own work". This is a strong position for communication.
 
+
+### 86.10. What Dalio would say — an honest reconstruction (08.10.2026)
+
+*Sections 86.1–86.9 were written in June 2026 as a rhetorical move — "with his own weapon". This section is different: the architect's question "what would Dalio say about the protocol", read in the light of the October chapters (1f, 029 §29.11, 039 §88.9, 040o), with his objections recorded before his praise. Dalio has said nothing on payment for non-turnout; all of this is a reconstruction from *Principles for Dealing with the Changing World Order* (2021), *How Countries Go Broke* (2025) and his public statements of 2024–2026.*
+
+**What he would recognise as his own — four things.**
+
+1. *A rule instead of people.* Dalio builds everything on principles — written rules that work without trust in a particular person. The protocol is a rule in his sense: one formula, one article, no "wise ruler". He would ask not "is it fair" but "does the machine work" — and that is the question the repository answers best (013f).
+2. *Skin in the game as weighting.* At Bridgewater decisions are weighted by "believability" — by who has a track record. The protocol weights not by track record but by stake: the one who stays is the one to whom the outcome is worth more than the payment. Not his mechanism, but his logic — self-selection instead of appointment — and he would recognise it.
+3. *Debt as the product of who decides.* His main thesis of 2025 is that countries go broke because promises are handed to those who vote at the expense of those who pay later. The chapter on the core electorate (1f §3, §5) is his diagnosis in numbers: 44 % of the votes with those who give 11 % of the labour; Chicago with sixteen billion (040m §5j) is his case. He would say the protocol is the first mechanism that returns the decision on debt to those who repay it, without taking the right from the rest.
+4. *Measurability.* The counter before the election is an indicator in his sense: a number that moves before the event. He lives by indicators and would not dispute that they can be read.
+
+**What he would object to — three things, and the first is real.**
+
+1. *One more obligation that cannot be cut.* Article 8 part 5: the payment is an unconditional obligation, a tax in reverse. For Dalio that is exactly the category debt crises are made of: a promise, indexed and protected, that grows when the budget is at its worst. The protocol's answer is honest but not complete: the payment is tied to the median and falls with income (the sign is reversed, 018 §34); it is not indexed above income; and it must be compared with existing obligations — Illinois's pensions are protected by the state constitution, the payment by one referendum, which can also repeal it. But that it belongs on his list of "promises" is true, and the repository does not hide it.
+2. *The stage of the cycle.* On his scale of internal order the US is at the fifth stage of six: the wealth gap, populism on both sides, loss of trust in institutions. At that stage, he would say, the trouble is not apathy but the polarisation of those who turn up: remove the passive and the share of the irreconcilable grows. That is the objection "the radicals remain" (1g), and the repository has an answer — the burned return with a stake, and the selection is by horizon, not by heat — but the answer rests on a model, not on data, and Dalio would be the first to notice.
+3. *Speed.* "The fifth stage does not wait for referendums": his own programme — the "3 % solution", cutting the deficit to three percent of GDP through taxes and spending — is technocratic and fast. Section 86.7 replies that without political infrastructure it is not adopted; true, but he would reply that the protocol is not adopted at the fifth stage either — it is adopted where "it already hurts" (040m §5d), which is his sixth stage or the next cycle.
+
+**What he would not say — and why that matters for the repository.** He would not say "this is bribery" and would not say "this is unfair": he thinks in mechanisms, not morals, and in that sense he is the protocol's ideal reader. And he would not dispute the figures of 1f: the gap between those who vote and those who produce is his own "fifth force". The worst outcome of a conversation with him is a polite "interesting, but outside my field" (86.8); the best is not praise but his demand: **"show me a pilot with numbers"**. That is 048l, and that is exactly what the repository should bring him — not the letter of 86.6.
+
+**Weak point of the reconstruction.** Dalio has not spoken publicly on payment for non-turnout or on the protocol; the "fifth stage" thesis is his scale applied by the assistant; the objection on the obligation is an inference from his books, not a quotation. If he says otherwise, he is right.
+
 ---
