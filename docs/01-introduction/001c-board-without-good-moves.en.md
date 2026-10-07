@@ -105,6 +105,7 @@ For the opponent this too is a fork. Keeping the "empty places" on the roll mean
 | Lukashenko | support it; oppose it; prevent the referendum; forge it — every move wrecks one of the regime's myths | 057b.4 |
 | The Iranian clergy | declare the payment haram and press — the mentors turn into gendarmes; do not ban — the foundations lose their flows | 057c.2 |
 | The autocrat against the opposition's protocol | "it is nonsense" — argue with mathematics and open code; "we shall introduce our own" — admit the opposition is right | 057c.5 |
+| The median computed by the authorities themselves (07.10.2026) | understate the median to pay less — the median comes from the same reporting taxes are collected from, and the treasury loses more than it saves; compute it honestly — pay in full. The guard of the payment is its own tax authority, with an opposite interest | 040o, 048k §3 (the fifteenth) |
 
 ## 6. Buyers, intermediaries, lobbies
 
