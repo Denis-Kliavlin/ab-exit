@@ -93,6 +93,17 @@ The first numbers instead of estimates: the exit share, the age profile, the sha
 
 *Three requirements for the pilot from the fifth Nobel circle (08.10.2026, 036e):* a small percentage in the first round and observation of which side the threshold lies on — whether the apathetic or the moderates leave first (Schelling); a control group — a second courtyard without the payment, or the result will be called a coincidence (Angrist); a count of those who take and those who stay by sex, income and dependence on an employer — the budget employee against the self-employed — together, and by trust in the secrecy of choice B — one question, "do you believe your choice will not be known" (Goldin; the coercion gap through the token and the pro-base filter, 036e §10); a randomised percentage between courtyards — one and two — to see a slope rather than a point, and measurement after a round rather than at once (Card, Angrist, Imbens). And Lucas's rule over all of it: a number computed from the world without the payment is not a number about the world with it; hence measure not the level of the first round but the change between rounds — that is the measurement of the interaction of the elements, the one thing that remains untested (036e §7).
 
+*Size calculation, 08.10.2026 (the weak point of 040p §13).* The thresholds of 040p are differences in shares between two groups: takers against stayers, the courtyard with the payment against the one without, the dependent against the independent. For a difference to be distinguishable rather than noise, under the usual conditions (5 % type-I error, 80 % power, shares near one half) one needs:
+
+| Compared in each group | Example | Smallest detectable difference |
+|---|---|---|
+| 150 | a 30 % subgroup of a courtyard of 500 | about 16 points |
+| 300 | a 30 % subgroup of a courtyard of 1,000 | about 11 points |
+| 500 | a whole courtyard of 500 | about 9 points |
+| 1000 | a whole courtyard of 1,000 | about 6 points |
+
+Consequences. In a courtyard of 500 with a control courtyard of the same size, differences from 9 points are distinguishable over the whole courtyard and from 16 points over a subgroup of a third — and it is the subgroups (former non-voters with a stake, dependent workers) that carry thresholds 1–5 of 040p. So: read the 040p thresholds as "a difference of at least 16 points" for courtyards of 500 and "at least 11" for courtyards of 1,000; a smaller difference is neither refutation nor confirmation but a null, and the round is repeated at another percentage or in a larger courtyard. Two courtyards of 1,000 are the minimum at which the pilot can answer items 1–3; two of 500 answer only coarse effects. Computed by the two-proportion formula at p near 0.5; for shares further from one half the detectable differences are smaller.
+
 ## 8. Weak point
 
 *A remark of a cold referee, 02.10.2026 (040m §5g).* The criterion of success is close to a tautology: the sum is chosen so that 40–50 % take it, and success is counted as 40–60 %. For the pilot to be able to refute the claim it needs different sums in comparable courtyards, a measurement of the stake separate from income and a plan written down in advance — and a condition of refusal: if exit is predicted by income at an equal stake, selection runs by income, not by the stake. One control courtyard and "at least one resident" are too little for that.

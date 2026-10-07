@@ -88,7 +88,7 @@ Before the pilot — publish this list as it is. After the pilot — go through 
 
 ## 13. Weak point
 
-The thresholds in items 1–8 are the assistant's estimates, not the result of a power calculation; with a small courtyard (048l) sampling error may exceed any effect, and then the pilot refutes and confirms nothing — this must be computed before the start (Angrist). Item 7 refutes adoption, not the rule. And the list is open: if a cold reader or a living laureate names an eleventh refuter, its place is here, with a threshold — before the data exist.
+The thresholds in items 1–8 are the assistant's estimates, not the result of a power calculation; with a small courtyard (048l) sampling error may exceed any effect, and then the pilot refutes and confirms nothing — this must be computed before the start (Angrist) — computed in 048l: for courtyards of 500 read thresholds 1–5 as "a difference of at least 16 points", for courtyards of 1,000 "at least 11"; less is a null, not a result. Item 7 refutes adoption, not the rule. And the list is open: if a cold reader or a living laureate names an eleventh refuter, its place is here, with a threshold — before the data exist.
 
 ---
 
