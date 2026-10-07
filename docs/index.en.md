@@ -204,6 +204,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40m. The Cold-Reader Audit: Thirty-Seven Findings and Five Unanswered Questions](06-critique-arsenal/040m-cold-reader-audit.md)
 - [40n. Guriev and Treisman, "Spin Dictators": Can the Protocol Break the Logic of a Spin Dictator](06-critique-arsenal/040n-guriev-treisman.md)
 - [40o. Rudolf Goldscheid: the Budget as the Skeleton of the State — What Fiscal Sociology Would Say of the Protocol](06-critique-arsenal/040o-goldscheid.md)
+- [40p. How to Refute the Protocol: What Would Have to Be True for It Not to Work — ten conditions with thresholds recorded before the pilot](06-critique-arsenal/040p-how-to-refute.md)
 
 ## Part II — Social Architecture
 
