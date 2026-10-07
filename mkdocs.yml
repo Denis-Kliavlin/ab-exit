@@ -184,6 +184,7 @@ plugins:
             "15b. Спираль катарсиса": "15b. The Catharsis Spiral"
             "15c. Смена знака, а не +5 %": "15c. A Change of Sign, Not +5 %"
             "36d. Нобелевский четвёртый круг": "36d. Nobel: The Fourth Circle"
+            "36e. Нобелевский пятый круг": "36e. Nobel: The Fifth Circle"
             "38b. Гаазе: биополитика и стоп-лосс": "38b. Gaaze: Biopolitics and the Stop-Loss"
             "40b. Хэнсон и футархия": "40b. Hanson and Futarchy"
             "40c. Сапольски и Нэш": "40c. Sapolsky and Nash"
@@ -324,6 +325,7 @@ nav:
       - "36b. Нобелевский второй круг": 06-critique-arsenal/036b-nobel-second-circle.md
       - "36c. Нобелевский третий круг": 06-critique-arsenal/036c-nobel-third-circle.md
       - "36d. Нобелевский четвёртый круг": 06-critique-arsenal/036d-nobel-fourth-circle.md
+      - "36e. Нобелевский пятый круг": 06-critique-arsenal/036e-nobel-fifth-circle.md
       - "37. Седьмой AI": 06-critique-arsenal/037-seventh-ai.md
       - "37b. Grok, второй раунд": 06-critique-arsenal/037b-grok-round-two.md
       - "38. Гаазе: социология оператора": 06-critique-arsenal/038-gaaze-operator.md

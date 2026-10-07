@@ -91,6 +91,8 @@ For a first city, rather than a courtyard, the question of money is added: if th
 
 The first numbers instead of estimates: the exit share, the age profile, the share refusing the sum to vote "against", the threshold of sensitivity to the sum — a calibration of the simulator's formula (055c §6.3b) and a test of theorems 2–4 in 013f. One successful courtyard weighs more than any section: "a live precedent with a real payment is worth more than any increase of the sum" (045 §45.7).
 
+*Three requirements for the pilot from the fifth Nobel circle (08.10.2026, 036e):* a small percentage in the first round and observation of which side the threshold lies on — whether the apathetic or the moderates leave first (Schelling); a control group — a second courtyard without the payment, or the result will be called a coincidence (Angrist); a count of those who take and those who stay by sex (Goldin). And Lucas's rule over all of it: a number computed from the world without the payment is not a number about the world with it.
+
 ## 8. Weak point
 
 *A remark of a cold referee, 02.10.2026 (040m §5g).* The criterion of success is close to a tautology: the sum is chosen so that 40–50 % take it, and success is counted as 40–60 %. For the pilot to be able to refute the claim it needs different sums in comparable courtyards, a measurement of the stake separate from income and a plan written down in advance — and a condition of refusal: if exit is predicted by income at an equal stake, selection runs by income, not by the stake. One control courtyard and "at least one resident" are too little for that.

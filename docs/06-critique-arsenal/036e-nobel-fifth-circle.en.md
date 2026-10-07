@@ -1,0 +1,78 @@
+# 36e. Nobel: The Fifth Circle — Schelling, Nordhaus, Myrdal, Samuelson and Those the Repository Did Not Yet Have
+
+**Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
+**File:** 06_036e · v1 · 8 October 2026
+**Source:** the architect's question of 8 October 2026: "go through the Nobel laureates of the last hundred years close to the protocol — those not yet in the repository". A check across all chapters: the four circles (036–036d) covered 21 laureates and Hirschman; below are ten of the absent with a direct junction to the protocol, and three in one line. All of it is a reconstruction from their work, not quotation; where a laureate would object, the objection is recorded before the likeness.
+
+---
+
+*How to read. The economics prize has been awarded since 1969; the architect's "hundred years" covers it entirely. Selection is by junction with the protocol, not by the size of the name: Lucas is here because his critique strikes our forecasts, not because he would be in favour. The order runs from the closest.*
+
+## 1. Thomas Schelling (2005) — the threshold beyond which the system does not return
+
+The closest of the absent. His model of residential sorting (1971): each tolerates neighbours up to his own threshold, and once a small share leaves, leaving becomes an avalanche — the city divides without anyone wanting it. The protocol is the same mechanics with the opposite sign: each who leaves increases the weight of those who stay, each who returns raises the price of the next exit for the authorities, and the feedback has a threshold (1f §7; 013f, the second theorem). Schelling would be the first to say that the threshold cannot be computed from a poll — it is visible only in motion, on the counter — and that a system with a threshold has two stable states, not one. His second thing is commitment as strength: the one who has burned his bridges is stronger than the one who can retreat. Choice B is final within one election (048m Art. 4) — a burned bridge in his sense: the voter who took the payment cannot be "pressed" on polling day, and the machine has nobody to come to. *He would object:* the threshold cuts both ways — if the first to leave are not the apathetic but the moderates, the avalanche goes the wrong way; hence his demand for a pilot with a small percentage, to see on which side the threshold lies.
+
+## 2. William Nordhaus (2018) — the political business cycle
+
+The prize was for climate, but the junction with the protocol is his paper of 1975, "The Political Business Cycle": a government heats the economy before an election and pays after it, because the voter remembers the last year. Ten thousand roubles to pensioners before the Duma election of 2021, a thirteenth pension before the Hungarian election of 2022, grants to rural pensioners (1f §2, item 5) — the Nordhaus cycle in pure form, which the repository described without naming it. The protocol does two things to this cycle: it strips the pre-election payment of its monopoly — it becomes lawful, permanent and equal, and the authorities can no longer sell as care what the rule gives to all (056f §13n); and it moves the payment from the eve of the election to a rule that does not depend on the date. *He would object:* a voter with a short horizon remains one under the protocol — the payment does not lengthen memory. The answer: the protocol does not promise to lengthen it — it takes short memory out of the deciding vote for money, it does not re-educate.
+
+## 3. Gunnar Myrdal (1974) — circular cumulative causation
+
+His mechanism is the "vicious circle": poverty creates the conditions that reproduce poverty, and without an external push the circle does not open. The closed cycle of 1f §5 — the vote, income and inheritance in one generation of the core, with no point opened by voting because those who vote are inside — is Myrdal's cumulative causation in politics. He would recognise it at once and ask where the push is. The protocol's answer: the push is not external but internal — the payment changes the point at which a person decides to take part, and the circle opens on the side where it held, where the producers did not vote. His "soft state" — an apparatus that does not enforce its own laws — is §88.9 thirty years later. *He would object:* he favoured planning from above and would not believe that the circle opens by a market incentive; the same dispute as with Goldscheid (040o): take the diagnosis, not the prescription.
+
+## 4. Paul Samuelson (1970) — revealed preference and the free rider
+
+Two junctions, both terms the repository already speaks in without naming the author. "Revealed preference" (1938): preferences are judged not by words but by choice; the protocol is revealed preference in pure form, choice A or B instead of a survey (one of the architect's settled positions: selection by revealed preference, not by declaration). "The Pure Theory of Public Expenditure" (1954): nobody pays voluntarily for a public good because everyone uses it — the free rider. The referendum on the rule is his case (048n, "The free rider at the referendum"): the rule will be adopted without you. The repository's answer — no quorum, and people come to votes with a personal gain — Samuelson would accept as evidence, not as theory: his theorem says that without compulsion the good is underfunded, not that nobody comes. *He would object:* the payment itself is a public good for the machine — when the apathetic leave, every challenger gains, and none wants to pay for the referendum campaign alone. That is question 6 in 048n.
+
+## 5. Jean Tirole (2014) — pandering to the voter
+
+The prize was for regulation, but the junction is Maskin and Tirole's "The Politician and the Judge" (2004): electoral accountability makes a politician pander to the voter's opinion even when he knows the voter is wrong; an unelected judge is free of this but also unanswerable. Their conclusion: accountability is useful where the voter is informed and harmful where he is not. The protocol answers not by choosing between elected and appointed but by changing whom one panders to: when the apathetic man takes the payment, those left to pander to are those with a stake who look beyond the eve. Tirole would be the first to notice that the protocol regulates the principal, not the agent: every reform fixes the politician, the protocol fixes the one he answers to. *He would object:* a stake is not information; the union voter's stake is high and his horizon runs to the contract (040m §5i). True, and already recorded: selection by stake, not by knowledge.
+
+## 6. James Mirrlees (1996) — screening by a choice that cannot be faked
+
+Optimal taxation under asymmetric information: the state does not see ability, but it can offer a menu from which people choose and thereby reveal themselves. The protocol is a menu of two lines, A or B, and the choice reveals what no register shows: how much a person values his vote. That is Mirrlees self-selection, and it is the only way to separate the one who does not care from the one who does — without interrogation and without an official. He would say the design is right and ask his own question: at what price does the menu separate, and at what price not. That is the question of the percentage (048k, which percentage and its cost), and its answer is a pilot with different sums (048l). *He would object:* self-selection works only if the choice cannot be reversed — otherwise everyone takes B and then "changes his mind". That is Article 4: the choice is final within one election.
+
+## 7. Robert Lucas (1995) — the critique that strikes our forecasts
+
+The most useful opponent. The Lucas critique (1976): the consequences of a new policy cannot be predicted from data gathered under the old one, because people change behaviour when the rule changes. That is a direct objection to everything the repository computes from old turnouts: the share who take the payment, the return of the burned, the transfer of votes — all estimated in a world without the payment. The honest answer: the repository knows this and therefore labels every number (040m §5d) and demands a pilot, not a model. But Lucas would give a second point, in our favour: the critique applies to the opponents too — "under the protocol the radicals remain" is also computed from the old world, where the moderate had no reason to return. His rule cuts both sides equally, and the only way out is observation under the new rule. *He would object:* nothing beyond this; he would simply believe no percentage, including ours — and be right.
+
+## 8. Card, Angrist, Imbens (2021) — how to measure the pilot
+
+The prize was for natural experiments: how to reach a causal conclusion where a laboratory experiment is impossible. For the protocol they are neither allies nor critics but the manual for 048l. A discontinuity at the referendum threshold (one city adopted at 51 %, the neighbour rejected at 49 % — two nearly identical jurisdictions, one with the rule); difference in differences (turnout and composition before and after, in the adopting and the non-adopting); an instrument (the random date of the first cycle). Without this the pilot yields a number any opponent will call a coincidence, and he will be right. Angrist would ask one thing: where is the control group. If the courtyard pilot (048l) is run in two courtyards, one without the payment, there is an answer; if in one — there is not.
+
+## 9. Mokyr, Aghion, Howitt (2025) — creative destruction and those who block it
+
+This year's prize — for growth through creative destruction and for what blocks it: incumbents who profit from nothing changing, and institutions that let them. The Luddites of politics (039 §88.9) are their case word for word: the trade of bringing in the apathetic, which disappears, and the apparatus that will do the sums first. Aghion and Howitt showed that growth needs institutions under which the loser from novelty cannot forbid it; the protocol is such an institution for politics: the incumbent cannot forbid the referendum without saying aloud why (the fork, 1c). Mokyr would add culture: novelty is accepted where it is not held to threaten order — and that is the question of the first jurisdictions (040m §5d, "the sick first"). *They would object:* creative destruction in the economy is paid for by growth, and what pays for it in politics is a thesis (019), not a theorem.
+
+## 10. Claudia Goldin (2023) — two-thirds of the core
+
+Her subject is women in the economy: careers, pay, the "quiet revolution". One junction with the protocol, but a direct one: the core electorate is two-thirds a woman of 55–75 on a budget wage or a pension (1f §2), and the registry the authorities keep for turnout is 60–70 % female (039 §88.9). Goldin would ask whether the protocol's filter falls more heavily on women — and the answer must be given before she does: the filter is by stake and horizon, not by sex; the aunt with a grandson on the service register stays (1f §7); and that the budget pays her twice — a wage and turnout — is Goldin's own theme of invisible unpaid work, carried over to the vote. *She would object:* there are no data on who takes the payment by sex, and the pilot must count it separately. True; added to the requirements for the pilot.
+
+## 11. In one line — three
+
+- **Robert Aumann (2005), correlated equilibrium.** A public signal everyone sees and can tune to yields an equilibrium unreachable without communication between players. The counter before the election is such a signal: the burned see that they are enough, without conspiring.
+- **Paul Milgrom (2020), influence costs.** In an organisation resources go not to the work but to influencing the deciders; the machine, GOTV and consultants carry the same influence costs, and $15–16 billion a cycle (039 §88.9) is their size.
+- **Oliver Williamson (2009), the hostage as guarantee.** A deal holds when each side has something to lose; the payment that cannot be cut (048m Art. 8 part 5) is a hostage the authorities give the citizen, and Dalio (037 §86.10) called it exactly that.
+
+## 12. Summary of the fifth circle
+
+| Laureate | Junction | We take | Objection |
+|---|---|---|---|
+| Schelling | threshold, burned bridges | two stable states; B as commitment | the threshold cuts both ways — a pilot with a small percentage |
+| Nordhaus | political business cycle | pre-election payments are his cycle; the protocol strips their monopoly | short memory remains |
+| Myrdal | cumulative causation | the closed cycle of 1f §5; the push from inside | did not believe in a market incentive |
+| Samuelson | revealed preference; free rider | the repository's own terms; the referendum as a public good | nobody wants to pay for the referendum campaign alone |
+| Tirole | pandering | the protocol fixes the principal, not the agent | stake ≠ information |
+| Mirrlees | self-selection by menu | A/B as screening | works only with irreversibility |
+| Lucas | the Lucas critique | a label on every number; cuts both sides | believe no percentage |
+| Card, Angrist, Imbens | natural experiment | pilot design: threshold, differences, control | where is the control group |
+| Mokyr, Aghion, Howitt | creative destruction | the Luddites of §88.9; the incumbent cannot forbid | what pays for it in politics is a thesis |
+| Goldin | two-thirds of the core | the filter is not by sex; invisible work | count by sex in the pilot |
+
+## 13. Weak point
+
+The fifth circle is a reconstruction from their work; none of the ten wrote about the protocol, and the closest — Schelling, Nordhaus, Samuelson, Myrdal — cannot reply. Three requirements from the circle pass into the list for the pilot (048l): a small percentage and observation of which side the threshold lies on (Schelling); a control group (Angrist); counting by sex (Goldin). And one rule — Lucas's — stands over the whole repository: no number computed from the world without the payment is a number about the world with it.
+
+---
+
+**Related:** [036](036-nobel-laureates.md) · [036b](036b-nobel-second-circle.md) · [036c](036c-nobel-third-circle.md) · [036d](036d-nobel-fourth-circle.md) · [1f](../01-introduction/001f-core-electorate.md) · [039 §88.9](../07-manifesto/039-opponents.md) · [048l](../08-implementation/048l-courtyard-pilot.md)

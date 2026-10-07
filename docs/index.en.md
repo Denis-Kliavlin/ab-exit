@@ -173,6 +173,8 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [36. Ten Nobel Laureates](06-critique-arsenal/036-nobel-laureates.md)
 - [36b. Nobel: The Second Circle](06-critique-arsenal/036b-nobel-second-circle.md)
 - [36c. Nobel: The Third Circle — Hirschman, Friedman, Coase](06-critique-arsenal/036c-nobel-third-circle.md)
+- [36d. Nobel: The Fourth Circle — North, Holmström, the physics of systems](06-critique-arsenal/036d-nobel-fourth-circle.md)
+- [36e. Nobel: The Fifth Circle — Schelling, Nordhaus, Myrdal, Samuelson, Lucas and those not yet there](06-critique-arsenal/036e-nobel-fifth-circle.md)
 - [37. The Seventh AI](06-critique-arsenal/037-seventh-ai.md)
 - [37b. Grok, Round Two: the $10,000 Bounty and Forecast Drift](06-critique-arsenal/037b-grok-round-two.md)
 - [38. Gaaze: Sociology of the Operator](06-critique-arsenal/038-gaaze-operator.md)

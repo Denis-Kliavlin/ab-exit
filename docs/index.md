@@ -178,6 +178,7 @@
 - [36b. Нобелевский второй круг](06-critique-arsenal/036b-nobel-second-circle.md)
 - [36c. Нобелевский третий круг — Хиршман, Фридман, Коуз](06-critique-arsenal/036c-nobel-third-circle.md)
 - [36d. Нобелевский четвёртый круг — Норт, Хольмстрём, физика систем](06-critique-arsenal/036d-nobel-fourth-circle.md)
+- [36e. Нобелевский пятый круг — Шеллинг, Нордхаус, Мюрдаль, Самуэльсон, Лукас и те, кого ещё не было](06-critique-arsenal/036e-nobel-fifth-circle.md)
 - [37. Седьмой AI](06-critique-arsenal/037-seventh-ai.md)
 - [37b. Grok, второй раунд: баунти $10 000 и дрейф прогноза](06-critique-arsenal/037b-grok-round-two.md)
 - [38. Гаазе: социология оператора](06-critique-arsenal/038-gaaze-operator.md)
