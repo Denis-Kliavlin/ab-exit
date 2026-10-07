@@ -20,7 +20,7 @@ Putin's core and Orbán's core are, by the data, one and the same person (Levada
 
 1. **Who.** A woman (about two-thirds of the core), 55–75, a village or a town of under 50 thousand; secondary vocational education.
 2. **What she lives on.** A pension or a wage from the budget; income below the median; the money comes from the state directly.
-3. **With whom.** Alone or with a pensioner husband; the children in the city; the son — a plant, security, the police; the granddaughter — a teacher.
+3. **With whom.** Alone or with a pensioner husband (more often alone: the gap in life expectancy is about ten years, and over seventy most are widows 🟡 — the state inherits the husband's place: subsistence and a place for loyalty; the mechanism is in 036e §10); the children in the city; the son — a plant, security, the police; the granddaughter — a teacher.
 4. **Where she learns about the world.** Television; the most loyal group in every poll (83–95 % approval).
 5. **How she relates to the state.** Provider and boss at once; she votes as told. **She has already been paid before elections** — ten thousand roubles to pensioners before the Duma election of 2021, a thirteenth-month pension before the Hungarian election of 2022, grants to rural pensioners before 2026. That the vote is worth money the authorities showed her themselves.
 6. **What she values.** Order, "that it not get worse", the country — sincerely; she wants to be noticed: "we worked for forty years".
