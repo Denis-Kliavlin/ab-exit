@@ -201,6 +201,7 @@ plugins:
             "40n. Гуриев и Трейсман: диктаторы обмана": "40n. Guriev and Treisman: Spin Dictators"
             "40o. Гольдшайд: бюджет как скелет": "40o. Goldscheid: the Budget as Skeleton"
             "40p. Как опровергнуть протокол": "40p. How to Refute the Protocol"
+            "40q. Шумпетер: демократия как рынок голосов": "40q. Schumpeter: Democracy as a Market for Votes"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -348,6 +349,7 @@ nav:
       - "40n. Гуриев и Трейсман: диктаторы обмана": 06-critique-arsenal/040n-guriev-treisman.md
       - "40o. Гольдшайд: бюджет как скелет": 06-critique-arsenal/040o-goldscheid.md
       - "40p. Как опровергнуть протокол": 06-critique-arsenal/040p-how-to-refute.md
+      - "40q. Шумпетер: демократия как рынок голосов": 06-critique-arsenal/040q-schumpeter.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
