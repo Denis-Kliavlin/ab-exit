@@ -145,6 +145,12 @@
 **Answer:** free mass non-voting everyone has already accepted as the norm: in Chicago two-thirds stay at home, and nobody calls that an auction. Explain what exactly in the compensation makes the same non-voting inadmissible. Seven models and hundreds of rounds gave no clean answer. The duty stays with the one who votes; the one who does not vote acquires a bill. And on "sanctity": very convenient when everyone guards for you, for free, what only you can use (029 §29.11).
 **In full:** [001b](001b-essence.md), [037](../06-critique-arsenal/037-seventh-ai.md), [043 §76](../08-implementation/043-gemini-capitulation.md).
 
+## "Someone's freedom not to vote for money infringes the rights of the rest"
+
+**What is true:** every new freedom has a boundary — the rights of others (Mill).
+**Answer:** checked against the charter one by one: the one who stays — one vote, a growing share; the taker — every other right and the vote in referendums on the charter; the one who chose neither — the vote and a late payment; nobody is excluded; no names are published; the freedom acts only on one's own vote and touches nobody else's. The only cost falls on the taxpayer, and he sets it himself by referendum like any budget line; the only new point of pressure — choice B — is protected by a criminal article and a secret channel. The protocol adds one freedom, takes none away and diminishes no right of anyone else.
+**In full:** [039b §4b](../07-manifesto/039b-idealists-and-populist-cycle.md), [048m Arts. 1, 4, 5, 9, 11, 16](../08-implementation/048m-charter.md).
+
 ## "One who took the money loses rights" / "the choice can be reversed"
 
 **What is true:** nothing.
