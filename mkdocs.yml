@@ -205,6 +205,7 @@ plugins:
             "40r. Арендт: банальность зла и самоотбор действующих": "40r. Arendt: the Banality of Evil and the Self-Selection of Those Who Act"
             "40s. Патнэм: боулинг в одиночку": "40s. Putnam: Bowling Alone"
             "40t. Лейпхарт: неравное участие": "40t. Lijphart: Unequal Participation"
+            "40u. Даль: пять критериев": "40u. Dahl: Five Criteria"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -356,6 +357,7 @@ nav:
       - "40r. Арендт: банальность зла и самоотбор действующих": 06-critique-arsenal/040r-arendt.md
       - "40s. Патнэм: боулинг в одиночку": 06-critique-arsenal/040s-putnam.md
       - "40t. Лейпхарт: неравное участие": 06-critique-arsenal/040t-lijphart.md
+      - "40u. Даль: пять критериев": 06-critique-arsenal/040u-dahl.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
