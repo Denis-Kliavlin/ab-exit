@@ -46,6 +46,8 @@
 
 **The answer.** The brought-in voter is the product of bonding capital in pure form, and the protocol takes it apart deliberately (040r §2: each decides alone). And the counter is a bridging fact: one number for all groups at once, seen by one's own and by strangers (Aumann, 036e §11). Putnam will object that a number is not a relationship. True; but a relationship between strangers begins with a shared fact, and before the counter they had no shared fact.
 
+**The boundary — the architect's correction (11.10.2026).** "Closed groups — the union, the sect, the machine — all of that works without a payment; under the protocol they lose power, not entirely but they lose it; against the mafia and omertà only law and force work." The protocol does not take closed groups apart as organisations: omertà is held by fear and gain, and only law and force act on those — the protocol is not the police and does not pretend to be. It takes one thing from the group — its electoral use: the brought-in vote it trades with the authorities. The union stays a union, the parish a parish, the machine a machine; what they lose is not power over their own but power through their own at the ballot box, because any of their own can take the payment in secret and not come, and the group will not know (048m Art. 9 part 3). Not entirely — but exactly the part that converted into politics.
+
 ## 5. His remedies — and "less money in politics"
 
 **The argument.** Putnam's agenda for 2010: civic education, the workplace, urban design, technology for connection — and less money in politics: he showed that television advertising displaced door-knocking, money displaced participation.
@@ -63,7 +65,7 @@
 | the decay is measured | yes, forty years of data | the protocol counts the exit and presents the price; the amplified vote is an active part against decay, striking the cause (the architect's correction) | it does not cure the decay entire |
 | habit dies with the generation | yes; the core is the last civic generation | habit without stake is the machine's raw material; the protocol separates habit with stake from habit alone | — |
 | civicness makes government | yes, for centuries | in the south the vote is already bought by the patron; the protocol abolishes the patron | the north is a thesis (019) |
-| bonding against bridging | yes | the machine is bonding, the protocol takes it apart; the counter is a shared fact for strangers | a number is not a relationship |
+| bonding against bridging | yes | the machine is bonding; the protocol takes its electoral use, not the organisation (omertà is broken only by law and force); the counter is a shared fact for strangers | a number is not a relationship |
 | less money in politics | yes, money displaces participation | money is bad by its recipient; the protocol changes the recipient | by its input the protocol is an "I" instrument |
 
 ## Weak point
