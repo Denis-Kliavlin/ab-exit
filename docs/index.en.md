@@ -167,6 +167,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 
 29. [The Structural Hypocrisy of Academic Criticism](06-critique-arsenal/029-hypocrisy.md)
 30. [The Arsenal of Reasonable Elites Against Populism](06-critique-arsenal/030-elites-arsenal.md)
+- [30b. Ten Tricks of the Campaign Trade: Before the Protocol and Under It](06-critique-arsenal/030b-ten-tricks.md)
 31. [The Elite Split: Class A / B1 / B2](06-critique-arsenal/031-elites-split.md)
 32. [Fragmentation of the Tech Elite as Mobilization Potential](06-critique-arsenal/032-tech-fragmentation.md)
 - [33. Henry George and the Rent Problem](06-critique-arsenal/033-henry-george.md)

@@ -168,6 +168,7 @@
 
 29. [Структурное лицемерие академической критики](06-critique-arsenal/029-hypocrisy.md)
 30. [Арсенал разумных элит против популизма](06-critique-arsenal/030-elites-arsenal.md)
+- [30b. Десять трюков политтехнологов: до протокола и при нём](06-critique-arsenal/030b-ten-tricks.md)
 31. [Раскол элит: Класс А / Б1 / Б2](06-critique-arsenal/031-elites-split.md)
 32. [Фрагментация tech-элиты как мобилизационный потенциал](06-critique-arsenal/032-tech-fragmentation.md)
 

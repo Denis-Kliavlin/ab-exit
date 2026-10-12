@@ -128,6 +128,7 @@ plugins:
             "Глава 6. Критика и арсенал элит": "Chapter 6. Critique and the Elites' Arsenal"
             "29. Структурное лицемерие": "29. Structural Hypocrisy"
             "30. Арсенал элит": "30. The Elites' Arsenal"
+            "30b. Десять трюков политтехнологов": "30b. Ten Tricks of the Campaign Trade"
             "31. Раскол элит": "31. The Elite Split"
             "32. Фрагментация tech-элиты": "32. Tech-Elite Fragmentation"
             "33. Генри Джордж и проблема ренты": "33. Henry George and the Rent Problem"
@@ -342,6 +343,7 @@ nav:
     - "Глава 6. Критика и арсенал элит":
       - "29. Структурное лицемерие": 06-critique-arsenal/029-hypocrisy.md
       - "30. Арсенал элит": 06-critique-arsenal/030-elites-arsenal.md
+      - "30b. Десять трюков политтехнологов": 06-critique-arsenal/030b-ten-tricks.md
       - "31. Раскол элит": 06-critique-arsenal/031-elites-split.md
       - "32. Фрагментация tech-элиты": 06-critique-arsenal/032-tech-fragmentation.md
       - "33. Генри Джордж и проблема ренты": 06-critique-arsenal/033-henry-george.md
