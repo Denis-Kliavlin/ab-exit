@@ -42,9 +42,21 @@
 
 **Residual.** None. All that remains to the populist is to claim the payment is too large and "outbid" his voter; but that is already an admission that his voter sells cheaper than he said.
 
-## 4–5. Talking with populists, not about them; fear and freedom
+## 4. Talking with populists, not about them
 
-*Examined one at a time; added as they are examined.*
+**The argument.** Müller is against the "cordon sanitaire": excluding populists from the conversation confirms their thesis "we are not heard"; one must argue with them on the merits without accepting the frame "we are the people". Talk to the populist as an opponent, not as the voice of the people.
+
+**The strike.** The protocol talks to nobody: it does not argue with the populist, it pays his voter. A cordon by money — the exclusion not of the politician but of his base; "you were paid so as not to be listened to".
+
+**The answer.** The protocol is the only device that neither argues with the populist nor excludes him: he is on the ballot with the same rights, his voter is on the roll with the same (048m Arts. 4, 16). The cordon removes the populist from the conversation; the protocol removes from the conversation the *free-of-charge* status of his voter — and nothing else. The protocol talks to exactly the one Müller asked us to talk to — the populist's voter — but not in words he stopped believing long ago, in the only language that cannot be taken for a cordon: money to him personally, without conditions and without asking whom he is for. He was paid not so as not to be listened to but so that he *decides himself* whether to listen; for the first time the populist must be worth more than the sum (item 3).
+
+**The architect's move — the contest of ideas after the protocol.** The first version of the answer conceded: "Müller wanted a contest of ideas, the protocol replaces the contest with a price." The architect: "once 'the apathetic' have taken the money and politicians have understood that more complex ideas can be put to those who stayed and listen attentively, a contest of ideas will begin like in an academy of sciences — this has been in the repo for a long time." It has: 040v item 1 — arguments for "the layer" are primitive because addressed to those who decide last and know least; under the protocol they must be made for "the thinking", because fewer others are at the polls; 040x item 3 — an image designed for the spectator stops paying; 040ae item 1 — the complex returns to parliament; 013 §13.2 — Downs: parties converge on the median voter, and when the median voter changes, they converge on another. The contest of ideas under the protocol does not disappear — for the first time it becomes profitable: when people listen attentively, a complex idea beats a simple one, whereas today it loses because nobody is there to listen. Müller wanted a contest of ideas and got a contest of slogans; the protocol does not replace the contest with a price — the price removes from the hall those for whose sake the contest was reduced to slogans.
+
+**Residual.** None. That politicians will move to complex ideas not in the first cycle but on learning the new customer from the result — 040v, weak point; that is a timescale, not an objection.
+
+## 5. Fear and freedom
+
+*Examined separately; added as it is examined.*
 
 ## Summary
 
@@ -53,6 +65,7 @@
 | exclusive representation | the register — yes: "thinking", "remembering" | who the people are, each decides for himself, the list is open; states, not types; "to whom it is worth more", not "who is better"; terms into the glossary and into quotation marks (the architect's decision) | a critic with three words |
 | the populist in power | the three techniques hold | the payment is clientelism without a client: no loyalty, no lever, no names; the protocol makes the three techniques expensive | under occupied commissions the referendum will not take place |
 | "the silent majority" | yes, the device holds | silence gets a number; "the system disgusts them" → then why did they not vote for you — you were on the ballot, they preferred the money (the architect's move) | — |
+| talking with populists | yes, the cordon harms | the protocol excludes nobody — it removes the voter's free-of-charge status; the contest of ideas becomes profitable when people listen attentively (the architect's move; 040v, 040x, 040ae, 013) | timescale — from the second cycle |
 
 ## Weak point
 
