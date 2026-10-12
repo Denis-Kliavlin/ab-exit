@@ -213,6 +213,7 @@ plugins:
             "40z. Розанваллон: контрдемократия": "40z. Rosanvallon: Counter-Democracy"
             "40aa. Рансимен: как кончается демократия": "40aa. Runciman: How Democracy Ends"
             "40ab. Мудде: популизм": "40ab. Mudde: Populism"
+            "40ac. Липсет: политический человек": "40ac. Lipset: Political Man"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -372,6 +373,7 @@ nav:
       - "40z. Розанваллон: контрдемократия": 06-critique-arsenal/040z-rosanvallon.md
       - "40aa. Рансимен: как кончается демократия": 06-critique-arsenal/040aa-runciman.md
       - "40ab. Мудде: популизм": 06-critique-arsenal/040ab-mudde.md
+      - "40ac. Липсет: политический человек": 06-critique-arsenal/040ac-lipset.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
