@@ -213,6 +213,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40v. Adam Przeworski: Why Bother With Elections? — Five Arguments on Minimal Democracy and What a Price for the Vote Changes](06-critique-arsenal/040v-przeworski.md)
 - [40w. Ivan Krastev: The Light That Failed — Five Arguments on Imitation, Fear and the Threatened Majority](06-critique-arsenal/040w-krastev.md)
 - [40x. Bernard Manin: The Principles of Representative Government — Five Arguments on Elections as Aristocracy and on the Voter's Memory](06-critique-arsenal/040x-manin.md)
+- [40y. Peter Mair: Ruling the Void — Five Arguments on Parties That Moved Into the State](06-critique-arsenal/040y-mair.md)
 
 ## Part II — Social Architecture
 
