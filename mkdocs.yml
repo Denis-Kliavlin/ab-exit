@@ -210,6 +210,7 @@ plugins:
             "40w. Крастев: свет, обманувший надежды": "40w. Krastev: The Light That Failed"
             "40x. Манен: выборы как аристократия": "40x. Manin: Elections as Aristocracy"
             "40y. Мэр: правя пустотой": "40y. Mair: Ruling the Void"
+            "40z. Розанваллон: контрдемократия": "40z. Rosanvallon: Counter-Democracy"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -366,6 +367,7 @@ nav:
       - "40w. Крастев: свет, обманувший надежды": 06-critique-arsenal/040w-krastev.md
       - "40x. Манен: выборы как аристократия": 06-critique-arsenal/040x-manin.md
       - "40y. Мэр: правя пустотой": 06-critique-arsenal/040y-mair.md
+      - "40z. Розанваллон: контрдемократия": 06-critique-arsenal/040z-rosanvallon.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
