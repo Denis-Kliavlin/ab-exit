@@ -20,7 +20,19 @@
 
 **Residual.** Pateman would not accept "the choice to take is also participation": for her participation is in deciding *about the common*, not about oneself; and if the apathetic takes the payment every time, the school is closed to him for good — the protocol allows it (048m Art. 5 part 2) and promises nothing else. But her scale ran from zero upwards; the architect's move shows that today's point is below zero, and the first thing the protocol does is raise it to zero. Beyond that — her school, for those who stay.
 
-## 2–5. Participation at work; the sense of efficacy; against Schumpeter; the sexual contract
+## 2. Participation at work is the main school
+
+**The argument** (chs. 3–4). The centre of democracy is not elections but the enterprise: that is where a person spends his life and where he decides least. Democracy at work — self-management, cooperatives, the Yugoslav experience — is the only school that works daily rather than once in four years; elections are an exam, not instruction.
+
+**The strike.** The protocol is about the exam and does nothing about work; worse, it pays from the budget those who depend on an employer and so entrenches the dependence: the apathetic takes the money and stays under the boss.
+
+**The answer.** Pateman found where dependence is created; the repository found where it is *sold* — at the polls (1f §5; 039 §88.9, clerks and budget employees as the core). It is one dependence, and she is right that elections do not cure it. But the protocol strikes the point where dependence at work becomes a political resource: the boss brings the subordinate to vote because it is free; under the protocol the subordinate can take the payment in secret (048m Art. 9 part 3), and for the first time the boss does not know whether he brought him or not (040s §4). Pateman's democracy at work takes from the boss his power over the decision; the protocol takes from him his power over the vote — less, but something nobody took away in a hundred years. And the payment from the budget does not entrench the dependence — for the first time it gives the dependent an income the employer does not control: the first break in the chain "wage — loyalty — turnout" (036e, Goldin, node 1).
+
+**The architect's move — on the school itself.** "A company is a strange school: everyone there is selected for the same priorities and the same parameters." The enterprise is not a school of democracy but its opposite: people are *selected* into it for one customer, the dissenter is not persuaded but dismissed, and "participation" inside is the participation of those who have already passed the loyalty filter (040x item 5, "they hire their own kind"; 1f §2b). Self-management teaches one to agree with people like oneself; democracy is needed precisely to decide with those who are not. The Yugoslav council voted unanimously not because it had learned but because it was selected. Pateman's school trains agreement inside a filter — the very stuff the core is made of; an election under the protocol is the only place where the filter does not operate, because nobody selected the composition of the deciders: each set his own price.
+
+**Residual.** Pateman is right that the protocol is about the exam and opens no school at work; the repository does not promise one. But the chain "employer — turnout" has outlived every self-management, and a selected collective does not teach democracy by construction; the protocol removes the one thing that made her school dangerous for elections — a price of the vote equal to zero.
+
+## 3–5. The sense of efficacy; against Schumpeter; the sexual contract
 
 *Examined one at a time; added as they are examined.*
 
@@ -29,6 +41,7 @@
 | Pateman's argument | What is true | Answer | What remains |
 |---|---|---|---|
 | participation educates | yes — participation by one's own decision | the school does not teach the brought-in; the protocol gives the first decision of one's own; for those who stay the school opens with a number; a vote under pressure is −1, the payment moves it to 0 (the architect's move) | the one who takes every time — outside the school for good |
+| participation at work | dependence is created there | it is sold at the polls; the secret payment breaks the chain "wage — loyalty — turnout"; a company is a school of agreement inside a filter, not of democracy (the architect's move) | the protocol opens no school at work |
 
 ## Weak point
 
