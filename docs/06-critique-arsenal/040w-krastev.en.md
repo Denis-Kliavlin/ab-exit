@@ -50,6 +50,8 @@
 
 **The answer.** The protocol is the only offer in which the future has a price in the present: the long horizon stays to vote, the short one takes the payment, and both see it on the counter (1f §7). Krastev described how the promise ended; the protocol is a promise checked every cycle, not after thirty years.
 
+**The architect's move — why the promise ended.** "Governments elected by the apathetic do not want to build a future, because the apathetic, out of fear and a short horizon, have no future: to live till tomorrow is good enough for them. The protocol changes the electorate, then the electorate changes the government to one with a long horizon, and there politicians appear who start building a future; the circle has gone the other way — liberalism starts promising a future again." Krastev's argument is about the seller: liberalism stopped promising. In fact it is about the customer: the promise ended because the demand for it ended — a government elected by a short horizon builds what its customer can see, that is, until tomorrow (1f §5, the closed cycle; 036e §2, Nordhaus — a cycle needs the payer to differ from the recipient). The protocol does not give liberalism back its faith; it gives it back its buyer: the one who stayed to vote thinks beyond the cycle, and the politician who wants his vote promises a future again, because that is now the only thing he is paid for. Krastev's circle runs open in one direction — imitation, disappointment, the populist; the protocol closes it in the other: a long horizon at the polls, a long horizon in government, the promise of a future has a price again.
+
 ## Summary
 
 | Krastev's argument | What is true | Answer | What remains |
@@ -58,7 +60,7 @@
 | the panic of disappearance | yes | disappearance = the burned left; a ×3 vote at home is a reason to return; the nation as an image rests on the apathetic and leaves with them, the nation as a real risk stays (the architect's move) | — |
 | the threatened majority | yes, a form of democracy | hysteria is for sale, fear is not; what stays is a fearing minority with a long horizon (the architect's move) | — |
 | the referendum as imitation | yes | the referendum on the protocol has a consequence for the government | will not take place in an autocracy — the route |
-| the promise ended | yes | a future with a price in the present, checked every cycle | — |
+| the promise ended | yes | a future with a price in the present; it was not the seller that ended but the demand — a government of the apathetic builds until tomorrow; the protocol returns the buyer of the future, the circle runs the other way (the architect's move) | — |
 
 ## Weak point
 
