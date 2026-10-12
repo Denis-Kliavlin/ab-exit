@@ -1,8 +1,8 @@
-# 40ag. Charles Tilly: *Democracy* — the Argument of Trust Networks and the Network That Does Not Want to Govern
+# 40ag. Charles Tilly: *Democracy* — Five Arguments: the Network That Does Not Want to Govern, Choice B as a Decision, "Understands" Is Not a Category, the Trap for Coercion
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040ag · v1 · 12 October 2026
-**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fifteenth is Tilly: *Democracy* (2007), *Trust and Rule* (2005), *Coercion, Capital, and European States* (1990). A reconstruction from the texts; the architect's move on the first argument is recorded as a move. Arguments 2–5 are added as they are examined.
+**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fifteenth is Tilly: *Democracy* (2007), *Trust and Rule* (2005), *Coercion, Capital, and European States* (1990). A reconstruction from the texts; the architect's moves on arguments 1–4 are recorded as moves; argument 5 confirmed on 12 October 2026.
 
 ---
 
@@ -54,11 +54,19 @@
 
 **Tilly's continuation and the architect's move.** Tilly would ask: what stops the government, as in the seventeenth century, from finding cheap coercion instead of a bargain — forcing people not to take? The architect: "to force is to violate the protocol adopted by referendum; the opposition will highlight it at once and it will be clear and visible to everyone. And if the government pays its own people extra illegally — the opposition will say: since you pay illegally, we can put a legal increase of the payment to a referendum." It is a trap for a coercing government from both sides. To force people not to take is to break a rule adopted by the very voters the government represents; and it is visible not by denunciation but by the counter: a precinct with full turnout and an abnormally small share of takers (048m Art. 10, the precinct balance) is evidence in itself. And if the government, to keep turnout, pays its own on top, in an envelope — it confirms that the price is too low, and the opposition puts a legal increase to a referendum (Art. 3). Any move by the government against the protocol either breaks the law in plain view or proves the payment is too small — and in both cases feeds the referendum. It is the fork of 1f §5 ("every move by the government costs") applied to coercion: there is no cheap coercion under the protocol, because every coercion leaves a trace in the numbers and every top-up in the price.
 
+*The trap's third side — the architect's continuation.* "Those who legally received little will very much favour raising the payment, knowing that the government is already paying. And those who receive more illegally will prefer to receive it legally rather than under threat of criminal prosecution." The coalition for a rise forms by itself, from both groups: the outsiders because they see that the insiders are paid more; the insiders because the same sum legally beats an envelope under a criminal article (048m Art. 11). By its top-up the government creates a majority for a referendum on raising the payment (Art. 3) out of its own and the others at once, and the only way not to feed that majority is not to top up — that is, to keep the protocol.
+
 **Residual.** None. The limit is the same as for all: where commissions are occupied and there are no numbers (040af item 2), there is no evidence either; but that is a limit of the referendum, not of the protocol.
 
 ## 5. De-democratisation
 
-*Examined separately; added as it is examined.*
+**The argument.** Democratisation is reversible, and the retreat runs through the same mechanisms backwards: trust networks leave the public for the private, categorical inequality returns to politics, autonomous centres of power — the army, oligarchs, security services — escape public control. The main sign is not a coup but a slow narrowing of consultation with the procedures intact; described ten years before Runciman (040aa) and Przeworski (040v item 4).
+
+**The strike.** The protocol accelerates de-democratisation through all three mechanisms at once: trust networks leave politics for money (item 1), the poor drop out as a category (item 3), and a government without brought-in turnout turns to the autonomous centres of power — those who need not be brought.
+
+**The answer.** The first two mechanisms are turned over: a network that takes the payment was not taking part in politics (item 1); "understands / does not understand" is crossed by reading (item 3). The third is exact in Tilly: a government deprived of mass turnout seeks support in force. But that is today's position, not tomorrow's: "the core" is already brought by force — the employer, fear, the apparatus (1f §5) — and the autonomous centres of power are already in politics, because turnout is their product. The protocol takes that product from force: nobody can be brought, forcing people not to take is in plain view (item 4). Under the protocol the government does not turn to force — it loses what force was needed for at elections. What remains is force outside elections — a coup — and that is the limit Tilly, Linz (040i) and Runciman set alike: no electoral rule protects against tanks, and to demand it is the bounty trap (040ac item 1).
+
+**Residual.** One, and it is Tilly's: his de-democratisation is slow, and the protocol's effect is slow too — parties change the menu from the second cycle (040ae item 5), "the burned" do not return at once (040s). If the retreat is faster than the thermostat, the protocol will not be in time; that is a question of speed, which the pilot measures in its second cycle (048l).
 
 ## Summary
 
@@ -67,7 +75,8 @@
 | trust networks in politics | yes, the mechanism holds | "the core" is integrated as a hostage, not a participant; the payment is a contract instead of hostage-taking; a network that takes the payment did not want to govern — the fiction of participation is removed (the architect's move) | "did not want" or "could not" — the threshold of 040p §1 |
 | the four dimensions | yes, the axes hold | equality, protection, obligation — up; breadth — measured for the first time; choice B is a decision too, the answer "not me" counts as an answer for the first time (the architect's move) | — |
 | categorical inequality | yes, the demand holds | "the core" already votes by category — the protocol breaks it; no categories at the entrance, only a price; "understands / does not" is not a category: crossed by reading, not money (the architect's move) | the size of the payment — 040p §1 |
-| coercion and capital | yes, the mechanism holds | the vote becomes capital that is bargained for; forcing people not to take breaks the referendum in view of the counter; paying one's own extra proves the price is too low and yields a referendum on raising it (the architect's move) | — |
+| coercion and capital | yes, the mechanism holds | the vote becomes capital that is bargained for; forcing people not to take breaks the referendum in view of the counter; paying one's own extra proves the price is too low and yields a referendum on raising it from insiders and outsiders at once (the architect's move) | — |
+| de-democratisation | yes, three mechanisms | two turned over (items 1, 3); force is already in politics through turnout — the protocol takes its product; nothing protects against a coup | speed: a retreat faster than the thermostat — measured in the second cycle |
 
 ## Weak point
 
