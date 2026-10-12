@@ -210,6 +210,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40s. Robert Putnam: Bowling Alone — Five Arguments on the Decay of Social Capital and What a Price for the Vote Answers to Them](06-critique-arsenal/040s-putnam.md)
 - [40t. Arend Lijphart: Unequal Participation — Five Arguments on Low Turnout and Compulsory Voting Against a Price for the Vote](06-critique-arsenal/040t-lijphart.md)
 - [40u. Robert Dahl: Five Criteria of Democracy as an Examination for a Price for the Vote](06-critique-arsenal/040u-dahl.md)
+- [40v. Adam Przeworski: Why Bother With Elections? — Five Arguments on Minimal Democracy and What a Price for the Vote Changes](06-critique-arsenal/040v-przeworski.md)
 
 ## Part II — Social Architecture
 
