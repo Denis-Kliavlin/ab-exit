@@ -30,7 +30,7 @@
 
 **The strike — Dahl's strongest.** The protocol encourages the one who does not understand to go on not understanding — for money; instead of enlightening, it pays for unenlightenment.
 
-**The answer.** The criterion is about the opportunity to learn, and it is taken from nobody: the one who took the payment may read, argue and know as much as yesterday. But the protocol adds what Dahl lacks — the counter and the price: a fact understood without enlightenment, because the sense of reality is strongest in what is personal and now (040q, Schumpeter). Enlightenment needs time and a teacher; a price needs neither. **The honest residual:** the protocol does not enlighten and does not promise to; it stops counting an unenlightened vote as an enlightened one, and that is not the fulfilment of the criterion but the refusal to counterfeit it. **Neither worse nor better — with the addition of a fact in place of enlightenment.**
+**The answer.** The criterion is about the opportunity to learn, and it is taken from nobody: the one who took the payment may read, argue and know as much as yesterday. But the protocol adds what Dahl lacks — the counter and the price: a fact understood without enlightenment, because the sense of reality is strongest in what is personal and now (040q, Schumpeter). Enlightenment needs time and a teacher; a price needs neither. **The honest residual:** the protocol does not enlighten and does not promise to; it stops counting an unenlightened vote as an enlightened one, and that is not the fulfilment of the criterion but the refusal to counterfeit it. **Neither worse nor better — with the addition of a fact in place of enlightenment.** *The architect's correction of 12 October 2026 (040ae item 2):* "produces no enlightenment" is too weak. The protocol does not teach, but it creates demand for knowledge: when the vote really chooses, learning pays off for the first time, and knowledge grows where it is needed. That is not a pedagogy but an economics of knowledge — and on the third criterion the protocol turns out more exact, not "neither worse nor better".
 
 ## 4. Control of the agenda
 
@@ -60,7 +60,7 @@
 
 ## Weak point
 
-Dahl wrote his criteria for a *decision process*, not for a turnout design; the transfer to the protocol is ours, and it needs one caveat Dahl would make himself: the criteria are an ideal no polyarchy fully meets, and "more exactly" here means "closer to the ideal than the present", not "the ideal attained". And the third criterion remains the place where the protocol promises nothing: it produces no enlightenment, it only stops pretending that there is any.
+Dahl wrote his criteria for a *decision process*, not for a turnout design; the transfer to the protocol is ours, and it needs one caveat Dahl would make himself: the criteria are an ideal no polyarchy fully meets, and "more exactly" here means "closer to the ideal than the present", not "the ideal attained". The third criterion the protocol meets through demand rather than instruction (the correction in item 3; 040ae item 2), and that is tested only by the pilot: does the share of those who return grow from the second cycle.
 
 ---
 

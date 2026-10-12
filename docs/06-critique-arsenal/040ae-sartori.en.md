@@ -20,7 +20,19 @@
 
 **Residual.** Sartori is right that the government writes the question, and in an autocracy a referendum on the protocol will not take place (040w item 4) — an argument about the route, not about the referendum. And right that a percentage chosen by referendum is a number without deliberation: the charter (048m Art. 3) answers with revision by the same path and the counter until revision; deliberation is replaced by measurement, and for a simple question that is the architect's move — measure the simple, deliberate the complex.
 
-## 2–5. Demo-ignorance; polarised pluralism; demo-power and demo-protection; vertical democracy
+## 2. Demo-ignorance
+
+**The argument** (ch. 5). Democracy presupposes public opinion, and the majority has none — it has a mood, assembled from what it was shown; the "informed voter" is a fiction, and the more decisions are handed to the mass directly, the more ignorance decides. The mass may be admitted to choosing *who*, not *what*; democracy must be a "democracy of knowledge" at least at the point of selection.
+
+**The strike.** The protocol hands the mass the question *what* (whether to pay and how much), and the same ignorant will come to decide it.
+
+**The answer.** Sartori described the same figure as Dahl (040u item 3) and Lipset (040ac item 1): the voter without an opinion, with a mood. The apathetic has no opinion, but he has the price of his own vote, and that is the one thing he is exactly informed about (040q). The referendum on the protocol is not "what the country should do" but "what your vote is worth to you" — the one *what* question that ignorance answers competently, because it is about oneself. After it, *who* is decided by a composition from which ignorance has left for a payment: Sartori wanted to separate the knowing at selection — the protocol lets the unknowing separate themselves.
+
+**The architect's move — why there will be more knowledge.** The first version of the answer ended in a concession: "Sartori wanted more knowledge, and that the protocol does not give." The architect: "re-read the repo — that is exactly what the protocol gives. The one who took the money but wants to change the government and the world will know that it is quite possible, and every time he will think and weigh — to take or not; and he may not take, and then all his wishes are expressed in the vote, he will propose innovations and his candidate will win. This becomes more real than now — so the wish to learn and find out will grow, and knowledge will grow. Because knowledge is now needed and can be used usefully and more effectively." Sartori's knowledge does not grow not because there is nowhere to get it but because nobody needs it: with two cancelling cores and the layer (040v item 1) the vote changes nothing, and learning for it is a waste; this is Downs's "rational ignorance" (013 §13.2), and Sartori described its consequence, not its cause. The protocol changes not access to knowledge but the demand for it: the taker sees on the counter that change is possible (040aa item 5), and at every election weighs anew (048m Art. 5 part 2) — to take, or to express everything in a vote with a share; and when the vote really chooses, knowledge for the first time has a use and pays off. Knowledge grows where it is needed. Sartori looked for a pedagogy of knowledge — the protocol gives its economics, and economics is more reliable: it needs no teacher, only a buyer.
+
+**Residual.** Sartori would not accept "price instead of opinion" in the referendum on the rule itself — for him that is surrender to ignorance in bookkeeping form. But his main demand — that there be more knowledge — the protocol meets not by enlightenment but by demand; and it is tested by the pilot: does the share of those who return grow from the second cycle (048l).
+
+## 3–5. Polarised pluralism; demo-power and demo-protection; vertical democracy
 
 *Examined one at a time; added as they are examined.*
 
@@ -29,6 +41,7 @@
 | Sartori's argument | What is true | Answer | What remains |
 |---|---|---|---|
 | the referendum is zero-sum without deliberation | yes — for the complex | the protocol's question is the simplest; a lock, not rule; no zero sum; the last referendum on the complex — thereafter deliberation at elections and in parliament (the architect's move) | will not take place in an autocracy — the route |
+| demo-ignorance | yes, a mood instead of an opinion | the apathetic is exactly informed about the price of his vote; knowledge did not grow because it was not needed; the protocol creates demand for knowledge — economics instead of pedagogy (the architect's move) | the growth of knowledge — measured by the pilot |
 
 ## Weak point
 
