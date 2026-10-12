@@ -222,6 +222,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40ad. Carole Pateman: Participation and Democratic Theory — Five Arguments on the School of Participation and the Vote That Equals Minus One](06-critique-arsenal/040ad-pateman.md)
 - [40ae. Giovanni Sartori: The Theory of Democracy Revisited — Five Arguments: the Last Referendum on the Complex, Demand for Knowledge, a Scale With One Beam](06-critique-arsenal/040ae-sartori.md)
 - [40af. Jan-Werner Müller: What Is Populism? — Five Arguments: Exclusive Representation, Clientelism Without a Client, "Why Did They Not Vote for You", the Contest of Ideas, Fear](06-critique-arsenal/040af-muller.md)
+- [40ag. Charles Tilly: Democracy — the Argument of Trust Networks and the Network That Does Not Want to Govern](06-critique-arsenal/040ag-tilly.md)
 
 ## Part II — Social Architecture
 
