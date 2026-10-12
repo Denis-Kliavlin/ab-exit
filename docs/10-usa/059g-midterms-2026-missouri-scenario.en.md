@@ -1,0 +1,80 @@
+# USA: the 2026 Midterms — Three Cases Three Weeks Before the Vote and a Scenario "If This Were About the Protocol"
+
+**Chapter:** 10 — Case: USA
+**File:** 10_059g · v1 · 12 October 2026
+**Source:** an examination at the architect's request of 12 October 2026 ("what is going on with the next US elections — the three brightest cases"); sources are publications of 3–8 October 2026; the scenario of a protocol referendum in Missouri is a step-by-step forecast with the architect's three corrections (the parties' fork, "the burned", the counter-audit) and his move on the threshold. Percentages are estimates 🟡.
+
+---
+
+*How to read. The three cases are not news for news' sake: each strikes one of the places the repository wrote about in advance — who writes the electoral law (040u item 4), who controls the roll (048m Art. 10), who has no buyer of fitness (1f §4b). The scenario is an exercise: take the real story of the Missouri map referendum and run the protocol through it.*
+
+## 1. Missouri: the congressional map will be decided by referendum, not by the legislature
+
+In September 2025 the legislature redrew the districts to take the 5th District (Cleaver, Kansas City) from the Democrats. The group People Not Politicians collected more than 300,000 signatures (the threshold is 5 % of the vote for governor in six of eight districts, 106–116 thousand) and put the map to a veto referendum. Secretary of State Hoskins rejected the petition on 4 August 2026 — the last permissible day, after the primaries under the new map. The state Supreme Court on 3 September unanimously reinstated the petition: the map does not take effect "unless and until approved by the voters". A federal judge and the Eighth Circuit tried to restore the map; the US Supreme Court refused three times, on 25 September because the election "has already started" and switching maps "would usher in electoral chaos". In November the voters decide the map.
+
+**What it means for the protocol.** 040u item 4 and 029 §29.11 row 10 in pure form: the electoral law is written by those elected under it, and the only counterweight is a referendum by petition, which the government tries to kill by procedure (048n: signatures, deadlines, rejection on the last day). Self-enforcement (040v §6): a rule imposed from above gathered 300,000 signatures against itself in three months. The court's reasoning "the election has already started" is literally a misreading from 001d: a rule proposed at this election does not apply to it.
+
+## 2. The federal list of citizens, the SAVE database and roll purges
+
+The March 2026 executive order directed DHS to compile a list of US citizens and the Postal Service not to deliver ballots to anyone not on the list. 23 states sued; on 25 June a court declared sections 2–3 void. The SAVE database, expanded with Social Security data, remained: a judge blocked it in June ("states are actively removing United States citizens from voter rolls based on inaccurate information"); on 25 September the Supreme Court allowed its use to continue. Numbers: 65 million voters checked in 26 states, 28,635 flagged as "potential noncitizens"; in Texas 2,724 flagged, about 600 turned out to be citizens, in Travis County an error rate of 10–21 %, in Duval three out of three. The Justice Department charged 64 noncitizens in 17 states and is suing more than 25 states for their rolls.
+
+**What it means for the protocol.** In the US the register is the voter roll, registration is voluntary, and the dispute is over who controls it. The protocol does two things neither side has. The precinct balance (048m Art. 10): a purged voter is neither A nor B, the balance does not close, a purge becomes a visible number for every precinct. And a price: the payment goes to everyone on the roll automatically (Art. 4) — to strike a citizen off is to take money from him, and that is a lawsuit with concrete damages rather than an abstract "deprived of the vote". Honestly: the protocol adds no accuracy to the roll; it gives the purged a provable loss and the purge a public arithmetic.
+
+## 3. Maine, Texas, Ohio, North Carolina: elections decided by scandals
+
+In Maine the Democrat Platner withdrew after a rape allegation; the replacement, Troy Jackson, carries old abuse allegations he denies; Collins faces the accusation of profiting from the Iran war through her husband's investments — at the 8 October debate she demanded an apology, Jackson neither apologised nor explained. In Texas Paxton, with a trail of scandals, ousted Cornyn in the primary and faces Talarico. In Ohio Rep. Miller — domestic violence allegations from his ex-wife; in North Carolina Edwards withdrew over harassment, the party replaced the candidate at the last moment. NPR, 3 October: scandals have put safe red seats in play. In Minnesota Walz dropped his re-election bid over a fraud scandal in social programmes.
+
+**What it means for the protocol.** 1f §4b — "fitness has no buyer": Paxton was nominated by the primary, that is, by "the core" and "the brought-in", and will be judged by "the layer", which learns of scandals from an ad a week before (040v item 1). The present system does respond to scandal — but slowly, through a thin layer and after the party has chosen the scandalous candidate. Under the protocol the menu changes with the customer (040ae item 5): to a party competing for "the remembering" (040x item 5), Paxton is unprofitable at the entrance, not at the exit. Minnesota is an argument for double-entry payments (048f): a social programme without a counter breeds fraud.
+
+## 4. Scenario: a protocol referendum in Missouri, step by step
+
+**A correction to the premise.** The map is not a popular cause, but it had a party and money in full: Democrats, national funds, lawyers. The protocol's cause is popular, and no official party will be for it. Oregon 2024 showed how that ends without the corrections below: Measure 118, $1,600 to every resident from a new 3 % tax on turnover, lost 77 to 23 — against it were business, unions and Democrats, $17 million against, a fiscal note "costs will exceed revenue".
+
+**Initial data.** Registered ≈ 4.3 million; the statutory-initiative threshold is 5 % in six of eight districts ≈ 107–116 thousand signatures; median household income ≈ $68 thousand; the fiscal note is written by the State Auditor (§ 116.175). The sum by 1f §2c — desirable to 40–50 %: $840 per cycle. Cost at 50 % taking ≈ $1.8 billion per two-year cycle, ≈ 6 % of the state's own revenue.
+
+**The underdog.** From neither machine, with the right to count and a history that makes the frame "I return, I do not hand out" (048n) his own: a county auditor or former auditor who lost a party primary, or the mayor of a dying city. Name recognition at the start 5 %; one sentence with a number: "$840 into your account if you do not want to go; if you do, go, and your vote counts double". Allies: the lawyer of 048n, a network of signature gatherers with a precedent in the state Supreme Court.
+
+### The architect's three corrections
+
+*The parties' fork.* "Both against" is not a constant but a move in a game with two unstable outcomes: if both are against, the one that crosses first takes "the burned" and the layer, and the other loses for good — a prisoner's dilemma in which silence does not pay either. Forecast: officially "against" for both, inside — a drift: party members privately for, because each counts his own district, and the first crack appears where a candidate has already lost the primary and has nothing to lose. "Wanting and fearing": the battle runs inside each party, not between them. This breaks Oregon's united front.
+
+*"The burned" — the main asset.* A referendum on the protocol is the first vote in decades to which "the burned" come by themselves: not for a candidate but for a rule that makes their vote count — their chance after twenty years and, for the older, the last. This is not an electorate but an army of volunteers: they collect the signatures, they give the money — small and massive, because to a "burned" voter with above-median income $840 is nothing and a ×2 vote is everything. Oregon had no group for whom the measure was personal liberation; here it is 30–40 % of the registered (1f).
+
+*The counter-audit.* The attack "they will take it from the schools" puts $0.9 billion a year on the scales — and that sum has a mirror: 6 % of state revenue is the order of magnitude any audit calls inefficient spending. "The burned" come with numbers, not slogans: every auditor's report, every no-bid contract becomes a line in a table headed "here are your $0.9 billion". Lawyers join the hype (Sunshine Law, whistleblower cases — every contract has a losing bidder who will talk) and defectors — former deputies with names and dates. The government's fork (1f §5): "there is no inefficiency" — the budget is perfect, nobody believes it; "we will cut it ourselves" — the money exists, so why not pay; silence — hand the agenda to the table. The dispute "what the protocol costs" becomes "what the government costs, and who counted". The campaign's filter rule: only what is already in the State Auditor's official reports goes into the table; one inflated line kills the whole table.
+
+### The steps
+
+| Step | What happens | Estimate 🟡 |
+|---|---|---|
+| 1. Filing and ballot title, 3–4 months | the Secretary of State writes "payment for refusing to vote from school funds", a court rewrites it; the auditor issues a note "up to $0.9 billion a year"; the counter-move — a note by choice: the cost is zero for everyone who votes | an acceptable title — 70 % |
+| 2. Signatures | the question "money to you" is collected by "the burned" themselves: 400+ thousand in four weeks, costs half a party machine's, valid ≈ 75 % | a threefold margin |
+| 3. Blocking by the Secretary of State | rejection on the last day, suit in the state Supreme Court | attempt 70 %, win 80 % (the September 2026 precedent) |
+| 4. The legislature raises the threshold | put an amendment "two-thirds for initiatives" on the ballot before the protocol gets there — see below | attempt 30 %, passes 15–20 % |
+| 5. The campaign | at launch 60–65 % for; $15–20 million against; the counter-audit; "the core" takes at a desirable sum and votes for | after the attack 53–56 %, finish 56–60 % |
+| 6. Referendum turnout | presidential year 2028: "the core" comes for the money, "the burned" for the vote | 70 %+, a state record |
+| 7. After adoption | first application 2030; the legislature tries repeal by its own referendum — self-enforcement (040v §6) | — |
+| Total | probability of adoption | **65–70 %** (45–50 % without the corrections) |
+
+By Missouri's initiative history (Medicaid 2020 — 53 %, minimum wage 2018 — 62 %, abortion 2024 — 52 %, sports betting 2024 — 50.1 %) the 56–60 % corridor is a passing one. By step 7 the underdog is the face of the group with 70 % recognition and runs for a statewide office on the same ballot; most logically for auditor: "the one who computes the median".
+
+### Step 4 separately: the threshold — the architect's move
+
+The architect: "how will they throw this brazen option in the face of an underdog backed by all 'the apathetic'? Here is a little number, we invented it for you so as not to let you through: we may win at 30 % turnout, but you need 66 %, because we decided so for you." History has tested this three times in three years:
+
+| State, year | What was proposed | Result | Context |
+|---|---|---|---|
+| South Dakota, June 2022 | 60 % for measures obligating $10 million+ | 67 % against | scheduled for June to avoid the November electorate; in November Medicaid expansion passed by simple majority |
+| Arkansas, November 2022 | 60 % for amendments and initiatives | 59 % against | referred by the legislature itself |
+| Ohio, August 2023 | 60 % instead of simple majority, signatures from all 88 counties | 57 % against | turnout 38.5 % — a record for a special election; prepared against the November abortion amendment, which then passed with 57 % |
+
+Three of three, by margins of 7–17 points, with one argument — the architect's. A legislature that raises the threshold does the underdog's work for him: it turns the dispute about the protocol into a dispute about brazenness, and in Ohio it was the August defeat that assembled November's coalition. The double standard is deeper than "30 against 66": the legislature passes laws by a simple majority of its own votes while demanding two-thirds of the citizens, and it is elected in primaries at 20–25 % turnout — by "the core" and "the brought-in". One sentence at a debate: "Name the law you passed by two-thirds." If they try, it is a rehearsal: a referendum on the threshold is the first vote to which "the apathetic" come for their own money, because the threshold is a lock on their $840; the coalition assembles a year early, with a slogan the legislature wrote for it.
+
+## Weak point
+
+The scenario is a forecast without a pilot, and its percentages are estimates, not measurements; the order of magnitude is checked only by a referendum. The three cases are a snapshot of 12 October, three weeks before the election, and some of it will be out of date by November. The 6 % of revenue is an objection on the merits, held only by an auditor's frame with real numbers; Ohio cost $20+ million and national mobilisation, which the protocol does not have at the start. And the parties' fork is a forecast of behaviour, not a rule: the parties may hold a united front for one cycle, and then the corridor returns to Oregon's.
+
+---
+
+**Related:** 059e (the underdog campaign) · 059f (Chicago 2027, the state forecast) · [048n](../08-implementation/048n-underdog-questions.md) · [048l](../08-implementation/048l-courtyard-pilot.md) · [040v §6](../06-critique-arsenal/040v-przeworski.md) · [040u item 4](../06-critique-arsenal/040u-dahl.md) · [1f §2c, §4b](../01-introduction/001f-core-electorate.md) · [048m Arts. 4, 10](../08-implementation/048m-charter.md)
+
+**Sources:** [NPR, 3 Oct 2026](https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms) · [SCOTUSblog, Missouri, 25 Sep 2026](https://www.scotusblog.com/2026/09/for-the-third-time-supreme-court-declines-to-allow-missouri-to-use-congressional-map-expected-to/) · [Ballotpedia, the Missouri referendum](https://news.ballotpedia.org/2026/09/09/missouri-voters-to-decide-congressional-map-referendum-in-november-after-court-ruling/) · [Brennan Center, the order, 25 Jun 2026](https://www.brennancenter.org/our-work/analysis-opinion/voting-rights-groups-applaud-ruling-declaring-2026-executive-order) · [NPR, SAVE, 25 Sep 2026](https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting) · [Votebeat, Texas and SAVE](https://www.votebeat.org/texas/2026/07/30/save-potential-noncitizens-gave-proof-of-citizenship-to-dps/) · [PolitiFact, the Maine debate](https://www.politifact.com/article/2026/oct/08/fact-check-debate-maine-collins-jackson-tariff/) · [Oregon Capital Chronicle, Measure 118](https://oregoncapitalchronicle.com/2024/11/05/voters-trouncing-measure-118-on-creating-new-corporate-tax-and-rebate-for-residents/) · [Ballotpedia, Ohio Issue 1](https://ballotpedia.org/Ohio_60%25_Vote_Requirement_to_Approve_Constitutional_Amendments_Measure_(2023)) · [Arkansas Advocate, Issue 2](https://arkansasadvocate.com/briefs/arkansas-voters-reject-constitutional-amendment-to-raise-ballot-initiative-approval-threshold/) · [Ballotpedia, South Dakota Amendment C](https://news.ballotpedia.org/2022/06/08/amendment-c-defeated-in-south-dakota/)

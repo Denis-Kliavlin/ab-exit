@@ -251,6 +251,7 @@ plugins:
             "59d. Андердоги, Портер, либертарианцы": "59d. Underdogs, Porter, Libertarians"
             "59e. Кампания андердога": "59e. The Underdog Campaign"
             "59f. Пратт, Чикаго-2027, 14 дней Трампа": "59f. Pratt, Chicago 2027, Trump's 14 Days"
+            "59g. Промежуточные-2026 и сценарий Миссури": "59g. Midterms 2026 and the Missouri Scenario"
 
 markdown_extensions:
   - admonition
@@ -459,6 +460,7 @@ nav:
       - "59d. Андердоги, Портер, либертарианцы": 10-usa/059d-candidates-porter-libertarians-web3.md
       - "59e. Кампания андердога": 10-usa/059e-underdog-campaign.md
       - "59f. Пратт, Чикаго-2027, 14 дней Трампа": 10-usa/059f-pratt-chicago-trump.md
+      - "59g. Промежуточные-2026 и сценарий Миссури": 10-usa/059g-midterms-2026-missouri-scenario.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md
