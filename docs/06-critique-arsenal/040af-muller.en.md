@@ -20,7 +20,17 @@
 
 **Residual.** Quotation marks and the glossary are for the reader who gets as far as "what is meant here"; a critic with three words will not be stopped by them (1h, weak point). And Müller would leave one question: the repository says "the people are broken into four states" — but who broke them? The answer: not the repository but the price — a state is defined by the choice A or B, not by the description; the description only names what the choice has already shown.
 
-## 2–5. The populist in power; "the silent majority"; talking with populists, not about them; fear and freedom
+## 2. The populist in power
+
+**The argument.** Three techniques by which a populist is recognised once he governs: occupation of the state (courts, media, commissions — "ours"), mass clientelism (benefits in exchange for loyalty, openly) and "discriminatory legalism" — the law is soft for one's own and hard for others. Orbán, Kaczyński, Chávez.
+
+**The strike.** Clientelism is the payment: the protocol hands money to all voters from the budget; mass clientelism raised to a rule.
+
+**The answer.** Müller's clientelism is benefits *in exchange for loyalty*: the recipient is known, his vote is checkable, and stopping the benefit is a lever. The protocol's payment goes to everyone who chose B, equally (048m Art. 4), names are not published (Art. 9 part 3), and "the taker" owes nothing: he cannot vote, and in the referendum on the rule he can — including against (Art. 5 part 5). No loyalty, no lever, no "our own" — clientelism with the client removed. More: Müller's three techniques are exactly what the protocol makes expensive: occupation of the state runs through "the core" and the clerks (039 §88.9), who under the protocol can take the payment in secret; clientelism gets competition from a budget that pays without loyalty; discriminatory legalism — the law on "bribery", written by its recipients (040y item 3) — becomes the first object of that legalism and the first thing a new government breaks.
+
+**Residual.** Müller would say: a government introducing the protocol can also declare it "ours" and pay its own under its name. The answer is the charter: names are not published, the payment is equal for all, it is introduced by referendum, not by the government. But if the government has already occupied the commissions (his first technique), the precinct balance (Art. 10) is counted by the same commission — the honest limit, the same as Krastev's (040w item 4): under occupation the referendum will not take place.
+
+## 3–5. "The silent majority"; talking with populists, not about them; fear and freedom
 
 *Examined one at a time; added as they are examined.*
 
@@ -29,6 +39,7 @@
 | Müller's argument | What is true | Answer | What remains |
 |---|---|---|---|
 | exclusive representation | the register — yes: "thinking", "remembering" | who the people are, each decides for himself, the list is open; states, not types; "to whom it is worth more", not "who is better"; terms into the glossary and into quotation marks (the architect's decision) | a critic with three words |
+| the populist in power | the three techniques hold | the payment is clientelism without a client: no loyalty, no lever, no names; the protocol makes the three techniques expensive | under occupied commissions the referendum will not take place |
 
 ## Weak point
 
