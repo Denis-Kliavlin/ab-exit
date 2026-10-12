@@ -32,7 +32,19 @@
 
 **Residual.** None.
 
-## 3–5. Categorical inequality; coercion and capital; de-democratisation
+## 3. Categorical inequality
+
+**The argument** (*Durable Inequality*, 1998; *Democracy*, ch. 5). Democracy is possible only if public politics is insulated from categorical inequality: sex, ethnicity, class, place in the employer's hierarchy must not translate directly into influence on decisions. De-democratisation is when a category ("boss — subordinate", "budget employee — private") becomes a political unit and people vote by category.
+
+**The strike.** The protocol divides voters by income and dependence: "the takers" will be poorer and more dependent, "those who stay" richer and freer; the category "poor/dependent" translates directly into "does not decide". Categorical inequality written into an electoral rule for the first time.
+
+**The answer.** Today a category is already translated into politics — the very one Tilly named first: the employer's hierarchy. "The core" votes by category — budget employees under the boss, the brought-in in columns (1f §2, §5; 039 §88.9) — and this inequality is invisible because it wears the same dress: one ballot. The protocol does not create a categorical division — it breaks the existing one: the subordinate can take the payment in secret, and the category "boss — subordinate" stops voting as a unit (040af item 5). And the protocol knows no categories at the entrance: one payment for all (048m Art. 4), a state is chosen, not assigned (1h); the poor man to whom the vote is worth more stays, the rich man to whom it is worth less takes. Tilly demanded the insulation of politics from categories; the protocol is the only rule with not a single category at the entrance, only a price, the same for all.
+
+**Tilly's continuation and the architect's move.** Tilly would reply: if the payment is taken out of poverty, the category "poor" leaves the decision de facto — "categorical inequality dressed as choice". The architect: "well yes, the poor man understands the governing of a state less well and, understanding that clearly about himself, does not push into governing. But if he reads, learns and wants to understand, he can always do so — and for that he need not become rich." This separates two things Tilly glued together. A category for Tilly is what one cannot leave by one's own effort: sex, ethnicity, place in a hierarchy. "Understands / does not understand" is not a category: a boundary anyone crosses himself, by reading, not by money, and the door is open to everyone at the next election (048m Art. 5 part 2). The protocol selects not by income but by what a person has decided himself about his own understanding and his own stake (item 2); income correlates with that decision, as it correlates with anything, but does not determine it — and the poor man who wanted to understand stays at the polls without having grown rich. It is the only boundary in electoral law that anyone can cross without permission, without an exam (040aa item 3) and without money; hence it is not categorical by Tilly's definition, and the demand for understanding is exactly what the protocol creates (040ae item 2).
+
+**Residual.** None by the definition of a category. The threshold of 040p §1 remains as a measurement — what share of takers took out of need rather than decision — but that is a question about the size of the payment, not about the rule being categorical.
+
+## 4–5. Coercion and capital; de-democratisation
 
 *Examined one at a time; added as they are examined.*
 
@@ -42,6 +54,7 @@
 |---|---|---|---|
 | trust networks in politics | yes, the mechanism holds | "the core" is integrated as a hostage, not a participant; the payment is a contract instead of hostage-taking; a network that takes the payment did not want to govern — the fiction of participation is removed (the architect's move) | "did not want" or "could not" — the threshold of 040p §1 |
 | the four dimensions | yes, the axes hold | equality, protection, obligation — up; breadth — measured for the first time; choice B is a decision too, the answer "not me" counts as an answer for the first time (the architect's move) | — |
+| categorical inequality | yes, the demand holds | "the core" already votes by category — the protocol breaks it; no categories at the entrance, only a price; "understands / does not" is not a category: crossed by reading, not money (the architect's move) | the size of the payment — 040p §1 |
 
 ## Weak point
 
