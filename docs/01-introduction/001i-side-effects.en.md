@@ -1,0 +1,43 @@
+# 1i. Register of Side Effects: What the Protocol Gives Without Promising
+
+**Chapter:** 01 — Introduction
+**File:** 01_001i · v1 · 12 October 2026
+**Purpose:** the protocol promises one thing — the choice A or B before each election and a price for non-participation. Everything else in this table is a consequence of one balance (040ae item 4: both arms of the scale move together) that the rule does not promise and that was found in examinations one by one. As 1g collects objections, 1i collects consequences. **Rule:** a new side effect → here first, then into a chapter. The architect, 12 October 2026: "the accuracy of the roll is a side effect of the balance genuinely not planned by me as the architect"; hence the column "planned?" — an effect the author did not build in is evidence that the mechanism is deeper than the design: double-entry bookkeeping was made for merchants and gave the audit, the tax and the corporation.
+
+---
+
+*How to read. Each row is neither a promise nor a slogan but a deduction from the rule that a pilot can test; the column "what is unknown" says how. "Planned?" is marked only where the architect has said so; the rest is "found in examination" with a date, and the architect marks what was in the design.*
+
+## Register
+
+| Effect | Mechanism | Planned? | In full | What is unknown |
+|---|---|---|---|---|
+| **the roll becomes accurate and complete** — from a battlefield to a queue at the entrance | the payment goes to everyone on the roll; the unregistered enters himself, the purged goes to court himself; the government pays for dead souls and for the first time wants them gone; accuracy stops being partisan — both sides want one list from different ends | **no** — found 12 Oct 2026 in the SAVE examination | [059g item 2](../10-usa/059g-midterms-2026-missouri-scenario.md) | the share of wrongful entries before and after |
+| a party is freed from its core and can change for the first time | "the apathetic" and "the meek" take the payment — the party has nobody left to lose by shifting | found 12 Oct 2026 | [040v item 1](../06-critique-arsenal/040v-przeworski.md) | not in the first cycle |
+| state party funding is broken first by new governments | the new ones have no such feeder; renouncing it is a cheap "not from the cartel" signal | found 12 Oct 2026 | [040y item 3](../06-critique-arsenal/040y-mair.md) | the cartel reproduces unless those who stay ask at the second election |
+| the whole country watches the median income; the government is interested in the median, not the mean | the payment is a percentage of the median; the number on which half the country's money depends | found 12 Oct 2026 | [040v §6](../06-critique-arsenal/040v-przeworski.md) | — |
+| a politician's reputation becomes an asset | "the remembering" stay and check at the second election what was said | found 12 Oct 2026 | [040x item 5](../06-critique-arsenal/040x-manin.md) | first check — the pilot's second election |
+| the contest of ideas becomes profitable | arguments for "the layer" are primitive; under the protocol they are made for "the thinking" | found 12 Oct 2026 | [040af item 4](../06-critique-arsenal/040af-muller.md), [040v item 1](../06-critique-arsenal/040v-przeworski.md) | from the second cycle |
+| demand for knowledge: learning pays off for the first time | when the vote really chooses, knowledge has a use | found 12 Oct 2026 | [040ae item 2](../06-critique-arsenal/040ae-sartori.md) | whether the share of returners grows |
+| "the meek" gets the law on her side against the boss | taking is lawful, forcing is criminal; not everyone can be dismissed | found 12 Oct 2026 | [040af item 5](../06-critique-arsenal/040af-muller.md) | the share of takers among budget employees |
+| suppression without a referendum loses its executor | the army's rank and file took the payment themselves; a soldier cannot be told "we cancel" | found 12 Oct 2026 | [040ag item 5](../06-critique-arsenal/040ag-tilly.md), [048d](../08-implementation/048d-forces-transition.md) | a praetorian army is outside the effect |
+| a two-thirds threshold from the legislature becomes a rehearsal of the protocol's coalition | the threshold is a lock on "the apathetic's" money; three states of three rejected it | found 12 Oct 2026 | [059g §4](../10-usa/059g-midterms-2026-missouri-scenario.md) | — |
+| the attack "they will take it from the schools" triggers a counter-audit of the budget | the protocol's cost equals the cost of inefficiency; "the burned" come with numbers | found 12 Oct 2026 | [059g §4](../10-usa/059g-midterms-2026-missouri-scenario.md) | numbers only from official reports |
+| the underdog wins on any outcome of the referendum | recognition on other people's money; the first to say the number | found 12 Oct 2026 | [059g §4](../10-usa/059g-midterms-2026-missouri-scenario.md) | — |
+| the donor gets a place in history — the first stays first | there is no second first | found 12 Oct 2026 | [059g §4](../10-usa/059g-midterms-2026-missouri-scenario.md) | — |
+| a single-issue party with a lifespan — self-dissolution as victory | its point becomes common once the old parties cross the fork | found 12 Oct 2026 | [040ah §3](../06-critique-arsenal/040ah-communism.md) | — |
+| "the apathetic" gets dignity and peace | non-turnout stops being a shame and becomes a choice | found 12 Oct 2026 | [040ah §4](../06-critique-arsenal/040ah-communism.md) | — |
+| "the burned" gets a reason to return — from emigration too | the amplified vote at home | found 11 Oct 2026 | [040s](../06-critique-arsenal/040s-putnam.md), [040w item 2](../06-critique-arsenal/040w-krastev.md) | whether they returned by the second cycle |
+| the nation-as-image loses its holders, the nation as a real risk remains | the payment gives "the apathetic" something personal; hysteria is for sale, fear is not | found 12 Oct 2026 | [040w items 2, 3](../06-critique-arsenal/040w-krastev.md) | a pilot with a question about the object of fear |
+| zombie democracy is impossible | exit itself raises the price of entry | found 12 Oct 2026 | [040aa item 5](../06-critique-arsenal/040aa-runciman.md) | — |
+| the rule is self-enforcing: breaking it gathers everyone against the breaker | "the takers" lose money, "those who stay" lose share — in one movement | found 12 Oct 2026 | [040v §6](../06-critique-arsenal/040v-przeworski.md) | the healthy pole — whittling by those who stay themselves |
+| the government turns to the centre, not to force | turnout is with "those who stay"; tanks do not vote | found 12 Oct 2026 | [040ag item 5](../06-critique-arsenal/040ag-tilly.md) | — |
+| the slogan unites by letting each read his own | "the vote is worth nothing — today": four readings, zero enemies | found 12 Oct 2026 | [039b §4b](../07-manifesto/039b-idealists-and-populist-cycle.md) | the choice of slogan — the architect's |
+
+## Weak point
+
+The register was assembled over two days of examinations and marks "found in examination" where the architect has not yet said whether the effect was in the design — the column awaits his marks. Each row is a deduction from the rule, not a measurement: the pilot will test the first three or four (the roll, budget employees, returners, the object of fear), the rest the second cycle or never. And the register grows faster than it is tested: it is a list of what *follows*, not of what is *confirmed*, and to read it as a list of promises is the same mistake as reading 1d as advertising.
+
+---
+
+**Related:** [1g](001g-objections-index.md) · [1h](001h-glossary.md) · [1d](001d-exact-answers.md) · [1c](001c-board-without-good-moves.md) · [040ae item 4](../06-critique-arsenal/040ae-sartori.md)
