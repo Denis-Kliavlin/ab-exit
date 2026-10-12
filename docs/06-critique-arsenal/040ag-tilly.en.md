@@ -20,7 +20,19 @@
 
 **Residual.** Tilly measured democracy by the breadth of consultation, and "a consultation one can decline for money" is a question for him. The answer: declining does not narrow the consultation — "the taker" is in the counter, with a vote in the referendum on the rule and a public obligation of the state towards him; what narrows is not the circle but the fiction. But that the network which took the payment *did not want* to govern rather than *could not* (poverty, 040p §1) is a threshold the pilot will measure.
 
-## 2–5. Four dimensions; categorical inequality; coercion and capital; de-democratisation
+## 2. The four dimensions of democracy
+
+**The argument.** Democracy is measured not as "yes/no" but along four axes of state–citizen relations: *breadth* (how many people the consultation covers), *equality* (whether the state treats categories alike), *protection* (from the arbitrariness of the state itself), *mutually binding obligation* (the state must deliver what it promised). Democratisation is movement along all four; a retreat on any is de-democratisation.
+
+**The strike.** On the first axis the protocol retreats: the breadth of consultation falls when two-thirds take the payment; for Tilly breadth is measured by coverage, not voluntariness.
+
+**The answer along the four axes.** *Breadth:* coverage does not fall — for the first time everyone is covered: those who voted, took and abstained are counted (048m Art. 10), and "the taker" keeps his vote in the referendum on the rule; today two-thirds are covered by nothing — neither consultation nor count. *Equality:* the protocol is the first rule that treats alike categories unequal in fact today — the brought-in and the one who came by himself: one price, one ballot (040u item 2). *Protection:* the secret payment, coercion criminal (Arts. 9, 11) — protection from arbitrariness where there was none: at the polls under the boss (040af item 5). *Mutually binding obligation:* the payment is an unconditional obligation of the budget, like a tax for the citizen (048m Art. 8) — the state's first obligation that does not depend on the vote. Three axes up; the first not down but measured for the first time.
+
+**Tilly's continuation and the architect's move.** Tilly would specify: breadth is about participation in the *decision*, and "the taker" does not take part in this cycle's decision; counted — yes, consulted — no. The architect: "that was their decision. They do not want to take this decision — for their own reasons, and perhaps they knew they could not take it adequately." Choice B is a decision too, and the first truly one's own: "the taker" took part in the consultation exactly once and fully — he decided that he will not take this decision, knowing about himself what nobody else knows. That is not a refusal to participate but participation with the most honest answer possible — "not me". Today that answer is not provided for: a person is either brought and answers "as told" (040ad item 1, minus one), or stays home and others answer for him. Breadth under the protocol does not narrow — for the first time it includes the answer "I abstain consciously, and it cost me a choice", which Tilly's consultation lacked because it had no price. Tilly wanted the state to ask everyone; the protocol is the first rule under which the answer "do not ask me this time" counts as an answer, not an absence.
+
+**Residual.** None.
+
+## 3–5. Categorical inequality; coercion and capital; de-democratisation
 
 *Examined one at a time; added as they are examined.*
 
@@ -29,6 +41,7 @@
 | Tilly's argument | What is true | Answer | What remains |
 |---|---|---|---|
 | trust networks in politics | yes, the mechanism holds | "the core" is integrated as a hostage, not a participant; the payment is a contract instead of hostage-taking; a network that takes the payment did not want to govern — the fiction of participation is removed (the architect's move) | "did not want" or "could not" — the threshold of 040p §1 |
+| the four dimensions | yes, the axes hold | equality, protection, obligation — up; breadth — measured for the first time; choice B is a decision too, the answer "not me" counts as an answer for the first time (the architect's move) | — |
 
 ## Weak point
 
