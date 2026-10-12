@@ -215,6 +215,7 @@ plugins:
             "40ab. Мудде: популизм": "40ab. Mudde: Populism"
             "40ac. Липсет: политический человек": "40ac. Lipset: Political Man"
             "40ad. Патеман: участие воспитывает": "40ad. Pateman: Participation Educates"
+            "40ae. Сартори: последний референдум": "40ae. Sartori: The Last Referendum"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -376,6 +377,7 @@ nav:
       - "40ab. Мудде: популизм": 06-critique-arsenal/040ab-mudde.md
       - "40ac. Липсет: политический человек": 06-critique-arsenal/040ac-lipset.md
       - "40ad. Патеман: участие воспитывает": 06-critique-arsenal/040ad-pateman.md
+      - "40ae. Сартори: последний референдум": 06-critique-arsenal/040ae-sartori.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
