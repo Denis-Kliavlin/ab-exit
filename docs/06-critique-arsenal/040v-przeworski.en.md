@@ -34,6 +34,8 @@ What the protocol does — to all three at once. *It frees the party from its co
 
 **The answer.** He has — anew at every election (048m Art. 5 part 2). More: the protocol returns a "next time" to those who had none — the burned, who knew the core could not be outvoted and stopped waiting (1f §6). The expectation of alternation returns with the amplified vote; and the taker keeps his vote in referendums on the rule itself (Art. 5 part 5).
 
+**The second layer — the architect's move, and the stronger one.** "An autocrat like Orbán or Putin simply changes the electoral law and intimidates the meek and the apathetic — and never loses again. The protocol is only by referendum, and as an institution it breaks extremely hard and visibly." Przeworski's argument rests on the "next time" but does not say what the "next time" itself rests on: the electoral law, written by the sitting government (029 §29.11, row 10). Orbán rewrote the law in 2011, Putin in 2020; after that the expectation of alternation became a fiction which the frightened meek and apathetic confirm with every turnout (1f §5), and minimal democracy ended without breaking a single procedure (item 4). The protocol is fastened differently: introduced by referendum, repealed only by referendum (048m Art. 15); a parliamentary majority cannot amend it away, and cancelling the payment is not a line in a law nobody reads but the disappearance of money from everyone who took it, under a counter everyone sees. Przeworski's "next time" is protected by a rule the government itself changes; the protocol's — by a rule changed only by those who pay.
+
 ## 4. Crises of democracy: institutions intact, belief gone
 
 **The argument** (*Crises of Democracy*). Polarisation, falling turnout, flash parties, distrust of institutions — with formally working elections. A democracy can die without breaking a single rule; the symptoms are there, the mechanism he does not name.
@@ -56,7 +58,7 @@ What the protocol does — to all three at once. *It frees the party from its co
 |---|---|---|---|
 | parties lose elections | yes — the criterion | they lose to the layer; the protocol frees parties from the core, moves the decision to those who stay, protects long projects (the architect's move) | — |
 | paper stones | yes | today not everyone is counted; the counter counts everyone | — |
-| the expectation of next time | yes | it exists at every election; it returns to the burned | — |
+| the expectation of next time | yes | it exists at every election; it returns to the burned; an autocrat removes it by rewriting the law, the protocol only by referendum (the architect's move) | — |
 | crises with intact institutions | yes, the symptoms | the protocol is a rule about price, not procedure; each symptom has a mechanism | — |
 | income protects democracy | it did until 2016 | cracks with full wallets; change the composition of deciders | the rich — after data from the poor |
 
