@@ -2,7 +2,7 @@
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040ag · v1 · 12 October 2026
-**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fifteenth is Tilly: *Democracy* (2007), *Trust and Rule* (2005), *Coercion, Capital, and European States* (1990). A reconstruction from the texts; the architect's moves on arguments 1–4 are recorded as moves; argument 5 confirmed on 12 October 2026.
+**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fifteenth is Tilly: *Democracy* (2007), *Trust and Rule* (2005), *Coercion, Capital, and European States* (1990). A reconstruction from the texts; the architect's moves on all five arguments are recorded as moves.
 
 ---
 
@@ -66,6 +66,8 @@
 
 **The answer.** The first two mechanisms are turned over: a network that takes the payment was not taking part in politics (item 1); "understands / does not understand" is crossed by reading (item 3). The third is exact in Tilly: a government deprived of mass turnout seeks support in force. But that is today's position, not tomorrow's: "the core" is already brought by force — the employer, fear, the apparatus (1f §5) — and the autonomous centres of power are already in politics, because turnout is their product. The protocol takes that product from force: nobody can be brought, forcing people not to take is in plain view (item 4). Under the protocol the government does not turn to force — it loses what force was needed for at elections. What remains is force outside elections — a coup — and that is the limit Tilly, Linz (040i) and Runciman set alike: no electoral rule protects against tanks, and to demand it is the bounty trap (040ac item 1).
 
+**The architect's move — to whom the government really turns.** "How is it that Tilly did not say the government turns to the centre — to the returned, clever 'burned'? There are more of them than radicals and autonomous centres of power." The reconstruction above looked only at what the government loses — half the picture, and the worse half. Under the protocol the government loses brought-in turnout; what does any government that needs turnout do? It goes where turnout is. It is with "those who stay": the returned "burned" with a ×2 share are the largest group at the polls — more than the radicals, more than the fanatics, and incomparably more than any autonomous centre of power, which has no votes at all. Force gives the government turnout only while turnout can be brought; when it cannot, force is useless at elections, and the centre is the only one who decides. The government turns not to the tanks but to the centre, because tanks do not vote and the centre votes with a ×2 share. This is the promise of a future (040w item 5) and the change of the menu's customer (040ae item 5) seen from the government's side: not "whom else can it turn to" but "whom is it now profitable to turn to". Tilly's third mechanism under the protocol is not accelerated but reversed: the autonomous centres of power lose their only buyer — a government that needed their turnout.
+
 **Residual.** One, and it is Tilly's: his de-democratisation is slow, and the protocol's effect is slow too — parties change the menu from the second cycle (040ae item 5), "the burned" do not return at once (040s). If the retreat is faster than the thermostat, the protocol will not be in time; that is a question of speed, which the pilot measures in its second cycle (048l).
 
 ## Summary
@@ -76,7 +78,7 @@
 | the four dimensions | yes, the axes hold | equality, protection, obligation — up; breadth — measured for the first time; choice B is a decision too, the answer "not me" counts as an answer for the first time (the architect's move) | — |
 | categorical inequality | yes, the demand holds | "the core" already votes by category — the protocol breaks it; no categories at the entrance, only a price; "understands / does not" is not a category: crossed by reading, not money (the architect's move) | the size of the payment — 040p §1 |
 | coercion and capital | yes, the mechanism holds | the vote becomes capital that is bargained for; forcing people not to take breaks the referendum in view of the counter; paying one's own extra proves the price is too low and yields a referendum on raising it from insiders and outsiders at once (the architect's move) | — |
-| de-democratisation | yes, three mechanisms | two turned over (items 1, 3); force is already in politics through turnout — the protocol takes its product; nothing protects against a coup | speed: a retreat faster than the thermostat — measured in the second cycle |
+| de-democratisation | yes, three mechanisms | two turned over (items 1, 3); force is already in politics through turnout — the protocol takes its product; the government turns not to force but to the centre — the returned "burned" with a ×2 share, the largest group (the architect's move); nothing protects against a coup | speed: a retreat faster than the thermostat — measured in the second cycle |
 
 ## Weak point
 
