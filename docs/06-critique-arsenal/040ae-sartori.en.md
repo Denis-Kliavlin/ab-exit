@@ -1,8 +1,8 @@
-# 40ae. Giovanni Sartori: *The Theory of Democracy Revisited* — the Referendum Argument and the Last Referendum on a Complex Question
+# 40ae. Giovanni Sartori: *The Theory of Democracy Revisited* — Five Arguments: the Last Referendum on the Complex, Demand for Knowledge, a Scale With One Beam
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040ae · v1 · 12 October 2026
-**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The thirteenth is Sartori: *The Theory of Democracy Revisited* (1987), *Parties and Party Systems* (1976). A reconstruction from the texts; the architect's move on the first argument is recorded as a move. Arguments 2–5 are added as they are examined.
+**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The thirteenth is Sartori: *The Theory of Democracy Revisited* (1987), *Parties and Party Systems* (1976). A reconstruction from the texts; the architect's moves on arguments 1, 2 and 4 are recorded as moves; arguments 3 and 5 confirmed by the architect on 12 October 2026.
 
 ---
 
@@ -54,9 +54,15 @@
 
 **Residual.** None by mechanism. By terminology — Sartori would leave the word "protection" in question: a protection that changes the share of a vote did not occur in his vocabulary; but neither was the dilution of a vote by the brought-in called oppression in it.
 
-## 5. Vertical democracy
+## 5. Vertical democracy: selection, not participation
 
-*Examined separately; added as it is examined.*
+**The argument** (ch. 6). Democracy is not the horizontal equality of participants but a vertical: the people *select* the rulers, and the quality of democracy equals the quality of selection. "Selective polyarchy" — the best should rise; a democracy that selects the worst is democracy in form but degenerate. Equality of votes does not guarantee the quality of the selected: the lower the average voter, the lower the selected.
+
+**The strike.** The protocol does nothing about selection: candidates are nominated by the same parties, there are no filters at the entrance (1f §4 — no exam for politicians), and those who stay choose from the same menu.
+
+**The answer.** Sartori is right in the diagnosis, and the repository recorded it before him: 1f §4b — five steps to an unfit president, "fitness has no buyer". The protocol puts no filter on the candidate — it creates a buyer of fitness. Today two cores and the layer select: the core needs its own, the layer needs an image (040x item 3), and neither needs a fit one; the party nominates whoever passes with those two. Under the protocol nominations must be made for those who stay — those who remember (040x item 5) and count beyond the cycle (1f §7); the menu changes not because it was filtered but because the customer of the menu changed. Sartori's vertical works from the bottom up: the quality of the selected equals the quality of the selectors, and the protocol changes exactly the bottom end of the vertical — the only one that can be changed without an examiner (040aa item 3, against epistocracy).
+
+**Residual.** The menu does not change in the first cycle: the party learns of the new customer from the result of the first election under the protocol and nominates differently at the second (040v item 1, weak point). And Sartori would ask who guarantees that those who stay select the *best* rather than *their own*; the answer is the same as today: nobody — with the difference that those who stay have something to lose from their own if he is bad.
 
 ## Summary
 
@@ -66,6 +72,7 @@
 | demo-ignorance | yes, a mood instead of an opinion | the apathetic is exactly informed about the price of his vote; knowledge did not grow because it was not needed; the protocol creates demand for knowledge — economics instead of pedagogy (the architect's move) | the growth of knowledge — measured by the pilot |
 | polarised pluralism | yes, the centre empties | the centre is empty because burned — the protocol refills it with voters; the flanks lose mass, the committed remain; promising everything stops paying | measurement: whom the takers would have voted for |
 | demo-power and demo-protection | yes, the distinction holds | the protocol is demo-protection from the free use of the vote; the amplification is not a lever but an identity: both arms of the scale move at once (the architect's move) | the term "protection" — in question for Sartori |
+| vertical democracy | yes, the quality of selection | the protocol creates a buyer of fitness — the customer of the menu changes, the bottom end of the vertical | the menu changes from the second cycle |
 
 ## Weak point
 
