@@ -44,9 +44,21 @@
 
 **Residual.** None by the definition of a category. The threshold of 040p §1 remains as a measurement — what share of takers took out of need rather than decision — but that is a question about the size of the payment, not about the rule being categorical.
 
-## 4–5. Coercion and capital; de-democratisation
+## 4. Coercion and capital
 
-*Examined one at a time; added as they are examined.*
+**The argument** (*Coercion, Capital, and European States*, 1990). States were built on two resources — coercion (army, police, extraction) and capital (towns, merchants, credit) — and the form of the state was set by what was at hand. Democracy grows where the ruler needs the townsmen's money for war and must bargain with them for taxes: representation is the price power pays for capital. Where coercion is cheap and capital not needed, there is no bargain.
+
+**The strike.** The protocol is a payment from the budget, that is, from the same coercion (tax); the government does not bargain with the citizen, it buys him off with a handout from what was collected from him.
+
+**The answer.** Tilly described where representation comes from: power bargains for what it needs and does not have. Today the government needs the vote, and it has it — free, through the brought-in (029 §29.11: "convenient when everyone guards for you, free of charge, what only you can use"). There is no bargain not because coercion is cheap but because the resource is gratis. The protocol makes the vote a resource that must be bargained for — for the first time since turnout became free: a government that needs turnout must offer more than the payment, and to the one who decides for himself. That is Tilly's mechanism in its most exact form: representation arises when the citizen has what power needs and cannot take for nothing. The capital of seventeenth-century townsmen was money; the citizen's capital under the protocol is a vote with a price. "From his own tax" — true, and it is an argument for: Goldscheid (040o) — the budget returns to the one from whom it took for free not only the tax.
+
+**Tilly's continuation and the architect's move.** Tilly would ask: what stops the government, as in the seventeenth century, from finding cheap coercion instead of a bargain — forcing people not to take? The architect: "to force is to violate the protocol adopted by referendum; the opposition will highlight it at once and it will be clear and visible to everyone. And if the government pays its own people extra illegally — the opposition will say: since you pay illegally, we can put a legal increase of the payment to a referendum." It is a trap for a coercing government from both sides. To force people not to take is to break a rule adopted by the very voters the government represents; and it is visible not by denunciation but by the counter: a precinct with full turnout and an abnormally small share of takers (048m Art. 10, the precinct balance) is evidence in itself. And if the government, to keep turnout, pays its own on top, in an envelope — it confirms that the price is too low, and the opposition puts a legal increase to a referendum (Art. 3). Any move by the government against the protocol either breaks the law in plain view or proves the payment is too small — and in both cases feeds the referendum. It is the fork of 1f §5 ("every move by the government costs") applied to coercion: there is no cheap coercion under the protocol, because every coercion leaves a trace in the numbers and every top-up in the price.
+
+**Residual.** None. The limit is the same as for all: where commissions are occupied and there are no numbers (040af item 2), there is no evidence either; but that is a limit of the referendum, not of the protocol.
+
+## 5. De-democratisation
+
+*Examined separately; added as it is examined.*
 
 ## Summary
 
@@ -55,6 +67,7 @@
 | trust networks in politics | yes, the mechanism holds | "the core" is integrated as a hostage, not a participant; the payment is a contract instead of hostage-taking; a network that takes the payment did not want to govern — the fiction of participation is removed (the architect's move) | "did not want" or "could not" — the threshold of 040p §1 |
 | the four dimensions | yes, the axes hold | equality, protection, obligation — up; breadth — measured for the first time; choice B is a decision too, the answer "not me" counts as an answer for the first time (the architect's move) | — |
 | categorical inequality | yes, the demand holds | "the core" already votes by category — the protocol breaks it; no categories at the entrance, only a price; "understands / does not" is not a category: crossed by reading, not money (the architect's move) | the size of the payment — 040p §1 |
+| coercion and capital | yes, the mechanism holds | the vote becomes capital that is bargained for; forcing people not to take breaks the referendum in view of the counter; paying one's own extra proves the price is too low and yields a referendum on raising it (the architect's move) | — |
 
 ## Weak point
 
