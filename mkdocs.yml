@@ -211,6 +211,7 @@ plugins:
             "40x. Манен: выборы как аристократия": "40x. Manin: Elections as Aristocracy"
             "40y. Мэр: правя пустотой": "40y. Mair: Ruling the Void"
             "40z. Розанваллон: контрдемократия": "40z. Rosanvallon: Counter-Democracy"
+            "40aa. Рансимен: как кончается демократия": "40aa. Runciman: How Democracy Ends"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -368,6 +369,7 @@ nav:
       - "40x. Манен: выборы как аристократия": 06-critique-arsenal/040x-manin.md
       - "40y. Мэр: правя пустотой": 06-critique-arsenal/040y-mair.md
       - "40z. Розанваллон: контрдемократия": 06-critique-arsenal/040z-rosanvallon.md
+      - "40aa. Рансимен: как кончается демократия": 06-critique-arsenal/040aa-runciman.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
