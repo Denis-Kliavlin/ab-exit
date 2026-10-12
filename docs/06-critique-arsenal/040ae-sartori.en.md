@@ -32,7 +32,17 @@
 
 **Residual.** Sartori would not accept "price instead of opinion" in the referendum on the rule itself — for him that is surrender to ignorance in bookkeeping form. But his main demand — that there be more knowledge — the protocol meets not by enlightenment but by demand; and it is tested by the pilot: does the share of those who return grow from the second cycle (048l).
 
-## 3–5. Polarised pluralism; demo-power and demo-protection; vertical democracy
+## 3. Polarised pluralism
+
+**The argument** (*Parties and Party Systems*, ch. 6). With five or more parties and anti-system flanks, competition becomes centrifugal: parties run from the centre to the edges, the centre empties, and the system works for an "irresponsible opposition" — the flanks promise everything because they will never govern. Weimar, the Fourth Republic, Italy in the 1970s.
+
+**The strike.** The protocol removes from the polls those who are brought — and they are brought to the centre and to power (the core); the flanks rest on the committed, who will not take the payment. The protocol strips the centre and strengthens the flanks.
+
+**The answer.** Sartori's centre empties not because centrists are few but because they are burned — nobody fights for them when the outcome is decided by two brought-in cores and the layer (040v item 1). The protocol brings them back with a vote that has a share (1f §6) — the only offer that fills the centre not with a party but with voters. The flanks: the committed fanatic will not take the payment — true, but fanatics are few; the flank's numbers come from the same brought-in and frightened as the core's (1f §2c: the core is the dependent, not the fanatics; 040w item 3: hysteria is for sale). The protocol takes the mass from the flank and leaves it the committed — and that is the size at which a flank is safe. Sartori's centrifugality is the product of an irresponsible opposition that can promise everything; under the protocol promises must be made to those who stayed and remember (040x item 5), and promising everything stops paying off.
+
+**Residual.** Sartori measured polarisation by the number of parties and ideological distance; the protocol changes neither — it changes who stands behind them. That the flanks lose mass rather than the centre is the thesis of 1f §2c and 040w item 3; the first measurement will come from a pilot asking the takers "whom would you have voted for" (048l).
+
+## 4–5. Demo-power and demo-protection; vertical democracy
 
 *Examined one at a time; added as they are examined.*
 
@@ -42,6 +52,7 @@
 |---|---|---|---|
 | the referendum is zero-sum without deliberation | yes — for the complex | the protocol's question is the simplest; a lock, not rule; no zero sum; the last referendum on the complex — thereafter deliberation at elections and in parliament (the architect's move) | will not take place in an autocracy — the route |
 | demo-ignorance | yes, a mood instead of an opinion | the apathetic is exactly informed about the price of his vote; knowledge did not grow because it was not needed; the protocol creates demand for knowledge — economics instead of pedagogy (the architect's move) | the growth of knowledge — measured by the pilot |
+| polarised pluralism | yes, the centre empties | the centre is empty because burned — the protocol refills it with voters; the flanks lose mass, the committed remain; promising everything stops paying | measurement: whom the takers would have voted for |
 
 ## Weak point
 
