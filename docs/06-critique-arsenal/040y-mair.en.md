@@ -39,7 +39,7 @@
 | Germany | ≈ €225 m (absolute ceiling 2024) | €400 × 30 m ≈ €12 bn | ≈ 2 % |
 | Russia | ≈ 7 bn ₽ (152 ₽ per vote per year) | 40,000 ₽ × 50 m ≈ 2 trn ₽ | ≈ 0.3 % |
 
-The party purse covers a few per cent of the payment, not the payment; the source is the one in 048n (audit and return of what was stolen, "I return, I do not hand out") and in 048k (the budget, Art. 1 part 4). But as a new government's first step it is the exact move: the most symbolic budget line that can be closed in the first week — and the first by which the voter understands that the government has changed.
+The party purse covers a few per cent of the payment, not the payment; the source is the one in 048n (audit and return of what was appropriated without payment, "I return, I do not hand out") and in 048k (the budget, Art. 1 part 4). But as a new government's first step it is the exact move: the most symbolic budget line that can be closed in the first week — and the first by which the voter understands that the government has changed.
 
 ## 4. Responsibility versus responsiveness
 
