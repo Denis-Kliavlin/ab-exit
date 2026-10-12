@@ -180,12 +180,14 @@ PARTS = {
         ("PART 2. THE CHARTER", "08-implementation/048m-charter.en.md", "## THE CHARTER", "## What did not enter the charter and why"),
         ("PART 3. A CANDIDATE'S TEN QUESTIONS", "08-implementation/048n-underdog-questions.en.md", "## Ten questions", "## Weak point"),
         ("PART 4. INDEX OF OBJECTIONS - EACH IN THE OPPONENT'S WORDS", "01-introduction/001g-objections-index.en.md", "## \"This is vote-buying\"", "## Weak point"),
+        ("PART 5. GLOSSARY - TERMS ARE STATES AND ECONOMIC TERMS, NOT JUDGEMENTS", "01-introduction/001h-glossary.en.md", "## Terms", "## Weak point"),
     ],
     "ru": [
         ("ЧАСТЬ 1. ДВАДЦАТЬ УТВЕРЖДЕНИЙ И ЯЗЫК ТЕОРИИ ИГР", "01-introduction/001d-exact-answers.md", "## Двадцать утверждений", "## Частые ошибки чтения"),
         ("ЧАСТЬ 2. УСТАВ", "08-implementation/048m-charter.md", "## УСТАВ", "## Что в устав не вошло и почему"),
         ("ЧАСТЬ 3. ДЕСЯТЬ ВОПРОСОВ КАНДИДАТА", "08-implementation/048n-underdog-questions.md", "## Десять вопросов", "## Слабое место"),
         ("ЧАСТЬ 4. УКАЗАТЕЛЬ ВОЗРАЖЕНИЙ - КАЖДОЕ СЛОВАМИ ОППОНЕНТА", "01-introduction/001g-objections-index.md", "## «Это подкуп избирателей»", "## Слабое место"),
+        ("ЧАСТЬ 5. ГЛОССАРИЙ - ТЕРМИНЫ ЭТО СОСТОЯНИЯ И ЭКОНОМИЧЕСКИЕ ПОНЯТИЯ, НЕ ОЦЕНКИ", "01-introduction/001h-glossary.md", "## Термины", "## Слабое место"),
     ],
 }
 

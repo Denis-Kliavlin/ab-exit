@@ -1,0 +1,50 @@
+# 1h. Glossary: the Repository's Terms — What They Mean and What They Are Not
+
+**Chapter:** 01 — Introduction
+**File:** 01_001h · v1 · 12 October 2026
+**Purpose:** the words the repository uses for voters and government sound like judgements — "apathetic", "burned", "thinking", "steals". They are not judgements but terms with exact meanings; a critic who reads them as morality (040ab, Mudde; 040af, Müller) reads something other than what is written. Each term is defined here once. **Writing rule:** in the repository's text a term is put in quotation marks at its first use in a chapter — "apathetic", "burned" — so that it is seen to be a word from the glossary, not a characterisation of a person. The architect's decision of 12 October 2026.
+
+---
+
+*How to read. All the terms for people here are **states**, not types: a state is chosen or arises and changes from election to election; a type is assigned for good. One person may be "apathetic" at one election and "one who stays" at the next. No term says who is better; each says to whom what is worth more.*
+
+## Terms
+
+| Term | Meaning | What it is not | In full |
+|---|---|---|---|
+| **the protocol**, AB-EXIT | the rule: before each election every voter chooses A — vote, or B — take the payment and sit this election out; introduced and repealed only by referendum | not a party, a candidate or a programme; it takes no power | [1b](001b-essence.md), [048m](../08-implementation/048m-charter.md) |
+| **choice A / choice B** | vote / take the payment; B is final within one election, at the next the choice is made anew | not a status or category of citizen; rights do not depend on the choice | [048m Arts. 5, 16](../08-implementation/048m-charter.md) |
+| **the payment** | a percentage of the jurisdiction's median income, set by referendum; only the budget pays | not vote-buying: vote-buying is when a candidate or party pays for a vote or for turnout; not a fixed sum | [1d, statement 6](001d-exact-answers.md), [1g](001g-objections-index.md) |
+| **share of the vote**, amplification, "×3" | arithmetic: if two-thirds took the payment, each ballot cast is three times as large a share; equally for all who vote | not a multiplier or coefficient: one ballot is one vote | [1d, statements 11–12](001d-exact-answers.md) |
+| **the counter** | public numbers: how many voted, how many took, how many did neither | not a rating or a poll — a fact from the election's results | [048m Art. 10](../08-implementation/048m-charter.md) |
+| **the precinct balance** | reconciliation: the precinct's voters = those who voted + those who took + those who abstained; double spending is on the commission | not control over who chose what: names are not published | [048m Art. 5 part 3, Arts. 9–10](../08-implementation/048m-charter.md) |
+| **the thermostat** | feedback: the more took, the higher the share of each remaining vote and the more it is worth returning — and they return; exit itself raises the price of entry | not a manual setting: both arms move at once, there is no lever | [1b](001b-essence.md), [040ae item 4](../06-critique-arsenal/040ae-sartori.md) |
+| **state** (not type) | a voter's position at a given election — "apathetic", "burned" and so on; changes from election to election | not character, class or psychotype | [1f](001f-core-electorate.md) |
+| **"apathetic"** | a voter with a short horizon for whom elections change nothing, and who votes only if brought | not "lazy" or "stupid": his estimate "my vote changes nothing" is accurate today | [1f §2, §5](001f-core-electorate.md), [040ae item 2](../06-critique-arsenal/040ae-sartori.md) |
+| **"the meek"** | a voter who votes "so that it does not get worse", under fear of losing the little he has | not a coward: fear under dependence is rational | [1f §2](001f-core-electorate.md) |
+| **"the core"** | the composition that decides the outcome today: the budget-dependent, mostly older, who are brought | not "the enemy", not "fanatics", not "bad people" — a predictable response to dependence | [1f §2, §2b, §2c](001f-core-electorate.md) |
+| **"the brought-in"** | those delivered to the election — by fear, by the employer, by a promise, by bus | not "bought": they receive no payment, that is the point | [1f §5](001f-core-electorate.md), [040ac item 1](../06-critique-arsenal/040ac-lipset.md) |
+| **"the layer"** | the thin wavering stratum that decides the outcome when two cores cancel each other; decides last, by image | not "the centre" or "the moderates" | [040v item 1](../06-critique-arsenal/040v-przeworski.md) |
+| **"the burned"** | those who voted, saw the core could not be outvoted, and stopped going | not "disappointed idealists" or "the best": a description of a path, not of quality | [1f §6](001f-core-electorate.md) |
+| **"those who stay"** | all who chose A at this election — whatever they were before | not "the real people", not "the elite": the composition of one election, different at the next | [040ab item 2](../06-critique-arsenal/040ab-mudde.md) |
+| **"the takers"** | all who chose B at this election | not "sold out", not "excluded": the same rights, the vote in the referendum on the rule remains | [048m Art. 5 part 5, Art. 16](../08-implementation/048m-charter.md) |
+| **"long / short horizon"** | how far ahead a voter counts consequences: beyond the cycle, or until tomorrow; depends on position (stake, dependence), not on intelligence | not "clever / stupid", not "young / old" | [1f §7](001f-core-electorate.md), [036e §10](../06-critique-arsenal/036e-nobel-fifth-circle.md) |
+| **"thinking"**, "the thinking middle class" | one to whom the vote is worth more than the payment, because he has a stake beyond the cycle | not praise and not IQ: a synonym of "long horizon" in the context of choice A | [040v item 1](../06-critique-arsenal/040v-przeworski.md), [040af](../06-critique-arsenal/040af-muller.md) |
+| **"remembering"** | a voter who at the second election will check what the representative said and did; memory is a consequence of stake | not a moral quality | [040x item 5](../06-critique-arsenal/040x-manin.md) |
+| **"the government"** | the sitting elected and the apparatus; a predictable response to the composition of deciders | not "the enemy": the protocol names no enemies, it changes the composition and the government changes after it | [1f §2b](001f-core-electorate.md), the head of `llms-full` |
+| **"the elite"** | those who nominate and are nominated | not "corrupt": Mudde's three-marker test — zero of three | [040ab item 1](../06-critique-arsenal/040ab-mudde.md) |
+| **"steals"**, "appropriates" | an economic term: uses the citizen's resource (his vote, his turnout) for free and without his consent | not a moral verdict and not an accusation of crime; the protocol's answer is a price, not a punishment | [029 §29.11](../06-critique-arsenal/029-hypocrisy.md), [040ab item 1](../06-critique-arsenal/040ab-mudde.md) |
+| **"bribery"** (of state party funding) | legally: payment from the budget for the vote, permitted by a law written by the recipients | not about the payment to the voter under the protocol — that is by a rule adopted by referendum | [040y item 3](../06-critique-arsenal/040y-mair.md) |
+| **"populist"** | a politician whose support rests on the brought-in and the layer and whose promises address the short horizon | not a term of abuse: a description of the one from whom the protocol takes the free voter | [040ab item 5](../06-critique-arsenal/040ab-mudde.md), [039b](../07-manifesto/039b-idealists-and-populist-cycle.md) |
+| **"underdog"** | a candidate not from the government who puts the protocol to a referendum because he has nothing to lose from a change of composition | not "a hero" and not "the opposition" in general | [048n](../08-implementation/048n-underdog-questions.md) |
+| **"sick" jurisdictions** | cities and countries with low turnout, debt and no alternation, where the protocol is tested first | not an insult: "the sick first" is an order of testing, not a diagnosis of people | [040m §5d](../06-critique-arsenal/040m-cold-reader-audit.md), [048l](../08-implementation/048l-courtyard-pilot.md) |
+| **"punishment or price"** | the populism test: the populist jails, the protocol presents a bill | — | [040ab item 1](../06-critique-arsenal/040ab-mudde.md) |
+| **"the bounty trap"** | the error of comparing the protocol with an ideal instead of with the present system | — | [040m](../06-critique-arsenal/040m-cold-reader-audit.md) |
+
+## Weak point
+
+The glossary fixes meanings after the fact: chapters written before 12 October 2026 use these words without quotation marks, and rewriting them all is not intended — the marks are obligatory for new texts, old ones are read through this table. And quotation marks do not protect against quotation: a critic who needs three words will take "the government steals" without the marks and without the link; the glossary is for the reader who gets as far as the question "what is meant here".
+
+---
+
+**Related:** [1d](001d-exact-answers.md) · [1f](001f-core-electorate.md) · [1g](001g-objections-index.md) · [040ab](../06-critique-arsenal/040ab-mudde.md) · [040af](../06-critique-arsenal/040af-muller.md)
