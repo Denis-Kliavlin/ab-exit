@@ -218,6 +218,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40aa. David Runciman: How Democracy Ends — Five Arguments on Fatigue, Technology and Zombie Democracy](06-critique-arsenal/040aa-runciman.md)
 - [40ab. Cas Mudde: Populism — Five Arguments and a Check Whether the Protocol Itself Is Populism](06-critique-arsenal/040ab-mudde.md)
 - [40ac. Seymour Martin Lipset: Political Man — Five Arguments on Apathy as a Stabiliser and the Authoritarianism of the Short Horizon](06-critique-arsenal/040ac-lipset.md)
+- [40ad. Carole Pateman: Participation and Democratic Theory — the Argument of the School of Participation and the Vote That Equals Minus One](06-critique-arsenal/040ad-pateman.md)
 
 ## Part II — Social Architecture
 
