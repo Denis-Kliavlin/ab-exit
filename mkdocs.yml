@@ -207,6 +207,7 @@ plugins:
             "40t. Лейпхарт: неравное участие": "40t. Lijphart: Unequal Participation"
             "40u. Даль: пять критериев": "40u. Dahl: Five Criteria"
             "40v. Пшеворский: зачем выборы": "40v. Przeworski: Why Bother With Elections"
+            "40w. Крастев: свет, обманувший надежды": "40w. Krastev: The Light That Failed"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -360,6 +361,7 @@ nav:
       - "40t. Лейпхарт: неравное участие": 06-critique-arsenal/040t-lijphart.md
       - "40u. Даль: пять критериев": 06-critique-arsenal/040u-dahl.md
       - "40v. Пшеворский: зачем выборы": 06-critique-arsenal/040v-przeworski.md
+      - "40w. Крастев: свет, обманувший надежды": 06-critique-arsenal/040w-krastev.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
