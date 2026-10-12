@@ -42,9 +42,21 @@
 
 **Residual.** Sartori measured polarisation by the number of parties and ideological distance; the protocol changes neither — it changes who stands behind them. That the flanks lose mass rather than the centre is the thesis of 1f §2c and 040w item 3; the first measurement will come from a pilot asking the takers "whom would you have voted for" (048l).
 
-## 4–5. Demo-power and demo-protection; vertical democracy
+## 4. Demo-power and demo-protection
 
-*Examined one at a time; added as they are examined.*
+**The argument.** Two sides of democracy: "demo-protection" — that the people are not oppressed, and "demo-power" — that the people rule. The first is attainable and attained: rights, courts, rotation. The second is a myth: the people do not rule and cannot, the elected rule; to demand demo-power is to shake demo-protection for the unattainable. Hence Sartori's minimalism, close to Schumpeter (040q) and Przeworski (040v).
+
+**The strike.** The protocol is a demo-power project: "the one with something to lose will decide" — that is, part of the people will rule better. You shake a working protection for a myth.
+
+**The answer.** The protocol is not demo-power but demo-protection, and that must be said plainly. It does not let the people rule: representation remains entire (040x item 2), the elected rule. It protects the people from one oppression Sartori did not name in 1987: the free use of their vote by those who bring them (029 §29.11 — "convenient when everyone guards for free what only you can use"). Rights, courts and rotation protect from the state as force; the protocol — from the state as employer and transporter. It is an extension of demo-protection into the area where it did not work, and no existing protection is touched (048m Art. 16).
+
+**Sartori's continuation and the architect's move.** Sartori would ask: if this is protection, why the amplified vote of those who stay — that is already power. The architect: "the growth of the vote with the number of takers and the reverse is a perfect balance: on any shift both arms move at once, and in that lies the mathematical exactness and balance of the protocol." It is a scale with one beam: one arm is the takers, the other those who stay, and they cannot move separately. Every taker at once reduces the number of voters and increases the share of every remaining vote; every returner does the reverse (1d, statement 12; 040aa item 5). There is no moment when one arm has moved and the other not yet, because these are not two rules but one quantity: the share of a vote equals one divided by the number of those who stay. So nobody assigns "power to those who stay" — it cannot be assigned: it equals exactly how many left, and returns exactly as they return. The protocol is not calibrated for power — it is self-balancing; the amplification is not a design but an identity. That is the answer to Sartori's suspicion: demo-protection from dilution, with no separate lever by which it could be made into demo-power.
+
+**Residual.** None by mechanism. By terminology — Sartori would leave the word "protection" in question: a protection that changes the share of a vote did not occur in his vocabulary; but neither was the dilution of a vote by the brought-in called oppression in it.
+
+## 5. Vertical democracy
+
+*Examined separately; added as it is examined.*
 
 ## Summary
 
@@ -53,6 +65,7 @@
 | the referendum is zero-sum without deliberation | yes — for the complex | the protocol's question is the simplest; a lock, not rule; no zero sum; the last referendum on the complex — thereafter deliberation at elections and in parliament (the architect's move) | will not take place in an autocracy — the route |
 | demo-ignorance | yes, a mood instead of an opinion | the apathetic is exactly informed about the price of his vote; knowledge did not grow because it was not needed; the protocol creates demand for knowledge — economics instead of pedagogy (the architect's move) | the growth of knowledge — measured by the pilot |
 | polarised pluralism | yes, the centre empties | the centre is empty because burned — the protocol refills it with voters; the flanks lose mass, the committed remain; promising everything stops paying | measurement: whom the takers would have voted for |
+| demo-power and demo-protection | yes, the distinction holds | the protocol is demo-protection from the free use of the vote; the amplification is not a lever but an identity: both arms of the scale move at once (the architect's move) | the term "protection" — in question for Sartori |
 
 ## Weak point
 
