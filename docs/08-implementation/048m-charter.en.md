@@ -230,7 +230,7 @@ An independent AI reader in the role of counsel to an election commission read t
 - Article 10: in the reconciliation "records = votes + payments + those who neither chose nor voted" the last term is a residual, and the identity cannot fail.
 - Article 10 and chapters 048h–048i: the open channel issues a verifiable token, while 048h calls a receipt of the vote a threat to secrecy. The charter does not say what a token reveals.
 - Article 14 and the annex: the ban on elected bodies altering the charter rests on the "legal route", which is left to experts.
-- Article 15: the word "forever" in the ballot line — and repeal by simple majority.
+- Article 15: the word "forever" in the ballot line — and repeal by simple majority. *Resolved 12 October 2026:* what protects is not the lock but the rule's self-enforcement — breaking it gathers "the takers" and "those who stay" at once; a simple majority suffices (040v §6).
 
 **Terms without a definition.** Median income; administrative records; authorised body; citizen and holder of the right to vote; channel (used in different senses in Articles 5 and 10); token; conditional ballot; the court; personal account; money flows.
 

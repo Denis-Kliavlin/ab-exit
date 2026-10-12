@@ -92,6 +92,7 @@ For the opponent this too is a fork. Keeping the "empty places" on the roll mean
 | The autocrat and his own budget | outbid — pay himself past the intermediaries; ask people not to take it — a tenth at most have the fanaticism required | 056e.2 |
 | The regime after launch | cut the payments — get an influx of the enraged with a tenfold vote; print money — inflation eats the payment | 056e.3 |
 | The dictator and the army | order suppression — the soldier kills the source of his own income; do not — there is nothing else to repeal the protocol with | 048d.3 |
+| The government and the rule itself | cut it or touch it — gather "the takers" (money) and "those who stay" (share) against itself at once, with the opposition at the head and an army of takers; leave it — live under a rule it pays more to keep than to break | 040v.6, 040ag.5 |
 | A dependent court and its honest judges | keep them — put up with inconvenient rulings; throw them out — hand them to a parallel court where their rulings are open and cited | 048j.5e |
 | The ruler before his own family | does not see the solution — a fool; sees it and does not introduce it — a thief | 048d.5 |
 | The dictator and the defector from the elite | kill him — make a martyr; leave him — he prepares the transition | 048d.6, 057c.4 |
