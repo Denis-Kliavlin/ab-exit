@@ -254,6 +254,7 @@ plugins:
             "59e. Кампания андердога": "59e. The Underdog Campaign"
             "59f. Пратт, Чикаго-2027, 14 дней Трампа": "59f. Pratt, Chicago 2027, Trump's 14 Days"
             "59g. Промежуточные-2026 и сценарий Миссури": "59g. Midterms 2026 and the Missouri Scenario"
+            "59h. Реестр избирателей США": "59h. The US Voter Roll"
 
 markdown_extensions:
   - admonition
@@ -465,6 +466,7 @@ nav:
       - "59e. Кампания андердога": 10-usa/059e-underdog-campaign.md
       - "59f. Пратт, Чикаго-2027, 14 дней Трампа": 10-usa/059f-pratt-chicago-trump.md
       - "59g. Промежуточные-2026 и сценарий Миссури": 10-usa/059g-midterms-2026-missouri-scenario.md
+      - "59h. Реестр избирателей США": 10-usa/059h-voter-roll.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md
