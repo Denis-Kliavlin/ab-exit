@@ -1,8 +1,8 @@
-# 1i. Register of Side Effects: What the Protocol Gives Without Promising
+# 1i. Register of Consequences: What the Rule Gives Without Promising
 
 **Chapter:** 01 — Introduction
 **File:** 01_001i · v1 · 12 October 2026
-**Purpose:** the protocol promises one thing — the choice A or B before each election and a price for non-participation. Everything else in this table is a consequence of one balance (040ae item 4: both arms of the scale move together) that the rule does not promise and that was found in examinations one by one. As 1g collects objections, 1i collects consequences. **Rule:** a new side effect → here first, then into a chapter. The architect, 12 October 2026: "the accuracy of the roll is a side effect of the balance genuinely not planned by me as the architect"; hence the column "planned?" — an effect the author did not build in is evidence that the mechanism is deeper than the design: double-entry bookkeeping was made for merchants and gave the audit, the tax and the corporation.
+**Purpose:** the protocol promises one thing — the choice A or B before each election and a price for non-participation. Everything else in this table is a consequence of one balance (040ae item 4: both arms of the scale move together) that the rule does not promise and that was found in examinations one by one. As 1g collects objections, 1i collects consequences. The name is by the architect's decision of 12 October 2026: neither "side effects" nor "unplanned effects" — a side effect is unwanted and secondary, whereas every item here is deduced from the rule and works for it, the rule merely does not promise it. **Rule:** a new consequence → here first, then into a chapter. The architect, 12 October 2026: "the accuracy of the roll is an effect of the balance genuinely not planned by me as the architect"; hence the column "planned?" — a consequence the author did not build in is evidence that the mechanism is deeper than the design: double-entry bookkeeping was made for merchants and gave the audit, the tax and the corporation.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## Register
 
-| Effect | Mechanism | Planned? | In full | What is unknown |
+| Consequence | Mechanism | Planned? | In full | What is unknown |
 |---|---|---|---|---|
 | **the roll becomes accurate and complete** — from a battlefield to a queue at the entrance | the payment goes to everyone on the roll; the unregistered enters himself, the purged goes to court himself; the government pays for dead souls and for the first time wants them gone; accuracy stops being partisan — both sides want one list from different ends | **no** — found 12 Oct 2026 in the SAVE examination | [059g item 2](../10-usa/059g-midterms-2026-missouri-scenario.md) | the share of wrongful entries before and after |
 | a party is freed from its core and can change for the first time | "the apathetic" and "the meek" take the payment — the party has nobody left to lose by shifting | found 12 Oct 2026 | [040v item 1](../06-critique-arsenal/040v-przeworski.md) | not in the first cycle |

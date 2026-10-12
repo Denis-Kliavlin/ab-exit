@@ -744,10 +744,10 @@ PART 5. GLOSSARY - TERMS ARE STATES AND ECONOMIC TERMS, NOT JUDGEMENTS
 | **"the bounty trap"** | the error of comparing the protocol with an ideal instead of with the present system | — | [040m](../06-critique-arsenal/040m-cold-reader-audit.md) |
 
 ========================================================================
-PART 6. REGISTER OF SIDE EFFECTS - WHAT FOLLOWS FROM THE RULE WITHOUT BEING PROMISED
+PART 6. REGISTER OF CONSEQUENCES - WHAT FOLLOWS FROM THE RULE WITHOUT BEING PROMISED
 ========================================================================
 
-| Effect | Mechanism | Planned? | In full | What is unknown |
+| Consequence | Mechanism | Planned? | In full | What is unknown |
 |---|---|---|---|---|
 | **the roll becomes accurate and complete** — from a battlefield to a queue at the entrance | the payment goes to everyone on the roll; the unregistered enters himself, the purged goes to court himself; the government pays for dead souls and for the first time wants them gone; accuracy stops being partisan — both sides want one list from different ends | **no** — found 12 Oct 2026 in the SAVE examination | [059g item 2](../10-usa/059g-midterms-2026-missouri-scenario.md) | the share of wrongful entries before and after |
 | a party is freed from its core and can change for the first time | "the apathetic" and "the meek" take the payment — the party has nobody left to lose by shifting | found 12 Oct 2026 | [040v item 1](../06-critique-arsenal/040v-przeworski.md) | not in the first cycle |

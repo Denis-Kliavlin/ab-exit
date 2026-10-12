@@ -113,7 +113,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [1f. The Core Electorate: Who Decides Now — and How the Protocol Changes What an Election Is](01-introduction/001f-core-electorate.md)
 - [1g. Index of Objections: each in the opponent's words, with a three-line answer](01-introduction/001g-objections-index.md)
 - [1h. Glossary: the Repository's Terms — What They Mean and What They Are Not](01-introduction/001h-glossary.md)
-- [1i. Register of Side Effects: What the Protocol Gives Without Promising](01-introduction/001i-side-effects.md)
+- [1i. Register of Consequences: What the Rule Gives Without Promising](01-introduction/001i-consequences.md)
 2. [Protection Against Manipulation](01-introduction/002-protection.md)
 3. [Rejected Variants of the Formula](01-introduction/003-rejected-variants.md)
 4. [Basic Principles of AB-EXIT](01-introduction/004-basic-principles.md)
