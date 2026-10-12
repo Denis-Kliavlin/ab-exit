@@ -212,6 +212,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40u. Robert Dahl: Five Criteria of Democracy as an Examination for a Price for the Vote](06-critique-arsenal/040u-dahl.md)
 - [40v. Adam Przeworski: Why Bother With Elections? — Five Arguments on Minimal Democracy and What a Price for the Vote Changes](06-critique-arsenal/040v-przeworski.md)
 - [40w. Ivan Krastev: The Light That Failed — Five Arguments on Imitation, Fear and the Threatened Majority](06-critique-arsenal/040w-krastev.md)
+- [40x. Bernard Manin: The Principles of Representative Government — Five Arguments on Elections as Aristocracy and on the Voter's Memory](06-critique-arsenal/040x-manin.md)
 
 ## Part II — Social Architecture
 
