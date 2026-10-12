@@ -22,8 +22,8 @@ from pathlib import Path
 DOCS = Path(__file__).parent.parent / 'docs'
 EXPECTED_SECTIONS = set(range(1, 60))  # 1-59
 
-# NNN-name.md or NNNx-name.md (x = letter suffix for an appended section)
-SECTION_FILE = re.compile(r'^(\d{3})([a-z]?)-')
+# NNN-name.md, NNNx-name.md or NNNxx-name.md (letter suffix for an appended section; two letters after z)
+SECTION_FILE = re.compile(r'^(\d{3})([a-z]{0,2})-')
 
 # Directories under docs/ that are not book chapters and carry no section numbers
 NON_CHAPTER_DIRS = {'assets', 'qa', 'simulation'}
