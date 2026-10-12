@@ -1,8 +1,8 @@
-# 40ad. Carole Pateman: *Participation and Democratic Theory* — the Argument of the School of Participation and the Vote That Equals Minus One
+# 40ad. Carole Pateman: *Participation and Democratic Theory* — Five Arguments on the School of Participation and the Vote That Equals Minus One
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040ad · v1 · 12 October 2026
-**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The twelfth is Pateman: *Participation and Democratic Theory* (1970), *The Sexual Contract* (1988). A reconstruction from the texts; the architect's move on the first argument is recorded as a move. Arguments 2–5 are added as they are examined.
+**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The twelfth is Pateman: *Participation and Democratic Theory* (1970), *The Sexual Contract* (1988). A reconstruction from the texts; the architect's moves on the first and second arguments are recorded as moves; arguments 3–5 confirmed by the architect on 12 October 2026 ("the answers are fine").
 
 ---
 
@@ -32,9 +32,32 @@
 
 **Residual.** Pateman is right that the protocol is about the exam and opens no school at work; the repository does not promise one. But the chain "employer — turnout" has outlived every self-management, and a selected collective does not teach democracy by construction; the protocol removes the one thing that made her school dangerous for elections — a price of the vote equal to zero.
 
-## 3–5. The sense of efficacy; against Schumpeter; the sexual contract
+## 3. The sense of efficacy
 
-*Examined one at a time; added as they are examined.*
+**The argument.** Resting on Almond and Verba (*The Civic Culture*, 1963): a person takes part when he believes that taking part changes something, and the belief grows with participation — a positive loop. Efficacy is low among the poor and the dependent, which is why they do not go; democracy's task is to raise their belief, not to accept its absence.
+
+**The strike.** The protocol makes the absence of efficacy profitable: the one who does not believe his vote changes anything is paid to be confirmed in it. The loop turns downwards: did not believe — took — believes even less.
+
+**The answer.** Pateman's efficacy is a *belief*, measured by survey; the protocol replaces belief with a number. Today the apathetic is right that his vote changes nothing: one in millions with two cancelling cores (040v item 1) is not low self-esteem but an accurate estimate. Pateman proposed to raise the belief without changing the fact; the protocol changes the fact: the share of every remaining vote grows with every taker (1d, statement 12), and the efficacy of those who stay becomes true for the first time rather than felt. The taker's efficacy is not zero either, and that is new: his decision is visible on the counter, it costs the budget, and the government reads that line (040t item 2) — the first time his non-participation has affected anything. The loop does not turn downwards: for the first time it has a real basis in both directions.
+
+**Residual.** Pateman would say efficacy through money is not that efficacy: "my vote matters" and "my non-participation costs a lot" are different feelings, and the second does not make a citizen. True; but the first was a lie for the apathetic for a hundred years, and the second is true from day one, and the protocol promised no feelings — it promised numbers.
+
+## 4. Against Schumpeter: democracy is not a method of selecting elites
+
+**The argument.** Pateman is written as an answer to Schumpeter (040q): if democracy is merely competition of elites for votes, then the voter's apathy is not a problem but the norm; she rejects this as substituting democracy's procedure for democracy.
+
+**The strike.** The protocol is Schumpeterian to the end: it accepts apathy, pays for it and leaves the competition of elites for those who stay.
+
+**The answer.** The protocol stands between them. With Schumpeter — in that apathy is not cured by words and the sense of reality is strongest in the personal and the now (040q); with Pateman — in that apathy is not the norm but a result, and it has a price nobody pays today. Schumpeter accepted apathy for free; Pateman refused to accept it; the protocol accepts it for money — and thereby makes it visible, finite and reversible (040aa item 5: the more have left, the higher the share and the more have returned). Neither of the two offered a mechanism of return; the protocol has one.
+
+## 5. The sexual contract
+
+**The argument** (*The Sexual Contract*, 1988). The social contract hides another — the subordination of women, framed as private; men's "participation" is paid for by women's non-participation at home.
+
+**The strike.** The protocol pays the median to the dependent — and the core, by the repository, is mostly female (039 §88.9; 036e, Goldin); so the protocol pays for the same contract: money to the woman for not deciding.
+
+**The answer.** Goldin is examined by six nodes (036e §10): dependence is the incentive, and the core is female not by nature but by dependence on the budget that replaced the husband. The protocol pays neither for sex nor for women's non-participation — it pays everyone the same (048m Art. 4), and for the first time in the core's history gives the dependent woman an income controlled by neither husband, nor boss, nor the state-as-husband (036e §10, node 2). Pateman's contract rested on the woman having no money of her own; the protocol is the first social contract under which she has it. The horizon filter, by the architect's decision, is pro-base, not pro-female (036e §10): the one who stays is the one with a long horizon, and among women with a reliable support there are more of them.
+
 
 ## Summary
 
@@ -42,6 +65,9 @@
 |---|---|---|---|
 | participation educates | yes — participation by one's own decision | the school does not teach the brought-in; the protocol gives the first decision of one's own; for those who stay the school opens with a number; a vote under pressure is −1, the payment moves it to 0 (the architect's move) | the one who takes every time — outside the school for good |
 | participation at work | dependence is created there | it is sold at the polls; the secret payment breaks the chain "wage — loyalty — turnout"; a company is a school of agreement inside a filter, not of democracy (the architect's move) | the protocol opens no school at work |
+| the sense of efficacy | yes, a loop | belief replaced by a number: the share grows with every taker; non-participation affects something for the first time | "non-participation costs a lot" does not make a citizen |
+| against Schumpeter | yes | the protocol stands between them: apathy accepted for money — visible, finite, reversible | — |
+| the sexual contract | yes, a hidden contract | the first contract under which the dependent woman has money of her own; the filter is pro-base | — |
 
 ## Weak point
 
