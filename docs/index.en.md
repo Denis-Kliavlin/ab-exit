@@ -217,7 +217,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40z. Pierre Rosanvallon: Counter-Democracy — Five Arguments on Distrust as an Institution and on the Invisible People](06-critique-arsenal/040z-rosanvallon.md)
 - [40aa. David Runciman: How Democracy Ends — Five Arguments on Fatigue, Technology and Zombie Democracy](06-critique-arsenal/040aa-runciman.md)
 - [40ab. Cas Mudde: Populism — Five Arguments and a Check Whether the Protocol Itself Is Populism](06-critique-arsenal/040ab-mudde.md)
-- [40ac. Seymour Martin Lipset: Political Man — Five Arguments, Beginning With "Apathy as a Stabiliser"](06-critique-arsenal/040ac-lipset.md)
+- [40ac. Seymour Martin Lipset: Political Man — Five Arguments on Apathy as a Stabiliser and the Authoritarianism of the Short Horizon](06-critique-arsenal/040ac-lipset.md)
 
 ## Part II — Social Architecture
 
