@@ -1,8 +1,8 @@
-# 40af. Jan-Werner Müller: *What Is Populism?* — the Argument of Exclusive Representation and Terms in Quotation Marks
+# 40af. Jan-Werner Müller: *What Is Populism?* — Five Arguments: Exclusive Representation, Clientelism Without a Client, "Why Did They Not Vote for You", the Contest of Ideas, Fear
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040af · v1 · 12 October 2026
-**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fourteenth is Müller: *What Is Populism?* (2016), *Fear and Freedom* (2019). A reconstruction from the texts; the architect's decision after the first argument — the glossary [1h](../01-introduction/001h-glossary.md) and quotation marks on terms. Arguments 2–5 are added as they are examined.
+**Source:** the architect's assignment of 12 October 2026: "find five more political scientists not in the repo" — and "one at a time". The fourteenth is Müller: *What Is Populism?* (2016), *Fear and Freedom* (2019). A reconstruction from the texts; the architect's decision after the first argument — the glossary [1h](../01-introduction/001h-glossary.md) and quotation marks on terms; the architect's moves on arguments 3, 4 and 5 are recorded as moves; argument 2 confirmed on 12 October 2026.
 
 ---
 
@@ -56,7 +56,15 @@
 
 ## 5. Fear and freedom
 
-*Examined separately; added as it is examined.*
+**The argument** (*Furcht und Freiheit*, 2019). Through Judith Shklar: liberalism is neither faith in progress nor the market but a "liberalism of fear": the aim is that nobody should fear the arbitrary power of the state. Freedom begins where fear ends; populism is strong where liberals forgot that their task is to remove fear, not to explain why one need not be afraid.
+
+**The strike.** The protocol does not remove fear: "the meek" fears losing the allowance and the son — the payment does not cancel that; he will take it and go on fearing, and the government he fears stays. The protocol trades with fear rather than lifting it.
+
+**The answer.** The diagnosis holds, and the repository described the same fear in more detail (1f §2, "what she fears"). But the liberalism of fear has no mechanism, only an aim; the protocol is a mechanism, and it works with fear as Shklar asks: it does not explain that one need not fear, it removes one specific fear — the one the vote is made of. Today "the meek" fears twice: for the allowance, and that his absence will be noticed. The secret payment (048m Art. 9 part 3) removes the second fear: one can take so that nobody knows, and one cannot be brought (040ac item 1). The first remains, but stops being a political resource: a vote can no longer be made of it (040ad item 1). Then the thermostat: a government elected without the brought-in needs fear less, because turnout is no longer gathered by fear (040w item 5). The protocol does not trade with fear — it takes fear's buyer away.
+
+**Shklar's question and the architect's move.** Shklar would ask about arbitrariness: what of "the meek" whom the government punishes on a mere suspicion that she took? The architect: "a right question. But 'the meek' is always afraid: both that she will be punished for taking, and that she will not take while the money is needed and the children or relatives will say 'why didn't you take it'. Debts and an agonising choice for everyone. But 'the meek' knows for certain that everyone like her *wants to take*; she will know that many will take and nothing will happen to them. She does everything by law, and forcing her to vote is against the law; here psychology will work. And the boss cannot dismiss all 'the meek' — who will work then? If his department stops working he will certainly not be praised, and he himself will be explaining to his own superiors: 'well, what am I to tell them?'" Four things "the meek" never had and the protocol gives. *Fear is symmetrical:* before, one fear — not to come; now two — punishment for "took" and reproach for "did not take"; agonising, but a choice, not an order, and a choice with money on one pan. *Common knowledge:* the fear of punishment rests on being alone — "they will punish me"; under the protocol the offender is not she but the majority, and the counter shows that many took and nothing happened to them (048m Art. 10). *The law is on her side:* taking is lawful, forcing to vote is criminal (Art. 11); for the first time "the meek" is more in the right than the boss, and both know it. *The boss cannot dismiss everyone:* the chain of coercion from top to bottom runs into the fact that at the bottom is everyone, and each link explains itself upward in the same words — "well, what am I to tell them?". Shklar's arbitrariness is against one; the protocol makes "the meek" one of all.
+
+**Residual.** The honest limit is the same as in item 2: where the government has already occupied the commissions and there is no secrecy, the protocol is not introduced. Inside the field where secrecy exists there is no residual: the architect's four supports are psychology and organisation, not the charter, and they are tested by the very first election under the protocol — by the share of takers among budget employees (048l: by dependence on the employer).
 
 ## Summary
 
@@ -66,6 +74,7 @@
 | the populist in power | the three techniques hold | the payment is clientelism without a client: no loyalty, no lever, no names; the protocol makes the three techniques expensive | under occupied commissions the referendum will not take place |
 | "the silent majority" | yes, the device holds | silence gets a number; "the system disgusts them" → then why did they not vote for you — you were on the ballot, they preferred the money (the architect's move) | — |
 | talking with populists | yes, the cordon harms | the protocol excludes nobody — it removes the voter's free-of-charge status; the contest of ideas becomes profitable when people listen attentively (the architect's move; 040v, 040x, 040ae, 013) | timescale — from the second cycle |
+| fear and freedom | yes, the liberalism of fear | the protocol removes the fear the vote is made of; "the meek": fear is symmetrical, everyone wants to take, the law is on her side, not everyone can be dismissed — "what am I to tell them?" (the architect's move) | under occupied commissions — not introduced |
 
 ## Weak point
 

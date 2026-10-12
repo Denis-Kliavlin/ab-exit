@@ -221,7 +221,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40ac. Seymour Martin Lipset: Political Man — Five Arguments on Apathy as a Stabiliser and the Authoritarianism of the Short Horizon](06-critique-arsenal/040ac-lipset.md)
 - [40ad. Carole Pateman: Participation and Democratic Theory — Five Arguments on the School of Participation and the Vote That Equals Minus One](06-critique-arsenal/040ad-pateman.md)
 - [40ae. Giovanni Sartori: The Theory of Democracy Revisited — Five Arguments: the Last Referendum on the Complex, Demand for Knowledge, a Scale With One Beam](06-critique-arsenal/040ae-sartori.md)
-- [40af. Jan-Werner Müller: What Is Populism? — the Argument of Exclusive Representation and Terms in Quotation Marks](06-critique-arsenal/040af-muller.md)
+- [40af. Jan-Werner Müller: What Is Populism? — Five Arguments: Exclusive Representation, Clientelism Without a Client, "Why Did They Not Vote for You", the Contest of Ideas, Fear](06-critique-arsenal/040af-muller.md)
 
 ## Part II — Social Architecture
 
