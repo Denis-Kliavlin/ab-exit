@@ -287,6 +287,7 @@ United States is one country case among others, not the frame of the document.*
 - [55b. 🇫🇷 France: Le Pen, Yellow Vests, 'de Gaulle of the 21st Century'](09-other-countries/055b-france.md)
 - [55c. 🇩🇪 Germany: AfD, Foreign Funding, 'Special Filters'](09-other-countries/055c-germany.md)
 - [55d. 🇬🇧 United Kingdom: Brexit, Cummings and the 'Dark Matter' of Non-Voters](09-other-countries/055d-uk-brexit.md)
+- [55e. 🇫🇷 France, October 2026: the Line-up Six Months Out, a Forecast Under the Protocol, and a Route That "Never Worked"](09-other-countries/055e-france-2027-forecast.md)
 56. [🇷🇺 Russia: An Adoption Scenario Under the Current Regime](09-other-countries/056-russia.md)
 - [56d. 🇷🇺 Russia: The Opposition Deadlock and the Core Electorate's Zugzwang](09-other-countries/056d-russia-opposition-deadlock.md)
 - [56e. 🇷🇺 Russia: Contract Soldiers and the Separating Equilibrium](09-other-countries/056e-russia-contract-soldiers.md)

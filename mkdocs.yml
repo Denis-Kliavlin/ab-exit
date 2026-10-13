@@ -242,6 +242,7 @@ plugins:
             "55b. Франция": "55b. France"
             "55c. Германия": "55c. Germany"
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
+            "55e. Франция-2027: прогноз": "55e. France 2027: Forecast"
             "56d. Россия: тупик оппозиции": "56d. Russia: The Opposition Deadlock"
             "56e. Россия: контрактники": "56e. Russia: Contract Soldiers"
             "56f. Россия, сентябрь 2026": "56f. Russia, September 2026"
@@ -443,6 +444,7 @@ nav:
       - "55b. Франция": 09-other-countries/055b-france.md
       - "55c. Германия": 09-other-countries/055c-germany.md
       - "55d. Великобритания: Брексит": 09-other-countries/055d-uk-brexit.md
+      - "55e. Франция-2027: прогноз": 09-other-countries/055e-france-2027-forecast.md
       - "56. Россия": 09-other-countries/056-russia.md
       - "56d. Россия: тупик оппозиции": 09-other-countries/056d-russia-opposition-deadlock.md
       - "56e. Россия: контрактники": 09-other-countries/056e-russia-contract-soldiers.md
