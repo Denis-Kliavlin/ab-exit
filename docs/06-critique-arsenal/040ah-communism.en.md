@@ -52,6 +52,14 @@ The first answer said: "the protocol gives money and a share of the vote — and
 
 Communism gave meaning through belonging and hatred; the protocol through efficacy and children. The second sings no songs, but demands no martyrs either.
 
+## 5. What the protocol works against: not ideas but a method
+
+The architect's question of 13 October 2026: "so the protocol works not only against populism but against communism too?" Yes — with an exact limit: not against communism as an idea, but against the method by which communism, populism and any mass ideology win support. The protocol does not know the word "communist", as it does not know the word "populist" (040ab: it names no enemies). It works against four channels, and communism and populism share them: "the brought-in" — the party cell, the quota, fear — take B under the protocol; the enemy — the bourgeois or the migrant — the wedge hits those already at home with the money (040w item 3); the unverifiable promise — a bright future in generations or "make it again" — is checked every cycle by the counter; "the silent majority" — silence is counted and paid (040af item 3).
+
+Four refinements. *The protocol is neutral to content:* if a communist party persuades "those who stay" by argument, it wins, and the protocol will not stop it; Czechoslovakia in 1946, with 38 % at a free election, would get its 38 % among the thinking under the protocol. The protocol is against not the idea but victory without persuasion. *Communism took power not by elections* (§1) — against a coup and an army the protocol does not work, like no electoral rule (040ac item 1); it works against the electoral channel: the third that was the party cell and the bringing-in, and against that third looking like a majority. *Communism in power will not adopt it* — a referendum and an open roll are needed; the protocol is not a weapon against existing regimes but a vaccine for countries where elections still decide: it closes the road to power through bringing-in and an enemy, the road taken by the Bolsheviks in the Constituent Assembly and the populists in 2016. *The most exact coincidence:* the party-apparatus that outlived the idea by half a century is "the core" with its clerks (039 §88.9) in pure form; the protocol strikes it because the apparatus lives on the dependent, and the dependent take B.
+
+The formula: the protocol is neither anti-populism nor anti-communism but anti-bringing-in. Any ideology that can win only with the brought, the frightened and the silent loses its road to power under it; any that can persuade does not.
+
 ## Summary
 
 | Question | Communism | The protocol |
