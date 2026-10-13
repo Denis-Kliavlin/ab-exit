@@ -227,6 +227,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40ag. Charles Tilly: Democracy — Five Arguments: the Network That Does Not Want to Govern, Choice B as a Decision, "Understands" Is Not a Category, the Trap for Coercion](06-critique-arsenal/040ag-tilly.md)
 - [40ah. Communism and the Protocol: How Support Is Won — a Hundred Years Without Logic or Morality Against a Rule With a Number](06-critique-arsenal/040ah-communism.md)
 - [40ai. How Communism Arises: Five Conditions Then and Now — and Which of Them the Protocol Touches](06-critique-arsenal/040ai-how-communism-arises.md)
+- [40aj. Russell Dalton: The Apartisan American — Five Arguments: the Apartisan Is the Burned Before Exit, Turnout Is Not an Axis, an Instrument for the Pilot](06-critique-arsenal/040aj-dalton.md)
 
 ## Part II — Social Architecture
 
