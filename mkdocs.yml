@@ -222,6 +222,7 @@ plugins:
             "40af. Мюллер: исключительное представительство": "40af. Müller: Exclusive Representation"
             "40ag. Тилли: сети доверия": "40ag. Tilly: Trust Networks"
             "40ah. Коммунизм и протокол": "40ah. Communism and the Protocol"
+            "40ai. Как возникает коммунизм": "40ai. How Communism Arises"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -393,6 +394,7 @@ nav:
       - "40af. Мюллер: исключительное представительство": 06-critique-arsenal/040af-muller.md
       - "40ag. Тилли: сети доверия": 06-critique-arsenal/040ag-tilly.md
       - "40ah. Коммунизм и протокол": 06-critique-arsenal/040ah-communism.md
+      - "40ai. Как возникает коммунизм": 06-critique-arsenal/040ai-how-communism-arises.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

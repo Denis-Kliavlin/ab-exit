@@ -226,6 +226,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40af. Jan-Werner Müller: What Is Populism? — Five Arguments: Exclusive Representation, Clientelism Without a Client, "Why Did They Not Vote for You", the Contest of Ideas, Fear](06-critique-arsenal/040af-muller.md)
 - [40ag. Charles Tilly: Democracy — Five Arguments: the Network That Does Not Want to Govern, Choice B as a Decision, "Understands" Is Not a Category, the Trap for Coercion](06-critique-arsenal/040ag-tilly.md)
 - [40ah. Communism and the Protocol: How Support Is Won — a Hundred Years Without Logic or Morality Against a Rule With a Number](06-critique-arsenal/040ah-communism.md)
+- [40ai. How Communism Arises: Five Conditions Then and Now — and Which of Them the Protocol Touches](06-critique-arsenal/040ai-how-communism-arises.md)
 
 ## Part II — Social Architecture
 
