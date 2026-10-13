@@ -83,6 +83,20 @@ Translation: the burned one is an apartisan who has taken one more step. Dalton 
 
 *The forecasts diverge.* Dalton and the repository differ on one testable point: whether apartisans vote. If they do — the return is small, and the protocol removes only the lower cells; that is still a result (item 3), but a smaller one. If they do not — the return is large, and 1f §3 is confirmed. The pilot decides, and the repository undertakes to record either outcome.
 
+## 7. The Ayn Rand Institute as an opponent — the architect's decision
+
+The architect's question: "So perhaps offer the protocol for promotion to the Ayn Rand Institute itself?" The assistant's assessment: as a promoter — no (the doctrine is against a payment from taxes; a wing's face is the worst thing for the abandoned middle; the institute is not the readers: ten million against tens of thousands); as a recipient of the package — yes: "they will not promote it, they will demolish it, with quotations from the source". The architect's decision: "Fine. But I very much doubt it — let them try."
+
+The mode is the same as for the laureates (036e): the package for the cold reader (1d, llms-full, 048m), with no request for support. What to expect and what is ready in advance:
+
+*The Objectivist's blow.* "Payment B is the producers' money handed to those who do not produce, for not voting. Bribing the parasites out of Atlas's pocket." This is the purest of all blows in the "bribery" register (040ab), because it comes from people for whom a tax is theft by definition.
+
+*The answer from their own source.* In Rand the system rests on "the sanction of the victim": the producers themselves agree to feed it. But at elections the sanction is given not by the producer but by the apathetic: his vote is what the populist uses to legalise the taking (013 §13.2, 039b §4b). Today that vote is bought with packages of benefits, indexations and promises — out of the same pocket of Atlas, only without a ceiling and without a receipt (030b, 040y). The protocol puts a price, a ceiling and a receipt on that purchase: D = p × M, from the charter, in plain view (048m art. 4). The producer receives what Rand's heroes could only get by leaving for the gulch: a weight of ×2 and above — without leaving the country. The comparison is not with a world without taxes but with a world where the apathetic is bought dearer and in the dark (040p). Galt withdrew the sanction by leaving; the burned one withdraws it by staying with a share.
+
+*What this yields.* A demolition by the Objectivists is a free test of the first reading ("paid not to vote", 001d) on the most reading audience, and a public dispute with them shows the middle that the protocol is not their wing (the item "the catch"). Their approval would cost more than their attack.
+
+*Forecast.* The assistant: they will attack or stay silent, not promote. The architect doubts the demolition will succeed. The check is their answer, if any; the date is open.
+
 ## Summary
 
 | Dalton's argument | What is true | Answer | What remains |

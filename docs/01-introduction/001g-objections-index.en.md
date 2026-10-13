@@ -177,6 +177,13 @@
 **In full:** [040v §6](../06-critique-arsenal/040v-przeworski.md), [040ag item 5](../06-critique-arsenal/040ag-tilly.md), [1c](001c-board-without-good-moves.md).
 **What is unknown:** at the healthy pole the percentage may be whittled by "those who stay" themselves (tax against share); the referendum on the rule is not protected by the counter, because it has no choice B — a candidate for the charter decisions (048k §3).
 
+## "A payment from taxes is the producers' money handed to parasites" (the Objectivist)
+
+**What is true:** B is paid from the budget, that is, from the producers' taxes.
+**Answer:** the apathetic's vote is already bought today — with benefits, indexations and promises — out of the same pocket, without a ceiling or a receipt. The protocol puts a price, a ceiling and a receipt on that purchase (D = p × M, from the charter), and the producer receives a weight of ×2 and above without leaving for the gulch. Compare not with a world without taxes but with a world where the apathetic is bought dearer and in the dark.
+**Where in detail:** [040aj §7](../06-critique-arsenal/040aj-dalton.md), [040ab](../06-critique-arsenal/040ab-mudde.md), [040p](../06-critique-arsenal/040p-how-to-refute.md).
+**What is unknown:** for one who rejects taxation as such, the comparison with the current system is not an argument; the dispute with him is not about the protocol.
+
 ## "The numbers on the site are made up"
 
 **What is true:** for the role-play chapters — true: the models' replies contain their own estimates.
