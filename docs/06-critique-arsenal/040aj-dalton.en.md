@@ -97,6 +97,8 @@ The mode is the same as for the laureates (036e): the package for the cold reade
 
 *Forecast.* The assistant: they will attack or stay silent, not promote. The architect doubts the demolition will succeed. The check is their answer, if any; the date is open.
 
+*The architect's correction — the assistant again measured "before".* "You have forgotten everything again. Go to the repo. It does not matter who launches the protocol: its complex balance turns any force into its opposite and uses it for promotion." The division "promoter — no, recipient — yes" was superfluous: it is the layer's move (059g §4, the jester), while the repository holds the rule in three places — 1c "the board without good moves", 059g §4 "the protocol does not care who introduces it", 040ag item 4 "the trap for coercion". The Institute has three moves, and all work for the protocol. *They promote it* — the hardest doctrine, "taxation is theft", carries a payment from taxes: the wing is washed off the idea within the first week by their own hands, and their list of readers is the class itself (§6). *They demolish it* — advertising of the first reading to the most reading audience, and public proof for the middle that the protocol is not theirs. *They stay silent* — the underdog (059g) takes their readers without them, and the Institute loses the one thing it has: the right to speak in Atlas's name. There is no good move, as for the parties in the matrix. So it can be offered to anyone in any form, and "a wing's face" is not a risk but fuel: the protocol uses the face while it exists and washes it off when it gets in the way (059g §4, the residual withdrawn by the architect).
+
 ## Summary
 
 | Dalton's argument | What is true | Answer | What remains |
