@@ -321,6 +321,7 @@ United States is one country case among others, not the frame of the document.*
 - [59f. Pratt, Chicago 2027, the States and Trump's 14 Days](10-usa/059f-pratt-chicago-trump.md)
 - [59g. The 2026 Midterms: Three Cases Three Weeks Out and a Scenario of a Protocol Referendum in Missouri](10-usa/059g-midterms-2026-missouri-scenario.md)
 - [59h. The US Voter Roll: the Real Problem in Numbers and How the Protocol Solves It](10-usa/059h-voter-roll.md)
+- [59i. The US: the President as a Mirror of the Electorate — Katz on "Trump's Words", the Grab-and-Run Milieu, and Why There Are No Reforms](10-usa/059i-president-as-mirror.md)
 
 ## Numbers that occur twice
 
