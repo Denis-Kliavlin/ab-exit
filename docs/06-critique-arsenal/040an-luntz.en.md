@@ -48,7 +48,9 @@ Focus groups and words. The main rule is the book's title: it's not what you say
 
 **Answer.** The opponent's word is known — "bribery", and so is the answer — "price" (040ab, the test "punishment or price"). And by §1 the opponent's word works for the protocol: it sorts the hall. Luntz is right in one thing: the side with the better word wins, not the side with the better explanation — so the investment must go into the word.
 
-**Residual.** The choice of slogan among four variants is the architect's open decision, and Luntz makes it urgent.
+**The architect's move — a word does not beat a cheque.** "Words are all good for thinking about others. But even the weightiest word has trouble beating money to you personally and fast. All talk ends when the cheque has to be signed — any salesman knows that." This puts Luntz in his place: his word beats calculations about others and about later. "Death tax" won because the tax was abstract, somebody else's and some day; "climate change" because the climate is nobody's. D is concrete, yours and now. A word works while the dispute is about other people's money; when a cheque in your name is on the table, the talk ends — the deal closes not at the pitch but at the signature. The ballot line (048m art. 15) is the cheque; the slogan is only the invitation to the table. Hence the order of investment: first the sum with a yardstick on the ballot (§6, rules 2 and 10), then the word.
+
+**Residual.** The choice of slogan among four variants is the architect's open decision; after the move about the cheque it is needed for the invitation, not for the deal.
 
 ## 5. Words have stopped working
 
@@ -88,7 +90,7 @@ Result: four of ten pass — novelty, the slogan's sound, the context "Today" an
 | what matters is what they hear | yes | the word "bribery" has two listeners: the taker does not care, the stayer counts his share — the reverse Luntz (the architect's move) | a focus group of stayers |
 | aspiration beats arithmetic | yes | the number on the ballot, the aspiration in the slogan; but the line itself has none | a companion line |
 | consistency | yes, two claims | "today" is the context; two right answers bring the message to life: everyone watches what the others do (the architect's move) | — |
-| one word of fear | yes, the word wins | the opponent's word sorts the hall our way; invest in the word | the choice of slogan |
+| one word of fear | yes — about others and about later | the opponent's word sorts the hall; a word does not beat a cheque in your name — the deal closes at the signature, the ballot line is the cheque (the architect's move) | the choice of slogan — for the invitation, not the deal |
 | words stopped working | yes, for this hall | the number crosses; the protocol changes the hall — words work again | — |
 
 ## Weak point
