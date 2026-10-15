@@ -40,6 +40,7 @@
 | the rule is self-enforcing: breaking it gathers everyone against the breaker | "the takers" lose money, "those who stay" lose share — in one movement | found 12 Oct 2026 | [040v §6](../06-critique-arsenal/040v-przeworski.md) | the healthy pole — whittling by those who stay themselves |
 | the government turns to the centre, not to force | turnout is with "those who stay"; tanks do not vote | found 12 Oct 2026 | [040ag item 5](../06-critique-arsenal/040ag-tilly.md) | — |
 | the slogan unites by letting each read his own | "the vote is worth nothing — today": four readings, zero enemies | found 12 Oct 2026 | [039b §4b](../07-manifesto/039b-idealists-and-populist-cycle.md) | the choice of slogan — the architect's |
+| the partisan balance of takers is unpredictable: the line around the median is thin and shaky | what decides is not the poor and dependent (a minority) but the not-very-poor and not-very-dependent — the band around the median, for whom D is a share of their own income; the band has no party sign | found 15 Oct 2026; the architect: "had not supposed" | [040al §4](../06-critique-arsenal/040al-rove.md) | how much of the median band will take — no pilot has measured |
 
 ## Weak point
 
