@@ -140,7 +140,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 ### Article 2. The payment
 
 1. The payment D equals [p] per cent of the jurisdiction's median income M over the last twelve months for which data have been published: D = p × M. The size is set only as a percentage, never as a sum.
-2. The median is calculated by a body independent of the executive, by an open methodology and from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
+2. The median is calculated by the body that collects taxes on income, from the same base and by the same methodology by which it collects them; the methodology is open; the calculation is made from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
 3. A divergence between sources of more than [10] per cent triggers an audit with an auditor from the judiciary; the result is published within [90] days.
 4. The recalculation rule for a change of methodology is recorded before the change.
 5. No official may influence the variables of the formula.

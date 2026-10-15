@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.7 · 2 October 2026 (session 01.10.26)
+**File:** 08_048m · v0.8 · 15 October 2026 (session 01.10.26; art. 2 part 2 — the fifteenth decision of 15.10.2026)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -34,7 +34,7 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 ### Article 2. The payment
 
 1. The payment D equals [p] per cent of the jurisdiction's median income M over the last twelve months for which data have been published: D = p × M. The size is set only as a percentage, never as a sum.
-2. The median is calculated by a body independent of the executive, by an open methodology and from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
+2. The median is calculated by the body that collects taxes on income, from the same base and by the same methodology by which it collects them; the methodology is open; the calculation is made from administrative records, not from a survey. The calculation continues as long as at least one authorised body publishes the data.
 3. A divergence between sources of more than [10] per cent triggers an audit with an auditor from the judiciary; the result is published within [90] days.
 4. The recalculation rule for a change of methodology is recorded before the change.
 5. No official may influence the variables of the formula.
@@ -237,6 +237,8 @@ An independent AI reader in the role of counsel to an election commission read t
 **What the charter does not cover.** Voters abroad; people without a bank account and without a document; death or incapacity between the choice and polling day; gaining or losing the right to vote after the window opens; a second round; simultaneous elections of several levels; by-elections; one who chose A and did not come; an election postponed or annulled after payments; who is responsible for the register's data, how long they are kept and who has access to them.
 
 **Parameters that are in fact decisions.** *Addition of 05.10.2026 (040m §5j):* for the US the loan of Article 8, part 5, is a legal question, not a setting: a municipal loan needs a bond counsel's opinion on a valid public purpose and is assessed by the rating agencies; a loan with no revenue source, for payments to citizens, may not obtain such an opinion. A first cycle in an American city is likely financed by accumulation over the cycle or by a donor's guarantee, not by city debt. *Same place, second:* the register of Article 3 in the US is the list of registered voters, and registration is voluntary; part 2 ("enrolled automatically") for an American jurisdiction means "everyone registered by the closing date of the roll", and that date will have to be named in the charter explicitly; false registration is a crime under the law in force (10 ILCS 5/29-10), and the protocol adds nothing to it except an address check by the treasury before payment. *Same place, third (06.10.2026, 1f §4b):* primaries. In the US the state runs them under party rules, and it is there that the core of the core chooses the candidate; whether the rule extends to them is not a gap but a setting: the architect — "the protocol is fitted to each country at the referendum, and for the US it can work there too". In the annex for an American jurisdiction it is one line in square brackets — [elections of this level include primaries: yes/no] — and the same referendum decides it. The percentage or a target share of exit; the number of payments; the legal route; the loan and its priority; an election not held on time; the definition of the median. They change the nature of the rule, not its tuning.
+
+*Addition of 15.10.2026 (the fifteenth decision, 048k §3; 040ak §7.4):* Article 2, part 2, amended — the median is computed not by an "independent" body but by the one that collects taxes on income, from the same base and by the same method. The architect: "D works on a contradiction, and that is the only thing to control — that the protocol uses the same indicator the state uses to collect taxes." Independence is replaced by an opposite interest: to understate the median is to understate the tax base; to inflate the base is to raise the payment. The number cannot be "flooded", because its source is not an expert review but the treasury.
 
 ## Weak point
 
