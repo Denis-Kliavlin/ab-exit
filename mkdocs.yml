@@ -229,6 +229,7 @@ plugins:
             "40al. Роув: машина явки": "40al. Rove: the Turnout Machine"
             "40am. Карвилл: это экономика": "40am. Carville: It's the Economy"
             "40an. Лунц: что услышали": "40an. Luntz: What People Hear"
+            "40ao. Моррис: триангуляция": "40ao. Morris: Triangulation"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -411,6 +412,7 @@ nav:
       - "40al. Роув: машина явки": 06-critique-arsenal/040al-rove.md
       - "40am. Карвилл: это экономика": 06-critique-arsenal/040am-carville.md
       - "40an. Лунц: что услышали": 06-critique-arsenal/040an-luntz.md
+      - "40ao. Моррис: триангуляция": 06-critique-arsenal/040ao-morris.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
