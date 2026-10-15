@@ -231,6 +231,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40aj. Russell Dalton: The Apartisan American — Five Arguments: the Apartisan Is the Burned Before Exit, Turnout Is Not an Axis, an Instrument for the Pilot](06-critique-arsenal/040aj-dalton.md)
 - [40ak. Steve Bannon: the Technologist Who Can Only Flood — Five Blows: "You Are Being Bought", Noise Against a Number, "The Producers Are Us", "You Strengthen What Must Be Torn Down", the Takeover](06-critique-arsenal/040ak-bannon.md)
 - [40al. Karl Rove: the Architect of the Turnout Machine — Five Arguments: Turnout Decides, Leaders Make Realignments, the Apathetic Are Reachable, the Protocol Is Asymmetric, Money Will Outbid](06-critique-arsenal/040al-rove.md)
+- [40am. James Carville: "It's the Economy, Stupid" — Five Arguments: Elections Are About Prices, One Line, You Buy Off My Rage, Play Dead, the Register](06-critique-arsenal/040am-carville.md)
 
 ## Part II — Social Architecture
 

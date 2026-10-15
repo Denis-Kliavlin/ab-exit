@@ -227,6 +227,7 @@ plugins:
             "40aj. Далтон: апартизаны": "40aj. Dalton: Apartisans"
             "40ak. Бэннон: технолог": "40ak. Bannon: the Technologist"
             "40al. Роув: машина явки": "40al. Rove: the Turnout Machine"
+            "40am. Карвилл: это экономика": "40am. Carville: It's the Economy"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -407,6 +408,7 @@ nav:
       - "40aj. Далтон: апартизаны": 06-critique-arsenal/040aj-dalton.md
       - "40ak. Бэннон: технолог": 06-critique-arsenal/040ak-bannon.md
       - "40al. Роув: машина явки": 06-critique-arsenal/040al-rove.md
+      - "40am. Карвилл: это экономика": 06-critique-arsenal/040am-carville.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
