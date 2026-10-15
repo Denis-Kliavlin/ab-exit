@@ -96,6 +96,7 @@ plugins:
             "13d. Выборы как измерительный прибор: Байес": "13d. Elections as a Measuring Instrument: Bayes"
             "13e. Законы экономики в политике": "13e. The Laws of Economics in Politics"
             "13f. Формальная постановка": "13f. A Formal Statement"
+            "13g. Износ демократии": "13g. The Wear of Democracy"
             "53b. Молдова в цифрах": "53b. Moldova in Figures"
             "14. Alaska PFD": "14. Alaska PFD"
             "15. Honest Politicians": "15. Honest Politicians"
@@ -224,6 +225,7 @@ plugins:
             "40ah. Коммунизм и протокол": "40ah. Communism and the Protocol"
             "40ai. Как возникает коммунизм": "40ai. How Communism Arises"
             "40aj. Далтон: апартизаны": "40aj. Dalton: Apartisans"
+            "40ak. Бэннон: технолог": "40ak. Bannon: the Technologist"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -261,6 +263,8 @@ plugins:
             "59g. Промежуточные-2026 и сценарий Миссури": "59g. Midterms 2026 and the Missouri Scenario"
             "59h. Реестр избирателей США": "59h. The US Voter Roll"
             "59i. Президент как зеркало": "59i. The President as a Mirror"
+            "59j. Экономика второго срока": "59j. The Second-Term Economy"
+            "59k. Партии и штаты": "59k. Parties and States"
 
 markdown_extensions:
   - admonition
@@ -314,6 +318,7 @@ nav:
       - "13d. Выборы как измерительный прибор: Байес": 03-theory/013d-bayes-elections.md
       - "13e. Законы экономики в политике": 03-theory/013e-economics-in-politics.md
       - "13f. Формальная постановка": 03-theory/013f-formal-statement.md
+      - "13g. Износ демократии": 03-theory/013g-decay-of-democracy.md
       - "14. Alaska PFD": 03-theory/014-alaska-pfd.md
       - "15. Honest Politicians": 03-theory/015-honest-politicians.md
       - "15b. Спираль катарсиса": 03-theory/015b-catharsis-spiral.md
@@ -399,6 +404,7 @@ nav:
       - "40ah. Коммунизм и протокол": 06-critique-arsenal/040ah-communism.md
       - "40ai. Как возникает коммунизм": 06-critique-arsenal/040ai-how-communism-arises.md
       - "40aj. Далтон: апартизаны": 06-critique-arsenal/040aj-dalton.md
+      - "40ak. Бэннон: технолог": 06-critique-arsenal/040ak-bannon.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
@@ -479,6 +485,8 @@ nav:
       - "59g. Промежуточные-2026 и сценарий Миссури": 10-usa/059g-midterms-2026-missouri-scenario.md
       - "59h. Реестр избирателей США": 10-usa/059h-voter-roll.md
       - "59i. Президент как зеркало": 10-usa/059i-president-as-mirror.md
+      - "59j. Экономика второго срока": 10-usa/059j-second-term-economy.md
+      - "59k. Партии и штаты": 10-usa/059k-parties-and-states.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md

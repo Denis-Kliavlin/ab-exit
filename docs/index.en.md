@@ -201,6 +201,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
    - [23e. Deliberation and Citizens' Assemblies: Quality Without a Door](05-empirical-base/023e-deliberation-assemblies.md)
    - [23f. Money at Elections: From Arizona to Trump in Twenty Years](05-empirical-base/023f-money-at-elections.md)
 - [13f. A Formal Statement: Five Theorems and Three Assumptions](03-theory/013f-formal-statement.md)
+- [13g. The Wear of Democracy: Why Elections Do Not Improve Like Cars, and Why the Protocol Is Needed More with Every Cycle](03-theory/013g-decay-of-democracy.md)
    - [6b. Predecessors in the Genre and What Remains to Be Written](02-history/006b-predecessors-and-gaps.md)
 - [40k. Strauss and Howe: the world without a thermostat](06-critique-arsenal/040k-strauss-howe.md)
 - [40l. Fukuyama: the last man, boredom, and the price of a gesture](06-critique-arsenal/040l-fukuyama.md)
@@ -228,6 +229,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40ah. Communism and the Protocol: How Support Is Won — a Hundred Years Without Logic or Morality Against a Rule With a Number](06-critique-arsenal/040ah-communism.md)
 - [40ai. How Communism Arises: Five Conditions Then and Now — and Which of Them the Protocol Touches](06-critique-arsenal/040ai-how-communism-arises.md)
 - [40aj. Russell Dalton: The Apartisan American — Five Arguments: the Apartisan Is the Burned Before Exit, Turnout Is Not an Axis, an Instrument for the Pilot](06-critique-arsenal/040aj-dalton.md)
+- [40ak. Steve Bannon: the Technologist Who Can Only Flood — Five Blows: "You Are Being Bought", Noise Against a Number, "The Producers Are Us", "You Strengthen What Must Be Torn Down", the Takeover](06-critique-arsenal/040ak-bannon.md)
 
 ## Part II — Social Architecture
 
@@ -322,6 +324,8 @@ United States is one country case among others, not the frame of the document.*
 - [59g. The 2026 Midterms: Three Cases Three Weeks Out and a Scenario of a Protocol Referendum in Missouri](10-usa/059g-midterms-2026-missouri-scenario.md)
 - [59h. The US Voter Roll: the Real Problem in Numbers and How the Protocol Solves It](10-usa/059h-voter-roll.md)
 - [59i. The US: the President as a Mirror of the Electorate — Katz on "Trump's Words", the Grab-and-Run Milieu, and Why There Are No Reforms](10-usa/059i-president-as-mirror.md)
+- [59j. The US: the Man-Made Economy of the Second Term — Tariffs, the Fed, Diesel, and Who Gets the Bill](10-usa/059j-second-term-economy.md)
+- [59k. The US: Why a State "Belongs" to a Party for Half a Century, Why the Middle Cannot Be Chosen, and Whether a Third Party Is Needed](10-usa/059k-parties-and-states.md)
 
 ## Numbers that occur twice
 
