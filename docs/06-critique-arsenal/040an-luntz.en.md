@@ -91,6 +91,8 @@ This explains why three of Luntz's five arguments were overturned by the moves o
 
 One caveat, recorded honestly: the referendum on adoption is voted by the old hall — everyone, including the apathetic (048m art. 15; 048k, the sixteenth candidate). On that one day Luntz's rules matter in full, and the table of §6 is for it: the invitation to the table (§4). After adoption — twenty per cent, as the architect said; and those twenty are not about persuasion but about hygiene: not letting a word get in the way of the meaning.
 
+*And the architect removed this caveat by the same rule by which he removed residuals before — the resource is produced by the protocol itself:* "The burned and those who will be the activists of adoption will hire, with their own money, such technologists and linguists that they will describe the meaning in the right words for the apathetic and the majority. These are conjuring tricks compared to nuclear physics." The mechanism is nuclear physics: it cannot be bought, and it is already done (048m). The packaging for the old hall on referendum day is conjuring, and it is bought with one cheque; the burned have both the cheque and the motive (059g §4: donors, rage, a place in history), and they will hire the best — including Luntz himself, if he is free. The table of §6 is not a task for the architect but a brief for the hired.
+
 ## Summary
 
 | Luntz's argument | What is true | Answer | What remains |
