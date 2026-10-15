@@ -119,7 +119,7 @@ The architect's question: "what about the final forecast compared with the refer
 | cause | a technical injustice: the 5th District redrawn | money to each personally, or a ×3 vote |
 | who cares | Democrats and lawyers; the majority does not | all four groups (the slogan, 039b §4b), each in its own way |
 | signatures | 300 thousand in 10 weeks on a party machine | 400+ thousand in 4 weeks by "the burned" |
-| money | party and national funds | three tiers: a cheque for a place in history, 2–3 thousand "to try", small donations |
+| money | party and national funds | four tiers: a cheque for a place in history, 2–3 thousand "to try", the burned's small donations — and the takers as donors to themselves: $20–100 "chip in for your own future payments", "back ×7" (040ap §4) |
 | parties | one entirely for, one against | both officially against, a drift inside; the top against, the echelons below for |
 | blocking by the authorities | the Secretary of State's rejection on the last day, three trips to the US Supreme Court | the same plus an attempt to raise the threshold, which works for us (three of three failed) |
 | the opponent's main blow | "the map is legal, the election has started" | "they will take it from the schools" → the counter-audit of the budget |

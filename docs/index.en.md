@@ -234,6 +234,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40am. James Carville: "It's the Economy, Stupid" — Five Arguments: Elections Are About Prices, One Line, You Buy Off My Rage, Play Dead, the Register](06-critique-arsenal/040am-carville.md)
 - [40an. Frank Luntz: "It's What People Hear" — Five Arguments, the Reverse Luntz, an Audit of the Protocol by the Ten Rules of Language](06-critique-arsenal/040an-luntz.md)
 - [40ao. Dick Morris: Triangulation and Vote.com — Five Arguments: the Centre Is Already Taken, Democracy by Click, the New Prince, the Payment as an Entitlement, Consultants Will Game It](06-critique-arsenal/040ao-morris.md)
+- [40ap. David Plouffe: the Obama Coalition and Data — Five Arguments: My Coalition Takes B, the Propensity Model, More Conservatives, the Movement and Donors, "Nobody Could Have Won"](06-critique-arsenal/040ap-plouffe.md)
 
 ## Part II — Social Architecture
 
