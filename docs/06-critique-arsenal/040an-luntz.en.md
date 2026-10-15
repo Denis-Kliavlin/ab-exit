@@ -77,11 +77,19 @@ The architect's assignment: "take his own rules apart in relation to the protoco
 | 9. Ask a question | the slogan is a statement | unused | a question form for the poster: "What is your vote worth?" — the voter answers himself |
 | 10. Context | "Today"; the number without comparison | "Today" is context in one word, passes; "p % of the median" without a yardstick — fail | the number always with a yardstick: "a month of the median wage" (the architect's yardstick, 1h) |
 
-Result: four of ten pass — novelty, the slogan's sound, the context "Today" and the number itself. Three fails are fixed by rewriting the art. 15 line — drop the formula and "forever", give the sum with a yardstick; this is a candidate charter decision awaiting the architect (048k §3). Three require his decision too: one slogan, a companion aspirational line, one picture. None of this touches the mechanism: the charter was written for the lawyer, the site for the reader, and the line for the voter has not been written yet.
+Result: four of ten pass — novelty, the slogan's sound, the context "Today" and the number itself. Three fails are fixed by rewriting the art. 15 line — drop the formula and "forever", give the sum with a yardstick; three require a decision: one slogan, a companion aspirational line, one picture. None of this touches the mechanism: the charter was written for the lawyer, the site for the reader, and the line for the voter has not been written yet. *The architect's decision of 15 October 2026:* nothing in the repository or the charter is changed; the table stays as this chapter's recommendations, not a candidate decision — for the reason set out in §7b.
 
 ## 7. Who heard: the architect's formula
 
 "The protocol does not care what those who took will say. It matters what those who stayed will say." This is the chapter's conclusion and the rule for all work with words. The takers took and left: what they heard and what they say does not affect the result — their choice is already counted as a decision (040ag item 2), and they need no word. After the protocol it is those who stay who will speak and decide, and they are the only audience worth choosing words for: the contest of ideas (040ah §4), programmes against the number (040v item 1), Luntz's craft returned to a hall that judges by substance. One focus group à la Luntz is needed, and one only: what those who intend to stay hear in the word "bribery". If they hear "my vote got dearer", the opponent's word is ours.
+
+## 7b. Luntz's rules were written for a hall that will not exist under the protocol — the architect's move
+
+"Luntz wrote all his rules for the apathetic and for simple people, and yes, they matter now. But once the apathetic have left, the thinking do not look at words — they see meanings, and Luntz's rules are already 80 % irrelevant, though they can be fixed. It is like a person who knows ten languages: he does not see words, he sees only meanings."
+
+This explains why three of Luntz's five arguments were overturned by the moves of §1, §3 and §4 rather than answered: his craft is for a hall that judges by words, and the protocol removes that hall from the count. To the thinking, "bribery" and "price" are one event read through (§1); two right answers are not a contradiction but a problem to solve (§3); a word is no argument against a cheque (§4). A polyglot does not notice which language something is said in, because he hears what is said; the burned one does not notice what word the payment is called by, because he sees what it does to his vote.
+
+One caveat, recorded honestly: the referendum on adoption is voted by the old hall — everyone, including the apathetic (048m art. 15; 048k, the sixteenth candidate). On that one day Luntz's rules matter in full, and the table of §6 is for it: the invitation to the table (§4). After adoption — twenty per cent, as the architect said; and those twenty are not about persuasion but about hygiene: not letting a word get in the way of the meaning.
 
 ## Summary
 
