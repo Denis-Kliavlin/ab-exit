@@ -36,7 +36,9 @@ Focus groups and words. The main rule is the book's title: it's not what you say
 
 **Argument.** A message with two opposite claims dies in a focus group.
 
-**Answer.** The word "today" is the context — his tenth rule. The contradiction is the message: worth nothing today, worth something after. The four readings of 039b §4b do not contradict one another: each reads "today" as its own.
+**The assistant's answer.** The word "today" is the context — his tenth rule. The contradiction is the message: worth nothing today, worth something after. The four readings of 039b §4b do not contradict one another: each reads "today" as its own.
+
+**The architect's move — the contradiction does not kill the message, it brings it to life.** "No — it is exactly then that it starts to live. Because there is no exact answer to 'take or not' — rather, all the answers are right: to take is right, and ×2 is right. But it depends on what the others do, and you have to watch the election every day and think, or you lose. That is a super topic for politics — everyone watches." Luntz is right that the message holds two opposite claims, and wrong that it therefore dies in a focus group: it lives precisely because there is no ready answer. This is no longer a slogan but a game (013, 013c) in which everyone has a stake, and the stake must be recalculated up to election day: the stayer's share grows with the number of takers (001b), the taker's gain with the fact that his vote would not have decided anyway. A person who did not care before who won now watches how many take, because his money or the weight of his vote depends on it. Elections become a daily topic with no appeal to civic duty — people watch not out of duty but out of interest; this is the demand for knowledge (040u item 3) created not by programmes but by the fork itself. The poll "how many will take" becomes a national number, like an exchange rate or an index — a new product for pollsters and the press (059g §6: the protocol is not boring). A message with two right answers is the one the audience cannot put off.
 
 **Residual.** None.
 
@@ -85,7 +87,7 @@ Result: four of ten pass — novelty, the slogan's sound, the context "Today" an
 |---|---|---|---|
 | what matters is what they hear | yes | the word "bribery" has two listeners: the taker does not care, the stayer counts his share — the reverse Luntz (the architect's move) | a focus group of stayers |
 | aspiration beats arithmetic | yes | the number on the ballot, the aspiration in the slogan; but the line itself has none | a companion line |
-| consistency | yes | "today" is the context; four readings do not contradict | — |
+| consistency | yes, two claims | "today" is the context; two right answers bring the message to life: everyone watches what the others do (the architect's move) | — |
 | one word of fear | yes, the word wins | the opponent's word sorts the hall our way; invest in the word | the choice of slogan |
 | words stopped working | yes, for this hall | the number crosses; the protocol changes the hall — words work again | — |
 
