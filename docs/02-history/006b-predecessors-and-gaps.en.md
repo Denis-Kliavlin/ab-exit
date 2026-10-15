@@ -53,6 +53,7 @@ A second cut of 30.09.2026 — not by level of conception but by content: where 
 | The voter lottery, Arizona (2006) | the only referendum on money at elections — lost; the taboo lifted by practice in twenty years | 023f |
 | Field experiments paying for turnout (Panagopoulos, 2013) | a threshold of sensitivity to the sum | 023f §4 |
 | Vote markets (Hasen, 2000; Freiman, 2014) | three classes of objection — equality, efficiency, inalienability | 029.4 |
+| Payment for attendance: the misthos in Athens (390s BC), the grain doles in Rome (123 and 58 BC) | two thousand years of experience of paying for the vote — with the opposite sign, for presence; both times, per Polybius, all the way to Caesar | 013g §4b |
 | Storable votes (Casella), Demeny voting | another currency of compensation — weight instead of money | not our question: a method, and the protocol gives the right, not the methods (048k §3); age — 016 §25 |
 | Voucher privatisation (1992–94) | a whole country's lesson about a one-off transferable share | not needed: "privatisation was two generations ago, nobody remembers it, and everyone likes the word 'dividends'" (033c §9d) |
 
