@@ -60,6 +60,18 @@ Proof of demand: 48 % for at zero elaboration and zero salesmen. Proof that a nu
 - The protocol's first state campaign (the Missouri scenario): stages 2 and 3 pass within the first week in the same words as Trump's; stage 4 shows growth in support between the first and second readings, not a plateau; stage 5 — the first defector from the second echelon of one of the parties before the end of signature-gathering, and at readings above 60 % — an official takeover by one of the parties before polling day.
 - If stage 4 gives a plateau at Trump's level, the correction of §3 is wrong, and that must be recorded.
 
+## 7. Riding the $5,000 hype: the difference in three lines — the architect's move
+
+"And one more thing: it is even good — on the example of Trump's $5,000 one can quickly show where the difference lies, and ride that hype." Trump has already paid hundreds of millions in earned media (§3) so that 85–90 % of the country knows what "so much for everyone" means, and on 3 November 2026 his number dies on any outcome (§1, stage 8). The public is trained; the underdog only has to show the difference.
+
+| | "Trump's $5,000" | The protocol |
+|---|---|---|
+| Condition | "if we win" | no condition — whoever wins |
+| Owner | from his hands, on his word | from a rule you adopt yourselves at a referendum (048m art. 15) |
+| Term | once, after the election, if he remembers | every election, from the charter, until you yourselves decide otherwise (art. 14) |
+
+The underdog's opening line — the day after 3 November: "Trump's number died yesterday, as we said it would. Here is a number that cannot die: $800 to everyone, every election, whoever wins — from a rule, not from anyone's hands. He offered a bribe; we offer a second right." The three lines of the table fit one poster; that is the "picture" from the Luntz audit (040an §6, rule 8), which Trump drew for us. The burned phrase "so much for everyone" becomes a pointer to the difference between a promise and a ballot line, and the hype paid for by the opponent passes to the protocol for free (1c: no force has a good move). The table of 059c §1 is the same difference, recorded in September; here it is translated into a launch format.
+
 ## Weak point
 
 The chronology is from press retellings, not primary sources; the polls are one window (11–14 September). The forecast of §2 is a transfer by analogy: Trump's number was promised by a candidate, the protocol's is put up by an initiative, and some reactions (the party split, legality) may go differently. The correction of §3 is the architect's forecast; the measurement is the first two weeks of the first campaign.
