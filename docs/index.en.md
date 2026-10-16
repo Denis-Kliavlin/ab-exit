@@ -332,6 +332,7 @@ United States is one country case among others, not the frame of the document.*
 - [59i. The US: the President as a Mirror of the Electorate — Katz on "Trump's Words", the Grab-and-Run Milieu, and Why There Are No Reforms](10-usa/059i-president-as-mirror.md)
 - [59j. The US: the Man-Made Economy of the Second Term — Tariffs, the Fed, Diesel, and Who Gets the Bill](10-usa/059j-second-term-economy.md)
 - [59k. The US: Why a State "Belongs" to a Party for Half a Century, Why the Middle Cannot Be Chosen, and Whether a Third Party Is Needed](10-usa/059k-parties-and-states.md)
+- [59l. The US: the "Trump $5,000" Campaign as a Rehearsal for the Protocol — Eight Stages and a Forecast](10-usa/059l-five-thousand-rehearsal.md)
 
 ## Numbers that occur twice
 

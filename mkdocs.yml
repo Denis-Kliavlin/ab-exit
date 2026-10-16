@@ -271,6 +271,7 @@ plugins:
             "59i. Президент как зеркало": "59i. The President as a Mirror"
             "59j. Экономика второго срока": "59j. The Second-Term Economy"
             "59k. Партии и штаты": "59k. Parties and States"
+            "59l. $5000 как репетиция": "59l. The $5,000 as a Rehearsal"
 
 markdown_extensions:
   - admonition
@@ -499,6 +500,7 @@ nav:
       - "59i. Президент как зеркало": 10-usa/059i-president-as-mirror.md
       - "59j. Экономика второго срока": 10-usa/059j-second-term-economy.md
       - "59k. Партии и штаты": 10-usa/059k-parties-and-states.md
+      - "59l. $5000 как репетиция": 10-usa/059l-five-thousand-rehearsal.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md
