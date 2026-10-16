@@ -52,7 +52,9 @@
 
 **Argument.** Whether paying for non-participation is permissible should be decided by a moral debate about what a vote is, not by a referendum on a sum.
 
-**Answer.** The referendum on the rule is that debate, and the four readings of the slogan (039b §4b) are four meanings of the vote at last said aloud. "Markets leave their mark": yes, and the mark here is the first measurement in history of how much citizens themselves value their vote (040aj §6). The moral debate has data for the first time.
+**The assistant's answer.** The referendum on the rule is that debate, and the four readings of the slogan (039b §4b) are four meanings of the vote at last said aloud. "Markets leave their mark": yes, and the mark here is the first measurement in history of how much citizens themselves value their vote (040aj §6). The moral debate has data for the first time.
+
+**The architect's move — government as a plumber.** "Explain: is choosing a sausage a moral choice? A coffee maker? Choosing the plumber who will fix the tap — is that a moral choice? And how does government differ from a plumber? They too simply fix mechanisms, only within the state. The sacredness of power is exactly why the vote is sacred. We are not deciding between life and death here." This finishes Sandel's argument at its base. Choosing a plumber is not a moral choice, though whether the house has water depends on it; government differs from a plumber only in the size of the tap — roads, courts, pensions — and if it fixes badly it is replaced, like a plumber. The sacredness of the vote derives from the sacredness of power, and the sacredness of power benefits power itself: the sacred is neither valued nor paid, the sacred is served for free (059c §2, the death of the myth of the sacred vote; 039b §1, the idealists' three myths). Schumpeter said it a century ago (040q): democracy is a method of selecting managers through competition for votes, no more; Popper added the one condition — that the managers can be replaced without blood (a condition the protocol keeps: the thermostat with memory, 040aj item 4). Sandel demands a moral debate about the meaning of the vote; the meaning of the vote is to hire the one who will fix the tap, and hiring is paid for, not prayed over. There is only one moral question here: why paying for the plumber's work is allowed and paying for the decision of whom to hire is not.
 
 **Residual.** None.
 
@@ -68,7 +70,7 @@ The opponent's ready-made words of day one: "auctioning democracy" (059l, stage 
 | Sandel: the poor sell under need | yes, need exists | a vote under pressure is worth −1 today; the exit is secret; D is a share of the median; the poor man's vote is worth nothing today | — |
 | Sandel: corruption and crowding out | yes, for the vote from shame | the price on the exit, not on the act; Titmuss inside out; to stay when one could take is the most explicit civic act | a pilot measurement |
 | Walzer: money as a solvent | no | D is the polity's yardstick by referendum; converting money into power gets harder; voting is a right, not a duty | — |
-| Sandel: a moral debate is needed | yes | the referendum is the debate; four readings; the debate has data for the first time | — |
+| Sandel: a moral debate is needed | yes | the referendum is the debate; four readings; the debate has data for the first time; government is a plumber at the scale of the state, the sacredness of the vote derives from the sacredness of power and benefits it (the architect's move) | — |
 
 ## Weak point
 

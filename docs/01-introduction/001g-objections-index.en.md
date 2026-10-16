@@ -12,7 +12,7 @@
 
 **What is true:** the outward likeness — money is paid for a decision about voting.
 **Answer:** vote-buying is when a candidate or a party pays for a vote or for turnout in its own favour. Here the budget pays under law, equally to everyone who does not vote at this election, and asks nobody to vote for anyone; under the charter a candidate can never pay (048m, Art. 1 part 4). The payment buys not a vote but an honest count: today the non-voter sits at home unpaid and uncounted; under the rule he is counted and paid.
-**In full:** [1d](001d-exact-answers.md), [029](../06-critique-arsenal/029-hypocrisy.md), [045](../10-usa/045-us-legal-base.md).
+**In full:** [040as §1](../06-critique-arsenal/040as-walzer-sandel.md) (Walzer: the ban on selling the vote is violated today — bringing-in, benefits, party funding; a payment from the budget is a tax rebate that removes bribery; the protocol enforces the ban rather than breaking it), [1d](001d-exact-answers.md), [029](../06-critique-arsenal/029-hypocrisy.md), [045](../10-usa/045-us-legal-base.md).
 **Unknown:** how the court of a particular country will classify it.
 
 ## "Paying people not to vote is voter suppression"
