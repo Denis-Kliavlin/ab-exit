@@ -58,6 +58,8 @@
 
 *And the last — also the architect's move:* "By the way, elections under martial law are cancelled almost everywhere — and that is exactly where, in wartime, there would be a moral choice." The one moment when the vote really decides between life and death is war, and that is exactly when elections are cancelled: Britain postponed the election of 1940 to 1945, Ukraine has not voted since 2022, Israel postponed its election in 1973. The vote is declared sacred in peacetime, when it chooses a plumber, and taken away in wartime, when it could be moral. The sacredness of the vote is not about its object but about the convenience of power: where the decision is really hard, power decides by itself. The honest exception: the US cancelled no election in 1864 or 1944 — the one country where the vote in wartime remained a vote.
 
+*The architect's refinement on the place of morality:* "If both plumbers fix well, then it is better to choose the one who is morally more pleasant and speaks nicely. But only if he also fixes taps well, and does not merely speak nicely." That is the right order of criteria, and today it is inverted: the present hall chooses by the second without checking the first — it judges by the face and by the talk (059i §3) — and gets a plumber who talks. Those who stay under the protocol check the tap — the thermostat with memory (040aj item 4) — and only between two who fix do they choose the pleasant one. Sandel wants a moral debate instead of checking the tap; the protocol returns morality to its lawful place — the second criterion, after the result.
+
 **Residual.** None.
 
 ## 6. What they give the protocol
