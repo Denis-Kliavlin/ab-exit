@@ -256,6 +256,11 @@
       "wrong": "\"This is populism: 'the government steals', the people against the elite\"",
       "where_it_comes_from": "the words \"steals\", \"bribery\" in 029, 040y, 1b",
       "right": "\"steals\" in the repository is an economic term: the citizen's resource is used for free and without his consent; not a moral verdict. By Mudde's three markers — zero of three: the people are not homogeneous (four states), the elite is not an enemy (\"a creature and a lever\", 1f §2b), \"we\" is re-elected every cycle. The test: the populist jails, the protocol presents a bill — punishment or price (040ab item 1)"
+    },
+    {
+      "wrong": "\"What will they take from me: the vote, the pension, the benefits? Will taxes rise?\" (the question of the grandfather of 70 and the woman of 40 in 040at §4)",
+      "where_it_comes_from": "the phrase \"paid not to vote\" is read as \"they do not need my vote\"",
+      "right": "nothing is taken away: both rights stay and are chosen anew at every election (arts. 5, 16); pension and benefits do not change — D is added, not substituted (art. 4); taxes do not rise — only a referendum changes p (art. 14), the source is the 1–2 % of the budget now going to opaque projects (059l §4); the choice is secret (art. 9.3)"
     }
   ],
   "misreadings_ru": [
@@ -408,6 +413,11 @@
       "wrong": "«Это популизм: „власть ворует“, народ против элиты»",
       "where_it_comes_from": "слова «ворует», «подкуп» в 029, 040y, 1b",
       "right": "«ворует» в репозитории — экономический термин: ресурс гражданина используется бесплатно и без его согласия; не моральный приговор. По трём признакам Мудде — ноль из трёх: народ не однороден (четыре состояния), элита не враг («существо и рычаг», 1f §2b), «мы» переизбирается каждый цикл. Тест: популист сажает, протокол выставляет счёт — наказание или цена (040ab п. 1)"
+    },
+    {
+      "wrong": "«Что у меня отнимут: голос, пенсию, льготы? Налоги вырастут?» (вопрос дедушки 70 лет и женщины 40 лет из 040at §4)",
+      "where_it_comes_from": "слово «платят, чтобы не голосовали» читается как «мой голос им не нужен»",
+      "right": "ничего не отнимают: оба права остаются и выбираются заново на каждых выборах (ст. 5, 16); пенсия и льготы не меняются — D прибавляется, а не заменяет (ст. 4); налоги не растут — p меняет только референдум (ст. 14), источник — те 1–2 % бюджета, что сейчас уходят на непрозрачные проекты (059l §4); выбор тайный (ст. 9.3)"
     }
   ]
 }

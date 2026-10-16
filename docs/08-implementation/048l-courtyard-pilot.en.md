@@ -55,6 +55,9 @@ What the pilot does not test and must not promise: the shift of parties, the fat
 | Attempts at vote-buying and pressure | recorded by the institute; the price of a vote expected to rise above the sum | 019d §4 |
 | Explaining the rule to a neighbour | more than 80 % can repeat the rule in one sentence | 040c |
 | Cost per participant | sum × take-up share + administration | 045 §45.7 |
+| The return of the burned — upper bound | the answer to "everyone will leave with the money, your vote is ×2 — will you go and vote?" among those who did not vote and did not take | 040at §1 |
+| The return of the burned — lower bound | the answer to "will you give $20 so that this becomes the rule?" among the same; the gap between the two answers is the honest estimate of the return | 040at §1, 040ap §4 |
+| The stayers' horizon | how much longer than the cycle (it cannot be shorter than the cycle by construction); a question about plans — mortgage, children, business | 040at §2, 040al §4 |
 
 ## 5. What counts as a result
 
