@@ -241,6 +241,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40at. Achen and Bartels: Democracy for Realists — Five Arguments: Nobody Judges by Substance, Retrospection Is Blind, the Vote Is a Tribe, Referendums Are Decided by Cues, Do Not Burden the Citizen](06-critique-arsenal/040at-achen-bartels.md)
 - [40au. Hélène Landemore: Democratic Reason — Five Arguments: Diversity Trumps Ability, Condorcet, Sortition Instead of Money, Epistocracy with a Cheque, Deliberation](06-critique-arsenal/040au-landemore.md)
 - [40av. E. E. Schattschneider: The Semisovereign People — Five Theses: Nonvoting as the System's Fault, the Forty Million, the Scope of Conflict, the Chorus with an Accent, Party Government](06-critique-arsenal/040av-schattschneider.md)
+- [40aw. Gilens and Page: Testing Theories of American Politics — Five Arguments: Money Between Elections, the Stayers Are the Affluent, Status-Quo Inertia, the Powerlessness of Mass Groups, Their Reforms Against Ours](06-critique-arsenal/040aw-gilens-page.md)
 
 ## Part II — Social Architecture
 

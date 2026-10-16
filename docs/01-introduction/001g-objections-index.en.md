@@ -25,7 +25,7 @@
 
 **What is true:** money is worth more to those who have less of it; the filter by horizon falls on the poor more often, and we must say so before the opponent does.
 **Answer:** the choice is the same for everyone, nobody loses a right, and the payment is a percentage of the median — for a poor person a noticeable sum, not pennies. Today the poor voter receives promises before an election; under the rule, a right to money he need not take. Selection is by stake, not by income: the poor man who has something to lose at this election stays; the rich man who no longer cares leaves.
-**In full:** [1d](001d-exact-answers.md), [013f §4](../03-theory/013f-formal-statement.md), [019b](../04-electoral-dynamics/019b-poor-voter-price.md), [1f §7](001f-core-electorate.md).
+**In full:** [1d](001d-exact-answers.md), [013f §4](../03-theory/013f-formal-statement.md), [019b](../04-electoral-dynamics/019b-poor-voter-price.md), [1f §7](001f-core-electorate.md); the variant "the poor will take, the rich will stay — you amplify the bias" — [040aw §2](../06-critique-arsenal/040aw-gilens-page.md): the hall is counted in three movements, not two — the takers leave, the burned return, the rich remain a tenth.
 **Unknown:** selection by income against selection by stake is measured only by a pilot — the main open question ([040m §4](../06-critique-arsenal/040m-cold-reader-audit.md)).
 
 ## "Only the radicals, the fanatics and the union activists will remain"
