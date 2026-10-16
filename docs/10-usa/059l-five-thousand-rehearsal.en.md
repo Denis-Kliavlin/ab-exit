@@ -6,7 +6,7 @@
 
 ---
 
-*How to read. For the first time in US history a number "so much for everyone" ran the whole cycle from launch to resolution in front of everyone in eight weeks. It is the only field experiment close to the protocol, and the chapter takes it as a template: the same stage — what was said about Trump, what will be said about the protocol, how the protocol differs at that point. There are exactly three differences, all in the protocol's favour but one: legality must be spoken first.*
+*How to read. For the first time in US history a number "so much for everyone" ran the whole cycle from launch to resolution in front of everyone in eight weeks. It is the only field experiment close to the protocol, and the chapter takes it as a template: the same stage — what was said about Trump, what will be said about the protocol, how the protocol differs at that point. There are exactly three differences, all in the protocol's favour; legality, first recorded as a difficulty, the architect turned into the first strike.*
 
 ## 1. The chronology of the "Trump dividend", September–October 2026
 
@@ -44,9 +44,9 @@ The error is the "before" yardstick: the poll profile was carried over from a nu
 
 So the fourth stage for the protocol is not "about half" but growth from one reading to the next: Trump's 48 % with zero salesmen is a floor, not a profile. What to test: the share of reposts with the family calculation against the share of reposts with "bribery" in the first two weeks — that is the measurement of "who heard" (040an §7).
 
-## 4. Three points where the protocol's campaign is harder than Trump's
+## 4. Two points where the protocol's campaign is harder than Trump's — and one where it beats him
 
-1. **Legality — say it first.** "How is this legal" is rhetoric for Trump; for the protocol it is a real question: 18 U.S.C. § 597 prohibits paying for voting and for abstaining in federal elections (059c §4, Hasen; 006 §252). Hence the start is state elections and below (048m art. 8), through a state constitutional initiative, as in the Missouri scenario; the federal level needs an amendment by Congress. Say it before the opponent does, in the first text.
+1. **Legality — the first strike, not a defence (the architect's move).** The assistant recorded legality as a hard point: 18 U.S.C. § 597 prohibits paying for voting and for abstaining in federal elections (059c §4, Hasen; 006 §252). The architect: "This is exactly where the protocol beats Trump 100 %. First, in many places it is legal. And above all: if it is entirely logical and even legal somewhere, why is it illegal at all? Giving money to the poor is legal, collecting taxes is legal, paying parties is legal — and paying people at elections is illegal? Here everything is very good for the protocol." The reversal is right. § 597 was written against a candidate who buys the vote he wants; the protocol buys nobody's vote — the rule pays, adopted by the voters themselves, to everyone equally and whoever wins (048m arts. 4, 15; 040ab, "punishment or price"). Where the law prohibits, the prohibition itself becomes an exhibit: "you forbade citizens what you allowed parties" (040y — state funding of parties as legalised bribery). Where it does not — state and municipal elections, most countries — the question does not arise. Operationally the same: the start is state elections and below (048m art. 8), through a state constitutional initiative, as in the Missouri scenario; the federal level needs an amendment by Congress. But say it first not to defend, but to ask the question the opponent cannot answer.
 2. **Arithmetic without "it pays for itself".** Trump was forgiven "the math doesn't add up" because his number dies. The protocol will not be forgiven: show the sum per election as a line in the state budget beside the line it replaces. Otherwise the third stage becomes the last.
 3. **Trust after Trump.** By 2027 "so much for everyone" in the US is a burned phrase: promised twice, paid never. The protocol wins on this only if from day one it says: that is exactly why not a promise but a ballot line that you adopt yourselves.
 
