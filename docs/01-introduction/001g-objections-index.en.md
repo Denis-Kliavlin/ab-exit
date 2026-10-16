@@ -184,6 +184,13 @@
 **Where in detail:** [040aj §7](../06-critique-arsenal/040aj-dalton.md), [040ab](../06-critique-arsenal/040ab-mudde.md), [040p](../06-critique-arsenal/040p-how-to-refute.md).
 **What is unknown:** for one who rejects taxation as such, the comparison with the current system is not an argument; the dispute with him is not about the protocol.
 
+## "The protocol suppresses the votes of the poor and of minorities: they are paid not to come"
+
+**What is true:** the payment will more often be taken by those who need money now, and among them there are more of the poor.
+**Answer:** nobody loses the vote — both rights, to vote and to take the payment, are kept forever and chosen anew at every election (048m art. 16, art. 5). Suppression is when a vote is taken away or devalued; the protocol adds a right, it does not remove one. The one suppressed today is the one whose vote is bought for a bus ride and a package of benefits and whose opinion nobody asks (1f §5, 030b). To decide for the poor that they may not take their own money is to take a right away from them.
+**Where in detail:** [059l §8 row 11, §8b](../10-usa/059l-five-thousand-rehearsal.md), [040ab](../06-critique-arsenal/040ab-mudde.md), [1f §5](001f-core-electorate.md), [048m arts. 5, 16](../08-implementation/048m-charter.md).
+**What is unknown:** the share of the poor among the takers — a pilot measurement; if it proves overwhelming, the dispute will be about the size of p, not about the right.
+
 ## "The numbers on the site are made up"
 
 **What is true:** for the role-play chapters — true: the models' replies contain their own estimates.
