@@ -86,6 +86,10 @@ Three conclusions. The comprehension load of the protocol is lower than that of 
 
 The empirical base for 1f §4 — the apathetic has no views — and for the mirror of 059i: a voter without views chooses by the face. Converse's non-attitudes as the explanation of the "centre by motion" (040ao §1). And two measurements for the pilot: the horizon of those who stay (how much longer than the cycle) and the pair of questions "would you go / will you give $20" for the burned (048l §4).
 
+## 7. Key and Fiorina: the classic answer to the realists — "voters are not fools"
+
+Added 16 October 2026 from the architect's list. V. O. Key, *The Responsible Electorate* (1966): "voters are not fools" — the electorate as a whole responds to the results of government sensibly, and the "switchers" between elections move by substance, not by mood. Morris Fiorina, *Retrospective Voting in American National Elections* (1981): the voter keeps a "running tally" of results and votes by it; retrospection is not myopia but a cheap and rational way to judge without knowing the programmes. This is the direct answer to Achen and Bartels from inside their own school, and for the protocol it matters in three ways. First: Key described those the protocol keeps — the switchers by substance, that is the cross-pressured (040ao §1), and showed that they decide the outcome, not the cores. Second: Fiorina's running tally is a horizon of no less than a cycle (§2), shown on data before Achen and Bartels; six months is an averaging artefact of a hall in which not everyone keeps the tally. Third: retrospection as a cheap cue (040ay §2) breaks where it is bought — the brought-in vote by the campaign's cue, not by the tally; the protocol removes the bought retrospection and keeps Fiorina's. Key and Fiorina have no blow against the protocol: they are allies, and the burned of 1f §6b are their "responsible electorate" driven to leaving. What remains: Key wrote on 1936–1960, when the hall was not yet bought on today's scale; his "not fools" is about the hall before bringing-in.
+
 ## Summary
 
 | Argument | What is true | Answer | What remains |

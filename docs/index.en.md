@@ -242,6 +242,11 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40au. Hélène Landemore: Democratic Reason — Five Arguments: Diversity Trumps Ability, Condorcet, Sortition Instead of Money, Epistocracy with a Cheque, Deliberation](06-critique-arsenal/040au-landemore.md)
 - [40av. E. E. Schattschneider: The Semisovereign People — Five Theses: Nonvoting as the System's Fault, the Forty Million, the Scope of Conflict, the Chorus with an Accent, Party Government](06-critique-arsenal/040av-schattschneider.md)
 - [40aw. Gilens and Page: Testing Theories of American Politics — Five Arguments: Money Between Elections, the Stayers Are the Affluent, Status-Quo Inertia, the Powerlessness of Mass Groups, Their Reforms Against Ours](06-critique-arsenal/040aw-gilens-page.md)
+- [40ax. Verba, Schlozman and Brady: Voice and Equality, The Unheavenly Chorus — Five Arguments: Resources Decide, Civic Skills, Recruitment, Organisations Without the Poor, the Persistence of the Skew](06-critique-arsenal/040ax-verba-schlozman-brady.md)
+- [40ay. Ilya Somin: Democracy and Political Ignorance — Five Arguments: Rational Ignorance, Cues Do Not Work, Foot Voting, the Stayers Are Just as Ignorant, Smaller Government](06-critique-arsenal/040ay-somin.md)
+- [40az. Piven and Cloward: Why Americans Don't Vote — Five Arguments: Apathy as a Consequence, the Barriers of the 1890s, Demobilisation by Class, the Biggest Barrier in History, Remove Barriers Rather Than Pay](06-critique-arsenal/040az-piven-cloward.md)
+- [40ba. Turnout Theory: Blais, Ferejohn and Fiorina, Franklin, Wolfinger and Rosenstone — Five Arguments: Duty Holds Turnout, Minimax Regret, the Habit of First Elections, Education Decides, the Price of Registration](06-critique-arsenal/040ba-turnout-theory.md)
+- [40bb. William Riker: Liberalism against Populism — Five Arguments: There Is No Popular Will, the Aggregate Is Meaningless, the Only Function Is Removal, Agenda Manipulation, the Government's Quotation as Populism](06-critique-arsenal/040bb-riker.md)
 
 ## Part II — Social Architecture
 

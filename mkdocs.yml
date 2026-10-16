@@ -238,6 +238,11 @@ plugins:
             "40au. Ландемор: демократический разум": "40au. Landemore: Democratic Reason"
             "40av. Шаттшнайдер: полусуверенный народ": "40av. Schattschneider: the Semisovereign People"
             "40aw. Гиленс и Пейдж: кто слышен": "40aw. Gilens and Page: Who Is Heard"
+            "40ax. Верба, Шлозман и Брэди: голос и равенство": "40ax. Verba, Schlozman and Brady: Voice and Equality"
+            "40ay. Сомин: голосование ногами": "40ay. Somin: Foot Voting"
+            "40az. Пивен и Клауард: почему не голосуют": "40az. Piven and Cloward: Why They Do Not Vote"
+            "40ba. Теория явки: долг, сожаление, привычка": "40ba. Turnout Theory: Duty, Regret, Habit"
+            "40bb. Райкер: либерализм против популизма": "40bb. Riker: Liberalism against Populism"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -430,6 +435,11 @@ nav:
       - "40au. Ландемор: демократический разум": 06-critique-arsenal/040au-landemore.md
       - "40av. Шаттшнайдер: полусуверенный народ": 06-critique-arsenal/040av-schattschneider.md
       - "40aw. Гиленс и Пейдж: кто слышен": 06-critique-arsenal/040aw-gilens-page.md
+      - "40ax. Верба, Шлозман и Брэди: голос и равенство": 06-critique-arsenal/040ax-verba-schlozman-brady.md
+      - "40ay. Сомин: голосование ногами": 06-critique-arsenal/040ay-somin.md
+      - "40az. Пивен и Клауард: почему не голосуют": 06-critique-arsenal/040az-piven-cloward.md
+      - "40ba. Теория явки: долг, сожаление, привычка": 06-critique-arsenal/040ba-turnout-theory.md
+      - "40bb. Райкер: либерализм против популизма": 06-critique-arsenal/040bb-riker.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
