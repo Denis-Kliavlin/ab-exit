@@ -231,6 +231,7 @@ plugins:
             "40an. Лунц: что услышали": "40an. Luntz: What People Hear"
             "40ao. Моррис: триангуляция": "40ao. Morris: Triangulation"
             "40ap. Плафф: коалиция и доноры": "40ap. Plouffe: the Coalition and Donors"
+            "40aq. Пфайффер: внимание": "40aq. Pfeiffer: Attention"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -415,6 +416,7 @@ nav:
       - "40an. Лунц: что услышали": 06-critique-arsenal/040an-luntz.md
       - "40ao. Моррис: триангуляция": 06-critique-arsenal/040ao-morris.md
       - "40ap. Плафф: коалиция и доноры": 06-critique-arsenal/040ap-plouffe.md
+      - "40aq. Пфайффер: внимание": 06-critique-arsenal/040aq-pfeiffer.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
