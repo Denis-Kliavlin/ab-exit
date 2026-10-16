@@ -233,6 +233,7 @@ plugins:
             "40ap. Плафф: коалиция и доноры": "40ap. Plouffe: the Coalition and Donors"
             "40aq. Пфайффер: внимание": "40aq. Pfeiffer: Attention"
             "40ar. Пенн: микротренды": "40ar. Penn: Microtrends"
+            "40as. Уолцер и Сэндел: что нельзя купить": "40as. Walzer and Sandel: What Money Can't Buy"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -420,6 +421,7 @@ nav:
       - "40ap. Плафф: коалиция и доноры": 06-critique-arsenal/040ap-plouffe.md
       - "40aq. Пфайффер: внимание": 06-critique-arsenal/040aq-pfeiffer.md
       - "40ar. Пенн: микротренды": 06-critique-arsenal/040ar-penn.md
+      - "40as. Уолцер и Сэндел: что нельзя купить": 06-critique-arsenal/040as-walzer-sandel.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
