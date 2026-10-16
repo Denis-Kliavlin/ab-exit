@@ -236,6 +236,7 @@ plugins:
             "40as. Уолцер и Сэндел: что нельзя купить": "40as. Walzer and Sandel: What Money Can't Buy"
             "40at. Ачен и Бартелс: реалисты": "40at. Achen and Bartels: the Realists"
             "40au. Ландемор: демократический разум": "40au. Landemore: Democratic Reason"
+            "40av. Шаттшнайдер: полусуверенный народ": "40av. Schattschneider: the Semisovereign People"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -426,6 +427,7 @@ nav:
       - "40as. Уолцер и Сэндел: что нельзя купить": 06-critique-arsenal/040as-walzer-sandel.md
       - "40at. Ачен и Бартелс: реалисты": 06-critique-arsenal/040at-achen-bartels.md
       - "40au. Ландемор: демократический разум": 06-critique-arsenal/040au-landemore.md
+      - "40av. Шаттшнайдер: полусуверенный народ": 06-critique-arsenal/040av-schattschneider.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
