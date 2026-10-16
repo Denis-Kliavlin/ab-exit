@@ -129,7 +129,24 @@ The architect's assignment: "do it by the logic of the last ten debates, so that
 
 There is no kamikaze because such an answer does not exist in American politics: to say "I am against eight hundred dollars for you" is to say it on camera to the takers, and they are half the hall. Even Newsom, the harshest, says "bribe" — "you are being bought", not "you are not entitled". And even the left is against not the money but the method: Sanders wants to give the same money as wages, Ocasio-Cortez protects the poor from their own choice. Of the ten, nobody takes a position that can be held after the first reading of 60 % (§3): "against" has no wording that does not sound like "against you".
 
-**The four "yes" will not sit in one room — and that is a sign of the cut across.** The architect: "Funny: you have united into one group, by an idea, people so different that some of them may hate each other." A Republican president, his vice-president, an outsider who ran against them both, and a Democratic senator at war with his own party: all they share is a brand that cannot say "no" to money for the people. The number cuts politicians across the parties just as it cuts voters (040al §4): the coalition on this question assembles not along the left–right axis but by horizon and brand — the same coalition as the donors' (040ap §4), where the apathetic and the burned fund the same thing for opposite reasons, only made of people who hate each other. And the two "no" are from one flank: the only cut the number makes does not run between the parties.
+**The four "yes" will not sit in one room — a rare case in which politicians of different flanks and the people are for the same thing, and all for different reasons.** The architect: "Funny: you have united into one group, by an idea, people so different that some of them may hate each other… Write it out in more detail: this is a rare case in which politicians of different flanks are for it and the people are for it, but for different reasons. The protocol's balance works here too."
+
+Usually any measure has a beneficiary and a payer, and the coalition "for" assembles along one axis while the opposite axis is against. Here the coalition "for" assembles from people who have nothing in common, and each of them is for his own thing:
+
+| Who | What he is really for |
+|---|---|
+| the Trumpist wing | "money to the people" is already on the signboard; outbidding the sum is their style |
+| Vance and the "new right" | "working people are ignored" is their platform; they must acknowledge the instinct |
+| outsiders like Ramaswamy | the pioneer's premium, the takeover |
+| Democrats "not like the others" (Fetterman) | the image of independence from the party |
+| the takers — "the apathetic" and "the meek" | $3,200 for the family now |
+| those who stay — "the burned" | weight ×2 and the first offer in which they exist (1f §6b) |
+| the band around the median | both reasons at once, the choice on the edge (040al §4) |
+| donors and funds | a place in history and the counter-audit for the sake of their ×2 (059g §4, §4 item 2) |
+
+This is the protocol's balance of 001b seen from the coalition's side: the rule asks nobody to sacrifice for another, everyone gets his own by his own yardstick — money, weight, history, brand — and so "for" exists for everyone at once, while "against" cannot be assembled from anyone. The payer is diffuse: one or two per cent of the budget out of holes that have no face (§4), and the only losers are those who lived on buying turnout — the apparatus and the technologists of bringing-in (039 §88.9, 030b) — and they have no voters of their own. The coalition assembles not along but across (040al §4), and holds not by agreement but by each one's own interest: people who hate each other are in it not allies but neighbours in benefit, and that is stronger than an alliance. The two "no" are from one flank: the only cut the number makes does not run between the parties.
+
+In American history this has happened a handful of times, and always for one reason: the money went to the person, not to a programme. The GI Bill of 1944 passed the Senate 50–0 and the House 387–0, because a payment to every returning serviceman benefited the voters of every district and had no party colour. The Alaska dividend (014) has been sacred to both parties for forty years for the same reason. The protocol is of the same nature, with one difference: the payment and the weight go to everyone, not only to those who served, and the coalition is wider than any before it.
 
 **One signs — and the debate changes its subject.** By American practice the first to sign is the one who builds the image of "not like the others" (Fetterman). After the first signature the question passes to the other nine, and the argument is no longer "to take or not" but "why did you not sign".
 
