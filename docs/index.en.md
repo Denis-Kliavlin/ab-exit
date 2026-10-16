@@ -236,6 +236,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40ao. Dick Morris: Triangulation and Vote.com — Five Arguments: the Centre Is Already Taken, Democracy by Click, the New Prince, the Payment as an Entitlement, Consultants Will Game It](06-critique-arsenal/040ao-morris.md)
 - [40ap. David Plouffe: the Obama Coalition and Data — Five Arguments: My Coalition Takes B, the Propensity Model, More Conservatives, the Movement and Donors, "Nobody Could Have Won"](06-critique-arsenal/040ap-plouffe.md)
 - [40aq. Dan Pfeiffer: the Attention Economy — Five Arguments: the White Paper Loses to the Meme, the Other Side's Frame, the News-Avoiders, No Media Machine, Authenticity](06-critique-arsenal/040aq-pfeiffer.md)
+- [40ar. Mark Penn: Microtrends and a Poll of His Own — Five Arguments: a Hundred One-Per-Cent Groups, the Polls Will Show Distrust, the Soft Centre, Everything Must Be Tested, Brands Will Not Pay](06-critique-arsenal/040ar-penn.md)
 
 ## Part II — Social Architecture
 
