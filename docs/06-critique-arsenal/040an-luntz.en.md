@@ -50,7 +50,7 @@ Focus groups and words. The main rule is the book's title: it's not what you say
 
 **The architect's move — a word does not beat a cheque.** "Words are all good for thinking about others. But even the weightiest word has trouble beating money to you personally and fast. All talk ends when the cheque has to be signed — any salesman knows that." This puts Luntz in his place: his word beats calculations about others and about later. "Death tax" won because the tax was abstract, somebody else's and some day; "climate change" because the climate is nobody's. D is concrete, yours and now. A word works while the dispute is about other people's money; when a cheque in your name is on the table, the talk ends — the deal closes not at the pitch but at the signature. The ballot line (048m art. 15) is the cheque; the slogan is only the invitation to the table. Hence the order of investment: first the sum with a yardstick on the ballot (§6, rules 2 and 10), then the word.
 
-**Residual.** The choice of slogan among four variants is the architect's open decision; after the move about the cheque it is needed for the invitation, not for the deal.
+**Residual.** Removed on 16 October 2026: the architect chose "The vote is worth nothing. Today." (039b §4b) — "very intriguing, and all the readings are right for everyone"; the slogan is needed for the invitation, not for the deal.
 
 ## 5. Words have stopped working
 
@@ -69,7 +69,7 @@ The architect's assignment: "take his own rules apart in relation to the protoco
 | 1. Simplicity | the name AB-EXIT; the art. 15 line; the number | the name — fail: "A/B" says nothing to a voter, EXIT sounds like Brexit; the number — the best word possible; the line is bureaucratic | keep the name off the ballot; rewrite the line: "Both rights stay. Change only by referendum" |
 | 2. Brevity | art. 15 requires the percentage, the formula and the sentence | the formula on the ballot — fail: D = p × M is not a word to a voter but an exam | the ballot carries the sum in local currency and one sentence; the formula stays in the charter |
 | 3. Credibility | "kept forever" with repeal by simple majority (arts. 14–15) | fail: "forever" is refuted by the charter itself and sounds like a politician's promise | drop "forever": "stay until you yourselves decide otherwise" |
-| 4. Consistency | four slogan variants; terms in quotation marks (1h) | the terms pass — 1h is consistency; four slogans — fail | choose one |
+| 4. Consistency | four slogan variants; terms in quotation marks (1h) | the terms pass — 1h is consistency; four slogans — fail | removed 16 October 2026: the architect chose one — "The vote is worth nothing. Today." (039b §4b) |
 | 5. Novelty | nobody has heard "paid not to vote" | passes most strongly in the arsenal; the novelty is the first-reading risk | — |
 | 6. Sound | "abexit" in Russian; the slogan | the slogan has rhythm, passes; "abexit" sounds like a medicine | the name — for internal use |
 | 7. Aspiration | the slogan is negative | half a fail: "Today" hints, but there is no hope in the line | a companion line: "Your vote. Your share" |

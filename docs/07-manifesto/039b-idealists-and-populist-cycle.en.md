@@ -62,6 +62,8 @@ The architect sent (09.10.2026) Viktor Shenderovich's interview to the channel "
 
 *Source:* V. Shenderovich, "Khod mysli", the channel "Vot Tak", 9 October 2026, automatic transcript.
 
+**The architect's decision of 16 October 2026: the slogan is chosen — "The vote is worth nothing. Today."** "It seems to me very intriguing. And all the readings are right for everyone." Of the four variants (freedom after Shenderovich, two rights, the rights of others are not diminished, the fourth) the fourth stays as the main one; the other three are not slogans but answers to questions about it. The four readings — the apathetic's, the burned's, the government's, the opposition's — are right at once, and that is not a contradiction but a game people follow (040an §3): there is no ready answer to "take or ×2", and each reads "today" as his own. The companion aspirational line (040an §6, rule 7) and the picture stay open — for the hired technologists (040an §7b), not for the charter.
+
 ## 5. Weak point of the section
 
 §3 is more honest than §1–2: the four real strikes have answers, but two of the four (first-cycle liquidity and kitchen coercion) are closed by requirements on the statute and the pilot, not by properties of the mechanism. Precisely on these the defence of the first referendum must be built — not on the "built-in fuse" of §2, which works only against *populist* criticism, not against *quiet* institutional criticism (the T case: legal terror, financial sabotage of data, the poison pill — 059e.4). 🟡
