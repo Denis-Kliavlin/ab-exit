@@ -29,7 +29,7 @@
 | 2. The explosion | the same four phrases: "bribery", "auctioning democracy", "how is this legal", "vote-buying" | the reverse Luntz (040an §1): "bribery" sorts the hall our way; hostile channels carry the number for free (040aq §4) |
 | 3. The arithmetic | "$800 × half of Missouri's voters = $1.8 billion per election — from where?" | the answer is ready in advance: D = p × M from the tax base (048m art. 2), a budget line and a comparison with the present cost of bringing-in and benefits (059c §1; 040y). Honestly: the outlay is real, and it must be shown as a budget line, not with the word "it pays for itself" |
 | 4. The polls | — | see §3: the profile is not Trump's — the number has salesmen on both sides of the choice |
-| 5. The split among one's own | both parties split: bosses against, the second echelon and incumbents for | the matrix of 059g §4 and the jester: the split is not over "how to pay" but over "who inside us says it first" |
+| 5. The split among one's own | both parties split: bosses against, the second echelon and incumbents for | the matrix of 059g §4 and the jester: the split is not over "how to pay" but over "who inside us says it first". *The architect's correction:* after readings of 60–80 % (§3) it is no longer about the split but about its speed — the split as a choice disappears, what remains is a race over who takes it over first; the party that delays loses both its base and the lead (059g §4: the win depends on the parties' speed) |
 | 6. Repetition | no hammering needed (040aq §4): the number is remembered from one hearing — by the burned for its substance, by the apathetic for its sum | instead of ads — "chip in $20 for yourselves" (040ap §4) and the daily poll "how many will take" (040an §3) |
 | 7. Memory of the past | "we were already promised $2,000 and $5,000 — nothing came" | the best argument for the protocol: that is exactly why a charter and not a promise; the difference is one row of the table in 059c §1 |
 | 8. Resolution | a referendum, not a party's election | the number on the ballot survives any outcome: it does not depend on who won (048m arts. 14–15) |
@@ -55,7 +55,7 @@ Proof of demand: 48 % for at zero elaboration and zero salesmen. Proof that a nu
 ## 6. Forecast and check
 
 - 3 November 2026: Trump's number dies on any outcome — the test of stage 8.
-- The protocol's first state campaign (the Missouri scenario): stages 2 and 3 pass within the first week in the same words as Trump's; stage 4 shows growth in support between the first and second readings, not a plateau; stage 5 — the first defector from the second echelon of one of the parties before the end of signature-gathering.
+- The protocol's first state campaign (the Missouri scenario): stages 2 and 3 pass within the first week in the same words as Trump's; stage 4 shows growth in support between the first and second readings, not a plateau; stage 5 — the first defector from the second echelon of one of the parties before the end of signature-gathering, and at readings above 60 % — an official takeover by one of the parties before polling day.
 - If stage 4 gives a plateau at Trump's level, the correction of §3 is wrong, and that must be recorded.
 
 ## Weak point
