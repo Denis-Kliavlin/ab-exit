@@ -259,6 +259,7 @@ plugins:
             "48l. Дворовой пилот": "48l. The Courtyard Pilot"
             "48m. Устав": "48m. The Charter"
             "48n. Десять вопросов андердога": "48n. An Underdog's Ten Questions"
+            "48o. Эстафета за двадцатку": "48o. The Twenty-Dollar Relay"
             "55b. Франция": "55b. France"
             "55c. Германия": "55c. Germany"
             "55d. Великобритания: Брексит": "55d. United Kingdom: Brexit"
@@ -479,6 +480,7 @@ nav:
       - "48l. Дворовой пилот": 08-implementation/048l-courtyard-pilot.md
       - "48m. Устав": 08-implementation/048m-charter.md
       - "48n. Десять вопросов андердога": 08-implementation/048n-underdog-questions.md
+      - "48o. Эстафета за двадцатку": 08-implementation/048o-relay-challenge.md
   - "IV. Страновые имплементации":
     - "Глава 9. Кейсы: другие страны":
       - "53. Молдова": 09-other-countries/053-moldova.md

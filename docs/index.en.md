@@ -291,6 +291,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [48l. The Courtyard Pilot: Live Money and a Real Decision](08-implementation/048l-courtyard-pilot.md)
 - [48m. The AB-EXIT Charter: A Text That Can Be Adopted](08-implementation/048m-charter.md)
 - [48n. If You Are an Underdog: A Candidate's Ten Questions](08-implementation/048n-underdog-questions.md)
+- [48o. The Twenty-Dollar Relay: Rules of the "Money or a Double Vote" Challenge](08-implementation/048o-relay-challenge.md)
 
 ## Part IV — 🌍 Country Implementations
 

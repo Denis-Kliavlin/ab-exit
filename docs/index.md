@@ -290,6 +290,7 @@
 - [48l. Дворовой пилот: живые деньги и настоящее решение](08-implementation/048l-courtyard-pilot.md)
 - [48m. Устав AB-EXIT: текст, который можно принять](08-implementation/048m-charter.md)
 - [48n. Если вы андердог: десять вопросов кандидата](08-implementation/048n-underdog-questions.md)
+- [48o. Эстафета за двадцатку: правила челленджа «деньги или двойной голос»](08-implementation/048o-relay-challenge.md)
 
 ## Часть IV — 🌍 Страновые имплементации
 
