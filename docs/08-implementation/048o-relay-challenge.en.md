@@ -18,7 +18,7 @@ The payment figures are the repository's yardsticks: the United States about $80
 
 ## 2. The relay
 
-The banknote does not stay with the taker for good. Whoever chose the money and took it must run the same game with the same banknote on another person. The note travels from taker to taker and stops at the one who chooses the vote: he pays the host a note of the same value, the chain closes at that link, and the last host is left with two notes. One twenty passes through five to ten people, and each of them makes a choice with money in hand.
+The banknote does not stay with the taker for good. Whoever chose the money and took it must run the same game with the same banknote on another person. The note travels from taker to taker and reaches the one who chooses the vote: he pays the host a note of the same value, and the last host is left with two. What happens next is decided by the one who chose the vote — the architect's move (19 October 2026): "he may close it, but he may also carry on himself if he wants — it is a game." Closed — the chain ends with him; carried on — he is the new host with his own note, and the chain goes on. One twenty passes through five to ten people, and each of them makes a choice with money in hand.
 
 The balance is zero: the first host loses a note, the one who chose the vote loses a note, the last host gains two. Nobody pays to enter, nobody collects from newcomers, the organiser never touches the money. This is a property of the rule itself — the protocol is nobody's (059l §4) — carried over to the game.
 
@@ -92,7 +92,7 @@ Paid impressions cost about 10 cents a view and produce no chain; organic reach 
 
 ## Weak point
 
-The rules are a construction, not a measurement: the share choosing the vote, the chain length and the response to "try it yourself" have not been measured by anyone; the Chicago estimates rest on 2026 platform prices and the experience of street interviews, not on data from this format. Turnout figures for regional and municipal elections are given as ranges. One point the architect has not yet fixed: whether the one who chooses the vote closes the chain, or keeps the note and starts a new one; the first version is recorded.
+The rules are a construction, not a measurement: the share choosing the vote, the chain length and the response to "try it yourself" have not been measured by anyone; the Chicago estimates rest on 2026 platform prices and the experience of street interviews, not on data from this format. Turnout figures for regional and municipal elections are given as ranges.
 
 ---
 
