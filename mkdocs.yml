@@ -285,6 +285,7 @@ plugins:
             "59k. Партии и штаты": "59k. Parties and States"
             "59l. $5000 как репетиция": "59l. The $5,000 as a Rehearsal"
             "59m. Чикаго 2027: Уилсон и Грок": "59m. Chicago 2027: Wilson and Grok"
+            "59n. Голос «против»: Pew 44 на 19": "59n. The Vote Against: Pew 44 to 19"
 
 markdown_extensions:
   - admonition
@@ -527,6 +528,7 @@ nav:
       - "59k. Партии и штаты": 10-usa/059k-parties-and-states.md
       - "59l. $5000 как репетиция": 10-usa/059l-five-thousand-rehearsal.md
       - "59m. Чикаго 2027: Уилсон и Грок": 10-usa/059m-chicago-2027-wilson.md
+      - "59n. Голос «против»: Pew 44 на 19": 10-usa/059n-vote-against.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md
