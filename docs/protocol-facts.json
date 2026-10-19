@@ -123,6 +123,11 @@
       "right": "statement 9"
     },
     {
+      "wrong": "\"The candidate's ceiling is 10 %, the protocol does not change it\" (counting only those who came)",
+      "where_it_comes_from": "AI forecasts from a clean start (Grok, Chicago 2027)",
+      "right": "count from those who did not come, not from the hall: the referendum question is addressed to them; Chicago 2023 — a million did not come, 70 thousand short of the runoff, i.e. 7 % of them; [059m](../10-usa/059m-chicago-2027-wilson.md)"
+    },
+    {
       "wrong": "\"The candidate promises a payment if he wins\"",
       "where_it_comes_from": "an addition by the AI adviser; it is not in the repository",
       "right": "statements 8 and 16"
@@ -333,6 +338,11 @@
       "wrong": "«Это арбитраж: кандидат покупает апатичных и продаёт мотивированным»",
       "where_it_comes_from": "присказка ИИ-советника",
       "right": "кандидат никому не платит; раздел «На языке теории игр»"
+    },
+    {
+      "wrong": "«Потолок кандидата — 10 %, протокол его не меняет» (счёт только от пришедших)",
+      "where_it_comes_from": "прогнозы ИИ с чистого старта (Grok, Чикаго 2027)",
+      "right": "считать от не пришедших, а не от зала: вопрос референдума обращён к ним; Чикаго 2023 — миллион не пришедших, до второго тура 70 тысяч, то есть 7 % из них; [059m](../10-usa/059m-chicago-2027-wilson.md)"
     },
     {
       "wrong": "«У мотивированного избирателя доминантная стратегия — голосовать», «протокол безупречен»",

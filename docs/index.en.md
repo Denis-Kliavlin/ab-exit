@@ -345,6 +345,7 @@ United States is one country case among others, not the frame of the document.*
 - [59j. The US: the Man-Made Economy of the Second Term — Tariffs, the Fed, Diesel, and Who Gets the Bill](10-usa/059j-second-term-economy.md)
 - [59k. The US: Why a State "Belongs" to a Party for Half a Century, Why the Middle Cannot Be Chosen, and Whether a Third Party Is Needed](10-usa/059k-parties-and-states.md)
 - [59l. The US: the "Trump $5,000" Campaign as a Rehearsal for the Protocol — Eight Stages and a Forecast](10-usa/059l-five-thousand-rehearsal.md)
+- [59m. Chicago 2027: Wilson, Three Rounds of Grok and the Rule of Three](10-usa/059m-chicago-2027-wilson.md)
 
 ## Numbers that occur twice
 

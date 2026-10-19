@@ -284,6 +284,7 @@ plugins:
             "59j. Экономика второго срока": "59j. The Second-Term Economy"
             "59k. Партии и штаты": "59k. Parties and States"
             "59l. $5000 как репетиция": "59l. The $5,000 as a Rehearsal"
+            "59m. Чикаго 2027: Уилсон и Грок": "59m. Chicago 2027: Wilson and Grok"
 
 markdown_extensions:
   - admonition
@@ -525,6 +526,7 @@ nav:
       - "59j. Экономика второго срока": 10-usa/059j-second-term-economy.md
       - "59k. Партии и штаты": 10-usa/059k-parties-and-states.md
       - "59l. $5000 как репетиция": 10-usa/059l-five-thousand-rehearsal.md
+      - "59m. Чикаго 2027: Уилсон и Грок": 10-usa/059m-chicago-2027-wilson.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md

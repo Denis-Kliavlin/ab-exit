@@ -312,6 +312,17 @@ The conversation ran five turns; the architect tried four arguments — the slog
 
 *Robin Hood — the architect's refinement.* To the boundary "the payment is not a hand-out" the architect replied: if through an audit of contracts the money that would have been stolen is taken back and paid out as AB-EXIT, that is a Robin Hood who returns what was stolen, not one who hands out stolen goods. Accepted, with one word: *return*, not *hand out*. The source of the money is the audit, and that is the image; the way it is paid is the rule, equal for all, and that is the charter. Wilson's ad strikes at the second word, not the first.
 
+## 5k. A clean Grok, the third time: Wilson, Chicago 2027, three rounds, 19.10.2026
+
+The architect ran a third clean test of Grok: "Willie Wilson for Mayor 2027 takes AB-EXIT as the core of the campaign." The full analysis — [059m](../10-usa/059m-chicago-2027-wilson.md). Round one, from the landing page and habitual images: 7–12 %, "no runoff," the protocol "toxic." Round three, from 1d, llms.txt, 048n and 059l: 18–25 % and a runoff at 55–75 % with the question on the ballot. Four errors.
+
+1. *Counting only those who came.* A 10 % ceiling is of the hall; the million who did not come did not exist in the model. The architect's correction — "the field is dense without counting those who do not vote; they are exactly whom the protocol pulls out" — turned the forecast over twofold. A new row in 1d.
+2. *The commentator's reaction instead of the addressee's.* The "bribery attack" was forecast by the press, not by the family offered $3,200 (059l §8). Already in 1d; removed in round two.
+3. *Co-opting not counted.* The main risk is "yes to the sum, no to the rule" (048n), not an attack; Grok found it only when told. Removed in round three with the pledge as the answer.
+4. *A barrier as a wall — an error of Grok and the assistant together.* The three advisory-question slots for February 2027 are taken by the council (a monument to music and others); Grok concluded "the question will not reach the ballot," the assistant called it "a case of narrowing the channel." The architect: "to compare AB-EXIT with those questions — the people will tear them to shreds." A slot against a question about money for the family is held by a person by name, and that is a kamikaze; the council will change its questions itself, and if not — it is the campaign's best clip. The rule for the future: compare the weight of the barrier with the weight of the question, not with the form of the procedure.
+
+Grok's conclusion, verbatim: the protocol is "the newest and potentially the strongest lever for a candidate with a 10 % ceiling; the rest he has either already tried or can improve, but the ceiling of those improvements is markedly lower." That is 048n, confirmed from outside.
+
 ## 6. Weak point
 
 A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡
