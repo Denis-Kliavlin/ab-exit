@@ -253,6 +253,10 @@ Far cheaper than traditional political campaigns and far more effective than AI-
 
 **Section 89 (media strategy and AI framing):** the challenge is the realisation of public communication with the right framing. AI is used as a stress-testing methodology (not part of the challenge). In the challenge AI is not mentioned.
 
+### 90.19b. Development: the twenty-dollar relay (048o)
+
+The architect, 16–19 October 2026: the stake raised from $10 to $20, a relay added — the taker must run the game with the same note on another person until it is taken by someone who chooses the vote — a Russian version at 1000 roubles, the participant's earnings and three American analogues. The rules are set out in a separate chapter, [048o](../08-implementation/048o-relay-challenge.md), with the PDF handout and an estimate for $1000 in Chicago. The script of §90.9 and the legal framing of §90.17 remain in force.
+
 ### 90.20. Summary — the challenge as the embodiment of AB-EXIT on social media
 
 The main structural coincidence: the challenge in itself is a form of non-partisan public expression of will. AB-EXIT as a reform creates a legalised form of non-partisan public expression of will.
