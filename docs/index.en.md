@@ -247,6 +247,10 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40az. Piven and Cloward: Why Americans Don't Vote — Five Arguments: Apathy as a Consequence, the Barriers of the 1890s, Demobilisation by Class, the Biggest Barrier in History, Remove Barriers Rather Than Pay](06-critique-arsenal/040az-piven-cloward.md)
 - [40ba. Turnout Theory: Blais, Ferejohn and Fiorina, Franklin, Wolfinger and Rosenstone — Five Arguments: Duty Holds Turnout, Minimax Regret, the Habit of First Elections, Education Decides, the Price of Registration](06-critique-arsenal/040ba-turnout-theory.md)
 - [40bb. William Riker: Liberalism against Populism — Five Arguments: There Is No Popular Will, the Aggregate Is Meaningless, the Only Function Is Removal, Agenda Manipulation, the Government's Quotation as Populism](06-critique-arsenal/040bb-riker.md)
+- [40bc. Political Scientists' Question 1: "People Want to Participate but Are Not Allowed"](06-critique-arsenal/040bc-q-people-want-to-participate.md)
+- [40bd. Political Scientists' Question 2: "Citizens Are Rational and Have Seen Through It"](06-critique-arsenal/040bd-q-citizens-are-rational.md)
+- [40be. Political Scientists' Question 3: "The Answer to the Crisis Is to Include Everyone and Make Participation Cheaper"](06-critique-arsenal/040be-q-more-inclusion.md)
+- [40bf. Political Scientists' Question 4: "Populism Is Weaker than Fascism and Must Be Waited Out"](06-critique-arsenal/040bf-q-populism-weaker-than-fascism.md)
 
 ## Part II — Social Architecture
 

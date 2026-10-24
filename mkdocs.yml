@@ -243,6 +243,10 @@ plugins:
             "40az. Пивен и Клауард: почему не голосуют": "40az. Piven and Cloward: Why They Do Not Vote"
             "40ba. Теория явки: долг, сожаление, привычка": "40ba. Turnout Theory: Duty, Regret, Habit"
             "40bb. Райкер: либерализм против популизма": "40bb. Riker: Liberalism against Populism"
+            "40bc. Вопрос политологов: хотят, но не дают": "40bc. Political Scientists' Question: They Want but Are Not Allowed"
+            "40bd. Вопрос политологов: граждане разумны": "40bd. Political Scientists' Question: Citizens Are Rational"
+            "40be. Вопрос политологов: включить всех": "40be. Political Scientists' Question: Include Everyone"
+            "40bf. Вопрос политологов: популизм слабее фашизма": "40bf. Political Scientists' Question: Populism Weaker than Fascism"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -443,6 +447,10 @@ nav:
       - "40az. Пивен и Клауард: почему не голосуют": 06-critique-arsenal/040az-piven-cloward.md
       - "40ba. Теория явки: долг, сожаление, привычка": 06-critique-arsenal/040ba-turnout-theory.md
       - "40bb. Райкер: либерализм против популизма": 06-critique-arsenal/040bb-riker.md
+      - "40bc. Вопрос политологов: хотят, но не дают": 06-critique-arsenal/040bc-q-people-want-to-participate.md
+      - "40bd. Вопрос политологов: граждане разумны": 06-critique-arsenal/040bd-q-citizens-are-rational.md
+      - "40be. Вопрос политологов: включить всех": 06-critique-arsenal/040be-q-more-inclusion.md
+      - "40bf. Вопрос политологов: популизм слабее фашизма": 06-critique-arsenal/040bf-q-populism-weaker-than-fascism.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
