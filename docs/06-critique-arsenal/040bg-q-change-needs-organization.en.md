@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bg · v1 · 25 October 2026
 **The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — change requires organisation · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md) · [40bi — demography blocks change](040bi-q-demography-blocks-change.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16–19. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 12, 15, 16–19. The architect's moves are verbatim.
 
 ---
 
@@ -96,6 +96,14 @@ The protocol is the same continuous conversion of discontent, but built into the
 Reach — more than tenfold, conversion — from zero to full, dimensions — three times as many. This is not a gain in percentages but a move into another class, like from the steam engine to the internal combustion engine.
 
 **The architect.** "And all of this is logically reasonable and admissible, and Russia's leading social scientist of the last twenty years cannot understand it — strange." The answer is the series frame: not "cannot" but does not see — within the parameters of two thousand years of qualifications exit was a loss of the vote; the discipline counts votes one to one and puts no price on exit; what is new here is a combination of known parts (Hirschman's exit, the Olson inversion, Pacioli's double entry, the referendum), and such inventions are the hardest to see from inside a field.
+
+## 4f. Protest hidden in the day of the week, and the preacher's influence — the assistant's analysis
+
+Two theses without a move by the architect; the assistant's analysis, shown to the architect.
+
+**Thesis 12. The last day and the paper ballot as a sign of protest.** Shulman: the proper public-sector worker votes on Friday morning online; voting on the last day on paper is protest. Today protest hides in a trifle — the day of the week and the way of voting; such a sign is legible to a sociologist but not visible to the government as a number, costs the protester almost nothing and is not secret: who came on the last day is visible to the commission. Under the protocol protest need not be encoded: the protester either stays and weighs double or takes the payment, and that shows as the share of takers; the choice is secret (048m art. 9.3), the signal to the government is open and numerical — and, per §4c, three-dimensional.
+
+**Thesis 15. Popularity is not political influence.** Shulman: Taylor Swift fills stadiums but cannot choose a president; a preacher telling his flock "go and vote, or the devil will take you" has influence; a vote for any party other than the party of power is a political act. The premise: influence is the ability to bring people to the polls. By the accounting standard the preacher's influence is a bloc vote entered in the total at full value although one person decided for all — a fictitious entry. Under the protocol this influence is devalued: the choice is secret, the money comes to each member of the flock personally, the pastor can neither deliver the votes nor check obedience (the architect's move on any deal, [015c §7b](../03-theory/015c-sign-change.md), [040al §4](040al-rove.md)). An idol's fans are the same led turnout; the impulsive fan takes the money. Only one who persuades those who stay on substance becomes influential (040at): today the influential one is who brings people, under the protocol — who persuades. To the only political act in an autocracy — a vote not for the party of power — the protocol adds a safe second one, taking the payment, which by Shulman's own definition (thesis 14) influences the government through the share of takers, and a third, the main one — the referendum on the rule.
 
 ## 5. What follows
 
