@@ -2,7 +2,7 @@
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bf · v1 · 24 October 2026
-**The "Political Scientists' Questions" series:** [40bc — people want to participate but are not allowed](040bc-q-people-want-to-participate.md) · [40bd — citizens are rational and have seen through it](040bd-q-citizens-are-rational.md) · [40be — the answer to the crisis: include everyone and make participation cheaper](040be-q-more-inclusion.md) · 40bf — populism is weaker than fascism and must be waited out
+**The "Political Scientists' Questions" series:** [40bc — people want to participate but are not allowed](040bc-q-people-want-to-participate.md) · [40bd — citizens are rational and have seen through it](040bd-q-citizens-are-rational.md) · [40be — the answer to the crisis: include everyone and make participation cheaper](040be-q-more-inclusion.md) · 40bf — populism is weaker than fascism and must be waited out · [40bg — change requires organisation](040bg-q-change-needs-organization.md) · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
 **Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), thesis 5. The architect's moves are verbatim.
 
 ---

@@ -246,6 +246,8 @@
 - [40bd. Вопрос политологов 2: «Граждане разумны и прозрели»](06-critique-arsenal/040bd-q-citizens-are-rational.md)
 - [40be. Вопрос политологов 3: «Ответ на кризис — включить всех и удешевить участие»](06-critique-arsenal/040be-q-more-inclusion.md)
 - [40bf. Вопрос политологов 4: «Популизм слабее фашизма, его надо переждать»](06-critique-arsenal/040bf-q-populism-weaker-than-fascism.md)
+- [40bg. Вопрос политологов 5: «Перемены требуют организации»](06-critique-arsenal/040bg-q-change-needs-organization.md)
+- [40bh. Вопрос политологов 6: «Перемены в автократии придут сверху, от элиты; снизу родиться нечему»](06-critique-arsenal/040bh-q-change-from-above.md)
 
 ## Часть II — Социальная архитектура
 

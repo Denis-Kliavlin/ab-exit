@@ -251,6 +251,8 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bd. Political Scientists' Question 2: "Citizens Are Rational and Have Seen Through It"](06-critique-arsenal/040bd-q-citizens-are-rational.md)
 - [40be. Political Scientists' Question 3: "The Answer to the Crisis Is to Include Everyone and Make Participation Cheaper"](06-critique-arsenal/040be-q-more-inclusion.md)
 - [40bf. Political Scientists' Question 4: "Populism Is Weaker than Fascism and Must Be Waited Out"](06-critique-arsenal/040bf-q-populism-weaker-than-fascism.md)
+- [40bg. Political Scientists' Question 5: "Change Requires Organisation"](06-critique-arsenal/040bg-q-change-needs-organization.md)
+- [40bh. Political Scientists' Question 6: "Change in an Autocracy Will Come from Above, from the Elite; Nothing Can Be Born from Below"](06-critique-arsenal/040bh-q-change-from-above.md)
 
 ## Part II — Social Architecture
 

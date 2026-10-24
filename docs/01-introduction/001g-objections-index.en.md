@@ -181,6 +181,7 @@
 
 **What is true:** the lock is weak — repeal by simple majority at a referendum (048m Arts. 14–15).
 **Answer:** what protects is not the lock but self-enforcement: breaking the rule strikes "the takers" (money) and "those who stay" (share of the vote) at once, the line is bright (a number), the coordinator is ready (the opposition), the army is made of takers. It pays the government more to keep the rule than to break it (Przeworski: "the only game in town"). The closest analogy is the repeal of a universal subsidy (bread, fuel, the Alaska dividend), not the repeal of elections. Inflation does not eat a percentage of the median.
+**In an autocracy — the architect's move:** "the autocrat cannot cancel the referendum: he would lose legitimacy himself, he pretends to be lawfully in power." A rule adopted by referendum is a piece of the legality the autocrat imitates; cancelling it by decree destroys the imitation and takes the payment away from millions of families by name ([040bh §3](../06-critique-arsenal/040bh-q-change-from-above.md)).
 **In full:** [040v §6](../06-critique-arsenal/040v-przeworski.md), [040ag item 5](../06-critique-arsenal/040ag-tilly.md), [1c](001c-board-without-good-moves.md).
 **What is unknown:** at the healthy pole the percentage may be whittled by "those who stay" themselves (tax against share); the referendum on the rule is not protected by the counter, because it has no choice B — a candidate for the charter decisions (048k §3).
 

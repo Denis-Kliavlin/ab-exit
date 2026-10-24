@@ -247,6 +247,8 @@ plugins:
             "40bd. Вопрос политологов: граждане разумны": "40bd. Political Scientists' Question: Citizens Are Rational"
             "40be. Вопрос политологов: включить всех": "40be. Political Scientists' Question: Include Everyone"
             "40bf. Вопрос политологов: популизм слабее фашизма": "40bf. Political Scientists' Question: Populism Weaker than Fascism"
+            "40bg. Вопрос политологов: нужна организация": "40bg. Political Scientists' Question: Change Needs Organisation"
+            "40bh. Вопрос политологов: перемены сверху": "40bh. Political Scientists' Question: Change from Above"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -451,6 +453,8 @@ nav:
       - "40bd. Вопрос политологов: граждане разумны": 06-critique-arsenal/040bd-q-citizens-are-rational.md
       - "40be. Вопрос политологов: включить всех": 06-critique-arsenal/040be-q-more-inclusion.md
       - "40bf. Вопрос политологов: популизм слабее фашизма": 06-critique-arsenal/040bf-q-populism-weaker-than-fascism.md
+      - "40bg. Вопрос политологов: нужна организация": 06-critique-arsenal/040bg-q-change-needs-organization.md
+      - "40bh. Вопрос политологов: перемены сверху": 06-critique-arsenal/040bh-q-change-from-above.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
