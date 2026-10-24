@@ -11,6 +11,10 @@ WHAT IT IS, IN FIVE LINES
 - The jurisdiction's budget pays under law. A candidate or party never pays voters.
 - Only a referendum of all citizens can introduce, change or repeal the rule. It promises nobody an election victory.
 
+COUNT ACCURACY - AN ENGINEERING RESULT (independent of who takes the payment)
+- List entries the person himself can verify: today 0 of 100, under the protocol more than 90 of 100 (bank record of the payment + commission record, reconciled).
+- Reserve for ballot stuffing: today 40-50 % of the list (everyone who did not come), under the protocol about 3 %; the remainder can only be substituted, not added. A 13-17-fold reduction.
+
 WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "People who refuse the money get a x2 / x3 / weighted vote."  RIGHT: every ballot counts as one. If two-thirds sit out, each ballot is three times as large a share - equally for all voters, whoever they vote for.
 - WRONG: "The payment is $780" (or $676, 1.5 % of the median, 30,000 roubles).  RIGHT: those are old worked examples. The rule is a percentage chosen by referendum.
@@ -98,6 +102,16 @@ PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
 
 17. On every day of the window a counter is published: how many chose to vote, how many took the payment, how many have not chosen — by precinct (Art. 9).
 18. Two independent records are reconciled: the treasury's (who received the payment) and the commission's (who voted). A ballot for someone who received the payment is the commission's violation, not the citizen's (Art. 10).
+
+**Count accuracy — an engineering result.** This does not follow from voters' behaviour and depends on no disputed assumption — only on the arithmetic of the list and double entry (art. 10 part 2; [048i](../08-implementation/048i-three-channels-parallel-count.md)).
+
+| | Today | Under the protocol |
+|---|---|---|
+| List entries the person himself can verify | 0 of 100 | more than 90 of 100 |
+| Reserve for ballot stuffing | 40–50 % of the list — everyone who did not come | about 3 % of the list |
+| What can be done with the remainder | add ballots | only substitute genuine ballots |
+
+The reserve for fraud shrinks 13–17-fold. The architect: "if an engineer made the internal combustion engine 50 % more efficient — what would happen?" In mechanics it would be a revolution: over a century engine efficiency was raised by single percentage points, and the move from the steam locomotive (5–10 %) to the diesel (30–40 %) changed all of transport. Here the gain is not one and a half times but an order of magnitude.
 
 **What is known and what is not**
 

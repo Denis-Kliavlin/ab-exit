@@ -44,6 +44,7 @@ What the pilot does not test and must not promise: the shift of parties, the fat
 
 | Quantity | The repository's forecast | Where |
 |---|---|---|
+| **Bench measurement of count accuracy** — the main one | entries the person himself can verify: more than 90 of 100 (today 0); the reserve "on the list but took no part": about 3 % (today 40–50 %); measurable from the first cycle at any precinct and independent of who takes the payment — like a test bench for an engine | 048i, 1d |
 | Share choosing the money | 40–60 % of residents; among those the sum addresses, 93–97 % take it | 045 §45.3–45.4 |
 | Age profile of those who remain | younger than today's voters; ~70 % of 18–25s remain, ~15 % of 75+ | 016 §25.5 |
 | Those refusing the sum to vote "against" | present; their share is the sign of the thermostat | 015b §6b |

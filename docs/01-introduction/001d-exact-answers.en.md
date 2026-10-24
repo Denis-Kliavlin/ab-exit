@@ -45,6 +45,16 @@ The repository was written over half a year and holds layers of different dates:
 17. On every day of the window a counter is published: how many chose to vote, how many took the payment, how many have not chosen — by precinct (Art. 9).
 18. Two independent records are reconciled: the treasury's (who received the payment) and the commission's (who voted). A ballot for someone who received the payment is the commission's violation, not the citizen's (Art. 10).
 
+**Count accuracy — an engineering result.** This does not follow from voters' behaviour and depends on no disputed assumption — only on the arithmetic of the list and double entry (art. 10 part 2; [048i](../08-implementation/048i-three-channels-parallel-count.md)).
+
+| | Today | Under the protocol |
+|---|---|---|
+| List entries the person himself can verify | 0 of 100 | more than 90 of 100 |
+| Reserve for ballot stuffing | 40–50 % of the list — everyone who did not come | about 3 % of the list |
+| What can be done with the remainder | add ballots | only substitute genuine ballots |
+
+The reserve for fraud shrinks 13–17-fold. The architect: "if an engineer made the internal combustion engine 50 % more efficient — what would happen?" In mechanics it would be a revolution: over a century engine efficiency was raised by single percentage points, and the move from the steam locomotive (5–10 %) to the diesel (30–40 %) changed all of transport. Here the gain is not one and a half times but an order of magnitude.
+
 **What is known and what is not**
 
 19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).

@@ -57,6 +57,10 @@ WHAT IT IS, IN FIVE LINES
 - The jurisdiction's budget pays under law. A candidate or party never pays voters.
 - Only a referendum of all citizens can introduce, change or repeal the rule. It promises nobody an election victory.
 
+COUNT ACCURACY - AN ENGINEERING RESULT (independent of who takes the payment)
+- List entries the person himself can verify: today 0 of 100, under the protocol more than 90 of 100 (bank record of the payment + commission record, reconciled).
+- Reserve for ballot stuffing: today 40-50 % of the list (everyone who did not come), under the protocol about 3 %; the remainder can only be substituted, not added. A 13-17-fold reduction.
+
 WRONG -> RIGHT (the errors readers make most often)
 - WRONG: "People who refuse the money get a x2 / x3 / weighted vote."  RIGHT: every ballot counts as one. If two-thirds sit out, each ballot is three times as large a share - equally for all voters, whoever they vote for.
 - WRONG: "The payment is $780" (or $676, 1.5 % of the median, 30,000 roubles).  RIGHT: those are old worked examples. The rule is a percentage chosen by referendum.
@@ -120,6 +124,10 @@ https://docs.ab-exit.com/ и отменяет любую более старую
 - Один бюллетень - один голос. Множителя при подсчёте нет ни для кого. Голос при этом усиленный: чем больше людей вышло, тем большую долю составляет каждый поданный бюллетень - насколько, заранее неизвестно.
 - Платит бюджет по закону. Кандидат или партия избирателям не платят никогда.
 - Ввести, изменить или отменить правило может только референдум всех граждан. Победы на выборах оно никому не обещает.
+
+ТОЧНОСТЬ ПОДСЧЁТА - ИНЖЕНЕРНЫЙ РЕЗУЛЬТАТ (не зависит от того, кто возьмёт выплату)
+- Записей списка, которые проверяет сам человек: сегодня 0 из 100, при протоколе больше 90 из 100 (банковская запись выплаты + запись комиссии, сверяются).
+- Резерв для вброса: сегодня 40-50 % списка (все, кто не пришёл), при протоколе около 3 %; остаток можно только подменить, а не добавить. Сокращение в 13-17 раз.
 
 НЕВЕРНО -> ВЕРНО (самые частые ошибки чтения)
 - НЕВЕРНО: «Отказавшийся от денег получает голос x2 / x3 / взвешенный голос».  ВЕРНО: каждый бюллетень считается за один. Если две трети не голосуют, каждый бюллетень составляет втрое большую долю - одинаково для всех, за кого бы они ни голосовали.

@@ -4,6 +4,10 @@
 
 The site was written over six months and contains layers of different dates. Older chapters carry dated corrections. When pages disagree, the Charter (048m) and the Exact Answers page (001d) are authoritative.
 
+## Count accuracy — an engineering result
+
+Independent of who takes the payment; it follows from the arithmetic of the list and double entry (charter art. 10 part 2; [048i](https://docs.ab-exit.com/en/08-implementation/048i-three-channels-parallel-count/)). List entries the person himself can verify: today 0 of 100, under the protocol more than 90 of 100. Reserve for ballot stuffing: today 40–50 % of the list, under the protocol about 3 %, and the remainder can only be substituted, not added — a 13–17-fold reduction.
+
 ## Everything in one file
 
 - [llms-full.txt](https://docs.ab-exit.com/llms-full.txt): the complete current rules, self-contained, in English (about 28 KB)
