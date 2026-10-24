@@ -9,6 +9,8 @@
 
 *How to read. The fourth premise: today's populism is a younger and milder heir of 20th-century totalitarianism; the interregnum must be lived through with less bloodshed, and the new will be born by itself. The protocol disputes both halves: populism is stronger than it looks, and there is no need to wait.*
 
+**The series frame — the architect's move.** Political science wants the same thing the protocol delivers: a change of power by ordinary procedure, without bloodshed, through a law that cannot be repealed. It understands that the apathetic and the impulsive must be removed from the decision, but it knows no honest franchise qualification. And within the magnitudes and parameters that qualifications have had for two thousand years, it is right: every known qualification — property, education, a test — took the vote away from outside and hit the weak, and non-participation was a loss of the vote, that is, an illness ([006](../02-history/006-2500-years.md)). The architect: "AB-EXIT somehow went around all of this. I am in shock myself." The protocol is not a subtype of the known qualifications but another dimension: a qualification each person passes himself, in secret, by refusing money, and a balance in which nobody loses — the one who leaves gets the payment and the right to return, the one who stays gets double weight. Political science does not see this balance because it counts votes one to one and never puts a price on exit.
+
 ## 1. Who says so
 
 - **E. Shulman** (2026, thesis 5). The old has died, the new cannot be born — Gramsci's time of monsters. Today's populism is "a younger and fairly innocent child" of 20th-century totalitarianism; the period must be passed with less bloodshed, but it will have to be passed.

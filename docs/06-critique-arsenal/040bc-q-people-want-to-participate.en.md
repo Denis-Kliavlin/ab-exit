@@ -9,6 +9,8 @@
 
 *How to read. The series gathers not authors but the premises on which modern political science stands, and for each names who holds it. The first premise: non-participation is a shortage of access; people want to vote and take part in the life of the state, but barriers stop them. The protocol does not argue with the barriers — they can be real — but with the claim that a willing majority stands behind them.*
 
+**The series frame — the architect's move.** Political science wants the same thing the protocol delivers: a change of power by ordinary procedure, without bloodshed, through a law that cannot be repealed. It understands that the apathetic and the impulsive must be removed from the decision, but it knows no honest franchise qualification. And within the magnitudes and parameters that qualifications have had for two thousand years, it is right: every known qualification — property, education, a test — took the vote away from outside and hit the weak, and non-participation was a loss of the vote, that is, an illness ([006](../02-history/006-2500-years.md)). The architect: "AB-EXIT somehow went around all of this. I am in shock myself." The protocol is not a subtype of the known qualifications but another dimension: a qualification each person passes himself, in secret, by refusing money, and a balance in which nobody loses — the one who leaves gets the payment and the right to return, the one who stays gets double weight. Political science does not see this balance because it counts votes one to one and never puts a price on exit.
+
 ## 1. Who says so
 
 - **E. Shulman** (2026, theses 1 and 3). In Russia barriers to participation are built deliberately; an autocracy's population must be passive; elections are a show of loyalty, "no wonder people are not interested." And more broadly: the new masses are politicised, but representative institutions do not satisfy them.
@@ -36,7 +38,7 @@ The premise glues two different groups together. Those who are kept out — the 
 
 "And Shulman gives them nowhere they can go reasonably and safely."
 
-In modern political science a person has two positions: participate or be suppressed. Non-participation is an illness treated with access. For one who does not want to take part there is no lawful exit. The exits named or implied — emigrate, change profession or be marginalised, keep silent and be filed as "suppressed" or as the "deep people" — either cost the life one has built or are not recognised at all.
+In modern political science a person has two positions: participate or be suppressed. Within the parameters of two thousand years of qualifications it is right that non-participation is an illness: exit was always a loss of the vote (the series frame). So for one who does not want to take part there is no lawful exit. The exits named or implied — emigrate, change profession or be marginalised, keep silent and be filed as "suppressed" or as the "deep people" — either cost the life one has built or are not recognised at all.
 
 In an autocracy one cannot leave even silently. Shulman herself says (thesis 10): public-sector workers are driven to register for electronic voting, told to "bring three friends," the proper public employee votes on Friday morning online. And she herself says people want a way to express themselves "for which they will not be beaten." That way is absent from her scheme.
 

@@ -9,6 +9,8 @@
 
 *How to read. The second premise: the modern citizen is informed, sees through the elites and therefore distrusts them; his discontent is knowledge, not mood. The protocol does not claim the opposite about everyone: the burned do know the price (1f §6b). It argues with the claim that the majority is built this way.*
 
+**The series frame — the architect's move.** Political science wants the same thing the protocol delivers: a change of power by ordinary procedure, without bloodshed, through a law that cannot be repealed. It understands that the apathetic and the impulsive must be removed from the decision, but it knows no honest franchise qualification. And within the magnitudes and parameters that qualifications have had for two thousand years, it is right: every known qualification — property, education, a test — took the vote away from outside and hit the weak, and non-participation was a loss of the vote, that is, an illness ([006](../02-history/006-2500-years.md)). The architect: "AB-EXIT somehow went around all of this. I am in shock myself." The protocol is not a subtype of the known qualifications but another dimension: a qualification each person passes himself, in secret, by refusing money, and a balance in which nobody loses — the one who leaves gets the payment and the right to return, the one who stays gets double weight. Political science does not see this balance because it counts votes one to one and never puts a price on exit.
+
 ## 1. Who says so
 
 - **E. Shulman** (2026, theses 3 and 4). The new masses gained "the omniscience of angels" — knowledge and influence once held only by elites. Citizens and elites saw each other and were mutually horrified: "they are no better than us, why do they rule and why are they so much richer."
