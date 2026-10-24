@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bg · v1 · 25 October 2026
 **The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — change requires organisation · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16; theses 17–19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16, 17; theses 18–19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
 
 ---
 
@@ -40,6 +40,24 @@ Shulman cannot predict turnout because one number glues together the driven, the
 Shulman (thesis 16): in 2011 people were brought onto the streets by having taken part in the election — "we voted, everyone around us voted, and they showed a different result"; those who did not vote do not protest, because they did not invest themselves by acting. In the repository this is the pizzeria formula (018 §40.2): no investment, no demand for transparency.
 
 **The architect's move.** "The protocol changes the type of fraud so that this no longer matters." The 2011 protest was born of a forgery that could be neither proved nor disproved: votes were added in the names of those who did not come and totals were rewritten. Under the protocol that type disappears: more than 90 entries in 100 are verified by the person himself, the stuffing reserve is about 3 % of the list, and votes cannot be added — only genuine ones substituted (048i, art. 10 part 2). The result cannot be stolen on a scale that changes the outcome, and the grievance "we were cheated of the result" does not arise (1i: the unprovability of the absence of fraud disappears). Shulman explains that protest is born of a stolen result; the protocol does not make protest more effective — it removes its cause. And the investment she speaks of becomes, under the protocol, the condition of the vote: the one who stays has refused the payment, and a hall made only of those who invested cannot be cheated quietly.
+
+## 4c. Aggregation in three dimensions — the architect's move
+
+Shulman (thesis 17), after Almond: discontent is first expressed — articulation — then turned into a programme and a demand — aggregation, the business of parties. Autocracies allow articulation but keep aggregation for themselves; hence protests as petitions: you complained, you got an answer. In 2011 the answer was "we will beat you, jail you, cancel elections"; the conservative turn of 2012 has defined Russian politics ever since.
+
+The protocol needs no intermediary for aggregation: its question is already aggregated — "is this government worth your vote, or is the payment worth more to you" — and the answers add up to one number without a party or a congress. It is not a party that aggregates but addition; this is aggregation an autocracy cannot keep for itself, because it is produced by the bank register, not by an organ. And it cannot be answered with a baton: nobody demanded anything, people took a lawful payment.
+
+**The architect's move.** "I had not even thought of such complex aggregation — this is already 3D. They also increase the vote of those who stay — you forgot it because this never existed before." One act of "taking" adds up in three dimensions at once:
+
+| Dimension | What the taker does | What it used to be |
+|---|---|---|
+| demand | the share of takers is an assessment of the government needing no translation: this many people consider a vote for you not worth the payment | a petition, a complaint, a poll — words that can go unheard |
+| bill | every payment costs the budget money and is visible by precinct | a complaint costs nothing |
+| weight | every leaver increases the share of the vote of every one who stays | not voting affected nothing, the vote was simply lost |
+
+A petition has one dimension, words. Party aggregation has one dimension, a programme. In the protocol one act is at once a demand, a price and the strength of those who stay. An autocracy can take the programme for itself and ignore the complaint, but cannot cancel any of the three: the demand and the bill are produced by the bank register, the weight by the arithmetic of shares.
+
+*Boundary.* The protocol aggregates only the assessment of the government; the programme "what to do about petrol" is formulated by candidates for those who stay.
 
 ## 5. What follows
 
