@@ -2,7 +2,7 @@
 
 **Глава:** 06 — Структурное лицемерие критики и арсенал элит
 **Файл:** 06_040bg · v1 · 25 октября 2026
-**Серия «Вопросы политологов»:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — перемены требуют организации · [40bh — перемены в автократии придут сверху](040bh-q-change-from-above.md)
+**Серия «Вопросы политологов»:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — перемены требуют организации · [40bh — перемены в автократии придут сверху](040bh-q-change-from-above.md) · [40bi — демография блокирует перемены](040bi-q-demography-blocks-change.md)
 **Источник:** разбор архитектором выпуска Е. Шульман «Молодость — это молчание» (24.10.2026), тезисы 6, 7, 10, 16–19 (артикуляция и агрегация, Координационный совет, Навальный). Ходы архитектора — дословно.
 
 ---

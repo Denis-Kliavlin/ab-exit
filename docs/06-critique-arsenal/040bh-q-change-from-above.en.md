@@ -2,7 +2,7 @@
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bh · v1 · 25 October 2026
-**The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · [40bg](040bg-q-change-needs-organization.md) · 40bh — change in an autocracy will come from above
+**The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · [40bg](040bg-q-change-needs-organization.md) · 40bh — change in an autocracy will come from above · [40bi — demography blocks change](040bi-q-demography-blocks-change.md)
 **Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 8 and 9. The architect's moves are verbatim.
 
 ---

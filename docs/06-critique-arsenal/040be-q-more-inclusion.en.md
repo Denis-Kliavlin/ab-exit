@@ -2,7 +2,7 @@
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040be · v1 · 24 October 2026
-**The "Political Scientists' Questions" series:** [40bc — people want to participate but are not allowed](040bc-q-people-want-to-participate.md) · [40bd — citizens are rational and have seen through it](040bd-q-citizens-are-rational.md) · 40be — the answer to the crisis: include everyone and make participation cheaper · [40bf — populism is weaker than fascism and must be waited out](040bf-q-populism-weaker-than-fascism.md) · [40bg — change requires organisation](040bg-q-change-needs-organization.md) · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
+**The "Political Scientists' Questions" series:** [40bc — people want to participate but are not allowed](040bc-q-people-want-to-participate.md) · [40bd — citizens are rational and have seen through it](040bd-q-citizens-are-rational.md) · 40be — the answer to the crisis: include everyone and make participation cheaper · [40bf — populism is weaker than fascism and must be waited out](040bf-q-populism-weaker-than-fascism.md) · [40bg — change requires organisation](040bg-q-change-needs-organization.md) · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md) · [40bi — demography blocks change](040bi-q-demography-blocks-change.md)
 **Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 2, 3, 5 and 13. The architect's moves are verbatim.
 
 ---
