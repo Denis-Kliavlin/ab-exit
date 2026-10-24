@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bg · v1 · 25 October 2026
 **The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — change requires organisation · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16, 17, 18; thesis 19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16–19. The architect's moves are verbatim.
 
 ---
 
@@ -74,6 +74,16 @@ Shulman (thesis 18): the Opposition Coordination Council after 2011 was an attem
 | what there is to crush | the body, the members, the network | nothing: a bank register and the arithmetic of shares |
 
 The protocol does not make street protest safer and calls for nothing (1g) — it replaces it: disagreement is expressed not by going to the square but by a lawful secret choice that is counted and costs the government money. Protest stops being a feat and becomes an ordinary act open to everyone, including those who would never go into the street.
+
+## 4e. "Smart voting" and continuous conversion
+
+Shulman (thesis 19): Navalny thought politically — he continuously converted protest energy into electoral participation; "smart voting" is the most effective electoral tactic under unfreedom, it gathered the spilled water of discontent into one hose and could knock out almost any candidate (2018 — four regions lost governors, 2019 — the Moscow City Duma); it was stopped only by police terror and war.
+
+The repository already makes the comparison: [056f §13i](../09-other-countries/056f-russia-september-2026.md) — "smart voting" needs coordination, carries the risk of association with an "extremist" structure, dies on voting day and is measured inside the government's count; the 2026 version bought 3–4 % reach and 0 % result, in Shulman's own words "one cannot speak of effectiveness". Her two assessments meet in one point: while there was an organisation, hands held the hose; when the hands were taken away, the hose fell (§2–4d).
+
+The protocol is the same continuous conversion of discontent, but built into the rule: every "take" at every election is a demand, a bill and weight (§4c), with no leader, no app to block, no list of candidates, and it cannot be stopped by terror or by war, because it is a lawful payment from the budget. "Smart voting" knocked out a candidate; the protocol knocks out the base of a government that rested on ritual turnout.
+
+**The architect.** "And all of this is logically reasonable and admissible, and Russia's leading social scientist of the last twenty years cannot understand it — strange." The answer is the series frame: not "cannot" but does not see — within the parameters of two thousand years of qualifications exit was a loss of the vote; the discipline counts votes one to one and puts no price on exit; what is new here is a combination of known parts (Hirschman's exit, the Olson inversion, Pacioli's double entry, the referendum), and such inventions are the hardest to see from inside a field.
 
 ## 5. What follows
 
