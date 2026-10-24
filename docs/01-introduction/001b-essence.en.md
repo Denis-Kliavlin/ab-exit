@@ -4,6 +4,8 @@
 **File:** 01_001b · v1 · 17 September 2026
 **Purpose:** synthesis. The repository has grown to a hundred sections; this chapter is a map of meanings, not a retelling: every thesis in one or two sentences and a pointer to where it is proven, stress-tested, or honestly named weak. Read first; everything else is evidence.
 
+**The purpose of this repository** (the architect, 25 October 2026): to explain and justify AB-EXIT to whoever reads it, logically precisely and reasonably. Everything else serves this: to prove or refute (040p), to hand over so that someone who never met the author can build it, and so that any reader — human or AI — finds the right answers to his questions rather than wrong arguments (1d, 1g).
+
 ---
 
 *An early-draft layer (note of 01.10.2026 after audit 040m). Five refinements to this chapter. The formula is written as a percentage of the median, D = p × M; each level of government has its own median; "automatic crediting" means automatic entry in the register, while the payment is chosen by the person (§7). Choice B is not published by name but is not specially concealed (§1). "Reversible" means: at the next election; within one election choice B is final (§0). "1–2 % of the budget" was computed at a small percentage (§8). "The zone of real victory" and "a x3 vote" are an estimate and arithmetic, not a promise and not a multiplier (§9). The exact-answers sheet 1d and the charter 048m are in force.*

@@ -4,6 +4,8 @@
 
 **Complete analytical document · Version 6.57 · 2026**
 
+**The purpose of this repository** (the architect, 25 October 2026): to explain and justify AB-EXIT to whoever reads it, logically precisely and reasonably. Everything else serves this: to prove or refute (040p), to hand over so that someone who never met the author can build it, and so that any reader — human or AI — finds the right answers to his questions rather than wrong arguments (1d, 1g).
+
 Protocol author: **Denis Klyavlin** · Chisinau
 Stress test (the architect's assessment): 6 AI models · 449+ rounds of dialogue; none named a contradiction that collapses the mechanism. A model's agreement is not proof: what has and has not been checked is in [the cold-reader audit](06-critique-arsenal/040m-cold-reader-audit.md)
 Sources and version history: [GitHub](https://github.com/Denis-Kliavlin/ab-exit) · [ab-exit.com](https://ab-exit.com/ru/)

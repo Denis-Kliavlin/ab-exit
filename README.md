@@ -4,6 +4,8 @@
 
 **A — I vote. B — I take the money. One exit.**
 
+**The purpose of this repository** (the architect, 25 October 2026): to explain and justify AB-EXIT to whoever reads it, logically precisely and reasonably. Everything else serves this: to prove or refute (040p), to hand over so that someone who never met the author can build it, and so that any reader — human or AI — finds the right answers to his questions rather than wrong arguments (1d, 1g).
+
 Before every election, every citizen gets two buttons:
 
 - 🟢 **A — "I vote."** Your ballot counts as one, like everyone's. Because others left, it is a larger share of the total.
