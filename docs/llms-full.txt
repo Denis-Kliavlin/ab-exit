@@ -113,6 +113,8 @@ PART 1. TWENTY STATEMENTS AND THE GAME-THEORY READING
 
 The reserve for fraud shrinks 13–17-fold. The architect: "if an engineer made the internal combustion engine 50 % more efficient — what would happen?" In mechanics it would be a revolution: over a century engine efficiency was raised by single percentage points, and the move from the steam locomotive (5–10 %) to the diesel (30–40 %) changed all of transport. Here the gain is not one and a half times but an order of magnitude.
 
+What such a change of control is called. In accounting — the move from single to double entry: Pacioli in 1494 described the practice that made banks and audit possible; elections today are kept in single entry, the protocol adds a second — the bank register of payments — and reconciliation. In audit — the move from sample checks to full coverage and from after-the-fact control to control by design: each entry is checked by its owner, as a bank client checks his own statement. In quality management — a jump of about two sigma levels: a 40–50 % reserve is a process out of control, about 3 % is a controlled process; and all of this without extra inspectors.
+
 **What is known and what is not**
 
 19. What is formally written down is who stays to vote: the one who values his vote above the payment (013f). It is a statement with sketched proofs and named assumptions, awaiting an economist; the outcome of an election does not follow from it. There are no pilot data; a pilot is described but has not been run (048l).

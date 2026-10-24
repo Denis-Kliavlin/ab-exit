@@ -64,6 +64,30 @@ Polybius described the cycle of forms in which democracy degenerates into ochloc
 
 **Weak point.** The translation of Polybius's "mob" into "the brought-in" is ours. Rome refuted his forecast in form (empire instead of ochlocracy) but confirmed it in mechanism (from the dole to Caesar). The quotations from VI, 9 and 57 are paraphrased from the standard translations; the exact passages should be checked against an edition. The size of the misthos and the dates of the doles are from standard references, not from the sources.
 
+## 4c. Shenderovich: the knocked-out centre and feedback through mortality
+
+An analysis of V. Shenderovich's episode "The pendulum swung right: why Europe chooses radicals" ("Train of Thought", the Vot Tak channel, October 2026, 53 minutes; from automatic subtitles), at the architect's request: fifteen thoughts and how the protocol answers each. Shenderovich describes three illnesses on which the protocol stands: the centre is knocked out, feedback arrives through the extremes or through mortality, turnout is imported and magnetised. He counts on existing instruments and enlightenment working by themselves; the protocol holds that without a price on non-participation they work only through the extremes.
+
+| No. | Thought | How the protocol solves it | Boundary |
+|---|---|---|---|
+| 1 | The negotiator plays on the bandit's side: the president needs a quick win | the president's short horizon mirrors the hall that elected him (059i); those who stay remember at least a cycle (040at §2) | does not make foreign policy good |
+| 2 | Untangle the threads: protesters, rioters and politicians are different actors | the protocol is the same untangling for the electorate: states, not types (1h) | does not untangle the street |
+| 3 | Who benefits: everyone channels the protest before elections | with a payment on the table anger gets a price and no longer converts into votes for free (059n §6) | there will be no less anger |
+| 4 | Le Pen's 30 % as a verdict on liberal practice | a second channel before the extreme one: the share of takers is visible on election day, the thermostat fires on the share of takers, not the share of extremists (013g §3b) | Le Pen's core stays and weighs double |
+| 5 | The centre is knocked out — "a diabolical choice" | the centre is knocked out by the arithmetic of a full hall; once the brought-in leave the median moves and the centre candidate is first, not third (022 §67.4–67.5, 059g) | a pilot measurement |
+| 6 | France has feedback instruments | all five pass through one bought hall; the protocol adds a sixth — the price of not voting, which cannot be dismantled in advance (048m art. 10) | does not fix the other five |
+| 7 | The clever apologise to the dull: school levels down to those who will not learn | elections level down to those who do not care; the protocol reverses it: the one who stays weighs double (019b, 040ax) | does not touch school |
+| 8 | Globalisation with a defect: "readiness to become French" | for a citizen with a vote, staying is a stake in the country, taking is an honest "not my stake"; one payment and one median for all (048m arts. 2, 4) | does not settle migration policy |
+| 9 | The left brought in its electorate | the cornerstone: the dependent will take the payment, importing an electorate loses its bonus (013g §3b, 057d §3b) | does not judge migration |
+| 10 | Xenophobia is easier than finding common ground | mobilisation "against" is free; hatred of the "other" gets the price of refusing the payment (059n §6) | there will be no fewer xenophobes |
+| 11 | Trump brought out an America that was not at the polls | today the giant of non-voters can only be brought by rage; under the protocol the magnetised leave with money, the awakened stay (040av §2, 059n §4) | who is in the majority — the pilot |
+| 12 | Putin spread the responsibility: complicity by default | not voting is free and invisible, so complicity is free too (040i); the protocol makes "I did not vote for this" a counted choice | concerns elections, not war production |
+| 13 | Feedback arrives through mortality | a bill between the government's error and mortality: every leaver costs the budget money, the reflection arrives as money, not bodies (013g §3b, 015c) | works after introduction (048d) |
+| 14 | Renaming cities as shock therapy | the protocol does not wait for enlightenment: it relies not on conscience but on interest (048n, 040ap §4) | adds no conscience |
+| 15 | Israel: a country of citizens; moral judgement is only personal | the choice "take or stay" is personal, secret and reversible (048m arts. 5, 9.3, 16); the one who votes stops drowning among those who do not care | does not answer "am I a good person" |
+
+Shenderovich complements 059n (Gallyamov, the vote "against") and the "Political Scientists' Questions" series 040bc–040bi: the same three illnesses seen from the European side.
+
 ## 5. Caveat
 
 In other dimensions democracy improved like a car: the franchise, civil rights, transparency, courts. One thing did not improve — the selection of the deciders, and that is what determines everything else over the long horizon.
