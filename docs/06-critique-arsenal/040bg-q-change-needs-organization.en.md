@@ -83,6 +83,18 @@ The repository already makes the comparison: [056f §13i](../09-other-countries/
 
 The protocol is the same continuous conversion of discontent, but built into the rule: every "take" at every election is a demand, a bill and weight (§4c), with no leader, no app to block, no list of candidates, and it cannot be stopped by terror or by war, because it is a lawful payment from the budget. "Smart voting" knocked out a candidate; the protocol knocks out the base of a government that rested on ritual turnout.
 
+**The architect's move: more effective by an order of magnitude, not by percentages.** "Shulman calls 'smart voting' the most effective tactic under unfreedom — AB-EXIT is more effective by an order of magnitude, not by %." By engineering count:
+
+| | "Smart voting" (2026) | The protocol |
+|---|---|---|
+| reach | 3–4 % of voters (056f §13i) | every voter at every election — the choice is put to all |
+| conversion into result | about 0 %: the commission writes the result | about 100 %: every "take" is an entry in the bank register, counted without the commission |
+| dimensions of one act | one — a vote against a candidate | three — demand, bill, weight (§4c) |
+| lifetime | dies on voting day | renews every cycle |
+| what it needs to work | a leader, a headquarters, an app, a list | nothing but the rule |
+
+Reach — more than tenfold, conversion — from zero to full, dimensions — three times as many. This is not a gain in percentages but a move into another class, like from the steam engine to the internal combustion engine.
+
 **The architect.** "And all of this is logically reasonable and admissible, and Russia's leading social scientist of the last twenty years cannot understand it — strange." The answer is the series frame: not "cannot" but does not see — within the parameters of two thousand years of qualifications exit was a loss of the vote; the discipline counts votes one to one and puts no price on exit; what is new here is a combination of known parts (Hirschman's exit, the Olson inversion, Pacioli's double entry, the referendum), and such inventions are the hardest to see from inside a field.
 
 ## 5. What follows
