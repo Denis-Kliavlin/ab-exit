@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040be · v1 · 24 October 2026
 **The "Political Scientists' Questions" series:** [40bc — people want to participate but are not allowed](040bc-q-people-want-to-participate.md) · [40bd — citizens are rational and have seen through it](040bd-q-citizens-are-rational.md) · 40be — the answer to the crisis: include everyone and make participation cheaper · [40bf — populism is weaker than fascism and must be waited out](040bf-q-populism-weaker-than-fascism.md) · [40bg — change requires organisation](040bg-q-change-needs-organization.md) · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 2, 3 and 5. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 2, 3, 5 and 13. The architect's moves are verbatim.
 
 ---
 
@@ -49,6 +49,20 @@ She does not say so herself and adds caveats: a like becomes politics only when 
 The cost of refusal works as a filter on the impulsive — the protocol's recorded aim: remove the apathetic and the impulsive. A democracy of likes gives return at the cost of quality; the protocol gives return at the cost of money, and it is the cost that makes the vote heavy.
 
 **The architect's move: why a referendum, but one.** "The protocol is altogether a basic rule, almost constitutional, and that is exactly why a referendum." Direct voting is needed not on every question at the price of a like, but once — for a rule of constitutional rank that determines who decides everything else (048m art. 14: it can be changed only by referendum). Modern political science offers direct democracy as a permanent procedure; the protocol uses it once, for the foundation, and from then on the hall cleaned by that foundation decides.
+
+## 3b. Platforms, the electoral commission and the accounting standard — the architect's move
+
+Shulman (thesis 13): platforms are more democratic than the Russian electoral system — "if platforms behaved like the Central Electoral Commission, your likes would go to Solovyov's videos"; there are many fools on social media, but more democracy there. The premise: the essence of democracy is an honest count, each vote credited to whom it was given.
+
+**The architect's move.** "And is the count honest today in the substance of accounting?" And the rule: "Always apply the accounting standard to elections — that is only reasonable."
+
+A count can be honest in form — not one ballot forged — and dishonest in the substance of accounting. An accountant would find three errors.
+
+- **A fictitious entry.** A vote for which a grocery package was brought, or which was bussed in or driven from work, is entered in the total at full value, like the vote of a person who thought for a week. The accounting principle "substance over form" is broken: the ballot is real, the entry has no substance.
+- **Off-balance-sheet liabilities.** Half the voters, those who did not come, do not enter the books at all: neither how many, nor why, nor what it costs. The balance shows only those who came.
+- **No valuation.** A vote cast on impulse and a vote cast from conviction are recorded identically. Accounting without valuation is a list, not accounting.
+
+A platform is honest in counting and poor in composition: it honestly counts free votes and bots, that is, it honestly measures today's rage. The protocol is honest accounting in substance: exit becomes an entry (a payment to a card, the off-balance voters enter the balance); the vote gets a valuation (refusing the payment, the same for all); double entry — the reconciliation of the bank register of payments with the commission's count (048m art. 10), and every taker sees his own entry on his own card, as he sees his like; fictitious entries leave by themselves — the bought voter takes the payment, because for him money is the substance. A bot cannot stay: it needs no money and has no card.
 
 ## 4. What follows
 
