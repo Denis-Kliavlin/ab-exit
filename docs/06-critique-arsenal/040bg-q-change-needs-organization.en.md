@@ -95,7 +95,7 @@ The protocol is the same continuous conversion of discontent, but built into the
 
 ## Weak point
 
-Shulman's quotations follow automatic subtitles. Theses 17–19 (aggregation of interests, the Coordination Council, "smart voting") are not yet analysed and will be added here.
+Shulman's quotations follow automatic subtitles. The reach estimates for "smart voting" come from open data (056f §13i).
 
 ---
 
