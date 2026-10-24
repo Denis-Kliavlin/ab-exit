@@ -119,6 +119,7 @@
 
 **What is true:** nothing — it weights no votes and knows no groups.
 **Answer:** the filter is by the person: the horizon is a property of the person, not of age. A grandmother thinking of her grandson on the service register stays; a rich retired professor who no longer cares leaves. The chapter on the core electorate is about who decides now, not about who should not.
+**The architect's move:** "the old are for stability and reliability, and money is more reliable than promises and forecasts — and they will remove themselves" — their own choice with money and the right to return, not exclusion; the community vote "out of duty" is a led vote, and with a secret choice community members will ask their elders how to get the payment ([040al §4](../06-critique-arsenal/040al-rove.md)).
 **In full:** [1f §7](001f-core-electorate.md), [055c §6.9](../09-other-countries/055c-germany.md).
 
 ## "People want to participate but are not allowed: non-participation is the result of barriers"
