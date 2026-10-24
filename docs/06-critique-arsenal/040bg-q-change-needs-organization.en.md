@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bg · v1 · 25 October 2026
 **The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — change requires organisation · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16, 17; theses 18–19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16, 17, 18; thesis 19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
 
 ---
 
@@ -58,6 +58,22 @@ The protocol needs no intermediary for aggregation: its question is already aggr
 A petition has one dimension, words. Party aggregation has one dimension, a programme. In the protocol one act is at once a demand, a price and the strength of those who stay. An autocracy can take the programme for itself and ignore the complaint, but cannot cancel any of the three: the demand and the bill are produced by the bank register, the weight by the arithmetic of shares.
 
 *Boundary.* The protocol aggregates only the assessment of the government; the programme "what to do about petrol" is formulated by candidates for those who stay.
+
+## 4d. The Coordination Council and the protocol: the same aim, simpler and safer — the architect's move
+
+Shulman (thesis 18): the Opposition Coordination Council after 2011 was an attempt to institutionalise protest; that is why its members are still persecuted with particular fury — nearly all have received grave statuses, some are no longer alive.
+
+**The architect's move.** "This is important. The essence is the same, but AB-EXIT makes protest far simpler and safer."
+
+| | The Coordination Council | The protocol |
+|---|---|---|
+| what a person must do | go into the street, vote for council members, belong, sign | one choice before an election: take the payment or stay |
+| who is visible | members with names, organisers, rally participants | nobody: the choice is secret, only precinct totals are seen |
+| what threatens | statuses, persecution, sometimes life | nothing: the payment is lawful, it cannot be seized or counted against a person (048m arts. 8, 9.3) |
+| what it adds up to | statements of a body that can be ignored | three dimensions at once: a demand, a bill to the budget, the weight of those who stay (§4c) |
+| what there is to crush | the body, the members, the network | nothing: a bank register and the arithmetic of shares |
+
+The protocol does not make street protest safer and calls for nothing (1g) — it replaces it: disagreement is expressed not by going to the square but by a lawful secret choice that is counted and costs the government money. Protest stops being a feat and becomes an ordinary act open to everyone, including those who would never go into the street.
 
 ## 5. What follows
 
