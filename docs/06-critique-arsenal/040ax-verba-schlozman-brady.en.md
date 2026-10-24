@@ -22,11 +22,24 @@ Three factors of participation: resources — time, money and civic skills (the 
 
 ## 2. Civic skills: participation needs an ability given by work, church and organisations — those who stay will be the skilled
 
-**Argument.** The main predictor is not income but skills; the payment will be taken by those without skills, and the hall will become a hall of the able.
+**Argument.** The main predictor is not income but skills: to speak, write, run a meeting, understand where a question is decided. To decide "take or stay" is to assess what the government is worth and what my vote is worth, and that is a civic skill; whoever lacks it will take by default, will not acquire the skill, and the circle closes.
 
-**Answer.** This is their strongest argument, and the move "who pays for the chorus" (040av §4) does not answer it — the construction of the question does. Skills are needed where one must speak, write and run a meeting. The protocol asks one thing: decide whether this vote is worth more to you than the payment. That decision is made by everyone who counts a family budget, and the poor count it more exactly than a sociologist (19b.1). The skill here is not civic but domestic — and it is distributed more evenly than any civic skill. Then their own model works: participation breeds skills. The person who once refused money for a vote has acquired the first skill — a public stake; the one who took has had the first experience that his absence has a price and a count. None of their variables grows from inaction, and the protocol turns inaction into an action with a price.
+**What the repository already answers.**
 
-**Residual.** Yes: the skills of those who stay are a pilot measurement, the same 048l row as income. If those who stay skew upward in skills, that is not an objection but their own conclusion about every channel, and the protocol is the only one in which the lowest rung requires no skill.
+1. *What must be assessed is not the government but one's own stake.* The question by which selection is measured is "will your life change with the outcome" ([040p §1](040p-how-to-refute.md)): not a judgement about programmes and budgets but knowledge about oneself — a mortgage, children, a business, a job. Everyone has such knowledge; no meeting skill is needed for it.
+2. *Income, intelligence and information are three different axes* ([019b §19b.1](../04-electoral-dynamics/019b-poor-voter-price.md)): the poor man counting every penny knows the mechanism better than a sociologist. Verba glues skill to resources; the repository forbids gluing them.
+3. *The production chain — the architect's move.* A working person is part of a chain and has at least a remote idea of where goods and services come from; this practical skill protects against promises of "money from nowhere" and is spread more widely than any of Verba's civic skills ([040bd §3](040bd-q-citizens-are-rational.md)).
+4. *The honest limit* ([001b §12](../01-introduction/001b-essence.md)): the protocol does not make voters wiser — refusing money proves motivation, not competence. It selects not the skilled but those with a stake.
+
+**Proof by contradiction** (at the architect's suggestion: "what happens if we disagree — let us prove it from the opposite"). Accept Verba's argument in full: the choice "take or stay" requires a civic skill, the unskilled take by default, the hall shifts toward the skilled.
+
+- *Today the unskilled vote even worse.* If a binary question is beyond them, a choice among several candidates and programmes is even more so: it is a much harder task. So today the unskilled person's vote is a cue from a campaign, a boss or the feed — by the accounting standard a fictitious entry at full value. Removing such votes from the total improves the quality of the decision — the conclusion "the protocol will worsen representation" contradicts the assumption itself.
+- *The unskilled person gains under the protocol.* Today he has neither influence (a vote by cue) nor money; under the protocol he has the payment, the right to vote stays forever and he can return at any election (048m arts. 5, 16). Compared with what exists, not with an ideal, he is better off.
+- *The circle is not closed by the protocol.* Verba himself measured that the skill skew is stable for decades: non-participants do not acquire skills today either. And by his own model the first factor of participation is resources, money included; the protocol gives the unskilled exactly this resource — by Verba's logic that widens, not narrows, his future participation.
+
+**The fork.** Either the argument is false, and choosing needs only knowledge of one's stake — then selection runs by stake, as designed. Or the argument is true — then the protocol removes cue votes from the total, gives the unskilled money without loss of rights and opens the circle rather than closing it. There is no third case: the skills argument cannot be an objection to the protocol in any case — it is either false or confirms the protocol.
+
+**Residual.** The skills of those who stay are a pilot measurement, the same 048l row as income; a skill shift, if it occurs, is not an objection but a consequence assessed above.
 
 ## 3. Recruitment: people take part when asked; the payment removes those whom nobody can ask
 
@@ -61,14 +74,14 @@ Three variables for the pilot — time, money, skills — and the question along
 | Argument | What is true | Answer | What remains |
 |---|---|---|---|
 | resources decide | yes, in halls where participation costs resources | both of the protocol's channels are free in time and money; the stake distinguishes; three movements of the hall | — |
-| civic skills | yes, the strongest argument | the protocol's one question needs a domestic skill of counting, the most evenly distributed; participation breeds skills | skills of those who stay — a pilot measurement |
+| civic skills | yes, the strongest argument | what is assessed is one's own stake, not the government; income, intelligence and information are different axes; proof by contradiction: the argument is either false or confirms the protocol | skills of those who stay — a pilot measurement |
 | recruitment | yes | recruitment by price is removed, by substance kept; the budget calls everyone honestly; those who stay recruit themselves | — |
 | organisations without the poor | yes | not fixed, not promised; the poor man gets the chorus's one payment — a share of the median | the world of organisations without the poor remains |
 | persistence of the skew | yes, under a lower price for citizens | the protocol raises the price of non-participation for the government — untested | — |
 
 ## Weak point
 
-A reconstruction from two books in their standard retellings; figures by quintile are deliberately not given. Two residuals are theirs: the skills of those who stay and the world of organisations. Written without a move by the architect.
+A reconstruction from two books in their standard retellings; figures by quintile are deliberately not given. Two residuals are theirs: the skills of those who stay and the world of organisations. Written without a move by the architect, except §2.
 
 ---
 
