@@ -64,6 +64,8 @@ A count can be honest in form — not one ballot forged — and dishonest in the
 
 A platform is honest in counting and poor in composition: it honestly counts free votes and bots, that is, it honestly measures today's rage. The protocol is honest accounting in substance: exit becomes an entry (a payment to a card, the off-balance voters enter the balance); the vote gets a valuation (refusing the payment, the same for all); double entry — the reconciliation of the bank register of payments with the commission's count (048m art. 10), and every taker sees his own entry on his own card, as he sees his like; fictitious entries leave by themselves — the bought voter takes the payment, because for him money is the substance. A bot cannot stay: it needs no money and has no card.
 
+**The architect's move — fraud.** "The protocol mathematically subtracts the takers, puts those who did not come at all under special control, and in the end reduces fraud at least by the number of takers compared with today." This is already recorded with figures: the charter, art. 10 part 2 — no more ballots at a precinct than registry entries minus those who chose the payment; [048i](../08-implementation/048i-three-channels-parallel-count.md) — the reserve for ballot stuffing is 40–50 % of the list today (everyone who did not come), about 3 % in the target configuration, and the remainder can only be substituted, not added. By the accounting standard: takers are double-entry records that cannot be forged unnoticed by their owner; those who did not come turn from an off-balance reserve for fraud into a small visible remainder.
+
 ## 4. What follows
 
 | Premise | What is true | Answer |
