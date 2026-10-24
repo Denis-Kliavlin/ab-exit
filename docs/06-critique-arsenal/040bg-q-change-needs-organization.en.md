@@ -3,7 +3,7 @@
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040bg · v1 · 25 October 2026
 **The "Political Scientists' Questions" series:** [40bc](040bc-q-people-want-to-participate.md) · [40bd](040bd-q-citizens-are-rational.md) · [40be](040be-q-more-inclusion.md) · [40bf](040bf-q-populism-weaker-than-fascism.md) · 40bg — change requires organisation · [40bh — change in an autocracy will come from above](040bh-q-change-from-above.md)
-**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10; theses 17–19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
+**Source:** the architect's analysis of E. Shulman's episode "Youth Is Silence" (24 October 2026), theses 6, 7, 10, 16; theses 17–19 (articulation and aggregation, the Coordination Council, Navalny) will be added. The architect's moves are verbatim.
 
 ---
 
@@ -34,6 +34,12 @@ The government, per Shulman, fears organisations and destroys them. The protocol
 On thesis 10 ("turnout at the Duma election is unpredictable: depression and driven public-sector workers against the wish to express oneself out of spite"): "Turnout at elections in an autocracy does not matter. AB-EXIT lifts the question above voting at elections — to a referendum."
 
 Shulman cannot predict turnout because one number glues together the driven, the aggrieved, the depressed and the indifferent. Political science guesses how many will come to elections that decide nothing. The protocol moves the decisive question to the level of the rule under which any elections are then held, and after adoption it splits turnout into two honest numbers: how many took the payment and how those who stayed voted. The driven worker secretly takes the payment, the aggrieved stays and weighs double, the apathetic leaves with money — and that shows as a share of takers, not as silence.
+
+## 4b. The architect's move: protest over a stolen result is no longer needed
+
+Shulman (thesis 16): in 2011 people were brought onto the streets by having taken part in the election — "we voted, everyone around us voted, and they showed a different result"; those who did not vote do not protest, because they did not invest themselves by acting. In the repository this is the pizzeria formula (018 §40.2): no investment, no demand for transparency.
+
+**The architect's move.** "The protocol changes the type of fraud so that this no longer matters." The 2011 protest was born of a forgery that could be neither proved nor disproved: votes were added in the names of those who did not come and totals were rewritten. Under the protocol that type disappears: more than 90 entries in 100 are verified by the person himself, the stuffing reserve is about 3 % of the list, and votes cannot be added — only genuine ones substituted (048i, art. 10 part 2). The result cannot be stolen on a scale that changes the outcome, and the grievance "we were cheated of the result" does not arise (1i: the unprovability of the absence of fraud disappears). Shulman explains that protest is born of a stolen result; the protocol does not make protest more effective — it removes its cause. And the investment she speaks of becomes, under the protocol, the condition of the vote: the one who stays has refused the payment, and a hall made only of those who invested cannot be cheated quietly.
 
 ## 5. What follows
 
