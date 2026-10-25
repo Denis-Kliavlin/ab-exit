@@ -42,6 +42,8 @@ The reaction: initial shock "a Western trap/scam" → verification of the code b
 
 Iran is the one country that has already paid all its citizens equally: the subsidy reform of 2010 replaced cheap fuel with direct monthly transfers to everyone's account. In form this is D; in sign it is the opposite: the payment is tied to the state, not to a rule adopted by referendum, its size and continuation are decided by the regime, and it buys loyalty rather than giving weight. It is the same mechanism as the payroll of votes (039 §88.9) and the Athenian misthos (013g §4b): payment for presence and dependence. The protocol differs in one thing — a rule pays, which the regime cannot recall, and it pays for leaving, not for coming. Why an oil-rich regime nonetheless keeps its people poor — 057d §3b: poverty as a vote-price policy.
 
+The regime did not even have to recall the payment: 455,000 rials a month per person (about 45 dollars in 2010) were not indexed, and inflation devalued them several times over within a few years. Grace need not be cancelled — it devalues itself. D = p × M is tied to the median income and grows with it (048m art. 2). The comparison with Alaska, and why the protocol's share is the first in history that cannot be recalled — 057d §3b.
+
 ## 7. Weak point of the case
 
 The case assumes that oil rent can be converted into a dividend "by code" — in Iran under sanctions and with the IRGC sitting on the export flows this is the strongest assumption in the whole section. And as in 057b: while discussion is impossible, the "trap" is a model, not an observation. 🟡
