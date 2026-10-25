@@ -30,11 +30,24 @@ Blais: the rational model explains little; duty is the main motive of about half
 
 ## 3. The habit of first elections: those who entered under uncompetitive elections never vote; the protocol will produce a generation that began with a cheque
 
-**Argument.** A young voter whose first election is "take $800" will never come.
+**Argument.** Franklin: turnout is a habit formed in the first three elections; generations that entered politics under uncompetitive elections do not vote all their lives. A young voter whose first election is "take $800" will never come.
 
-**Answer.** Franklin is right about habit and has described today's hall: the generations that entered under a foregone count do not vote (040av §2). Under the protocol a young person's first election is the first choice "take or stay," a choice with a price rather than a default absence. The habit forms not on "did not come" but on "decided"; and every election it is formed anew (048m art. 5). Franklin himself showed that the competitiveness of the first elections decides: under the protocol elections are more competitive for those who stay, because the votes are fewer and each is ×2. The young person who took at his first election is not lost; for the first time he knows what his absence costs.
+**What the repository already answers.**
 
-**Residual.** Yes: the habit of "taking" among the young is a pilot measurement in the second and third cycle (048l), and it is the chapter's one residual not closed by the construction.
+1. *The repository's forecast: the young are exactly the ones who stay.* [016 §25.5](../04-electoral-dynamics/016-age-economics.md) and the pilot measurement table [048l §4](../08-implementation/048l-courtyard-pilot.md): of those aged 18–25 about 70 % stay, of those over 75 about 15 %. The reason is the horizon: the young will live here forty more years. The argument assumes the young will take; the repository predicts the opposite.
+2. *Habit is not motivation, and the protocol filters precisely habit.* 016 records that pensioners' high turnout is the habit "I have voted all my life", not a stake; those voting from habit take the payment, because money outweighs habit.
+3. *Franklin himself names the condition of the habit — the competitiveness of first elections.* For those who stay, elections under the protocol are more competitive: fewer votes, each weighs double, the count stops being foregone — the young no longer know in advance that the old cannot be outvoted ([40bi §4](040bi-q-demography-blocks-change.md)).
+4. *The choice is made anew every cycle* (048m art. 5): one who took at his first election is not lost — for the first time he knows the price of his absence.
+
+**Proof by contradiction** (on the pattern of §2 in [040ax](040ax-verba-schlozman-brady.md), at the architect's suggestion). Accept Franklin's argument in full: habit forms in the first elections, and a young person who first takes the payment will get used to taking and never come to vote.
+
+- *Today the same habit forms for free.* By Franklin himself, generations that entered under a foregone count are already used to not voting. Today their absence gives them nothing — no money, no weight, no count. Under the protocol a "habit of taking" replaces a "habit of not going": the same absence, but paid, counted and added up into a demand, a bill and the weight of those who stay (40bg §4c). Compared with what exists — only gain.
+- *Taking is not absence but an act.* By the theory of habit, habit forms on a repeated act. The repeated act under the protocol is not "did not come" but "decided": every cycle the person answers a question with a price. The habit that forms is the habit of weighing one's stake before every election. The assumption "to take is to get used to non-participation" contradicts the fact that taking is itself participation: counted, paid and affecting the government.
+- *For those who stay, the conditions of the habit are better than today.* Franklin: the habit of voting comes from competitive first elections. Under the protocol first elections are more competitive for those who stay — so by his own theory their habit of voting is stronger than that of today's young.
+
+**The fork.** Either the theory of habit is false, and the young choose by horizon — then by the 016 forecast they stay more than anyone. Or the theory is true — then under the protocol those who take at their first election form a habit of deciding with a price instead of a free habit of absence, and those who stay form a habit of voting under conditions more competitive than today's. There is no third case: the habit argument is either false or confirms the protocol.
+
+**Residual.** Whether the pilot confirms that the young stay more often than the old is a second- and third-cycle measurement (048l §4).
 
 ## 4. Education decides: those who stay are the educated — Brennan without the test
 
@@ -62,13 +75,13 @@ A lower bound of those who stay — half, by duty (Blais). The form of the decis
 |---|---|---|---|
 | duty holds turnout | yes, half of it | duty gets a price, not abolition; half is the lower bound of those who stay | — |
 | minimax regret | yes | two priced regrets instead of one unpriced; a decision about the stake, not the probability | — |
-| the habit of first elections | yes | the first election is the first priced choice; formed anew every cycle | the habit of "taking" among the young — a second- and third-cycle measurement |
+| the habit of first elections | yes | the repository's forecast: the young stay (~70 % of 18–25); proof by contradiction: the habit argument is either false or confirms the protocol | whether the young stay more than the old — a second- and third-cycle measurement |
 | education decides | yes, where turnout costs skills | the one question costs no skills; the poor educated stay | — |
 | the price of registration | yes | the price of coming is unchanged; a price is set on not coming, paid by the state | — |
 
 ## Weak point
 
-Four works in one chapter; "half out of duty" is Blais's estimate, not a cross-country measurement. One residual — the habit of the young, the pilot's second and third cycle. Written without a move by the architect.
+Four works in one chapter; "half out of duty" is Blais's estimate, not a cross-country measurement. One residual — whether the young stay more than the old, the pilot's second and third cycle. Written without a move by the architect, except the proof by contradiction in §3.
 
 ---
 
