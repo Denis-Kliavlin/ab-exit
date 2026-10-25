@@ -206,6 +206,13 @@
 **Answer:** such chapters are marked; the numbers in them are not the author's estimates. The rule and the arithmetic live in [1d](001d-exact-answers.md), [048m](../08-implementation/048m-charter.md) and [1e](001e-by-role.md); everything else is to be read as analysis, not as a source.
 **In full:** [040m §5d](../06-critique-arsenal/040m-cold-reader-audit.md), the rules for a number.
 
+## "Those who left must be included: those who stayed are more apathetic and dumber"
+
+**What is true:** today diaspora votes are a counterweight to a full hall with the apathetic and bought votes (Moldova: about 78 % of the diaspora for PAS).
+**Answer:** the architect: "who governs the country and knows it?" — the one who lives in it and pays. And: "activists want to include those who left out of resentment that those who stayed are dumber and more apathetic — but the protocol solves this before the election." The apathetic leave with the payment, a bought vote costs more than the bribe, the hall cleans itself from inside — no counterweight is needed. The payment follows tax residence; a non-resident's vote stays as today; one who returned and became a resident gets the full right. "Those who stayed are dumber" is selection from outside, as with franchise qualifications; the protocol evaluates no one and adds no one.
+**In detail:** [048k §3, addition to decision 9](../08-implementation/048k-charter-inventory.md), [048m art. 4](../08-implementation/048m-charter.md), [019 §60.7](../04-electoral-dynamics/019-bad-governance-cost.md), [053](../09-other-countries/053-moldova.md).
+**Unknown:** how many who left will return for a weighted vote — a measurement after the first cycle.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.

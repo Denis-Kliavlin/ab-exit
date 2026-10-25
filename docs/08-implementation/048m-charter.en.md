@@ -1,7 +1,7 @@
 # 48m. The AB-EXIT Charter: A Text That Can Be Adopted
 
 **Chapter:** 08 — Implementation
-**File:** 08_048m · v0.8 · 15 October 2026 (session 01.10.26; art. 2 part 2 — the fifteenth decision of 15.10.2026)
+**File:** 08_048m · v0.9 · 25 October 2026 (session 01.10.26; art. 2 part 2 — the fifteenth decision of 15.10.2026; art. 4 parts 1 and 4 — those who have left, an addition to the ninth decision of 25.10.2026)
 **Source:** the architect's decision of 01.10.2026 "we write the text of the charter"; assembled on the skeleton of 048k §4 from the inventory of 048k §2 and the twelve decisions of 048k §3. Nothing new is introduced except Article 1 — the border between core and parameters, which was missing (056f §13k). This is a handover document: a draft for a country's lawyers, not a finished law.
 
 ---
@@ -52,11 +52,12 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 
 ### Article 4. Who is entitled
 
-1. Everyone who on the day the window opens holds the right to vote in the given election is entitled to the payment. The charter does not alter the jurisdiction's electoral law.
+1. Everyone who on the day the window opens holds the right to vote in the given election and is a tax resident of the jurisdiction is entitled to the payment. The charter does not alter the jurisdiction's electoral law.
 2. All holders of the right are entered in the register automatically, without applications or in-person procedures.
 3. No exceptions from the circle of recipients are permitted otherwise than by referendum.
+4. Tax residence is determined by the body that collects taxes on incomes (article 2, part 2), under its own rules. A non-resident keeps the vote the jurisdiction's electoral law gives him but has no right to the payment; on becoming a resident he gains the right from the next election.
 
-*Source: 048k §3 (decision 9), 004 §4.3c, 042 §73.5, 048g §3b.*
+*Source: 048k §3 (decision 9 and its addition of 25.10.2026), 004 §4.3c, 042 §73.5, 048g §3b.*
 
 ### Article 5. Two buttons
 
@@ -234,7 +235,7 @@ An independent AI reader in the role of counsel to an election commission read t
 
 **Terms without a definition.** Median income; administrative records; authorised body; citizen and holder of the right to vote; channel (used in different senses in Articles 5 and 10); token; conditional ballot; the court; personal account; money flows.
 
-**What the charter does not cover.** Voters abroad; people without a bank account and without a document; death or incapacity between the choice and polling day; gaining or losing the right to vote after the window opens; a second round; simultaneous elections of several levels; by-elections; one who chose A and did not come; an election postponed or annulled after payments; who is responsible for the register's data, how long they are kept and who has access to them.
+**What the charter does not cover.** *Voters abroad — closed 25.10.2026: article 4, parts 1 and 4; an addition to decision 9 (048k §3).* People without a bank account and without a document; death or incapacity between the choice and polling day; gaining or losing the right to vote after the window opens; a second round; simultaneous elections of several levels; by-elections; one who chose A and did not come; an election postponed or annulled after payments; who is responsible for the register's data, how long they are kept and who has access to them.
 
 **Parameters that are in fact decisions.** *Addition of 05.10.2026 (040m §5j):* for the US the loan of Article 8, part 5, is a legal question, not a setting: a municipal loan needs a bond counsel's opinion on a valid public purpose and is assessed by the rating agencies; a loan with no revenue source, for payments to citizens, may not obtain such an opinion. A first cycle in an American city is likely financed by accumulation over the cycle or by a donor's guarantee, not by city debt. *Same place, second:* the register of Article 3 in the US is the list of registered voters, and registration is voluntary; part 2 ("enrolled automatically") for an American jurisdiction means "everyone registered by the closing date of the roll", and that date will have to be named in the charter explicitly; false registration is a crime under the law in force (10 ILCS 5/29-10), and the protocol adds nothing to it except an address check by the treasury before payment. *Same place, third (06.10.2026, 1f §4b):* primaries. In the US the state runs them under party rules, and it is there that the core of the core chooses the candidate; whether the rule extends to them is not a gap but a setting: the architect — "the protocol is fitted to each country at the referendum, and for the US it can work there too". In the annex for an American jurisdiction it is one line in square brackets — [elections of this level include primaries: yes/no] — and the same referendum decides it. The percentage or a target share of exit; the number of payments; the legal route; the loan and its priority; an election not held on time; the definition of the median. They change the nature of the rule, not its tuning.
 

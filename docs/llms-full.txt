@@ -170,9 +170,10 @@ A citizen has the right to vote and the right not to vote. This charter makes th
 
 ### Article 4. Who is entitled
 
-1. Everyone who on the day the window opens holds the right to vote in the given election is entitled to the payment. The charter does not alter the jurisdiction's electoral law.
+1. Everyone who on the day the window opens holds the right to vote in the given election and is a tax resident of the jurisdiction is entitled to the payment. The charter does not alter the jurisdiction's electoral law.
 2. All holders of the right are entered in the register automatically, without applications or in-person procedures.
 3. No exceptions from the circle of recipients are permitted otherwise than by referendum.
+4. Tax residence is determined by the body that collects taxes on incomes (article 2, part 2), under its own rules. A non-resident keeps the vote the jurisdiction's electoral law gives him but has no right to the payment; on becoming a resident he gains the right from the next election.
 
 ### Article 5. Two buttons
 
@@ -760,6 +761,13 @@ PART 4. INDEX OF OBJECTIONS - EACH IN THE OPPONENT'S WORDS
 **What is true:** for the role-play chapters — true: the models' replies contain their own estimates.
 **Answer:** such chapters are marked; the numbers in them are not the author's estimates. The rule and the arithmetic live in [1d](001d-exact-answers.md), [048m](../08-implementation/048m-charter.md) and [1e](001e-by-role.md); everything else is to be read as analysis, not as a source.
 **In full:** [040m §5d](../06-critique-arsenal/040m-cold-reader-audit.md), the rules for a number.
+
+## "Those who left must be included: those who stayed are more apathetic and dumber"
+
+**What is true:** today diaspora votes are a counterweight to a full hall with the apathetic and bought votes (Moldova: about 78 % of the diaspora for PAS).
+**Answer:** the architect: "who governs the country and knows it?" — the one who lives in it and pays. And: "activists want to include those who left out of resentment that those who stayed are dumber and more apathetic — but the protocol solves this before the election." The apathetic leave with the payment, a bought vote costs more than the bribe, the hall cleans itself from inside — no counterweight is needed. The payment follows tax residence; a non-resident's vote stays as today; one who returned and became a resident gets the full right. "Those who stayed are dumber" is selection from outside, as with franchise qualifications; the protocol evaluates no one and adds no one.
+**In detail:** [048k §3, addition to decision 9](../08-implementation/048k-charter-inventory.md), [048m art. 4](../08-implementation/048m-charter.md), [019 §60.7](../04-electoral-dynamics/019-bad-governance-cost.md), [053](../09-other-countries/053-moldova.md).
+**Unknown:** how many who left will return for a weighted vote — a measurement after the first cycle.
 
 ========================================================================
 PART 5. GLOSSARY - TERMS ARE STATES AND ECONOMIC TERMS, NOT JUDGEMENTS
