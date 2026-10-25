@@ -28,6 +28,8 @@
 
 The young stay away not out of laziness: they know the old cannot be outvoted — the mechanism of the burned, who stay away while the count is foregone ([059m](../10-usa/059m-chicago-2027-wilson.md): "the old decide everything from above"). Under the protocol the count stops being foregone: the old who vote for stability take the money; the community vote falls apart into persons; the young who stay weigh double. The balance of who wins changes without rallies. The backbone of the system — public-sector women over 50 through whom ritual turnout is produced — can also secretly take the payment, and there is nobody left to drag to the polls. A new voter with no memory of Bolotnaya needs none: an eighteen-year-old grasps "money if I do not go, or my vote weighs more" at once ([040at §4](040at-achen-bartels.md)).
 
+**In numbers** ([016 §25.5](../04-electoral-dynamics/016-age-economics.md)): the share of the hall under 35 — from 21 % to 38 %, over 65 — from 30 % to 12 %; today one and a half old per young voter, under the protocol three young per old one. The architect: "the old who leave with the money give way to the young."
+
 ## 5. The architect's move: the aggrieved voter with a stake is the most determined voter in history
 
 Shulman: the more aggrieved, the more right-wing. Today grievance converts only into a vote for the extremes — free mobilisation on which populists live ([40bf](040bf-q-populism-weaker-than-fascism.md)). The protocol gives grievance a second, priced move: the aggrieved person brought by the feed takes the money; the aggrieved person with a stake stays.

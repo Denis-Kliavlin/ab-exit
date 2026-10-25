@@ -162,6 +162,21 @@ It is 16 times MORE ADVANTAGEOUS for a young person to vote than for a pensioner
 
 The current pyramid: the young 36 %, pensioners 75 % — pensioners vote twice as often. AB-EXIT: the young 70 %, pensioners 25 % — the young vote THREE TIMES as often. A complete inversion.
 
+**Composition of the hall: who decides (25 October 2026).** The table above gives the share voting within each age. What decides is something else: what share of the hall each age makes up. Recalculated from the same table and rounded adult shares (as among US adults: 18–25 — 12 %, 25–35 — 17 %, 35–50 — 24 %, 50–65 — 24 %, 65–75 — 13 %, 75+ — 10 %):
+
+| Age | Share of the hall today | Share of the hall under the protocol |
+|---|---|---|
+| 18–25 | 8 % | 16 % |
+| 25–35 | 13 % | 21 % |
+| 35–50 | 22 % | 28 % |
+| 50–65 | 27 % | 23 % |
+| 65–75 | 17 % | 9 % |
+| 75+ | 13 % | 3 % |
+| **under 35** | **21 %** | **38 %** |
+| **over 65** | **30 %** | **12 %** |
+
+The young under 35 almost double their share of the hall; those over 65 shrink two and a half times; today there are one and a half voters over 65 for every voter under 35, under the protocol three young for every old one. The hall hardly shrinks: about 56 % of adults vote today, about 52 % stay under the protocol; the weight of a remaining vote is about double. Nobody pushed anybody out: each older person left by himself, with the payment and the right to return. The architect: "The old who leave with the money give way to the young. Such numbers would satisfy even Franklin, hypothetically — though to me it is again the steam engine and the diesel." Both "under the protocol" columns are a forecast, not a measurement; the check is the row "age profile of those who stay" in 048l §4.
+
 ### 25.6. The pensioners who STAYED = gold
 
 The 35 % of pensioners who refused $780 on an income of $19K/year paid 4.1 % of annual income for a vote (a worker on $60K — only 1.3 %). Three times more in percentage terms. Those 35 % stayed not from habit — but because they are ANGRY: "they're destroying my park", "my grandchildren's school is closing", "the road is dangerous". Anger > $780. An angry pensioner who refused 108 % of his free budget = the most valuable voter. AB-EXIT does not lose the wisdom of pensioners — it separates real wisdom (the 35 % angry) from false wisdom (the 65 % habitual, TV-driven, voting for Reagan 45 years later).

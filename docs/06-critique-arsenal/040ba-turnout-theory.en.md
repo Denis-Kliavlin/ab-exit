@@ -49,6 +49,8 @@ Blais: the rational model explains little; duty is the main motive of about half
 
 **The architect's move: Franklin's people do not think.** "Do his people not think? Animals with a reflex? Does the double weight not concern them?" The theory of habit describes a world where incentives do not change: one vote, a foregone count, absence costs nothing — people fix what they did at their first elections and stop recalculating; habit is a saving on thinking where there is nothing to think about. The protocol changes incentives at every election: every cycle a question with a price is put — money or a vote that weighs double — and that is exactly the new signal that demands recalculation. And Franklin himself confirms it: his condition of habit is the competitiveness of first elections, that is, people respond to whether their vote decides; that is calculation, not reflex. A model in which habit is set by the significance of the vote cannot at the same time claim that the significance of the vote — double weight — does not concern people.
 
+**The composition of the hall in numbers.** By the 016 forecast the young under 35 almost double their share of the hall (21 % → 38 %), those over 65 shrink to 12 % (from 30 %); the hall hardly shrinks (56 % → 52 % of adults) — [016 §25.5](../04-electoral-dynamics/016-age-economics.md). The architect: "such numbers would satisfy even Franklin, hypothetically — though to me it is again the steam engine and the diesel."
+
 **Residual.** Whether the pilot confirms that the young stay more often than the old is a second- and third-cycle measurement (048l §4).
 
 ## 4. Education decides: those who stay are the educated — Brennan without the test
