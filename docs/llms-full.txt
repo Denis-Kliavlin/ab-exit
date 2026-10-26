@@ -782,6 +782,13 @@ PART 4. INDEX OF OBJECTIONS - EACH IN THE OPPONENT'S WORDS
 **In detail:** [048k §3, addition to decision 9](../08-implementation/048k-charter-inventory.md), [048m art. 4](../08-implementation/048m-charter.md), [019 §60.7](../04-electoral-dynamics/019-bad-governance-cost.md), [053](../09-other-countries/053-moldova.md).
 **Unknown:** how many who left will return for a weighted vote — a measurement after the first cycle.
 
+## "If it worked, it would have been introduced long ago; or someone invented it earlier and the government bought him"
+
+**What is true:** over two thousand years of franchise qualifications nobody assembled the idea, though all the parts were in plain view.
+**Answer:** checked 26.10.2026 — there is no predecessor with the three features together (a rule pays, for leaving, with weight for those who stay); payment for not voting lived for two thousand years only in the category "bribery" (18 U.S.C. § 597). Three locks, not a conspiracy: turnout was counted as health; buying non-attendance paid off only for a candidate; the parts lay in different disciplines. There is no proven case in history of the author of an electoral idea being bought, and there is nobody to buy: the protocol is a text. The architect's move — Gesell's money: known for a century, worked in Wörgl, and not introduced because the only introducer is the issuer, to whom it is unprofitable. The protocol has no single introducer: referendum and initiative pass those to whom it is unprofitable, and there is no loser by name.
+**In detail:** [006b §3c](../02-history/006b-predecessors-and-gaps.md), [019 §61.6](../04-electoral-dynamics/019-bad-governance-cost.md), [048n](../08-implementation/048n-underdog-questions.md), [023f](../05-empirical-base/023f-money-at-elections.md).
+**Unknown:** pamphlets and non-English sources not reviewed; a negative is not proved. Priority — the commit history since April 2026.
+
 ========================================================================
 PART 5. GLOSSARY - TERMS ARE STATES AND ECONOMIC TERMS, NOT JUDGEMENTS
 ========================================================================
