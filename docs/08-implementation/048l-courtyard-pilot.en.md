@@ -24,6 +24,19 @@ What the pilot does not test and must not promise: the shift of parties, the fat
 
 **The country.** The first candidate is Moldova: there the market price of a vote has already been measured (019d §2) and the budget analysed (053b), so the result has something to be compared with. The second is any town with a carrier (041) and an independent sociological institute.
 
+**Third — Ireland (26.10.2026), and below — why not Britain.** Asked by the architect: "Britain… there are regions strongly independent of the centre — might a referendum be easier there?" and "Ireland — they have nothing to lose." The channels checked:
+
+| Jurisdiction | Referendum channel | Suitable? |
+|---|---|---|
+| United Kingdom, Westminster | only by act of Parliament (Brexit 2016); no citizens' initiative | the introducer is the one to whom it is unprofitable (006b §3c, Gesell) |
+| Scotland, Wales | own parliaments, but a referendum on reserved matters is impossible without London's consent (Supreme Court, 2022) | independence of parliaments from London, not of citizens from parliament |
+| English councils | a petition of 5 % of electors obliges the council to hold a referendum — but only on the form of governance (Localism Act 2011; "a referendum on any local issue" dropped out of the Act) | the one compelling channel in Britain, but the wrong subject |
+| parish | a parish poll on demand of a residents' meeting, non-binding | suitable as a pilot unit by route B |
+| Isle of Man, Jersey, Guernsey | not Britain; a referendum only by resolution of Tynwald or the States (acts of 1979 and 2002) | ideal size (Man — 85 thousand), the introducer is the parliament |
+| **Ireland** | a constitutional amendment only by referendum, about forty since 1937; no citizens' initiative (abolished in 1928, 006b §3c); **Article 27**: a majority of the Seanad and a third of the Dáil send a bill to referendum without the government | **above Britain:** the habit of deciding by referendum and living with the decision (abortion 2018, 018; the assembly 2016–18, 023e), a national experience of leaving a large state, a budget surplus from corporate taxes alongside a housing crisis — the question "where is my share" is already asked aloud; a third of the Dáil is the opposition, to whom offering it is profitable |
+
+The route for Ireland is the architect's move "forbidden, but possible" (006b §3c): a private referendum gives the number; a clear majority obliges the centre to reckon with it (Quebec 1998); the underdog goes to the election with the number, Article 27 passes him round the government; a constitutional amendment is art. 14 of the charter ready-made — an ordinary Dáil law cannot repeal it later. Below the initiative states (045) and Moldova: the introducer is still a parliament. The lesson of 1928 stands: the organisers are replaceable, the number from a private referendum cannot be repealed by amendment (40bh §2).
+
 **Who runs it.** Not us. A sociological institute or a university with a plan published in advance: which quantities are measured, which thresholds count as a result. Payments through a notary or a bank, the register and the counter as open data. Otherwise the result will be called ours, and it will be worth nothing.
 
 **Legal status.** A private poll with private payments on the logic of Route B (035): it is not an election, the money is not public, and it touches no rule on bribery of voters. Tax on the payment — by the country's rules, to be included in the pilot budget.
