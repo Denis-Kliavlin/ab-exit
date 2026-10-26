@@ -109,6 +109,8 @@ The presidential election of 24 October 2025: Catherine Connolly, an independent
 
 There is no citizens' initiative (006b §3c: abolished in 1928). But Article 27 of the constitution lets a majority of the Seanad and a third of the Dáil — 58 deputies — demand a referendum on a bill without the government. Sinn Féin, the Social Democrats, Labour, Aontú and independents are more than a third. The architect's move: a private referendum gives a number the Dáil does not have; a clear majority on a clear question obliges it to reckon (Quebec 1998, 048n); the underdog goes to the election with the number, and no kamikaze stands against him (059l §8b). A constitutional amendment is art. 14 of the charter ready-made: an ordinary Dáil law cannot repeal it later.
 
+**The first link is done.** On 26.10.2026 the architect published on MyUplift the petition "€2,000 or your vote: put the question to the people" to the members of the Dáil and the Seanad; what it gives and does not give — 048n ("step zero without an organisation"). Moderation and signatures are a daily measurement.
+
 ## Weak point
 
 The polls are two firms in one month; an underdog with the number from a private referendum is a forecast — nobody has had such a number yet. The three decisions on the median (§2) are for economists before a pilot; the effect on D is estimated, not computed. "Nothing to lose" (the architect's move) is about the national experience of leaving and the surplus, not about poverty: Ireland is rich, and that is exactly why the vote there is already dear today (057d §3b in reverse). 🟡
