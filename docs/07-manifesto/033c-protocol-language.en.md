@@ -67,7 +67,7 @@ A useful invariant: at K = 1 % the dividend equals 1.5 % of the annual median wa
 | USA | ~$52 thousand | ~$780 |
 | Germany | ~€45 thousand | ~€680 |
 | United Kingdom | ~£31 thousand | ~£465 |
-| Ireland | €46,305 (CSO from Revenue data, median annual earnings 2025; the one exact row of the table — 057g §2) | €695 |
+| Ireland | €46,305 (CSO from Revenue data, median annual earnings 2025; the one exact row of the table — 057g §2) | €695 by the formula; the public figure for discussion €2,000 (4.3 %, 057g §1b) |
 | France | ~€26–32 thousand | ~€390–480 |
 | Russia | ~784 thousand roubles (Rosstat, 2025 median: 65,307 ₽/month) | ~11.8 thousand roubles |
 | Moldova | ~130–170 thousand lei | ~2–2.5 thousand lei |

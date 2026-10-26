@@ -331,7 +331,7 @@ United States is one country case among others, not the frame of the document.*
 - [57d. 🇻🇪 Venezuela: Oil Without Maduro](09-other-countries/057d-venezuela.md)
 - [57e. 🇪🇸 Spain in the 1960s: the Nearest Analogue and Four Missing Conditions](09-other-countries/057e-spain-francoism.md)
 - [57f. 🇪🇸 Spain, 29 November 2026: a Court Switches Off 163 Thousand Voters — the List as a Weapon and What the Protocol Does to It](09-other-countries/057f-spain-2026-cera.md)
-- [57g. 🇮🇪 Ireland: a Country of Referendums without an Initiative — "Forbidden, but Possible", D = €695 by the 2025 Median, Two Underdogs and 213 Thousand Spoiled Ballots](09-other-countries/057g-ireland.md)
+- [57g. 🇮🇪 Ireland: a Country of Referendums without an Initiative — "Forbidden, but Possible", D = €695 by the Formula and €2,000 as the Public Figure, Two Underdogs and 213 Thousand Spoiled Ballots](09-other-countries/057g-ireland.md)
 
 ### Chapter 10. Country Case: 🇺🇸 United States
 
