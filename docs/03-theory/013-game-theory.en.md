@@ -62,7 +62,7 @@ Modern democracies proclaim the maximization of participation (rising turnout) a
 
 The critical difference from **compulsory voting** (Australia, Belgium): compulsory voting **raises external costs** — it imposes participation on the unwilling. AB-EXIT produces the opposite effect.
 
-In the Buchanan-Tullock coordinate system, AB-EXIT lies **closer to the optimum** than democracy as it exists today.
+In the Buchanan-Tullock coordinate system, AB-EXIT lies **closer to the optimum** than democracy as it exists today. *The rest of Buchanan — the veil of uncertainty, the generality principle, Leviathan, "who pays" — [040bm](../06-critique-arsenal/040bm-buchanan.md).*
 
 ## 13.4. Shapley Value — A Mathematical Proof of Vote Amplification
 
