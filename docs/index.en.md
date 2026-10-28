@@ -262,6 +262,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bk. Douglass North: Ten Theses — the Price of Exit as a Constraint on the Ruler, Four Defects of the Political Market, Credible Commitment; No Norm of Duty, Only Bringing-in; Adaptivity Made by Every Citizen](06-critique-arsenal/040bk-north.md)
 - [40bl. Elinor Ostrom: Ten Theses — Elections as a Commons by the Eight Principles (Checklist: the Protocol Beats the Present System on All Eight), Crowding Out Removed by Her Own Condition, "No Panaceas", Rules-in-Use](06-critique-arsenal/040bl-ostrom.md)
 - [40bm. James Buchanan: Ten Theses — the Veil of Uncertainty ("States, Not Types"), the Generality Principle, Leviathan on a Constitutional Budget Line, Consent Every Cycle; the Blow "Who Pays" and the Answer with a Ceiling and a Receipt](06-critique-arsenal/040bm-buchanan.md)
+- [40bn. Friedrich Hayek: Ten Theses — Price as the Aggregator of Knowledge, Nomos against Thesis, Demarchy by Types against the Protocol by States; Three Blows: Constructivism, Disconnected Sensors (the Sensor Is Not Disconnected but Priced), a New Budget Line](06-critique-arsenal/040bn-hayek.md)
 
 ## Part II — Social Architecture
 
