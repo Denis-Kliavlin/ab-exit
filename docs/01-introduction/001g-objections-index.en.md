@@ -220,6 +220,13 @@
 **In detail:** [006b §3c](../02-history/006b-predecessors-and-gaps.md), [019 §61.6](../04-electoral-dynamics/019-bad-governance-cost.md), [048n](../08-implementation/048n-underdog-questions.md), [023f](../05-empirical-base/023f-money-at-elections.md).
 **Unknown:** pamphlets and non-English sources not reviewed; a negative is not proved. Priority — the commit history since April 2026.
 
+## "Serbia proved an autocrat can be removed without the protocol"
+
+**What is true:** on 25 October 2026 a party that had ruled for fourteen years was replaced by an ordinary election on a 69 % turnout.
+**Answer:** it took three conditions at once — an accident with sixteen dead that woke the apathetic; Europe's external oversight; two years of the street that made the awakened organised. Remove any one — 46 days, €600 m of payments and 129 television appearances work, as in 2023. None is created at the citizens' will, and none remains after the victory: the new government has no counter, the million register entries remain, the next early election again favours whoever calls it. The Serbs assembled nine mechanisms of the protocol by hand and paid for each; the protocol makes them a rule every cycle.
+**In detail:** [057h](../09-other-countries/057h-serbia-2026.md), [013g](../03-theory/013g-decay-of-democracy.md), [40bh](../06-critique-arsenal/040bh-q-change-from-above.md).
+**Unknown:** the 057h §5 forecast is checked by 2028–2030; if the street holds the result without a rule, that will have to be recorded.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.

@@ -28,6 +28,8 @@ From the absence of a buyer follow three processes, each with positive feedback.
 
 **The quality of the candidate follows the quality of the hall.** The candidate does not get worse by himself — he is selected to fit those who remain (059i §3, the mirror). As the hall's selection runs towards the worse, so does the candidate's. In two or three steps you get a president without an internal limiter (059i §5b) — not an accident but the limit of the sequence.
 
+*Serbia 2026 as a case of the three processes and the blind zone of the short horizon — [057h](../09-other-countries/057h-serbia-2026.md): decay is invisible not in general but to the apathetic, and the autocrat builds the regime in that zone (the architect's move, 28.10.2026).*
+
 ## 3b. The cornerstone: a government living on bought turnout benefits from a poor voter
 
 *The architect's move of 16 October 2026, from the Landemore reading (040au §4) and the rentier-state hypothesis (057d §3b): "You have just described the cornerstone of all non-democratic regimes and even of part of the democratic ones — and the protocol knocks it out from under the government completely. Translated into a corporation, it is a director on a big salary who does not want the company to bring profit to the shareholders and deliberately makes bad decisions." Recorded on his own condition: "find confirmation from clever people that it is so, and not only my guesses."*
