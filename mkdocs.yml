@@ -251,6 +251,7 @@ plugins:
             "40bh. Вопрос политологов: перемены сверху": "40bh. Political Scientists' Question: Change from Above"
             "40bi. Вопрос политологов: демография": "40bi. Political Scientists' Question: Demography"
             "40bj. Макиавелли": "40bj. Machiavelli"
+            "40bk. Дуглас Норт": "40bk. Douglass North"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -461,6 +462,7 @@ nav:
       - "40bh. Вопрос политологов: перемены сверху": 06-critique-arsenal/040bh-q-change-from-above.md
       - "40bi. Вопрос политологов: демография": 06-critique-arsenal/040bi-q-demography-blocks-change.md
       - "40bj. Макиавелли": 06-critique-arsenal/040bj-machiavelli.md
+      - "40bk. Дуглас Норт": 06-critique-arsenal/040bk-north.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

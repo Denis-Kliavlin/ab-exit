@@ -259,6 +259,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bh. Political Scientists' Question 6: "Change in an Autocracy Will Come from Above, from the Elite; Nothing Can Be Born from Below"](06-critique-arsenal/040bh-q-change-from-above.md)
 - [40bi. Political Scientists' Question 7: "Demography Blocks Change"](06-critique-arsenal/040bi-q-demography-blocks-change.md)
 - [40bj. Machiavelli: Ten Theses — the People Are Honest on a Particular Question, Discord Must Be Channelled, New Orders Are Killed by Their Losers; Price Instead of Discord](06-critique-arsenal/040bj-machiavelli.md)
+- [40bk. Douglass North: Ten Theses — the Price of Exit as a Constraint on the Ruler, Four Defects of the Political Market, Credible Commitment; No Norm of Duty, Only Bringing-in; Adaptivity Made by Every Citizen](06-critique-arsenal/040bk-north.md)
 
 ## Part II — Social Architecture
 
