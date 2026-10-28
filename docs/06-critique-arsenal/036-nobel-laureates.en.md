@@ -13,7 +13,7 @@ A reconstruction of the reactions of ten Nobel laureates absent from the reposit
 
 ## Allies
 
-**Elinor Ostrom (2009, governance of common resources).** The electoral signal is a commons. AB-EXIT is checked against her eight principles of governing the commons (boundaries, collective choice of rules, monitoring, graduated sanctions) — and fits them better than the current system: the rules change only by referendum (collective choice), the register is public (monitoring), the choice is individual and reversible (boundaries). Probably the project's strongest academic ally.
+**Elinor Ostrom (2009, governance of common resources).** The electoral signal is a commons. AB-EXIT is checked against her eight principles of governing the commons (boundaries, collective choice of rules, monitoring, graduated sanctions) — and fits them better than the current system: the rules change only by referendum (collective choice), the register is public (monitoring), the choice is individual and reversible (boundaries). Probably the project's strongest academic ally. *The full analysis — ten theses, the checklist of the eight principles and three of her blows — [040bl](040bl-ostrom.md).*
 
 **Richard Thaler (2017, behavioural economics).** AB-EXIT is a nudge at state scale: not a ban and not compulsion, but a change of choice architecture under which rational behaviour becomes the default. He would especially value reversibility (every cycle a new choice, zero lock-in). His requirement: neutrality of the default — make sure the design does not push the poor towards button B disproportionately (converges with Kahneman's residue, §035).
 

@@ -260,6 +260,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bi. Political Scientists' Question 7: "Demography Blocks Change"](06-critique-arsenal/040bi-q-demography-blocks-change.md)
 - [40bj. Machiavelli: Ten Theses — the People Are Honest on a Particular Question, Discord Must Be Channelled, New Orders Are Killed by Their Losers; Price Instead of Discord](06-critique-arsenal/040bj-machiavelli.md)
 - [40bk. Douglass North: Ten Theses — the Price of Exit as a Constraint on the Ruler, Four Defects of the Political Market, Credible Commitment; No Norm of Duty, Only Bringing-in; Adaptivity Made by Every Citizen](06-critique-arsenal/040bk-north.md)
+- [40bl. Elinor Ostrom: Ten Theses — Elections as a Commons by the Eight Principles (Checklist: the Protocol Beats the Present System on All Eight), Crowding Out Removed by Her Own Condition, "No Panaceas", Rules-in-Use](06-critique-arsenal/040bl-ostrom.md)
 
 ## Part II — Social Architecture
 
