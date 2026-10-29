@@ -31,7 +31,7 @@
 ## "Only the radicals, the fanatics and the union activists will remain"
 
 **What is true:** an activist with a stake — a contract, a wage, a job — will not take the payment; every model finds this, and it is so.
-**Answer:** the protocol does not count on the activist. It subtracts two others: the one who comes without wishing to, because he was asked, and the one who no longer cares; and it brings back the burned — those who stopped coming because they could not outvote the machine. Today the moderate voter is not "at the polls" — he is at home, and his vote already does not count; the rule gives him a reason to return that he does not have now. "60 % of normal people will abandon the city for a trifle" is a number without a source.
+**Answer:** the protocol does not count on the activist. Two others leave by themselves: the one who comes without wishing to, because he was asked, and the one who no longer cares; and it brings back the burned — those who stopped coming because they could not outvote the machine. Today the moderate voter is not "at the polls" — he is at home, and his vote already does not count; the rule gives him a reason to return that he does not have now. "60 % of normal people will abandon the city for a trifle" is a number without a source.
 **In full:** [1f §6–7](001f-core-electorate.md), [011b §11b.2c](../02-history/011b-learned-helplessness.md), [048n](../08-implementation/048n-underdog-questions.md), [040m §5i–5j](../06-critique-arsenal/040m-cold-reader-audit.md), [040bo §3](../06-critique-arsenal/040bo-montaigne.md).
 **Unknown:** which group responds more strongly is a matter of measurement ([048n, "Measuring the question"](../08-implementation/048n-underdog-questions.md)).
 
