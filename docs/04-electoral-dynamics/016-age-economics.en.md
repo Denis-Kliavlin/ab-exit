@@ -250,7 +250,7 @@ Scholars have diagnosed "youth apathy" for thirty years: 36 % turnout, indiffere
 
 Under AB-EXIT: a vote = ×5 influence, costs $780 (a week's work), the result = 40 years of life. The rational answer = VOTE. The same young people, the same persons, different incentives = different behaviour. 36 % → 70 %. Not because they "became more responsible". Because it became RATIONAL to vote.
 
-The passion of the young + the rationality of AB-EXIT = an explosion of motivation. Today a young person's passion = wasted (the vote is useless), goes into rallies and TikTok. With AB-EXIT passion = DIRECTED: a vote ×5, paid $780, will live here 40 years, checks the budget, controls the mayor, canvasses the neighbours.
+The passion of the young + the rationality of AB-EXIT = an explosion of motivation. Today a young person's passion = wasted (the vote is useless), goes into rallies and TikTok. With AB-EXIT passion = DIRECTED: a vote ×5, paid $780, will live here 40 years, checks the budget, controls the mayor, canvasses the neighbours. *Passionarity as a measurable quantity — readiness to refuse D — [040bp](../06-critique-arsenal/040bp-gumilev.md).*
 
 ### 26.6. The young canvasser — stronger than the pensioner
 

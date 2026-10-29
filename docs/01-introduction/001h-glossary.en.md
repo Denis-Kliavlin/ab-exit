@@ -42,6 +42,7 @@
 | **"sick" jurisdictions** | cities and countries with low turnout, debt and no alternation, where the protocol is tested first | not an insult: "the sick first" is an order of testing, not a diagnosis of people | [040m §5d](../06-critique-arsenal/040m-cold-reader-audit.md), [048l](../08-implementation/048l-courtyard-pilot.md) |
 | **"punishment or price"** | the populism test: the populist jails, the protocol presents a bill | — | [040ab item 1](../06-critique-arsenal/040ab-mudde.md) |
 | **"the bounty trap"** | the error of comparing the protocol with an ideal instead of with the present system | — | [040m](../06-critique-arsenal/040m-cold-reader-audit.md) |
+| **"passionarity"** | Gumilev's term, used in the repository operationally: the state of a voter at a given election in which the vote is worth more to him than D (p × M); measured by the share of stayers at a given p; coarse at the income edges, accurate on the middle class | not a heritable trait and not a theory of ethnogenesis; not "a radical" or "a sage"; in English — intensity of preference (Dahl) or revealed preference | [040bp](../06-critique-arsenal/040bp-gumilev.md) |
 
 ## Weak point
 

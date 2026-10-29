@@ -66,7 +66,7 @@ The shortest answer to "this is immoral": this is unfamiliar. The psychology the
 
 ## Weak point
 
-Montaigne did not write about elections: the mayor of Bordeaux was chosen by the jurats, not the people, and his view of popular voting is a reconstruction from the *Essays*, not a position. Quotations are paraphrased. The conservatism of the first blow is an honest position that the protocol does not refute but goes round: by addition instead of replacement and a courtyard instead of a country. "Passionate men" in the architect's move is Gumilev's word taken in its everyday sense ("ready to act for convictions"), not as a theory of ethnogenesis. Readiness to act and calculation are attributed to the stayers logically; their share and composition are a pilot measurement.
+Montaigne did not write about elections: the mayor of Bordeaux was chosen by the jurats, not the people, and his view of popular voting is a reconstruction from the *Essays*, not a position. Quotations are paraphrased. The conservatism of the first blow is an honest position that the protocol does not refute but goes round: by addition instead of replacement and a courtyard instead of a country. "Passionate men" in the architect's move is Gumilev's word taken in its everyday sense ("ready to act for convictions"), not as a theory of ethnogenesis; the analysis of Gumilev himself and the operational definition of passionarity — [040bp](040bp-gumilev.md). Readiness to act and calculation are attributed to the stayers logically; their share and composition are a pilot measurement.
 
 ---
 

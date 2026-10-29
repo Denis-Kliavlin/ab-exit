@@ -264,6 +264,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bm. James Buchanan: Ten Theses — the Veil of Uncertainty ("States, Not Types"), the Generality Principle, Leviathan on a Constitutional Budget Line, Consent Every Cycle; the Blow "Who Pays" and the Answer with a Ceiling and a Receipt](06-critique-arsenal/040bm-buchanan.md)
 - [40bn. Friedrich Hayek: Ten Theses — Price as the Aggregator of Knowledge, Nomos against Thesis, Demarchy by Types against the Protocol by States; Three Blows: Constructivism, Disconnected Sensors (the Sensor Is Not Disconnected but Priced), a New Budget Line](06-critique-arsenal/040bn-hayek.md)
 - [40bo. Michel de Montaigne: Ten Theses — "Unfamiliar" against "Wrong", the Inconstancy of Man, "On Loan, Not as a Gift", the Prince's Liberality with Other People's Money; the Blow "the Stayers Are Merely More Stubborn" and the Architect's Move: a Hall of Those Who Counted against a Hall of Those Who Did Not](06-critique-arsenal/040bo-montaigne.md)
+- [40bp. Lev Gumilev: Ten Theses — "Passionarity" Gets an Instrument for the First Time (Readiness to Refuse D), a Unit (a Share of the Median) and a Refresh Rate (the Cycle); Three States by Energy; the Dispute "Trait or State" Settled by Experiment; Coarse at the Edges, Accurate on the Middle Class; in English, Dahl's Intensity](06-critique-arsenal/040bp-gumilev.md)
 
 ## Part II — Social Architecture
 
