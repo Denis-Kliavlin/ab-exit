@@ -327,7 +327,7 @@ Grok's conclusion, verbatim: the protocol is "the newest and potentially the str
 
 ## 6. Weak point
 
-A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡
+A reader of the same family as the author confirms what the author is able to see and misses what the family does not see. Thirty-seven findings are a lower bound, not a complete list; and the corrections were made by notices, not by rewriting: the old number still stands in the text, only now with a correction above it. 🟡 The architect's move on why writing with AI is not a weakness but the condition of assembly (a car from old parts) — [006b §3c](../02-history/006b-predecessors-and-gaps.md).
 
 ---
 
