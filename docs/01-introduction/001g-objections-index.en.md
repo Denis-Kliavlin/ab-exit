@@ -32,7 +32,7 @@
 
 **What is true:** an activist with a stake — a contract, a wage, a job — will not take the payment; every model finds this, and it is so.
 **Answer:** the protocol does not count on the activist. It subtracts two others: the one who comes without wishing to, because he was asked, and the one who no longer cares; and it brings back the burned — those who stopped coming because they could not outvote the machine. Today the moderate voter is not "at the polls" — he is at home, and his vote already does not count; the rule gives him a reason to return that he does not have now. "60 % of normal people will abandon the city for a trifle" is a number without a source.
-**In full:** [1f §6–7](001f-core-electorate.md), [011b §11b.2c](../02-history/011b-learned-helplessness.md), [048n](../08-implementation/048n-underdog-questions.md), [040m §5i–5j](../06-critique-arsenal/040m-cold-reader-audit.md).
+**In full:** [1f §6–7](001f-core-electorate.md), [011b §11b.2c](../02-history/011b-learned-helplessness.md), [048n](../08-implementation/048n-underdog-questions.md), [040m §5i–5j](../06-critique-arsenal/040m-cold-reader-audit.md), [040bo §3](../06-critique-arsenal/040bo-montaigne.md).
 **Unknown:** which group responds more strongly is a matter of measurement ([048n, "Measuring the question"](../08-implementation/048n-underdog-questions.md)).
 
 ## "A death spiral: the worse the city does, the more people take the payment, the worse for the budget"
@@ -226,6 +226,13 @@
 **Answer:** it took three conditions at once — an accident with sixteen dead that woke the apathetic; Europe's external oversight; two years of the street that made the awakened organised. Remove any one — 46 days, €600 m of payments and 129 television appearances work, as in 2023. None is created at the citizens' will, and none remains after the victory: the new government has no counter, the million register entries remain, the next early election again favours whoever calls it. The Serbs assembled nine mechanisms of the protocol by hand and paid for each; the protocol makes them a rule every cycle.
 **In detail:** [057h](../09-other-countries/057h-serbia-2026.md), [013g](../03-theory/013g-decay-of-democracy.md), [40bh](../06-critique-arsenal/040bh-q-change-from-above.md).
 **Unknown:** the 057h §5 forecast is checked by 2028–2030; if the street holds the result without a rule, that will have to be recorded.
+
+## "The stayers are no better than the takers — merely more stubborn and more vain"
+
+**What is true:** the stayers are neither wiser nor more virtuous; the protocol does not claim they are.
+**Answer:** everyone in the hall compared two numbers — D and the worth of the vote to himself — and the vote came out higher; the taker counted too and chose the money; the only one who did not count is the one who was brought, and he is no longer in the hall. A hall of those who counted against a hall of those who did not. Stubbornness and self-assurance in a voter are another name for readiness to act on one's conviction and calculation; that is exactly what everyone who wrote about the republic demanded of the citizen, without an instrument to separate it. The fork: either the stayers really are more stubborn — and the hall consists of those every thinker wanted; or not — and the hall is no worse than today's, while the money went back to the people.
+**In full:** [040bo §3](../06-critique-arsenal/040bo-montaigne.md), [040b §5](../06-critique-arsenal/040b-hanson-futarchy.md), [040bn](../06-critique-arsenal/040bn-hayek.md) (thesis 10).
+**Unknown:** the share of the "showy" among the stayers — a measurement of [048l §4](../08-implementation/048l-courtyard-pilot.md).
 
 ## Weak point
 

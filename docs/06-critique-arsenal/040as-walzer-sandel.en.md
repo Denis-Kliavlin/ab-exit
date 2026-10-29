@@ -34,7 +34,7 @@
 
 ## 3. Sandel, corruption: paying for abstention turns a civic act into a commodity; the shame disappears, as with the day-care fine; the motive is crowded out, as with Titmuss's donors
 
-**Argument.** Their strongest: as soon as abstention has a price it stops being shameful — and even those who were not paid stop coming; and those who stay vote no longer from duty but "for ×2", and the good is corrupted.
+**Argument.** Their strongest: as soon as abstention has a price it stops being shameful — and even those who were not paid stop coming; and those who stay vote no longer from duty but "for ×2", and the good is corrupted. *Montaigne on the same: "each man calls barbarism whatever is not his own practice" — [040bo](040bo-montaigne.md), thesis 1.*
 
 **Answer.** The vote from shame is the vote of "the meek", from fear and habit (1f §2), and the protocol wants exactly that crowding out. For the stayer the price stands on the exit, not on the act: the act's value rises — ×2 — and that is crowding out in reverse. Titmuss inside out: the protocol pays not the donors but those who do not want to be donors, for not giving — and the blood in the bank gets cleaner; that is screening by a choice that cannot be faked (036e §6, Mirrlees). The civic virtue Sandel stands for becomes real for the first time: to stay when one could take the money is the most explicit civic act ever designed; choice B too is a decision, not inaction (040ag item 2).
 
