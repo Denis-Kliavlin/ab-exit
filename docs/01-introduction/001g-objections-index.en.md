@@ -88,8 +88,9 @@
 ## "If 'against all' wins, the election is annulled and external administration follows"
 
 **What is true:** nothing — a model's invention.
-**Answer:** the protocol has no "against all", no annulment of elections and no external administration. The election is always held; the protocol adds one choice — vote or take the payment — and nothing else.
-**In full:** [048m](../08-implementation/048m-charter.md) entire.
+**Answer:** the protocol has no "against all", no annulment of elections and no external administration. The election is always held; the protocol adds one choice — vote or take the payment — and nothing more.
+**The architect's move (30 October 2026), what follows in substance:** "It is important to separate two cases. If alternative candidates still exist, then with a large number of takers the alternative candidate gets a real chance of winning; and it is visible that not everyone is for the government, because many took the money. But if there is no alternative candidate, taking the money is equivalent to 'I vote against all'. And that is the line that every dictatorship or autocracy tries to remove from the ballot. They do it easily, because there is no difference between voting against all and not coming to vote, and the people agree to the deletion of that line." The protocol has no "against all" line, but choice B works as one — with two differences. First: it cannot be deleted, because it is not a line on the ballot but a payment with a receipt, and its disappearance would be noticed by everyone on his own card (Russia deleted the line by law in 2006, and nobody came out — there was nothing to delete but a line). Second: today "against all" and non-attendance are indistinguishable, which is why the line was given up without a fight; under the protocol they are distinguishable by art. 10 — the taker is counted separately from the one who did not come, and the share of takers is public ([057h §2.4](../09-other-countries/057h-serbia-2026.md), no-alternative).
+**In full:** [048m](../08-implementation/048m-charter.md) entire; [048m art. 10](../08-implementation/048m-charter.md); [019 §60.2](../04-electoral-dynamics/019-bad-governance-cost.md) ("against all" as the cry of the burned).
 
 ## "Cash loses at the ballot box: Switzerland 23 %, Alaska, …"
 
