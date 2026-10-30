@@ -2,7 +2,7 @@
 
 **Chapter:** 06 — The Structural Hypocrisy of Criticism and the Arsenal of the Elites
 **File:** 06_040ak · v1 · 15 October 2026
-**Source:** the architect's assignment of 15 October 2026: "find the articles of the political technologist Steve Bannon, who helped Trump — what would he say about the protocol", then "write". Bannon has not written about the protocol; a reconstruction from his public formulations: CPAC 2017 ("deconstruction of the administrative state"), Daily Beast 2013 ("I am a Leninist"), Hollywood Reporter, November 2016 ("darkness is good"), Michael Lewis for Bloomberg, February 2018 ("flood the zone"), NPR, January 2025 (populism against the "broligarchs"), Ross Douthat's podcast 2025, NOTUS/Forbes, June 2026 (50 % of AI companies' equity to citizens). Quotations are short.
+**Source:** the architect's assignment of 15 October 2026: "find the articles of the political technologist Steve Bannon, who helped Trump — what would he say about the protocol", then "write". Bannon has not written about the protocol; a reconstruction from his public formulations: CPAC 2017 ("deconstruction of the administrative state"), Daily Beast 2013 ("I am a Leninist" (Lenin himself — [040bq](040bq-lenin.md))), Hollywood Reporter, November 2016 ("darkness is good"), Michael Lewis for Bloomberg, February 2018 ("flood the zone"), NPR, January 2025 (populism against the "broligarchs"), Ross Douthat's podcast 2025, NOTUS/Forbes, June 2026 (50 % of AI companies' equity to citizens). Quotations are short.
 
 ---
 
