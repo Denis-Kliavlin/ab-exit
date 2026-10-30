@@ -258,6 +258,7 @@ plugins:
             "40bo. Мишель Монтень": "40bo. Michel de Montaigne"
             "40bp. Лев Гумилёв": "40bp. Lev Gumilev"
             "40bq. Владимир Ленин": "40bq. Vladimir Lenin"
+            "40br. Десять приёмов пропаганды": "40br. Ten Propaganda Devices"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -475,6 +476,7 @@ nav:
       - "40bo. Мишель Монтень": 06-critique-arsenal/040bo-montaigne.md
       - "40bp. Лев Гумилёв": 06-critique-arsenal/040bp-gumilev.md
       - "40bq. Владимир Ленин": 06-critique-arsenal/040bq-lenin.md
+      - "40br. Десять приёмов пропаганды": 06-critique-arsenal/040br-ten-propaganda-devices.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

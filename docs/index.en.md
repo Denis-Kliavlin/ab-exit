@@ -266,6 +266,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bo. Michel de Montaigne: Ten Theses — "Unfamiliar" against "Wrong", the Inconstancy of Man, "On Loan, Not as a Gift", the Prince's Liberality with Other People's Money; the Blow "the Stayers Are Merely More Stubborn" and the Architect's Move: a Hall of Those Who Counted against a Hall of Those Who Did Not](06-critique-arsenal/040bo-montaigne.md)
 - [40bp. Lev Gumilev: Ten Theses — "Passionarity" Gets an Instrument for the First Time (Readiness to Refuse D), a Unit (a Share of the Median) and a Refresh Rate (the Cycle); Three States by Energy; the Dispute "Trait or State" Settled by Experiment; Coarse at the Edges, Accurate on the Middle Class; in English, Dahl's Intensity](06-critique-arsenal/040bp-gumilev.md)
 - [40bq. Vladimir Lenin: Ten Theses — "The Lower Classes Do Not Want" as a Measurable Quantity, the Cook Gets a Choice, Consciousness without a Party, Dual Power as a Number; Three Blows: a Labour Aristocracy for Everyone (the Fork), "I Will Disperse It like the Assembly" (Money on Cards Is Not Recalled), the Poorest Paid for Silence](06-critique-arsenal/040bq-lenin.md)
+- [40br. The Ten Most Common Propaganda Devices and What the Protocol Does with Each: Eight Closed Directly, Two by the Hall's Composition; All Ten Aimed at the Person to Whom the Act Costs Nothing; Four Moves of the Architect (Against All, Labels, the Appointed Authority, Card Stacking)](06-critique-arsenal/040br-ten-propaganda-devices.md)
 
 ## Part II — Social Architecture
 
