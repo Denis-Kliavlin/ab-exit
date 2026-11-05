@@ -266,6 +266,11 @@
       "wrong": "\"What will they take from me: the vote, the pension, the benefits? Will taxes rise?\" (the question of the grandfather of 70 and the woman of 40 in 040at §4)",
       "where_it_comes_from": "the phrase \"paid not to vote\" is read as \"they do not need my vote\"",
       "right": "nothing is taken away: both rights stay and are chosen anew at every election (arts. 5, 16); pension and benefits do not change — D is added, not substituted (art. 4); taxes do not rise — only a referendum changes p (art. 14), the source is the 1–2 % of the budget now going to opaque projects (059l §4); the choice is secret (art. 9.3)"
+    },
+    {
+      "wrong": "\"There has been no pilot — so the protocol is untested and it is only a calculation\"",
+      "where_it_comes_from": "the phrase \"not one pilot\" on the first page (statement 20) is read as \"nothing is tested\"",
+      "right": "only the assembly is untested; every part is tested separately in economics and business (overbooking since 1978, share buybacks, payments for not sowing, indexation, referendums, double entry), every constant is measured by mini-experiments (the price of a vote, who leaves when participation gets dearer, how composition changes policy); the pilot measures the seeding rate — the share of takers at a given p — not \"whether it grows,\" and is needed for adoption, not for truth (040bt)"
     }
   ],
   "misreadings_ru": [
@@ -428,6 +433,11 @@
       "wrong": "«Что у меня отнимут: голос, пенсию, льготы? Налоги вырастут?» (вопрос дедушки 70 лет и женщины 40 лет из 040at §4)",
       "where_it_comes_from": "слово «платят, чтобы не голосовали» читается как «мой голос им не нужен»",
       "right": "ничего не отнимают: оба права остаются и выбираются заново на каждых выборах (ст. 5, 16); пенсия и льготы не меняются — D прибавляется, а не заменяет (ст. 4); налоги не растут — p меняет только референдум (ст. 14), источник — те 1–2 % бюджета, что сейчас уходят на непрозрачные проекты (059l §4); выбор тайный (ст. 9.3)"
+    },
+    {
+      "wrong": "«Пилота не было — значит, протокол не проверен и это только расчёт»",
+      "where_it_comes_from": "фраза «ни одного пилота» на первой странице (утв. 20) читается как «ничего не проверено»",
+      "right": "не проверена только сборка; каждая часть проверена отдельно в экономике и бизнесе (овербукинг с 1978 года, выкуп акций, плата за незасев, индексация, референдумы, двойная запись), каждая константа измерена мини-опытами (цена голоса, кто уходит при удорожании участия, как состав меняет политику); пилот измеряет норму высева — долю взявших при данном p, — а не «вырастет ли», и нужен для принятия, не для истины (040bt)"
     }
   ]
 }

@@ -236,6 +236,27 @@
 **In full:** [040bo §3](../06-critique-arsenal/040bo-montaigne.md), [040b §5](../06-critique-arsenal/040b-hanson-futarchy.md), [040bn](../06-critique-arsenal/040bn-hayek.md) (thesis 10).
 **Unknown:** the share of the "showy" among the stayers — a measurement of [048l §4](../08-implementation/048l-courtyard-pilot.md).
 
+## "There has been no pilot — so it is only a calculation, and people are not formulas"
+
+**What is true:** the share of takers at a given percentage of the median has been measured nowhere; the calculation contains that constant.
+**Answer:** "no pilot" does not mean "nothing is tested." Every part of the protocol is tested separately — overbooking since 1978, share buybacks, payments for not sowing, indexation, referendums, double entry; every constant is measured by mini-experiments — the price of a vote (field experiments), who leaves when participation gets dearer (abolition of compulsory voting, rain on election day), how composition changes policy (Australia, the canton of Vaud). Only the assembly is unmeasured, and it is measured not by a pilot as proof but by a test strip as a seeding rate: how much to sow, not whether it grows. A car is tested whole for calibration and homologation, not to learn whether the wheels turn. The pilot is key for adoption (Oregon 2024: 77 to 23 without a single example), not for truth.
+**In full:** [040bt](../06-critique-arsenal/040bt-show-me-the-pilot.md), [048l](../08-implementation/048l-courtyard-pilot.md), [059l](../10-usa/059l-five-thousand-rehearsal.md).
+**Unknown:** the seeding rate differs in every jurisdiction — a parameter with feedback, not a constant; more than one test strip is needed.
+
+## "The thinking will leave first, as in voluntary redundancies; and campaigns will say 'don't take the money, go and vote'"
+
+**What is true:** in a foregone district the vote is worth zero, and the thinking voter will take B rationally; campaigns will talk people out of the payment.
+**Answer:** the employable leaves a job because there is a better place; exit under the protocol has no "better place" — only money, and the vote burns, so selection does not reverse. In a foregone district the money taken is a budget line, not a failure: the district was foregone anyway, and as soon as it turns sick, the thermostat returns the burned when his vote starts to decide. Campaign persuasion is not a threat but the mechanism: today busing is free, under the protocol a campaign must outbid live money (prohibited) or persuade, and persuasion does not work on the indifferent; the indifferent are not a conspiracy, the result simply does not matter to them, like to a passenger in overbooking — when he flies.
+**In full:** [040bt §7](../06-critique-arsenal/040bt-show-me-the-pilot.md), [030b](../06-critique-arsenal/030b-ten-tricks.md), [1h "thermostat"](001h-glossary.md).
+**Unknown:** the share of takers in foregone districts against competitive ones — the pilot.
+
+## "Any candidate can be smeared with an unproven allegation — the hall will believe it, and only saints or good hiders will remain"
+
+**What is true:** today — yes: one allegation equals a verdict, slander costs almost nothing, and the target loses the campaign; the filter "not one allegation" lets through the empty, the hider and the shameless, and rewards the shameless on top.
+**Answer:** the protocol does not extract truth — it changes the economics of slander. Its buyer — the one who decides by the headline in a week — takes B. Those who remain judge by the hiring standard: what mistakes, what came of them, did he pay himself; for them an allegation is neither zero nor a verdict but a line weighed with its source, its timing and the rest of the record. Checking moves to the qualifying heats, where the selectors themselves ask, and the calendar trick (remove before the replacement deadline) loses its force. Slander does not disappear — it stops paying off; shamelessness does not disappear — it loses its market, because impunity was bought by a hall without a stake.
+**In full:** [059p §4b–4c](../10-usa/059p-third-force-demand.md), [1f §6b](001f-core-electorate.md), [1h "moral court"](001h-glossary.md), [030b](../06-critique-arsenal/030b-ten-tricks.md).
+**Unknown:** what share of the quiet the payment takes out of the hall — the pilot; slander with forged evidence will deceive a hall with a stake too.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.

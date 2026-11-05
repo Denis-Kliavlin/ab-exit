@@ -268,6 +268,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bq. Vladimir Lenin: Ten Theses — "The Lower Classes Do Not Want" as a Measurable Quantity, the Cook Gets a Choice, Consciousness without a Party, Dual Power as a Number; Three Blows: a Labour Aristocracy for Everyone (the Fork), "I Will Disperse It like the Assembly" (Money on Cards Is Not Recalled), the Poorest Paid for Silence](06-critique-arsenal/040bq-lenin.md)
 - [40br. The Ten Most Common Propaganda Devices and What the Protocol Does with Each: Eight Closed Directly, Two by the Hall's Composition; All Ten Aimed at the Person to Whom the Act Costs Nothing; Four Moves of the Architect (Against All, Labels, the Appointed Authority, Card Stacking)](06-critique-arsenal/040br-ten-propaganda-devices.md)
 - [40bs. Sarah Paine: Ten Theses — the Negative Objective, the Honest Signal, Institutions over Leaders, a Theory of Victory; Three Blows (Rules Are Written by Force; in War Security Overrides Price; a Maritime Rule in a Continental Country) Removed by the Architect's Moves; Five Pillars of the Path to War and Insurance as the Measure of Horizon](06-critique-arsenal/040bs-paine.md)
+- [40bt. "Show Me the Pilot": the Protocol as an Assembly of Tested Parts — Szilard and Fermi, Three Constants, a Map of the Units, the Car, Five Objections Removed, and Why a Test Strip Is Still Needed](06-critique-arsenal/040bt-show-me-the-pilot.md)
 
 ## Part II — Social Architecture
 
@@ -370,6 +371,8 @@ United States is one country case among others, not the frame of the document.*
 - [59l. The US: the "Trump $5,000" Campaign as a Rehearsal for the Protocol — Eight Stages and a Forecast](10-usa/059l-five-thousand-rehearsal.md)
 - [59m. Chicago 2027: Wilson, Three Rounds of Grok and the Rule of Three](10-usa/059m-chicago-2027-wilson.md)
 - [59n. The Vote "Against": Pew 44 to 19, Gallyamov on Trump, MAGA by States, the Pendulum and the Third Candidate](10-usa/059n-vote-against.md)
+- [59o. The Ship That Turns Around Every 700 Days: the 2026 Midterms, the Hall Instead of the Country, and What of the Protocol Is Already Tested](10-usa/059o-ship-turning-every-700-days.md)
+- [59p. A Third Force in the US: the Demand Exists, the Channel Does Not — the Pendulum's Fuel, Admission without Qualifying Heats, and the Demand for Newcomers](10-usa/059p-third-force-demand.md)
 
 ## Numbers that occur twice
 

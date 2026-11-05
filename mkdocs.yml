@@ -260,6 +260,7 @@ plugins:
             "40bq. Владимир Ленин": "40bq. Vladimir Lenin"
             "40br. Десять приёмов пропаганды": "40br. Ten Propaganda Devices"
             "40bs. Сара Пейн": "40bs. Sarah Paine"
+            "40bt. «Покажите пилот»": "40bt. Show Me the Pilot"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -305,6 +306,8 @@ plugins:
             "59l. $5000 как репетиция": "59l. The $5,000 as a Rehearsal"
             "59m. Чикаго 2027: Уилсон и Грок": "59m. Chicago 2027: Wilson and Grok"
             "59n. Голос «против»: Pew 44 на 19": "59n. The Vote Against: Pew 44 to 19"
+            "59o. Разворот каждые 700 дней: выборы-2026": "59o. The Ship That Turns Every 700 Days: the 2026 Elections"
+            "59p. Третья сила: запрос есть, канала нет": "59p. A Third Force: the Demand Exists, the Channel Does Not"
 
 markdown_extensions:
   - admonition
@@ -479,6 +482,7 @@ nav:
       - "40bq. Владимир Ленин": 06-critique-arsenal/040bq-lenin.md
       - "40br. Десять приёмов пропаганды": 06-critique-arsenal/040br-ten-propaganda-devices.md
       - "40bs. Сара Пейн": 06-critique-arsenal/040bs-paine.md
+      - "40bt. «Покажите пилот»": 06-critique-arsenal/040bt-show-me-the-pilot.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md
@@ -567,6 +571,8 @@ nav:
       - "59l. $5000 как репетиция": 10-usa/059l-five-thousand-rehearsal.md
       - "59m. Чикаго 2027: Уилсон и Грок": 10-usa/059m-chicago-2027-wilson.md
       - "59n. Голос «против»: Pew 44 на 19": 10-usa/059n-vote-against.md
+      - "59o. Разворот каждые 700 дней: выборы-2026": 10-usa/059o-ship-turning-every-700-days.md
+      - "59p. Третья сила: запрос есть, канала нет": 10-usa/059p-third-force-demand.md
   - "Вопросы и ответы":
     - "О базе Q&A": qa/index.md
     - "Право и конституция": qa/legal.md
