@@ -46,6 +46,31 @@ Panagopoulos (Journal of Politics, 2013) ran the first randomised field experime
 
 What follows for the protocol. First: people have a threshold below which money does not act on behaviour, and it is above a token sum — an argument against "a small payment to start with" and for the yardstick "desirable to 40–50 % of the population" (048k §3). Second: the experiments measured payment for turnout, the protocol pays for exit; the threshold does not carry over as a number, what carries over is the fact of its existence. Third: this is a calibration point for the simulator's formula (055c §6.3b) — its response to the sum has the same shape as the experiments: zero up to a threshold, growth after it.
 
+## 4b. A fourth step: the half-billion of 2026 and the thesis "money does not win elections"
+
+*Added 5 November 2026 after the US midterm elections of 3 November 2026 ([059o](../10-usa/059o-ship-turning-every-700-days.md)).*
+
+**The thesis.** A commentator summed up Musk's spending on the 2026 campaign: he "managed to burn half a billion dollars in plain view without it once showing in the voting figures. Money does not win elections… there is no exchange rate of dollars for votes. In a competitive system you cannot buy yourself a senator or a governor."
+
+**What is true.** A convinced voter cannot be bought, and this has long been known: a candidate's spending barely moves the result (Levitt, 1994); Bloomberg in 2020 spent more than half a billion and won American Samoa; Musk in spring 2025 put more than $20 million into a judicial election in Wisconsin and lost by ten points.
+
+**Where the error is.** The word "vote" mixes two goods. The vote of a person with a stake is not for sale and has no price. The vote of the brought-in is for sale, and the price has been measured: Moldova 2024 — $39 million for 138,000 people, about $280 a vote ([019d §2](../04-electoral-dynamics/019d-market-price-of-vote.md)); the field experiments of §4 — $25 for turnout already moves it; the targeted package in Serbia ([057h §2.6](../09-other-countries/057h-serbia-2026.md)). The rate exists; it is hidden, in places criminal, and works only on the one who does not count. Money does not buy elections when the hall has a stake, and buys the margin when the hall is apathetic — and most elections are decided at the margin. In 2026 the bought margin drowned in the wave, as did the redistricting designed for a shift of a few points.
+
+**The architect's move (5 November 2026).** "The author thinks Musk's money did not help to win, but it did affect the result, and what matters is that it affected it two ways: it brought some people in, and the personality and publicity of Musk's spending pushed some away. So the idea that one cannot buy is wrong. De facto votes are already bought in different ways, and today we cannot say exactly how many came because of Musk's money. AB-EXIT is about something else altogether: there everything is counted, exact and visible, there are no personalities, and the money is more honest."
+
+What follows. The author of the thesis measures the outcome ("they did not win") and infers from it the absence of influence; these are different quantities. Half a billion worked both ways: it brought some in and mobilised others against itself, and the resulting zero in the figures is not "no effect" but the sum of two effects of opposite sign. Hence the main fact of the present system: the influence of money on turnout is unmeasurable. Nobody — neither the campaign, nor the donor, nor the opponent — can say how many people came because of that money and how many came in spite of it; every estimate is made after the fact from polls. This is a fictitious entry in pure form: the expense exists, the line in the accounts does not.
+
+| | Money in a campaign today | The protocol's payment |
+|---|---|---|
+| Whose money | a private person's or a committee's | the voter's own, from his own taxes |
+| For what | for coming, signing, voting "the right way" — never said aloud | for a declared exit; both rights are kept |
+| Who receives it | those chosen by the campaign | everyone who chose, by one formula |
+| The payer's personality | present — and it becomes an argument for or against in itself | absent: the treasury pays by law, whoever holds power |
+| What is known afterwards | nothing: how many came and how many were repelled cannot be counted | everything: how many took, how many stayed, by district, every day (048m arts. 9, 10) |
+| Side effect | repulsion from the payer | none: there is nobody to be repelled by |
+
+And a fork for the thesis. If there is no exchange rate of dollars for votes, then the protocol's payment cannot "buy" anyone either — the objection "this is bribery" ([1g](../01-introduction/001g-objections-index.md)) is removed in the words of the critic of money himself. If the rate exists, the protocol makes it open, equal and bounded. Under the protocol the thesis "money does not win elections" becomes true always, not only in a wave year: the good that money used to buy is no longer in the hall — the brought-in voter has taken his own from the treasury, and the one who stayed is by definition worth more than D.
+
 ## 5. The main conclusion
 
 The architect: "people are not against money at elections. While we spend half a year discussing whether it is legal or not and how ready people are, Trump simply went and promised to hand out money — as a bribe."
