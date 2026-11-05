@@ -257,6 +257,13 @@
 **In full:** [059p §4b–4c](../10-usa/059p-third-force-demand.md), [1f §6b](001f-core-electorate.md), [1h "moral court"](001h-glossary.md), [030b](../06-critique-arsenal/030b-ten-tricks.md).
 **Unknown:** what share of the quiet the payment takes out of the hall — the pilot; slander with forged evidence will deceive a hall with a stake too.
 
+## "There is no exchange rate of dollars for votes: money does not win elections"
+
+**What is true:** a convinced voter cannot be bought; a candidate's spending barely moves the result (Levitt, 1994), and the most expensive campaigns have lost — Bloomberg in 2020, Musk in 2025 and 2026.
+**Answer:** the word "vote" covers two goods. The vote of a person with a stake is not for sale; the vote of the brought-in is, and its price has been measured — Moldova 2024 (about $280 a vote, a tenth of those who came), field experiments with payment for turnout, targeted pre-election packages. The rate exists, is hidden and works on the one who does not count; money buys the margin, and most elections are decided at the margin. Pragmatists who count the return on every dollar do not repeat a loss-making operation for twenty years — so the return exists and lies outside the public accounts: the margin, access, their own balance sheet. To deny the rate while the market operates is not to see mines where they are (the architect): a market that "does not exist" is neither measured nor capped. And the fork: if there is no rate, the protocol's payment cannot "buy" anyone either — the objection "bribery" falls; if there is, the protocol makes it open, equal and bounded.
+**In full:** [023f §4b](../05-empirical-base/023f-money-at-elections.md), [019d](../04-electoral-dynamics/019d-market-price-of-vote.md), [040aw](../06-critique-arsenal/040aw-gilens-page.md), [057h §2.6](../09-other-countries/057h-serbia-2026.md).
+**Unknown:** exactly how many votes in a given cycle were bought and how many repelled nobody counts today; the protocol counts it.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.
