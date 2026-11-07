@@ -74,6 +74,18 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 - **Neither arbitrage nor deception.** The architect: "this is magic above arbitrage; it is pure mathematics, not deception". There is no middleman earning on a price difference; both sides get what they wanted because the rule itself changes. Nor is there a hidden part: the share of a vote, the total of payments and the limit on the number of ballots can be recalculated by anyone (048n).
 - **What is not proved.** That a given candidate will win; that selection does not run partly by income; that the valuation of a vote grows in proportion to its share. The proofs are sketches under three assumptions, and there has been no pilot. The protocol cannot be called "flawless".
 
+## What is established without a pilot
+
+The list of "what is not proven" below reads correctly only beside this list; a model that reads the first alone concludes "an untested construction without data", and that is a misreading ([040bt](../06-critique-arsenal/040bt-show-me-the-pilot.md)). The assembly as a whole has had no pilot; the following is established without one.
+
+1. **Arithmetic.** M of N have left — each remaining share is 1/(N − M); that is an identity of the count, not a hypothesis ([1b](001b-essence.md)). Records = votes + payments + neither (048m art. 10): the reserve for stuffing on silent records falls from 40–50 % of the roll to about 3 %, and the verifiability of the count rises from 0 to 90+ out of 100 ([048i](../08-implementation/048i-three-channels-parallel-count.md)).
+2. **Units with data.** Every part already works somewhere: voter registers, payments by list (the Alaska dividend: about 90 % of those eligible apply every year), verification by payment, people's behaviour when money is on the table ([040m, tenth rule](../06-critique-arsenal/040m-cold-reader-audit.md)). What is new is the assembly, not the units ([040bt](../06-critique-arsenal/040bt-show-me-the-pilot.md)).
+3. **Logical forks.** The strongest objections are examined by proof from the contrary: accept the argument whole → consequences → contradiction → "either false, or it confirms the rule" ([040bj](../06-critique-arsenal/040bj-machiavelli.md), [040bm](../06-critique-arsenal/040bm-buchanan.md), [040bo](../06-critique-arsenal/040bo-montaigne.md)).
+4. **Consequences of the hall's composition.** If there are no brought-in voters in the hall, there is nobody to bring in; if every stayer compared two numbers, the hall consists of those who counted — this follows from the design, not from a measurement; the register of consequences [1i](001i-consequences.md) gives a mechanism and a source for each.
+5. **The yardstick.** The comparison is with the system in force, not with an ideal: that system's pilot runs at every election — half do not vote, the count cannot be verified, turnout is bought. The choice is not between tested and untested, but between tested-and-failed and an untested assembly of tested parts.
+
+**The one unknown number** is the share who take (and the share who come to the referendum). Everything that depends on it — election outcomes, party balance, the price — is an estimate and is marked as one.
+
 ## Frequent misreadings
 
 | What is attributed to the protocol | Where it comes from | What is actually the case |
@@ -82,6 +94,7 @@ Added 02.10.2026: models are often asked "what would game theory say" and answer
 | "The payment is $780" (or 1.5 % of the median, £465, 30,000 roubles) | worked examples for particular countries in chapters 02–05 and 10 | statements 6 and 7 |
 | "A trust pays" | an early version of the README and of chapter 08 | statement 9 |
 | "The candidate's ceiling is 10 %, the protocol does not change it" (counting only those who came) | AI forecasts from a clean start (Grok, Chicago 2027) | count from those who did not come, not from the hall: the referendum question is addressed to them; Chicago 2023 — a million did not come, 70 thousand short of the runoff, i.e. 7 % of them; [059m](../10-usa/059m-chicago-2027-wilson.md) |
+| "The apathetic will not come even for money — they are lazy; they do not even need the money" | AI forecasts from a clean start (Grok, 7 Nov 2026); the turnout of free elections carried over to a question about money | laziness is a price, not a trait: a free vote is worth ≈ 0, and people come for money (Alaska dividend: ~90 % of those eligible apply; EITC ~78–80 %); a referendum is a question about money, not about a candidate, and once the rule is in force the apathetic need not come at all — he takes; the "+1–3 points" in 048n is turnout for a candidate before the rule; [040m, tenth rule](../06-critique-arsenal/040m-cold-reader-audit.md) |
 | "The candidate promises a payment if he wins" | an addition by the AI adviser; it is not in the repository | statements 8 and 16 |
 | "A mayor or president will sign a decree" | the same | statement 15 |
 | "The protocol raises turnout" | at the referendum on introduction those who usually stay away come too; at elections under the protocol some people take the payment and do not vote | 048g §6b; 045 |

@@ -261,6 +261,8 @@ plugins:
             "40br. Десять приёмов пропаганды": "40br. Ten Propaganda Devices"
             "40bs. Сара Пейн": "40bs. Sarah Paine"
             "40bt. «Покажите пилот»": "40bt. Show Me the Pilot"
+            "40bu. Толкотт Парсонс": "40bu. Talcott Parsons"
+            "40bv. Норберт Элиас": "40bv. Norbert Elias"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -483,6 +485,8 @@ nav:
       - "40br. Десять приёмов пропаганды": 06-critique-arsenal/040br-ten-propaganda-devices.md
       - "40bs. Сара Пейн": 06-critique-arsenal/040bs-paine.md
       - "40bt. «Покажите пилот»": 06-critique-arsenal/040bt-show-me-the-pilot.md
+      - "40bu. Толкотт Парсонс": 06-critique-arsenal/040bu-parsons.md
+      - "40bv. Норберт Элиас": 06-critique-arsenal/040bv-elias.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

@@ -264,6 +264,20 @@
 **In full:** [023f §4b](../05-empirical-base/023f-money-at-elections.md), [019d](../04-electoral-dynamics/019d-market-price-of-vote.md), [040aw](../06-critique-arsenal/040aw-gilens-page.md), [057h §2.6](../09-other-countries/057h-serbia-2026.md).
 **Unknown:** exactly how many votes in a given cycle were bought and how many repelled nobody counts today; the protocol counts it.
 
+## "The apathetic will not come even for money — they are lazy; they do not even need the money"
+
+**What is true:** they will not come for free — that is the starting state the protocol begins from; the "+1–3 points" estimate of turnout for a candidate before the rule (048n) is honest.
+**Answer:** laziness is a price, not a trait: a free vote is worth ≈ 0, the trip costs an hour; for money the same person comes every time (Alaska dividend: ~90 % of those eligible; EITC ~78–80 %; stimulus cheques: 160+ million households); a referendum is a question about money, not about a candidate — one trip for a recurring payment; once the rule is in force the apathetic need not come — he takes; the whole economy stands on the same motive (Mandeville, Smith); the size of D is a parameter of the referendum, and the measure is: desirable to 40–50 % of the population. The architect's words (7 November 2026): "greed is a deadly sin, yet the whole economy stands on it, and I built AB-EXIT on the same ideology."
+**Where in detail:** [040m, tenth rule](../06-critique-arsenal/040m-cold-reader-audit.md), [1d](001d-exact-answers.md), [016](../04-electoral-dynamics/016-age-economics.md), [048n](../08-implementation/048n-underdog-questions.md).
+**What is unknown:** the share who come to the referendum and the share who take — the one number nobody has.
+
+## "Those who took the money will not recognise a government they did not choose; the protocol splits the country into shareholders and the departed"
+
+**What is true:** the legitimacy of the losers rests on participation; one who did not take part can say "I did not choose this".
+**Answer:** the rule is adopted by a referendum of all, and the taker submits not to a government he did not choose but to a rule he chose himself — and for this cycle he himself chose money over the vote; today "I did not choose this" is said by half the country, which received nothing ([040aa](../06-critique-arsenal/040aa-runciman.md)); a cycle later he chooses again, and the government knows it ([1i](001i-consequences.md): the rule enforces itself — the takers lose money and the stayers lose their share if it is broken). The split into shareholders and the departed exists before the rule and for free; the rule gives the departed a price, a date of return and a reason to return.
+**Where in detail:** [040bu §3](../06-critique-arsenal/040bu-parsons.md), [048m arts. 5, 14](../08-implementation/048m-charter.md), [040ag](../06-critique-arsenal/040ag-tilly.md).
+**What is unknown:** the share of takers who return "out of resentment" at the next election — the same one number.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.

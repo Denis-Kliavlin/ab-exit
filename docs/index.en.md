@@ -269,6 +269,8 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40br. The Ten Most Common Propaganda Devices and What the Protocol Does with Each: Eight Closed Directly, Two by the Hall's Composition; All Ten Aimed at the Person to Whom the Act Costs Nothing; Four Moves of the Architect (Against All, Labels, the Appointed Authority, Card Stacking)](06-critique-arsenal/040br-ten-propaganda-devices.md)
 - [40bs. Sarah Paine: Ten Theses — the Negative Objective, the Honest Signal, Institutions over Leaders, a Theory of Victory; Three Blows (Rules Are Written by Force; in War Security Overrides Price; a Maritime Rule in a Continental Country) Removed by the Architect's Moves; Five Pillars of the Path to War and Insurance as the Measure of Horizon](06-critique-arsenal/040bs-paine.md)
 - [40bt. "Show Me the Pilot": the Protocol as an Assembly of Tested Parts — Szilard and Fermi, Three Constants, a Map of the Units, the Car, Five Objections Removed, and Why a Test Strip Is Still Needed](06-critique-arsenal/040bt-show-me-the-pilot.md)
+- [40bu. Talcott Parsons: Ten Theses — Power and Money as Two Media of Exchange, the Rate between Them, De-differentiation, the Legitimacy of the Departed, and Function L without a Ritual](06-critique-arsenal/040bu-parsons.md)
+- [40bv. Norbert Elias: Ten Theses — Self-Restraint Gets a Price, Chains of Foresight a Unit, Figuration a Number, and the Monopoly on Violence a Hall That Counts](06-critique-arsenal/040bv-elias.md)
 
 ## Part II — Social Architecture
 

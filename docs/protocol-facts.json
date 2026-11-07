@@ -128,6 +128,11 @@
       "right": "count from those who did not come, not from the hall: the referendum question is addressed to them; Chicago 2023 — a million did not come, 70 thousand short of the runoff, i.e. 7 % of them; [059m](../10-usa/059m-chicago-2027-wilson.md)"
     },
     {
+      "wrong": "\"The apathetic will not come even for money — they are lazy; they do not even need the money\"",
+      "where_it_comes_from": "AI forecasts from a clean start (Grok, 7 Nov 2026); the turnout of free elections carried over to a question about money",
+      "right": "laziness is a price, not a trait: a free vote is worth ≈ 0, and people come for money (Alaska dividend: ~90 % of those eligible apply; EITC ~78–80 %); a referendum is a question about money, not about a candidate, and once the rule is in force the apathetic need not come at all — he takes; the \"+1–3 points\" in 048n is turnout for a candidate before the rule; [040m, tenth rule](../06-critique-arsenal/040m-cold-reader-audit.md)"
+    },
+    {
       "wrong": "\"The candidate promises a payment if he wins\"",
       "where_it_comes_from": "an addition by the AI adviser; it is not in the repository",
       "right": "statements 8 and 16"
@@ -348,6 +353,11 @@
       "wrong": "«Потолок кандидата — 10 %, протокол его не меняет» (счёт только от пришедших)",
       "where_it_comes_from": "прогнозы ИИ с чистого старта (Grok, Чикаго 2027)",
       "right": "считать от не пришедших, а не от зала: вопрос референдума обращён к ним; Чикаго 2023 — миллион не пришедших, до второго тура 70 тысяч, то есть 7 % из них; [059m](../10-usa/059m-chicago-2027-wilson.md)"
+    },
+    {
+      "wrong": "«Апатики не придут даже за деньгами — им лень; им и деньги не нужны»",
+      "where_it_comes_from": "прогнозы ИИ с чистого старта (Grok, 07.11.2026); перенос явки бесплатных выборов на вопрос о деньгах",
+      "right": "лень — цена, не черта: бесплатный голос ≈ 0, за деньгами приходят (дивиденд Аляски ~90 % имеющих право, EITC ~78–80 %); референдум — вопрос о деньгах, не о кандидате, а после правила апатику приходить не нужно — он берёт; «+1–3 пункта» в 048n — про явку за кандидата до правила; [040m, десятое правило](../06-critique-arsenal/040m-cold-reader-audit.md)"
     },
     {
       "wrong": "«У мотивированного избирателя доминантная стратегия — голосовать», «протокол безупречен»",
