@@ -263,6 +263,8 @@ plugins:
             "40bt. «Покажите пилот»": "40bt. Show Me the Pilot"
             "40bu. Толкотт Парсонс": "40bu. Talcott Parsons"
             "40bv. Норберт Элиас": "40bv. Norbert Elias"
+            "40bw. Роберт Пейп": "40bw. Robert Pape"
+            "40bx. Лакло и Муфф": "40bx. Laclau and Mouffe"
             "33c. Язык протокола": "33c. The Language of the Protocol"
             "34b. Корпоративные аналогии": "34b. Corporate Analogies"
             "39b. Идеалисты и цикл популизма": "39b. Idealists and the Populist Cycle"
@@ -487,6 +489,8 @@ nav:
       - "40bt. «Покажите пилот»": 06-critique-arsenal/040bt-show-me-the-pilot.md
       - "40bu. Толкотт Парсонс": 06-critique-arsenal/040bu-parsons.md
       - "40bv. Норберт Элиас": 06-critique-arsenal/040bv-elias.md
+      - "40bw. Роберт Пейп": 06-critique-arsenal/040bw-pape.md
+      - "40bx. Лакло и Муфф": 06-critique-arsenal/040bx-laclau-mouffe.md
   - "II. Социальная архитектура":
     - "Глава 7. Манифест и стратегия":
       - "33. Двойная капитуляция Gemini Pro (мнение архитектора)": 07-manifesto/033-manifesto.md

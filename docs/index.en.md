@@ -271,6 +271,8 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bt. "Show Me the Pilot": the Protocol as an Assembly of Tested Parts — Szilard and Fermi, Three Constants, a Map of the Units, the Car, Five Objections Removed, and Why a Test Strip Is Still Needed](06-critique-arsenal/040bt-show-me-the-pilot.md)
 - [40bu. Talcott Parsons: Ten Theses — Power and Money as Two Media of Exchange, the Rate between Them, De-differentiation, the Legitimacy of the Departed, and Function L without a Ritual](06-critique-arsenal/040bu-parsons.md)
 - [40bv. Norbert Elias: Ten Theses — Self-Restraint Gets a Price, Chains of Foresight a Unit, Figuration a Number, and the Monopoly on Violence a Hall That Counts](06-critique-arsenal/040bv-elias.md)
+- [40bw. Robert Pape: Five Theses — the "Combustible Material" of Violence as the Burned without a Channel, the Transfer of Power as the Most Dangerous Moment, the Wildfire Model, and Three Firebreaks Addressed to the Wrong Hall](06-critique-arsenal/040bw-pape.md)
+- [40bx. Ernesto Laclau and Chantal Mouffe: Five Theses — the People Are Constructed, the Empty Signifier, Antagonism as the Essence of the Political; and Why an Assembly of "Againsts" Does Not Hold Where the Vote Has a Price](06-critique-arsenal/040bx-laclau-mouffe.md)
 
 ## Part II — Social Architecture
 
