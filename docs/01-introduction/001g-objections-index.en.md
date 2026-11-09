@@ -278,6 +278,13 @@
 **Where in detail:** [040bu §3](../06-critique-arsenal/040bu-parsons.md), [048m arts. 5, 14](../08-implementation/048m-charter.md), [040ag](../06-critique-arsenal/040ag-tilly.md).
 **What is unknown:** the share of takers who return "out of resentment" at the next election — the same one number.
 
+## "You pay the discontented not to vote: the government gets a hall of the patient and an indulgence for any decision"
+
+**What is true:** after the rule a person who is unhappy with today's prices and sees no further than them will more often take the payment than come to punish; the government will find it easier to live through the cost side of a long decision.
+**Answer:** nobody makes the discontented keep silent — he can speak, march and campaign for a higher p; he chooses the payment himself and a cycle later chooses anew. The hall of the stayers is not loyal, it counts — the architect's move: "those who did not take the money can count and understand where Trump is to blame and where he is not"; a tariff with no return such a hall will charge to the government more precisely than today's, which punishes in one line for the barrel and the duty alike. Discontent does not disappear, it becomes a number: the share of takers by district is visible at every election, not as a collapse once in two years. And the comparison must be with the existing order: today the verdict is passed on the cost side, so a government either takes no long decisions or promises impossible dates.
+**Where in detail:** [059o §4b](../10-usa/059o-ship-turning-every-700-days.md), [1i](001i-consequences.md): a long decision gets a hall; [040bd §3](../06-critique-arsenal/040bd-q-citizens-are-rational.md).
+**What is unknown:** the hall's patience does not make a decision right — a hall with a stake can endure a mistake too.
+
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.

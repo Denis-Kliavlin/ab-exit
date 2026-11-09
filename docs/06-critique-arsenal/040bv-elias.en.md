@@ -39,6 +39,8 @@ The answer from the register: "suppression without a referendum loses its execut
 
 A unit for a quantity the repository has so far described in words — "horizon", "the burned": the length of the chain of foresight, measured by the refusal of a sum with a date. The concept of figuration — power as a relation, which the rule turns into a number. And the main historical argument: civilisation advanced not by abolishing interest but by lengthening it — exactly what one question with a sum does.
 
+*Addition of 9 November 2026.* The same quantity with the opposite sign — Genis's observation after the 2026 election: freedom is given away easily, by voting for "peace" or "freedom" from the lips of one who brings the opposite. This is a chain of foresight of zero length in a vote that cost its giver nothing ([1i](../01-introduction/001i-consequences.md): support without a price is unmeasured).
+
 ## 6. Summary
 
 | Thesis | What is true | Protocol | What remains |

@@ -73,4 +73,8 @@ The centrist movement in the USA has been waiting twenty years for an idea it ca
 
 AB-EXIT by construction fits this void perfectly: the only idea radical in form and centrist in substance, which cures all three centrist ills at once — blandness, the "want/will vote" gap and the absence of canvassers. A centrist party needs an idea from outside, because its own nature forbids it from giving birth to one. AB-EXIT is that missing element.
 
+### 67.9. A witness after the 2026 election (added 9 November 2026)
+
+A day after the midterm election of 3 November 2026 the writer Alexander Genis described himself on air in the words of this chapter: he voted for the winners with misgivings, considers himself politically homeless, wants centrism — meritocracy and freedom, the market's included — and hopes that both parties will move to the centre of their own accord. The winning party, by his own figure, had 28 % support and won on the rejection of one man. The demand is named, the mechanism is absent: this is 67.1–67.4 in the first person. Analysis — [059p §2, §3b](../10-usa/059p-third-force-demand.md).
+
 ---
