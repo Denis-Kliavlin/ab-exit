@@ -274,6 +274,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bw. Robert Pape: Five Theses — the "Combustible Material" of Violence as the Burned without a Channel, the Transfer of Power as the Most Dangerous Moment, the Wildfire Model, and Three Firebreaks Addressed to the Wrong Hall](06-critique-arsenal/040bw-pape.md)
 - [40bx. Ernesto Laclau and Chantal Mouffe: Five Theses — the People Are Constructed, the Empty Signifier, Antagonism as the Essence of the Political; and Why an Assembly of "Againsts" Does Not Hold Where the Vote Has a Price](06-critique-arsenal/040bx-laclau-mouffe.md)
 - [40by. Steven Pinker: Nine Theses — the Tragic Vision, Democracy as Dismissal without Blood, the "Mythology Zone", Common Knowledge, Taboo Trade-offs; and Why Elections Did Not Make His List of Institutions of Reason](06-critique-arsenal/040by-pinker.md)
+- [40bz. Seven Arguments against the Referendum and One for the Lot: Zero Sum, the Turnout Threshold, the Autocrats' Toy, the Competence of Government, Concentration, the Dissenting Half, Switzerland — and Why All of Them Strike the Question, Not the Form](06-critique-arsenal/040bz-seven-arguments-referendum.md)
 
 ## Part II — Social Architecture
 
