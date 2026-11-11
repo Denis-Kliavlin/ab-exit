@@ -285,6 +285,12 @@
 **Where in detail:** [059o §4b](../10-usa/059o-ship-turning-every-700-days.md), [1i](001i-consequences.md): a long decision gets a hall; [040bd §3](../06-critique-arsenal/040bd-q-citizens-are-rational.md).
 **What is unknown:** the hall's patience does not make a decision right — a hall with a stake can endure a mistake too.
 
+## "The vote lives in the domain of equality, not the market: a price for it evokes disgust, and you turn the expansion of the franchise backwards"
+
+**What is true:** disgust at a price in a domain where equality is the norm (one person, one vote) is a fact of psychology (Fiske, Tetlock, Roth); expanding the circle of voters was moral progress.
+**Answer:** disgust is a fact, not an argument: by Pinker's own account the taboo trade is made anyway, only blindly and worse, and here it is already under way — the vote is brought in and bought at full price without an entry. Disgust is evoked by buying the direction of the vote; paying for exit is a different transaction (Roth). The taboo is lifted by renaming, and the rule is named correctly: D is a return of one's own taxes, a dividend, as in Alaska. The circle does not narrow: the expansion was about who *may*, and "may" stays with everyone every cycle; no threshold is introduced, what changes is not the circle but the price, the same for all.
+**Where in detail:** [040by §4](../06-critique-arsenal/040by-pinker.md), [036b §5](../06-critique-arsenal/036b-nobel-second-circle.md), [040br](../06-critique-arsenal/040br-ten-propaganda-devices.md); here also "This is bribery of voters" and "vote suppression".
+**What is unknown:** there is no architect's move on this objection; the answer is the assistant's.
 ## Weak point
 
 The index closes the objections that have already been met; a new objection gets here only after someone has raised it. The answers are short on purpose and lose the caveats that stand in the long chapters; when they disagree the long chapter is right, and when chapters disagree, 1d and the charter. And the three "unknowns" on this page — selection by income, transfer of votes to the candidate, the loan in the US — the index does not close: the first two wait for a pilot and a poll, the third for a lawyer.
