@@ -44,6 +44,14 @@ A ready formula: *"Linz proved that authoritarianism feeds on free apathy. AB-EX
 | 14 | Regimes love mobilisation — political and military | Mobilisation is astronomically expensive: to redirect money to guns the dividend must be cut → an avalanche of refusers votes for peace. A built-in anti-war fuse |
 | 15 | Disputes about terms (fascism/dictatorship/bad democracy) distract from the substance | Labels are irrelevant: the system sees two numbers — the size of the payment and the share of refusers; a smart contract cannot be talked round with terms |
 
+### Addendum of 11 November 2026: referendum and lot — the architect's observation
+
+In the *Status* broadcast of 10 November 2026 (BILD in Russian, 55:14–59:34) Shulman answers two listeners' questions: on the Czech bill on referendums and on the lot instead of elections. On the referendum — that it is the autocrats' favourite toy, a zero-sum game, unlike parliamentary elections, where everyone shares the seats; that a turnout threshold is necessary, otherwise the active majority decides for everyone else; that taxes and foreign policy are not put to referendum; that Switzerland is one of a kind. On the lot — do not despise it: chance among an already selected pool removes the unhealthy passions inherent in elections; elections are the best thing humanity invented, but mechanical rotation is useful, and turnover is beneficial in itself.
+
+**The architect's observation (verbatim):** "Shulman is for elections but not for the referendum — that is, she does not admit it, but she considers the choice unreasonable. And it also matters that she considers a lot among those already elected more honest than elections. There is a catch here too: in both cases she does not trust the voters 100 %, but apparently cannot say so honestly."
+
+Both her devices — the turnout threshold and the lot after the election — are substitutes for the price she does not name: the threshold gives those who did not come a free "no", the lot takes the last step away from those who came. The protocol does the opposite: it does not take the voter out of the decision, it takes the free ride out of his decision. In detail: [040ae §1](040ae-sartori.md) (the referendum as a lock, the architect's move), [040au §3](040au-landemore.md) (the lot as "a steam engine for want of a combustion engine"), [040x §1](040x-manin.md), [1g](../01-introduction/001g-objections-index.md): "they will not come to the referendum", "a supermajority is needed".
+
 ## 2b. The addressee: whom can anything actually be offered
 
 Linz explains **what** authoritarianism lives on (free apathy) and does not answer the practical question: **to whom can an offer be addressed**. The architect's remark fills that gap and generalises the particular case of the commission member (056f.3c) into a principle:
