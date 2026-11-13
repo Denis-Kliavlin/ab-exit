@@ -275,6 +275,7 @@ Short answers for a citizen, a mayor, a finance officer, a donor, a journalist, 
 - [40bx. Ernesto Laclau and Chantal Mouffe: Five Theses — the People Are Constructed, the Empty Signifier, Antagonism as the Essence of the Political; and Why an Assembly of "Againsts" Does Not Hold Where the Vote Has a Price](06-critique-arsenal/040bx-laclau-mouffe.md)
 - [40by. Steven Pinker: Nine Theses — the Tragic Vision, Democracy as Dismissal without Blood, the "Mythology Zone", Common Knowledge, Taboo Trade-offs; and Why Elections Did Not Make His List of Institutions of Reason](06-critique-arsenal/040by-pinker.md)
 - [40bz. Seven Arguments against the Referendum and One for the Lot: Zero Sum, the Turnout Threshold, the Autocrats' Toy, the Competence of Government, Concentration, the Dissenting Half, Switzerland — and Why All of Them Strike the Question, Not the Form](06-critique-arsenal/040bz-seven-arguments-referendum.md)
+- [40ca. Wokeism: Five Parameters — the Group as a Type, the Free Currency of Status, Rights and Support in One Package, Enforcement past the Hall, Zero Sum; and What of It Survives a Price](06-critique-arsenal/040ca-wokeism.md)
 
 ## Part II — Social Architecture
 
